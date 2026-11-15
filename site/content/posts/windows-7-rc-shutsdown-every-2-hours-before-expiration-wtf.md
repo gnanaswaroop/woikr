@@ -4,6 +4,7 @@ date: 2009-05-06T11:47:11
 url: /wtf/windows-7-rc-shutsdown-every-2-hours-before-expiration-wtf/
 categories: ["WTF?"]
 tags: ["windows 7", "windows 7 rc", "windows rc", "windows reboot", "windows 7 gizmodo", "windows 7 bosskev", "microsoft windows", "microsoft windows 7", "win7", "win7 RC", "MS win7", "windows 7 RC shutdown", "win7 shutdown", "win7 expiration", "windows 7 expiration"]
+image: "/wp/wp-content/uploads/2009/05/windows_7_rc_shutdown.jpg"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

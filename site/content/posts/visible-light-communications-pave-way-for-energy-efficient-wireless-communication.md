@@ -4,6 +4,7 @@ date: 2010-12-31T07:27:59
 url: /science/visible-light-communications-pave-way-for-energy-efficient-wireless-communication/
 categories: ["Science"]
 tags: ["visible light communication", "vlc", "future of communications"]
+image: "/wp/wp-content/uploads/2010/12/led-internet.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

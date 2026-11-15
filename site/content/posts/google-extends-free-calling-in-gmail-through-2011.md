@@ -4,6 +4,7 @@ date: 2010-12-21T02:35:26
 url: /google/google-extends-free-calling-in-gmail-through-2011/
 categories: ["Google", "News"]
 tags: ["gmail", "call phone from gmail", "google voice", "gmail phone", "cheap internet calling"]
+image: "/wp/wp-content/uploads/2010/08/image_thumb32.png"
 author: "Setu"
 authors: ["setu"]
 ---

@@ -4,6 +4,7 @@ date: 2013-01-19T17:18:26
 url: /gaming/imangi-studios-released-temple-run-2-the-sequel-to-their-wildly-popular-game/
 categories: ["Gaming", "News", "Apple"]
 tags: ["Temple run 2", "iOS Games", "free ios game"]
+image: "/wp/wp-content/uploads/2013/01/temple-run-2-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

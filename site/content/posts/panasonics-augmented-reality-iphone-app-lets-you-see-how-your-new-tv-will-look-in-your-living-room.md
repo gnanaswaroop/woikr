@@ -4,6 +4,7 @@ date: 2011-04-30T16:36:12
 url: /home-entertainment/panasonics-augmented-reality-iphone-app-lets-you-see-how-your-new-tv-will-look-in-your-living-room/
 categories: ["Home Entertainment"]
 tags: ["panasonic", "augmented reality"]
+image: "/wp/wp-content/uploads/2011/04/panasonic-viera-ar-simulator.jpeg"
 author: "Setu"
 authors: ["setu"]
 ---

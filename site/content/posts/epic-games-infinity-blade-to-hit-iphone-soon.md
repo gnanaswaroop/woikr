@@ -4,6 +4,7 @@ date: 2010-11-09T06:16:25
 url: /gaming/epic-games-infinity-blade-to-hit-iphone-soon/
 categories: ["Gaming", "News", "iPhone"]
 tags: ["iphone game", "iPhone games", "epic games", "infinity blade"]
+image: "/wp/wp-content/uploads/2010/11/image3.png"
 author: "Setu"
 authors: ["setu"]
 ---

@@ -4,6 +4,7 @@ date: 2011-07-20T20:17:11
 url: /apple/new-mac-mini-is-faster-and-cheaper/
 categories: ["Apple"]
 tags: ["mac mini", "mac mini config", "mac mini specs", "mac mini price", "Apple", "new mac mini"]
+image: "/wp/wp-content/uploads/2011/07/mac-mini-2011.png"
 author: "Setu"
 authors: ["setu"]
 ---

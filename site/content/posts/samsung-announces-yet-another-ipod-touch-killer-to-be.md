@@ -4,6 +4,7 @@ date: 2010-12-28T09:28:14
 url: /android/samsung-announces-yet-another-ipod-touch-killer-to-be/
 categories: ["Android"]
 tags: ["Samsung Galaxy Player", "Samsung MP3 Player", "Samsung Media Player", "Android Media Player"]
+image: "/wp/wp-content/uploads/2010/12/galaxy-player.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

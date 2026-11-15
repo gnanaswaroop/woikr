@@ -4,6 +4,7 @@ date: 2011-01-04T10:04:53
 url: /iphone/save-phone-extensions-in-contacts-iphone-tips/
 categories: ["iPhone"]
 tags: ["iphone tips", "iPhone", "iphone contacts", "phone extension", "extension number", "iphone contact extension"]
+image: "/wp/wp-content/uploads/2011/01/NewImage14.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

@@ -4,6 +4,7 @@ date: 2010-12-28T21:53:44
 url: /mobile-phones/how-credible-are-the-nexus-s-india-launch-price-rumors/
 categories: ["Mobile Phones"]
 tags: ["Nexus S India", "Nexus S price", "Nexus S India price", "Nexus S India launch", "Nexus S Infibeam"]
+image: "/wp/wp-content/uploads/2010/12/infibeam_nexus_s.jpg"
 author: "Chirag"
 authors: ["chirag"]
 aliases: ["/mobile-phones/how-credible-are-the-nexus-s-india-launch-price-rumors"]

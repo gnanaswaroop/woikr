@@ -4,6 +4,7 @@ date: 2011-01-26T02:20:55
 url: /android/google-nexus-s-working-with-mtnl-3g-in-india/
 categories: ["Android", "News", "Mobile Phones"]
 tags: ["nexus s", "nexus", "mtnl 3g", "nexus india", "Nexus S India", "nexus s 3g", "mtnl 3g apn"]
+image: "/wp/wp-content/uploads/2011/01/NewImage63.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

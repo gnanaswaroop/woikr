@@ -4,6 +4,7 @@ date: 2010-05-06T11:43:33
 url: /news/iphone-os-4-will-bring-orientation-lock-file-sharing-ipod-controls/
 categories: ["News", "iPhone"]
 tags: ["iPhone", "iphone OS 4", "iphone new features", "iphone multitasking", "next gen iphone"]
+image: "/wp/wp-content/uploads/2010/05/image9.png"
 author: "Setu"
 authors: ["setu"]
 ---

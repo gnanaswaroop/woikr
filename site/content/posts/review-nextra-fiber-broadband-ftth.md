@@ -4,6 +4,7 @@ date: 2013-06-05T10:00:02
 url: /internet/review-nextra-fiber-broadband-ftth/
 categories: ["Internet", "Reviews"]
 tags: ["nextra", "ftth india", "ftth delhi", "ftth ncr", "fibre broadband india"]
+image: "/wp/wp-content/uploads/2013/06/nextra-ftth-india-logo.png"
 author: "Setu"
 authors: ["setu"]
 aliases: ["/reviews/review-nextra-fiber-broadband-ftth/"]

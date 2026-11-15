@@ -4,6 +4,7 @@ date: 2011-09-05T00:48:59
 url: /contests/binverse-giveaway-winners-announced/
 categories: ["Giveaways"]
 tags: ["binverse giveaway", "Free software giveaways", "Giveaway Winners announced", "Usenet free downloads", "free video download softwares", "free software"]
+image: "/wp/wp-content/uploads/2011/08/binverse-logo.jpg"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

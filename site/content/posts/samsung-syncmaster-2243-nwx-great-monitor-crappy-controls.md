@@ -4,6 +4,7 @@ date: 2008-09-18T23:11:46
 url: /home-entertainment/samsung-syncmaster-2243-nwx-great-monitor-crappy-controls/
 categories: ["Home Entertainment"]
 tags: ["samsung 2243 nwx", "2243", "2243 nwx", "samsung 2243", "samsung 22'' wide screen", "samsung 22''", "22'' monitor"]
+image: "/wp/wp-content/uploads/2008/09/samsung_2243_nwx_lead.png"
 author: "Setu"
 authors: ["setu"]
 ---

@@ -4,6 +4,7 @@ date: 2011-01-18T23:16:27
 url: /howto/how-to-block-flash-in-chrome-without-a-plugin/
 categories: ["How Tos"]
 tags: ["google chrome", "Google Chrome browser", "Google Chrome Flash", "Block Flash in Chrome", "Block plug-ins in Chrome"]
+image: "/wp/wp-content/uploads/2011/01/chrome_about_flags.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

@@ -4,6 +4,7 @@ date: 2009-11-22T12:34:24
 url: /deals/get-airtel-dth-connection-3-months-subscription-free-with-lg-monitor-tvs/
 categories: ["Deals"]
 tags: ["Airtel", "lg", "lg monitor tv", "sth offer", "free dth connection", "lg lcd india"]
+image: "/wp/wp-content/uploads/2009/11/image7.png"
 author: "Setu"
 authors: ["setu"]
 ---

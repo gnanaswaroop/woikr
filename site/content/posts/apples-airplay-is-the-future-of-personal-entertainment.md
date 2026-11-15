@@ -4,6 +4,7 @@ date: 2011-03-15T22:27:53
 url: /home-entertainment/apples-airplay-is-the-future-of-personal-entertainment/
 categories: ["Home Entertainment"]
 tags: ["Apple", "airplay", "airplay speakers", "airplay apple tv", "airplay apps", "future of entertainment", "personal entertainment", "airplay future", "apple gaming", "iOS gaming"]
+image: "/wp/wp-content/uploads/2011/03/NewImage20.png"
 author: "Setu"
 authors: ["setu"]
 ---

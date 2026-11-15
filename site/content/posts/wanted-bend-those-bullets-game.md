@@ -4,6 +4,7 @@ date: 2009-02-04T16:32:22
 url: /gaming/wanted-bend-those-bullets-game/
 categories: ["Gaming", "News"]
 tags: ["Wanted: weapons of fate", "wanted game", "wanted angelina jolie", "wanted gameplay", "wanted cover stabbing", "wanted cover system", "wanted bend bullets"]
+image: "/wp/wp-content/uploads/2009/02/bend_bullets.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

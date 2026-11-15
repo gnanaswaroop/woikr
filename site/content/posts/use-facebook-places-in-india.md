@@ -4,6 +4,7 @@ date: 2010-10-16T09:55:34
 url: /misc/use-facebook-places-in-india/
 categories: ["Misc"]
 tags: ["facebook", "facebook places", "facebook places india", "use facebook places", "places india", "checkin", "hotspotshield", "hotspot vpn", "facebook vpn", "facebook places vpn", "facebook us vpn", "facebook iPhone", "facebook places iPhone"]
+image: "/wp/wp-content/uploads/2010/10/FacebookPlaces.png"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

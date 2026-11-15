@@ -4,6 +4,7 @@ date: 2013-06-02T13:51:51
 url: /news/flipkart-shutting-down-its-flyte-digital-music-store/
 categories: ["News"]
 tags: ["flipkart mp3 store", "digital music india"]
+image: "/wp/wp-content/uploads/2012/04/flyte-mp3-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

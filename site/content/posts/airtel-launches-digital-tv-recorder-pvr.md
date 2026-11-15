@@ -4,6 +4,7 @@ date: 2010-04-07T16:49:23
 url: /news/airtel-launches-digital-tv-recorder-pvr/
 categories: ["News", "Home Entertainment"]
 tags: ["Airtel", "airtel digital TV", "airtel set top box", "airtel TV", "airtel PVR", "airtel digital TV recorder"]
+image: "/wp/wp-content/uploads/2010/04/image.png"
 author: "Setu"
 authors: ["setu"]
 ---

@@ -4,6 +4,7 @@ date: 2012-04-10T16:18:01
 url: /news/facebook-acquires-instagram-for-1-billion/
 categories: ["News"]
 tags: ["facebook", "instagram"]
+image: "/wp/wp-content/uploads/2012/04/NewImage.png"
 author: "Setu"
 authors: ["setu"]
 aliases: ["/news/facebook-acquires-instagram-for-1-billion"]

@@ -4,6 +4,7 @@ date: 2008-08-16T11:12:12
 url: /gaming/an-obsessed-computer-gamer/
 categories: ["Gaming"]
 tags: ["computer gaming"]
+image: "/wp/wp-content/uploads/2008/08/super-mario-brothers-adj.jpg"
 author: "Swaroop"
 authors: ["swaroop"]
 aliases: ["/an-obsessed-computer-gamer/"]

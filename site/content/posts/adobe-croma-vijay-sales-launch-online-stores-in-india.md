@@ -4,6 +4,7 @@ date: 2012-04-25T00:21:22
 url: /news/adobe-croma-vijay-sales-launch-online-stores-in-india/
 categories: ["News"]
 tags: ["ecommerce india", "adobe online store india", "adobe india", "croma online", "vijay sales online"]
+image: "/wp/wp-content/uploads/2012/04/adobe-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

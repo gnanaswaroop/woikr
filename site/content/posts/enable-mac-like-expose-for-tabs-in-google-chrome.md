@@ -4,6 +4,7 @@ date: 2011-03-05T10:49:39
 url: /howto/enable-mac-like-expose-for-tabs-in-google-chrome/
 categories: ["How Tos", "Mac"]
 tags: ["Chrome Expose Tabs", "Chrome Tabs Switching like Mac", "Google Chrome hacks", "google chrome"]
+image: "/wp/wp-content/uploads/2011/03/Chrome_Tab_Expose.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

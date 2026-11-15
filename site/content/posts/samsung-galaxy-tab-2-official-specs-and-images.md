@@ -4,6 +4,7 @@ date: 2011-02-13T23:10:20
 url: /android/samsung-galaxy-tab-2-official-specs-and-images/
 categories: ["Android"]
 tags: ["Samsung Galaxy Tab", "Samsung Galaxy Tab 2", "Android Tablets", "Samsung Tablet"]
+image: "/wp/wp-content/uploads/2011/02/galaxy_tab2.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

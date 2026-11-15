@@ -4,6 +4,7 @@ date: 2013-06-02T10:42:57
 url: /deals/get-an-apple-tv-free-when-you-purchase-an-iphone-5-on-infibeam-com/
 categories: ["Deals", "Apple", "iPhone", "Home Entertainment"]
 tags: ["apple tv india offer", "iphone 5 discount india", "iphone 5 offers india", "apple tv"]
+image: "/wp/wp-content/uploads/2013/06/iphone-5-apple-tv-india-offer-infibeam.png"
 author: "Setu"
 authors: ["setu"]
 ---

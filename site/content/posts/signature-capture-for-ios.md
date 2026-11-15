@@ -4,6 +4,7 @@ date: 2011-01-05T09:26:50
 url: /ipad/signature-capture-for-ios/
 categories: ["iPad", "iPhone"]
 tags: ["autograph on iPhone", "signature capture", "iPhone", "ipod touch", "autograph capture", "ipad signature", "ipad autograph", "sign on ipad"]
+image: "/wp/wp-content/uploads/2011/01/NewImage37.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

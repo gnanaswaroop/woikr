@@ -4,6 +4,7 @@ date: 2008-10-27T17:25:44
 url: /news/bill-gates-creates-a-mysterious-company/
 categories: ["News"]
 tags: ["return of bill gates", "bill gates", "bgc3", "bill gates new company", "c3", "bill gates c3"]
+image: "/wp/wp-content/uploads/2008/10/c3-logo.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

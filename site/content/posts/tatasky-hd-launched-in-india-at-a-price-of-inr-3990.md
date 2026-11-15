@@ -4,6 +4,7 @@ date: 2011-02-10T10:09:09
 url: /home-entertainment/tatasky-hd-launched-in-india-at-a-price-of-inr-3990/
 categories: ["Home Entertainment"]
 tags: ["tatasky", "tatasky HD", "tatasky HD PVR", "tatasky plus", "hd pvr india", "hd pvr", "HD India", "dth india", "hd dth india"]
+image: "/wp/wp-content/uploads/2011/02/NewImage.png"
 author: "Setu"
 authors: ["setu"]
 ---

@@ -4,6 +4,7 @@ date: 2011-01-11T08:48:04
 url: /android/you-can-taste-android-ice-cream-this-summer-rumor/
 categories: ["Android", "Rumors"]
 tags: ["Android 2.4", "Android Ice Cream"]
+image: "/wp/wp-content/uploads/2011/01/android_icecream.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

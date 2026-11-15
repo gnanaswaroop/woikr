@@ -4,6 +4,7 @@ date: 2010-12-21T19:52:33
 url: /gaming/worlds-largest-iphone-to-show-off-lara-crofts-new-adventure/
 categories: ["Gaming", "iPhone"]
 tags: ["largest iPhone", "iPhone made with iPad", "Lara Croft iPhone", "Lara Croft"]
+image: "/wp/wp-content/uploads/2010/12/biggest_iphone.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

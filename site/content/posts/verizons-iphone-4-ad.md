@@ -4,6 +4,7 @@ date: 2011-02-04T14:09:26
 url: /iphone/verizons-iphone-4-ad/
 categories: ["iPhone"]
 tags: ["Verizon", "iphone 4", "iPhone", "Verizon iPhone", "verizon ad", "ads"]
+image: "/wp/wp-content/uploads/2011/02/NewImage4.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

@@ -4,6 +4,7 @@ date: 2009-03-20T17:46:57
 url: /first-look/dell-unveils-worlds-thinnest-notebooks/
 categories: ["First Look", "News", "Laptops"]
 tags: ["dell", "adamo", "dell thin notebook", "world's thinnest notebook", "macbook air competitor", "dell laptops", "adamo by dell"]
+image: "/wp/wp-content/uploads/2009/03/adamo-onyx.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

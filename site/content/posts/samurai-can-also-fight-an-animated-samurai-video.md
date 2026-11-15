@@ -4,6 +4,7 @@ date: 2011-02-20T00:05:01
 url: /misc/samurai-can-also-fight-an-animated-samurai-video/
 categories: ["Misc"]
 tags: ["awesome videos", "Samurai fights", "Sword fights", "Computer Animation", "CGI Animation", "Samurai fights Animation", "Samurai fight Japan", "Taichi Saoteme"]
+image: "/wp/wp-content/uploads/2011/02/SamuraiComputerAnimationSwordFight.jpg"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

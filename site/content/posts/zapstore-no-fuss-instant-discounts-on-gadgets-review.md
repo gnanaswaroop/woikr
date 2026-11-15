@@ -4,6 +4,7 @@ date: 2012-05-26T18:16:36
 url: /internet/zapstore-no-fuss-instant-discounts-on-gadgets-review/
 categories: ["Internet", "Reviews"]
 tags: ["zapstore.com", "deals on gadgets", "ZAPstore", "reviews", "online shopping", "instant discounts", "online shopping india", "india ecommerce", "gadgets online", "purchase gadgets discounted", "discounted gadgets"]
+image: "/wp/wp-content/uploads/2012/05/image.png"
 author: "Swaroop"
 authors: ["swaroop"]
 aliases: ["/reviews/zapstore-no-fuss-instant-discounts-on-gadgets-review/"]

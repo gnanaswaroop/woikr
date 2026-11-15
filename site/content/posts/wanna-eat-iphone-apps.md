@@ -4,6 +4,7 @@ date: 2010-04-30T11:58:07
 url: /misc/wanna-eat-iphone-apps/
 categories: ["Misc", "iPhone"]
 tags: ["iphone app chocolates", "ichocolate", "iphone chocolate", "iPhone"]
+image: "/wp/wp-content/uploads/2010/04/image49.png"
 author: "Setu"
 authors: ["setu"]
 aliases: ["/iphone/wanna-eat-iphone-apps/", "/iphone/wanna-eat-iphone-apps"]

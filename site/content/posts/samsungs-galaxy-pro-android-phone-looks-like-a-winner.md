@@ -4,6 +4,7 @@ date: 2011-03-08T00:07:47
 url: /android/samsungs-galaxy-pro-android-phone-looks-like-a-winner/
 categories: ["Android", "Mobile Phones"]
 tags: ["Android 2.2", "Android Froyo", "Samsung Qwerty phone", "Qwerty Android", "Budget qwerty android", "Samsung Galaxy Pro"]
+image: "/wp/wp-content/uploads/2011/03/GALAXY-Pro.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

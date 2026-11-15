@@ -4,6 +4,7 @@ date: 2008-11-12T15:29:55
 url: /google/voice-and-video-chat-from-within-gmail/
 categories: ["Google", "News"]
 tags: ["gmail", "gmail voice chat", "gmail video chat", "voice and video chat", "voice & video chat in gmail", "gmail video", "gmail voice", "gmail webcam", "gmail mic", "gmail chat features", "gmail chat new features"]
+image: "/wp/wp-content/uploads/2008/11/gmail_logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

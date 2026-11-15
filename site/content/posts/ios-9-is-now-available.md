@@ -4,6 +4,7 @@ date: 2015-09-17T07:47:24
 url: /news/ios-9-is-now-available/
 categories: ["News", "Apple"]
 tags: ["IOS 9"]
+image: "/wp/wp-content/uploads/2015/09/ios9-logo.png"
 author: "Setu"
 authors: ["setu"]
 aliases: ["/apple/ios-9-is-now-available/"]

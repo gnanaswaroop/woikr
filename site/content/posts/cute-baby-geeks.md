@@ -4,6 +4,7 @@ date: 2009-05-15T11:12:07
 url: /misc/cute-baby-geeks/
 categories: ["Misc"]
 tags: ["cute geeks", "babies"]
+image: "/wp/wp-content/uploads/2009/05/baby5.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

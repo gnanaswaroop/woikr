@@ -4,6 +4,7 @@ date: 2011-03-02T09:40:17
 url: /internet/beware-of-this-tricky-gmail-phishing-scam/
 categories: ["Internet"]
 tags: ["Phishing Scam", "Gmail Phishing", "Internet Scam", "Phishing Email", "Gmail account will be deleted"]
+image: "/wp/wp-content/uploads/2011/03/Gmail-Phising-scam.png"
 author: "Chirag"
 authors: ["chirag"]
 aliases: ["/internet/beware-of-this-tricky-gmail-phishing-scam&utm_campaign=Feed%3A+woikr+(woikr)"]

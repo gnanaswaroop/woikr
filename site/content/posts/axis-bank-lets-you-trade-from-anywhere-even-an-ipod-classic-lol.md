@@ -4,6 +4,7 @@ date: 2011-03-04T23:57:36
 url: /lol/axis-bank-lets-you-trade-from-anywhere-even-an-ipod-classic-lol/
 categories: ["LOL", "WTF?"]
 tags: ["AXIS Direct", "AXIS Bank", "iPod Classic"]
+image: "/wp/wp-content/uploads/2011/03/axis_direct.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

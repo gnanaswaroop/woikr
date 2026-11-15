@@ -4,6 +4,7 @@ date: 2010-12-28T07:57:31
 url: /android/intex-planning-to-launch-indias-cheapest-android-phone-at-rs-5500/
 categories: ["Android", "Mobile Phones"]
 tags: ["android", "android india", "cheap android phone", "intex android"]
+image: "/wp/wp-content/uploads/2010/12/intex_android.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

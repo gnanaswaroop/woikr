@@ -4,6 +4,7 @@ date: 2011-10-07T13:29:46
 url: /iphone/here-are-the-prices-for-unlocked-iphone-4s-shipping-in-november/
 categories: ["iPhone"]
 tags: ["iphone 4s", "unlocked iphone", "unlocked iPhone 4S"]
+image: "/wp/wp-content/uploads/2011/10/iphone-4s-white.png"
 author: "Setu"
 authors: ["setu"]
 ---

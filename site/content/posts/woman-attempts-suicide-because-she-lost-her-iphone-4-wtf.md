@@ -4,6 +4,7 @@ date: 2011-01-23T23:29:10
 url: /wtf/woman-attempts-suicide-because-she-lost-her-iphone-4-wtf/
 categories: ["WTF?", "iPhone"]
 tags: ["iPhone Lovers", "iPhone Suicide", "iPhone death", "iPhone Hongkong"]
+image: "/wp/wp-content/uploads/2011/01/iPhone_suicide.jpg"
 author: "Chirag"
 authors: ["chirag"]
 aliases: ["/iphone/woman-attempts-suicide-because-she-lost-her-iphone-4-wtf/"]

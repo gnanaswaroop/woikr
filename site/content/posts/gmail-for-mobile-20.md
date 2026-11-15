@@ -4,6 +4,7 @@ date: 2008-10-24T19:57:08
 url: /google/gmail-for-mobile-20/
 categories: ["Google", "News"]
 tags: ["gmail mobile", "gmail for mobile version 2.0", "gmail j2me", "gmail blackberry", "gmail"]
+image: "/wp/wp-content/uploads/2008/10/gmail-mobile-2.png"
 author: "Setu"
 authors: ["setu"]
 ---

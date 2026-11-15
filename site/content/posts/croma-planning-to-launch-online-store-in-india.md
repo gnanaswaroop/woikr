@@ -4,6 +4,7 @@ date: 2011-07-31T16:31:21
 url: /news/croma-planning-to-launch-online-store-in-india/
 categories: ["News"]
 tags: ["croma", "ecommerce india", "online stores india"]
+image: "/wp/wp-content/uploads/2008/12/croma_logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

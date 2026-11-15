@@ -4,6 +4,7 @@ date: 2010-04-14T11:11:39
 url: /news/apple-updates-macbook-pros-with-intel-core-i5-i7-processors/
 categories: ["News", "Apple", "Laptops"]
 tags: ["macbook", "macbook pro", "apple macbook pro", "apple macbook", "latest macbook", "intel core i5 i7 macbook"]
+image: "/wp/wp-content/uploads/2009/06/image-thumb6.png"
 author: "Setu"
 authors: ["setu"]
 ---

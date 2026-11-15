@@ -4,6 +4,7 @@ date: 2012-03-08T11:20:13
 url: /apple/ios-5-1-lets-you-delete-photos-from-photostream-among-other-improvenents/
 categories: ["Apple"]
 tags: ["iOS", "iOS 5.1"]
+image: "/wp/wp-content/uploads/2012/03/iOS-Logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

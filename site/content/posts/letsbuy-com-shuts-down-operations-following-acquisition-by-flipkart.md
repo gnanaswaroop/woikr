@@ -4,6 +4,7 @@ date: 2012-05-29T18:33:51
 url: /news/letsbuy-com-shuts-down-operations-following-acquisition-by-flipkart/
 categories: ["News"]
 tags: ["ecommerce india", "flipkart", "letsbuy"]
+image: "/wp/wp-content/uploads/2012/02/letsbuy-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

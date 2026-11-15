@@ -4,6 +4,7 @@ date: 2009-05-14T23:46:24
 url: /first-look/first-look-sony-vaio-vgn-cs24/
 categories: ["First Look", "Laptops"]
 tags: ["sony", "sony vaio", "sony vaio CS series", "vaio cs 24 review", "vgn cs24 configuration specs price"]
+image: "/wp/wp-content/uploads/2009/05/vaio-cs-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

@@ -4,6 +4,7 @@ date: 2011-09-10T23:50:00
 url: /gaming/what-happens-when-mario-hooks-up-with-a-portal-gun-video/
 categories: ["Gaming"]
 tags: ["mario with a portal gun", "Portal gun", "Portal", "Super Mario Bros", "Mario Bros", "Mario cheats", "Cheat with Portal Gun"]
+image: "/wp/wp-content/uploads/2011/09/mario-portal-title.png"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

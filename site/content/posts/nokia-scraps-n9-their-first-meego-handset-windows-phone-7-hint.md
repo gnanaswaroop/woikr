@@ -4,6 +4,7 @@ date: 2011-02-10T00:52:40
 url: /rumors/nokia-scraps-n9-their-first-meego-handset-windows-phone-7-hint/
 categories: ["Rumors", "Mobile Phones"]
 tags: ["Nokia Kills N9", "Nokia Windows Phone 7 rumor", "Nokia N9", "Nokia N9 scrapped", "Nokia MeeGo", "MeeGo N9"]
+image: "/wp/wp-content/uploads/2011/02/nokia_n9.jpg"
 author: "Abdul Rahaman"
 authors: ["arahaman"]
 ---

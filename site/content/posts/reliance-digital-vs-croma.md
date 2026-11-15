@@ -4,6 +4,7 @@ date: 2008-12-24T00:59:24
 url: /wtf/reliance-digital-vs-croma/
 categories: ["WTF?"]
 tags: ["reliance", "croma", "reliance digital", "reliance vs. croma", "sony world"]
+image: "/wp/wp-content/uploads/2008/12/reliancedigital_logo.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

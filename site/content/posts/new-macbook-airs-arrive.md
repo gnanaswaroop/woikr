@@ -4,6 +4,7 @@ date: 2011-07-20T19:09:13
 url: /apple/new-macbook-airs-arrive/
 categories: ["Apple", "Laptops"]
 tags: ["macbook", "macbook air", "apple macbook", "Apple", "apple air"]
+image: "/wp/wp-content/uploads/2011/07/macbook-air-2011.png"
 author: "Setu"
 authors: ["setu"]
 ---

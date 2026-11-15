@@ -4,6 +4,7 @@ date: 2011-01-07T23:28:50
 url: /gaming/sony-xperia-play-the-playstation-phone-leaked-and-previewed-in-china/
 categories: ["Gaming"]
 tags: ["Xperia Play", "Sony Playstation Phone", "PS Phone", "PSP Phone", "playstation portable", "Sony Android", "Playstation Android"]
+image: "/wp/wp-content/uploads/2011/01/android.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

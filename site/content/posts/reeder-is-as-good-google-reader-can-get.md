@@ -4,6 +4,7 @@ date: 2011-08-06T15:45:25
 url: /mac/reeder-is-as-good-google-reader-can-get/
 categories: ["Mac"]
 tags: ["reeder", "reeder for mac", "reeder app"]
+image: "/wp/wp-content/uploads/2011/08/reeder-app-osx.png"
 author: "Setu"
 authors: ["setu"]
 ---

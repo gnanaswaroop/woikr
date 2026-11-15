@@ -4,6 +4,7 @@ date: 2012-01-17T21:49:15
 url: /iphone/an-iphone-case-which-heals-by-itself/
 categories: ["iPhone"]
 tags: ["iphone case", "nissan iphone case"]
+image: "/wp/wp-content/uploads/2012/01/nissan-iphone-case.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

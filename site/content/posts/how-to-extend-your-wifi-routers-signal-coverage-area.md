@@ -4,6 +4,7 @@ date: 2011-06-09T23:48:07
 url: /howto/how-to-extend-your-wifi-routers-signal-coverage-area/
 categories: ["How Tos"]
 tags: ["wifi", "wifi routers", "wifi signal strength"]
+image: "/wp/wp-content/uploads/2011/06/wifi-signals.png"
 author: "Setu"
 authors: ["setu"]
 ---

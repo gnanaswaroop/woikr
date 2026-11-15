@@ -4,6 +4,7 @@ date: 2008-10-24T20:14:03
 url: /news/emoticons-in-gmal/
 categories: ["News"]
 tags: ["gmail", "gmail emoticons", "emoticons in gmail"]
+image: "/wp/wp-content/uploads/2008/10/compose_emoticons.png"
 author: "Setu"
 authors: ["setu"]
 ---

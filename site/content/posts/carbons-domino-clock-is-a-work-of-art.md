@@ -4,6 +4,7 @@ date: 2010-12-29T22:15:24
 url: /misc/carbons-domino-clock-is-a-work-of-art/
 categories: ["Misc"]
 tags: ["carbon design", "domino clock", "rolling dice clock"]
+image: "/wp/wp-content/uploads/2010/12/domino_clock_2_580x304.shkl_.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

@@ -4,6 +4,7 @@ date: 2011-03-12T02:03:11
 url: /howto/mnp-in-india-ftw/
 categories: ["How Tos", "Telecom"]
 tags: ["MNP", "mobile number portability india", "mnp india", "mnp process india", "number portability india process", "mobile number portability"]
+image: "/wp/wp-content/uploads/2011/03/NewImage7.png"
 author: "Setu"
 authors: ["setu"]
 ---

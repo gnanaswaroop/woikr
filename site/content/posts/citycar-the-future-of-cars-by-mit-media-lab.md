@@ -4,6 +4,7 @@ date: 2011-08-28T22:39:14
 url: /misc/citycar-the-future-of-cars-by-mit-media-lab/
 categories: ["Misc"]
 tags: ["2 seater electric car", "future of cars", "MIT CityCar", "CityCar Media Lab", "Car to fix parking woes", "Car from the future"]
+image: "/wp/wp-content/uploads/2011/08/citycar.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

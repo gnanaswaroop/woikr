@@ -4,6 +4,7 @@ date: 2008-09-16T23:06:45
 url: /google/google-map-maker-map-your-neighborhood/
 categories: ["Google"]
 tags: ["google map maker", "mapmaker", "map maker tips", "map maker how to", "map maker guide"]
+image: "/wp/wp-content/uploads/2008/09/mapmaker_lead.png"
 author: "Setu"
 authors: ["setu"]
 ---

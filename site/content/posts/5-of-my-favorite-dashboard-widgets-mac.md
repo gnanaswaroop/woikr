@@ -4,6 +4,7 @@ date: 2010-09-26T12:04:51
 url: /mac/5-of-my-favorite-dashboard-widgets-mac/
 categories: ["Mac"]
 tags: ["currency converter widget", "stickies widget", "Lyrics widget", "screen capture widget", "image resize widget", "best dashboard widgets"]
+image: "/wp/wp-content/uploads/2010/09/screen-capture.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

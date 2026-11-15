@@ -4,6 +4,7 @@ date: 2010-08-19T11:52:38
 url: /ipad/facebooks-iphone-app-updated-with-places/
 categories: ["iPad", "News", "iPhone"]
 tags: ["facebook", "facebook places", "facebook for iphone ipad", "location on iphone ipad", "social networking"]
+image: "/wp/wp-content/uploads/2010/08/image47.png"
 author: "Setu"
 authors: ["setu"]
 ---

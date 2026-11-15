@@ -4,6 +4,7 @@ date: 2011-01-12T13:09:14
 url: /microsoft/microsoft-india-employees-get-free-windows-7-phones/
 categories: ["Microsoft"]
 tags: ["Microsoft Employee Perks", "Benefits of working for Microsoft", "Windows 7 Phone", "HTC Mozart"]
+image: "/wp/wp-content/uploads/2011/01/htc_mozart.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

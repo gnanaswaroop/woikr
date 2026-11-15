@@ -4,6 +4,7 @@ date: 2011-04-27T19:14:26
 url: /news/white-iphone-4-arrives-tomorrow-april-28-2011/
 categories: ["News", "iPhone"]
 tags: ["iphone 4", "iPhone", "white iphone", "white iPhone 4"]
+image: "/wp/wp-content/uploads/2011/04/iphone4-white.jpg"
 author: "Setu"
 authors: ["setu"]
 aliases: ["/iphone/white-iphone-4-arrives-tomorrow-april-28-2011/"]

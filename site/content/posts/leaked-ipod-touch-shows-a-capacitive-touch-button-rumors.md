@@ -4,6 +4,7 @@ date: 2011-04-05T23:17:26
 url: /rumors/leaked-ipod-touch-shows-a-capacitive-touch-button-rumors/
 categories: ["Rumors", "Apple"]
 tags: ["ipod touch", "iPod 5th Generation", "iPod Touch Leaked", "Leaked iPod", "iPod Touch Capacitive Button", "iPhone 5 Capacitive Button", "Capacitive Button Vs hard button", "iPhone5 new features", "iPhone Next Generation Leaked", "iPhone5 Camera"]
+image: "/wp/wp-content/uploads/2011/04/iPod-Touch-5thGen-Leaked-Capacitive-Touch-button.jpg"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

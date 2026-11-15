@@ -4,6 +4,7 @@ date: 2011-02-16T10:30:15
 url: /android/htc-announces-new-android-phones-at-mwc-meh/
 categories: ["Android", "Mobile Phones"]
 tags: ["HTC Desire S", "HTC Incredible S", "HTC Wildfire S", "HTC Android Phones", "HTC MWC", "Android Gingerbread", "android"]
+image: "/wp/wp-content/uploads/2011/02/htc_mwc_phones_560x254.shkl_.jpg"
 author: "Chirag"
 authors: ["chirag"]
 aliases: ["/mobile-phones/htc-announces-new-android-phones-at-mwc-meh/"]

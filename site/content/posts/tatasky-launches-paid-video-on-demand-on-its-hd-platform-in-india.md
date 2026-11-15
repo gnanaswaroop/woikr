@@ -4,6 +4,7 @@ date: 2012-02-28T18:30:09
 url: /news/tatasky-launches-paid-video-on-demand-on-its-hd-platform-in-india/
 categories: ["News", "Home Entertainment"]
 tags: ["tatasky", "tatasky HD", "tatasky VoD", "video on demand india", "tatasky video on demand"]
+image: "/wp/wp-content/uploads/2012/02/tatasky-hd-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

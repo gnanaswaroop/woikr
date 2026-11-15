@@ -4,6 +4,7 @@ date: 2008-12-10T17:18:10
 url: /news/beijing-to-be-worlds-largest-wi-fi-city-by-2011/
 categories: ["News"]
 tags: ["beijing", "beijing wifi", "free wifi", "wi-fi", "beijing 2011"]
+image: "/wp/wp-content/uploads/2008/12/beijing-wifi.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

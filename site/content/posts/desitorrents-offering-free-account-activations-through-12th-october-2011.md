@@ -4,6 +4,7 @@ date: 2011-10-09T02:10:23
 url: /deals/desitorrents-offering-free-account-activations-through-12th-october-2011/
 categories: ["Deals", "News"]
 tags: ["desitorrents accounts"]
+image: "/wp/wp-content/uploads/2011/10/desitorrents-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

@@ -4,6 +4,7 @@ date: 2011-10-29T05:20:27
 url: /misc/flipkart-com-deleting-reviews-which-talk-about-their-bad-customer-service/
 categories: ["Misc"]
 tags: ["Flipkart bad customer service", "Flipkart.com review", "Flipkart.com customer service"]
+image: "/wp/wp-content/uploads/2011/10/flipkart_india1.png"
 author: "Setu"
 authors: ["setu"]
 ---

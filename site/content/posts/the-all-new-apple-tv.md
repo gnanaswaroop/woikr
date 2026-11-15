@@ -4,6 +4,7 @@ date: 2010-09-02T17:23:37
 url: /news/the-all-new-apple-tv/
 categories: ["News", "Apple", "Home Entertainment"]
 tags: ["apple tv", "new apple tv", "apple tv 2010", "netflix apple", "airplay"]
+image: "/wp/wp-content/uploads/2010/09/image15.png"
 author: "Setu"
 authors: ["setu"]
 ---

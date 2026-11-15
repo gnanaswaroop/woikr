@@ -4,6 +4,7 @@ date: 2009-10-28T10:07:12
 url: /misc/super-awesome-geeky-t-shirts-for-your-twins/
 categories: ["Misc"]
 tags: ["t shirt designs", "geeky t shirts", "t shirts twins"]
+image: "/wp/wp-content/uploads/2009/10/image36.png"
 author: "Setu"
 authors: ["setu"]
 ---

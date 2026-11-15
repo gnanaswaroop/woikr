@@ -4,6 +4,7 @@ date: 2008-08-22T16:53:34
 url: /apple/woikr-clarifies-allegations-on-the-iphone-3g-in-india-chain-mail/
 categories: ["Apple", "iPhone"]
 tags: ["iPhone", "iphone chain mail", "allegations iphone 3G india", "iphone 3G india", "iphone 3G", "iphone 3G features", "iphone camera"]
+image: "/wp/wp-content/uploads/2008/08/japanese_keyboard.png"
 author: "Team Woikr"
 authors: ["woikr"]
 aliases: ["/woikr-clarifies-allegations-on-the-iphone-3g-in-india-chain-mail/"]

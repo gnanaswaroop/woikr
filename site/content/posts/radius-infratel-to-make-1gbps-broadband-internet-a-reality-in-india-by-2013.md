@@ -4,6 +4,7 @@ date: 2012-10-18T20:10:20
 url: /telecom/radius-infratel-to-make-1gbps-broadband-internet-a-reality-in-india-by-2013/
 categories: ["Telecom"]
 tags: ["1Gbps Internet", "gigabit internet", "high speed broadband in India", "broadband india"]
+image: "/wp/wp-content/uploads/2012/10/radius-logo.png"
 author: "Setu"
 authors: ["setu"]
 aliases: ["/telecom/radius-infratel-to-make-1gbps-broadband-internet-a-reality-in-india-by-2013"]

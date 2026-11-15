@@ -4,6 +4,7 @@ date: 2011-02-23T09:57:25
 url: /android/google-nexus-one-finally-getting-gingerbread/
 categories: ["Android", "Mobile Phones"]
 tags: ["Android Gingerbread", "google nexus one", "Nexus One Gingerbread", "Nexus One OTA Update", "android", "nexus one"]
+image: "/wp/wp-content/uploads/2010/12/nexus-one-gingerbread.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

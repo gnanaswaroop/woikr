@@ -4,6 +4,7 @@ date: 2011-01-13T09:34:58
 url: /iphone/how-to-fix-cydia-crash-problems-with-blackra1n/
 categories: ["iPhone"]
 tags: ["blackra1n", "blackrain", "iphone 2G unlock", "iPhone Unlock", "jailbreakme", "jailbreakme.com", "fix cydia crash", "cydia crashing", "cydia crash iPhone", "iPhone cydia crash fix", "how to fix cydia crash", "Spirit Jailbreak", "SpiritJB", "iPhone 3.1.2 unlock", "jailbreakme cydia", "jailbreakme afc", "afc service", "cydia crash afc", "afc iPhone", "iPhone missing dlls", "blackra1n asl.dll missing", "asl.dll fix", "dll missing fix", "blackra1n problems", "recovery mode", "iPhone power button not working", "DFU Mode without powerkey", "iPhone recovery mode", "iPhone out of recovery mode", "cydia afc2add", "cydia AFC service", "AFC Service fixes Cydia", "Cydia crash fix"]
+image: "/wp/wp-content/uploads/2011/01/image8.png"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

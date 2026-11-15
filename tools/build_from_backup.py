@@ -162,6 +162,12 @@ def main():
                  f"url: {fm['url']}",
                  f"categories: [{', '.join(yq(text(c)) for c in fm['cats'])}]",
                  f"tags: [{', '.join(yq(text(t)) for t in fm['tags'])}]"]
+        # first image in the post, used as the card thumbnail (only if the file exists on the site)
+        im = MEDIA_RE.search(x["post_content"])
+        if im:
+            img_path = "/" + SITE_HOST.sub("", im.group(1)).lstrip("/")
+            if os.path.isfile(os.path.join(SITE, "static", img_path.lstrip("/"))):
+                lines.append(f"image: {yq(img_path)}")
         au = fm["author"]
         if au.get("user_nicename"):
             lines.append(f"author: {yq(text(au.get('display_name') or au['user_nicename']))}")

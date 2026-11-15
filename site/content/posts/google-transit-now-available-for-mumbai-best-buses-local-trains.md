@@ -4,6 +4,7 @@ date: 2011-03-31T19:10:05
 url: /google/google-transit-now-available-for-mumbai-best-buses-local-trains/
 categories: ["Google", "News"]
 tags: ["google transit", "mumbai best routes", "mumbai local trains map", "mumbai transit"]
+image: "/wp/wp-content/uploads/2011/03/NewImage38.png"
 author: "Setu"
 authors: ["setu"]
 ---

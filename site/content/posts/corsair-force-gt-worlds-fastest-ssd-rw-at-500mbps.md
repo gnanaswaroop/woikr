@@ -4,6 +4,7 @@ date: 2011-03-05T09:58:47
 url: /misc/corsair-force-gt-worlds-fastest-ssd-rw-at-500mbps/
 categories: ["Misc"]
 tags: ["ssd", "flash memory", "corsair force GT", "Corsair SSD", "SSD Vs Harddrives", "SSD Vs HDD", "Solid state drive", "world's fastest ssd", "fast ssd", "500MBps ssd"]
+image: "/wp/wp-content/uploads/2011/03/corsairforcegtssd240GB500mbps.jpg"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

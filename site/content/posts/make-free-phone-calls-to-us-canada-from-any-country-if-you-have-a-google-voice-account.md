@@ -4,6 +4,7 @@ date: 2010-09-30T18:29:52
 url: /howto/make-free-phone-calls-to-us-canada-from-any-country-if-you-have-a-google-voice-account/
 categories: ["How Tos", "Google"]
 tags: ["Google", "google voice", "gmail", "google talk", "call phones from gmail", "gmail phone call", "free phone calls"]
+image: "/wp/wp-content/uploads/2010/09/image43.png"
 author: "Setu"
 authors: ["setu"]
 ---

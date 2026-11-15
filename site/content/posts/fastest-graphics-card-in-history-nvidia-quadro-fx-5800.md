@@ -4,6 +4,7 @@ date: 2008-11-10T22:18:46
 url: /gaming/fastest-graphics-card-in-history-nvidia-quadro-fx-5800/
 categories: ["Gaming", "News"]
 tags: ["gpu", "graphicscard", "graphics card", "nvidia quadro", "fastest gpu", "quadro fx 5800"]
+image: "/wp/wp-content/uploads/2008/11/quadro_fx5800_med_3qtr.png"
 author: "Swaroop"
 authors: ["swaroop"]
 aliases: ["/news/the-fastest-graphics-card-in-history-the-NVIDIA-quadro-fx-5800/"]

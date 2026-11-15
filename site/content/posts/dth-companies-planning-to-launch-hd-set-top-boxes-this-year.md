@@ -4,6 +4,7 @@ date: 2010-03-23T11:33:53
 url: /news/dth-companies-planning-to-launch-hd-set-top-boxes-this-year/
 categories: ["News", "Home Entertainment"]
 tags: ["HD", "hd dth india", "HD India", "HD transmission india", "HDTV", "tata sky dth", "tata sky HD", "dish tv", "airtel digital TV", "reliance bif tv", "sun dth", "high definition in India"]
+image: "/wp/wp-content/uploads/2010/03/image8.png"
 author: "Setu"
 authors: ["setu"]
 ---

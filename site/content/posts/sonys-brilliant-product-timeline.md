@@ -4,6 +4,7 @@ date: 2009-05-08T12:18:43
 url: /misc/sonys-brilliant-product-timeline/
 categories: ["Misc"]
 tags: ["Sony product timeline", "sony history", "sony products", "gizmodo sony product timeline"]
+image: "/wp/wp-content/uploads/2009/05/504x-sonytimeline-thumb.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

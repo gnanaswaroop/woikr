@@ -4,6 +4,7 @@ date: 2008-08-26T18:55:55
 url: /gaming/review-logitech-z-5500-digital-51-speaker-system/
 categories: ["Gaming", "Reviews", "Home Entertainment"]
 tags: ["logitech 5.1 speakers", "5500", "z 5500", "5500 digital", "logitech 5500", "5.1 gaming speakers"]
+image: "/wp/wp-content/uploads/2008/08/post1-300x214.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

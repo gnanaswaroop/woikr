@@ -4,6 +4,7 @@ date: 2010-04-25T10:30:00
 url: /misc/james-camerons-avatar-2-will-explore-pandoras-ocean/
 categories: ["Misc"]
 tags: ["avatar", "james cameron", "avatar 2", "avatar sequel", "pandora"]
+image: "/wp/wp-content/uploads/2010/04/image27.png"
 author: "Setu"
 authors: ["setu"]
 ---

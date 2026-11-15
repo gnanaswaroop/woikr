@@ -4,6 +4,7 @@ date: 2014-03-12T22:06:27
 url: /apple/review-nomad-chargekey-for-lightning-devices/
 categories: ["Apple", "iPhone", "Reviews"]
 tags: ["nomad", "chargekey", "portable iphone charger"]
+image: "/wp/wp-content/uploads/2014/03/nomad-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

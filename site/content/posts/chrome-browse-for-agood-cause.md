@@ -4,6 +4,7 @@ date: 2010-12-16T09:27:56
 url: /google/chrome-browse-for-agood-cause/
 categories: ["Google"]
 tags: ["chrome for cause", "chrome extesion", "google chrome"]
+image: "/wp/wp-content/uploads/2010/12/chromeforcause.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

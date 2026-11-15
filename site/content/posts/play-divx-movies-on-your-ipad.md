@@ -4,6 +4,7 @@ date: 2010-08-10T20:57:08
 url: /howto/play-divx-movies-on-your-ipad/
 categories: ["How Tos", "iPad", "Home Entertainment"]
 tags: ["iPad", "ipad video", "airvideo", "cinexplayer", "stream video to iPad"]
+image: "/wp/wp-content/uploads/2010/08/image2.png"
 author: "Setu"
 authors: ["setu"]
 ---

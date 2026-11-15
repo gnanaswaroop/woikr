@@ -4,6 +4,7 @@ date: 2009-04-13T15:15:56
 url: /news/sun-direct-dth-launches-indias-first-hd-tv-service/
 categories: ["News"]
 tags: ["dth", "HDTV", "HD", "india HD TV", "HD transmission india"]
+image: "/wp/wp-content/uploads/2009/04/sun_direct_hd_logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

@@ -4,6 +4,7 @@ date: 2008-08-21T22:26:21
 url: /reviews/icici-hdfc-netbanking-services-a-review-and-comparison/
 categories: ["Reviews"]
 tags: ["ICICI Netbanking Vs HDFC Netbanking", "ICICI Netbanking review", "HDFC Netbanking review", "ICICI Bank", "HDFC Bank", "Netbanking review", "Netbanking comparison", "online banking india"]
+image: "/wp/wp-content/uploads/2008/08/hdfc-screenshot.jpg"
 author: "Anshuman Johri"
 authors: ["anshuman"]
 aliases: ["/reviews/icici-hdfc-netbanking-ser%20vices-a-review-and-comparison/"]

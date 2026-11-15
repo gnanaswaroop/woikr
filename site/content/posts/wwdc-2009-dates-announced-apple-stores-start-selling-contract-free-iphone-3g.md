@@ -4,6 +4,7 @@ date: 2009-03-27T11:36:34
 url: /news/wwdc-2009-dates-announced-apple-stores-start-selling-contract-free-iphone-3g/
 categories: ["News"]
 tags: ["iPhone", "wwdc 2009", "iphone 2009", "iphone next version", "iphone 4G", "contract free iphone", "apple store"]
+image: "/wp/wp-content/uploads/2009/03/wwdc.png"
 author: "Setu"
 authors: ["setu"]
 ---

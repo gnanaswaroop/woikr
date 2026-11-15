@@ -4,6 +4,7 @@ date: 2012-05-29T19:10:59
 url: /telecom/tata-docomo-launches-service-to-let-customer-activatedeactivate-value-added-services-via-twitter/
 categories: ["Telecom", "News"]
 tags: ["tata docomo", "twitter customer service", "docomo twitter"]
+image: "/wp/wp-content/uploads/2012/05/tata-docomo-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

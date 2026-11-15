@@ -4,6 +4,7 @@ date: 2009-04-15T13:14:18
 url: /news/downgrade-iphone-3g-baseband-from-023003-to-022800/
 categories: ["News"]
 tags: ["iPhone", "iPhone Unlock", "unlock 2.2.1", "unlock 02.30.03", "downgrade iphone 3g firmware"]
+image: "/wp/wp-content/uploads/2009/03/iphone_unlocked.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

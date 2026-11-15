@@ -4,6 +4,7 @@ date: 2011-01-11T23:01:33
 url: /apple/iphone4-now-available-on-verizon/
 categories: ["Apple", "iPhone"]
 tags: ["iphone4", "iPhone Verizon", "Verizon iPhone", "Verizon mobile", "iPhone CDMA", "iPhone 4 CDMA", "AT&T Vs Verizon", "Verizon announcement", "Jan 11th Announcement", "Apple new product", "wait for iPhone5", "iPhone Verizon Preorder", "How to pre order iPhone4", "Pre order Verizon iPhone", "iOS4.2.5", "iOS 4.2.5", "iPhone CDMA Antenna Issue", "iPhone Death Grip", "Death Grip Fixed", "iPhone Antenna Gate", "Antenna Gate Fixed", "iPhone4 fixed", "iPhone 4 buttons", "iPhone wifi hotspot", "wifi hotspot", "mobile wifi", "iPhone CDMA new case", "iPhone buttons relocated", "iPhone hands-on video", "iPhone CDMA price"]
+image: "/wp/wp-content/uploads/2011/01/iPhone-Verizon.jpg"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

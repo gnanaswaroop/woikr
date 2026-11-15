@@ -4,6 +4,7 @@ date: 2011-02-13T17:00:30
 url: /howto/enable-instant-search-in-google-chrome/
 categories: ["How Tos", "Google"]
 tags: []
+image: "/wp/wp-content/uploads/2011/02/chrome_instant.png"
 author: "Chirag"
 authors: ["chirag"]
 ---

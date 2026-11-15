@@ -4,6 +4,7 @@ date: 2009-10-16T20:19:53
 url: /lol/michael-dell-indirectly-reveals-bitter-truth-about-windows-7/
 categories: ["LOL", "WTF?"]
 tags: ["windows 7", "Microsoft", "michael dell"]
+image: "/wp/wp-content/uploads/2009/05/windows_7_rc_shutdown_suck_rc_testers.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

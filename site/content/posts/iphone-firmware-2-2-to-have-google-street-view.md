@@ -4,6 +4,7 @@ date: 2008-10-25T15:19:20
 url: /news/iphone-firmware-2-2-to-have-google-street-view/
 categories: ["News"]
 tags: ["iPhone", "iphone street view", "iphone maps", "iphone 2.2", "firmware 2.2", "iphone google", "iphone maps features"]
+image: "/wp/wp-content/uploads/2008/10/iphone-2-2-street-view.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

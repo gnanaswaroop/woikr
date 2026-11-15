@@ -4,6 +4,7 @@ date: 2009-05-14T23:26:57
 url: /lol/free-laptop-sure-send-us-too-lol/
 categories: ["LOL"]
 tags: ["sony ericsson laptops", "laptop scam"]
+image: "/wp/wp-content/uploads/2009/05/p-650-489-9939f2c7-beaa-476d-86d9-0f5a4d670c7f.jpeg"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

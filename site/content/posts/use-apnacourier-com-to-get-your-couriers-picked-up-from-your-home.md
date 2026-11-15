@@ -4,6 +4,7 @@ date: 2013-03-12T22:06:15
 url: /misc/use-apnacourier-com-to-get-your-couriers-picked-up-from-your-home/
 categories: ["Misc", "Internet"]
 tags: ["apnacourier.com", "courier pick up india", "courier online india"]
+image: "/wp/wp-content/uploads/2013/03/apnacourier-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

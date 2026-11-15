@@ -4,6 +4,7 @@ date: 2012-09-14T23:58:28
 url: /news/check-out-the-new-ipod-lineup/
 categories: ["News", "Apple"]
 tags: ["new ipods", "ipod 2012", "ipod touch 4 inches", "ipod touch loop"]
+image: "/wp/wp-content/uploads/2012/09/ipod-touch-2012.png"
 author: "Setu"
 authors: ["setu"]
 ---

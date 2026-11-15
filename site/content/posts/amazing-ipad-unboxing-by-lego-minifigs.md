@@ -4,6 +4,7 @@ date: 2010-04-28T11:07:36
 url: /misc/amazing-ipad-unboxing-by-lego-minifigs/
 categories: ["Misc", "iPad"]
 tags: ["iPad", "ipad unboxing", "lego"]
+image: "/wp/wp-content/uploads/2010/04/image28.png"
 author: "Setu"
 authors: ["setu"]
 ---

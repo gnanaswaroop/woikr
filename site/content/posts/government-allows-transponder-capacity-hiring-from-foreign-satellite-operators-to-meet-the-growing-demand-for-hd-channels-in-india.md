@@ -4,6 +4,7 @@ date: 2013-03-12T22:58:40
 url: /home-entertainment/government-allows-transponder-capacity-hiring-from-foreign-satellite-operators-to-meet-the-growing-demand-for-hd-channels-in-india/
 categories: ["Home Entertainment"]
 tags: ["transponder capacity hd channels", "HD India", "hd dth india", "hd channels india"]
+image: "/wp/wp-content/uploads/2012/04/dth-dish.png"
 author: "Setu"
 authors: ["setu"]
 aliases: ["/home-entertainment/government-allows-transponder-capacity-hiring-from-foreign-satellite-operators-to-meet-the-growing-demand-for-hd-channels-in-india"]

@@ -4,6 +4,7 @@ date: 2011-06-26T13:31:14
 url: /news/apple-slashes-price-of-iphone-3gs-in-india-to-inr-19990/
 categories: ["News", "iPhone"]
 tags: ["apple india iphone", "iphone 3gs", "iphone 3gs india", "iphone 3gs india availability", "iphone 3gs india price"]
+image: "/wp/wp-content/uploads/2009/06/image2.png"
 author: "Setu"
 authors: ["setu"]
 ---

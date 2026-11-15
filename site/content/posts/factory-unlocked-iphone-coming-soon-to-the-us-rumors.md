@@ -4,6 +4,7 @@ date: 2011-06-13T10:32:39
 url: /rumors/factory-unlocked-iphone-coming-soon-to-the-us-rumors/
 categories: ["Rumors", "Apple", "iPhone"]
 tags: ["factory unlocked iPhone", "iPhone4 unlocked US", "How to get iPhone4 from US", "iPhone unlock US", "Macbook Air Sandy Bridge", "Macbook Air 2011", "When is iPhone5 out"]
+image: "/wp/wp-content/uploads/2011/06/iPhone4unlockedinUS.jpg"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

@@ -4,6 +4,7 @@ date: 2012-06-12T22:57:20
 url: /news/the-next-generation-of-macbook-with-retina-display-is-here/
 categories: ["News", "Apple"]
 tags: ["macbook", "retina macbook"]
+image: "/wp/wp-content/uploads/2012/06/macbook-pro-retina-display.png"
 author: "Setu"
 authors: ["setu"]
 ---

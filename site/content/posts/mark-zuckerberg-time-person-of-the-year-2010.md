@@ -4,6 +4,7 @@ date: 2010-12-15T20:04:43
 url: /news/mark-zuckerberg-time-person-of-the-year-2010/
 categories: ["News"]
 tags: ["mark zuckerberg time magazine", "mark zuckerberg person of the year"]
+image: "/wp/wp-content/uploads/2010/12/time_zuckerberg.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

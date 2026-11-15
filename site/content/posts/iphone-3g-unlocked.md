@@ -4,6 +4,7 @@ date: 2008-12-17T13:27:27
 url: /news/iphone-3g-unlocked/
 categories: ["News"]
 tags: ["iPhone", "iphone 3G", "3G", "iphone 3g unlock", "iphone-dev", "3g unlock", "iphone 3G india"]
+image: "/wp/wp-content/uploads/2008/12/iphone_unlock.png"
 author: "Setu"
 authors: ["setu"]
 ---

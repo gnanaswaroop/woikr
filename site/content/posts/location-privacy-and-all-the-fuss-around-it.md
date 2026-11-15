@@ -4,6 +4,7 @@ date: 2011-05-07T00:36:25
 url: /internet/location-privacy-and-all-the-fuss-around-it/
 categories: ["Internet"]
 tags: ["What are social check-in services", "Location privacy importance", "What is location privacy", "iPhone location tracking", "is my iPhone tracking me", "Social Check-ins"]
+image: "/wp/wp-content/uploads/2011/05/foursquare_badges.png"
 author: "Swaroop"
 authors: ["swaroop"]
 aliases: ["/uncategorized/location-privacy-and-all-the-fuss-around-it"]

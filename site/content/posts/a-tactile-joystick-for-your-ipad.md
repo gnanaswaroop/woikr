@@ -4,6 +4,7 @@ date: 2011-01-05T08:21:34
 url: /gaming/a-tactile-joystick-for-your-ipad/
 categories: ["Gaming", "iPad"]
 tags: ["fling", "iPad", "ipad joystick", "fling joystick", "ipad gaming", "tactile gaming on ipad"]
+image: "/wp/wp-content/uploads/2011/01/NewImage25.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

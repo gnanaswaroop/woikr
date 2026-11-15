@@ -4,6 +4,7 @@ date: 2011-09-05T07:34:52
 url: /google/dear-google-please-fix-this-chrome-issue/
 categories: ["Google"]
 tags: ["google chrome", "Bug in Google Chrome", "Chrome bookmarks search", "Chrome bookmarks search issue", "Quickmarks search issue", "Quickmarks for Google Chrome"]
+image: "/wp/wp-content/uploads/2011/09/chrome_omnibar_bookmarks.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

@@ -4,6 +4,7 @@ date: 2010-11-05T01:09:10
 url: /telecom/tata-docomo-becomes-the-first-private-operator-in-india-to-offer-3g-services/
 categories: ["Telecom", "News"]
 tags: ["tata docomo", "tata docomo 3G", "3g india", "3g broadband", "3G", "3g mobile", "3g service in India"]
+image: "/wp/wp-content/uploads/2010/11/image_thumb131.png"
 author: "Setu"
 authors: ["setu"]
 ---

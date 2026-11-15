@@ -4,6 +4,7 @@ date: 2011-03-22T22:47:39
 url: /lol/can-i-use-my-zune-as-a-totem-inception-joke/
 categories: ["LOL", "Microsoft"]
 tags: ["Inception", "Zune joke", "Inception joke", "Microsoft Zune", "Zune as Totem"]
+image: "/wp/wp-content/uploads/2011/03/inception_zune.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

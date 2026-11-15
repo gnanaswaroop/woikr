@@ -4,6 +4,7 @@ date: 2011-01-06T06:23:44
 url: /ipad/attach-your-ipad-to-a-mic-stand-with-iklip/
 categories: ["iPad"]
 tags: ["iklip", "ipad music", "ipad mic stand"]
+image: "/wp/wp-content/uploads/2011/01/NewImage43.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

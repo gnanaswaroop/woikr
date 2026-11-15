@@ -4,6 +4,7 @@ date: 2011-02-07T17:21:02
 url: /apple/the-white-iphone-is-coming-soon-from-best-buy-for-599/
 categories: ["Apple", "iPhone"]
 tags: ["iPhone white", "white iPhone 4", "iphone 4", "best buy", "white iPhone spotted", "gadget leaks", "apple product leak", "iPhone4 prices", "White iPhone 4 price", "white iPhone price"]
+image: "/wp/wp-content/uploads/2011/02/whiteiPhone4bestbuy599dollars.jpg"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

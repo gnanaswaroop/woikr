@@ -4,6 +4,7 @@ date: 2010-10-23T03:19:42
 url: /gaming/microsoft-launches-4-gb-xbox-360-in-india/
 categories: ["Gaming", "News"]
 tags: ["xbox", "Xbox 360", "xbox 360 india", "Xbox 360 Matte Black", "xbox 360 price in india", "4gb xbox 360", "kinect"]
+image: "/wp/wp-content/uploads/2010/10/image11.png"
 author: "Setu"
 authors: ["setu"]
 ---

@@ -4,6 +4,7 @@ date: 2011-01-06T10:18:15
 url: /android/lg-optimus-black-the-worlds-thinnest-android-with-nova/
 categories: ["Android", "Mobile Phones"]
 tags: ["Optimus", "LG Optimus", "Optimus Black", "LG Optimus Black", "LG Nova", "NOVA Vs AMOLED", "Thinnest Android", "Android 2011", "Android 2.2", "android 2.3", "Android phones", "NOVA Screens"]
+image: "/wp/wp-content/uploads/2011/01/LGOptimusBlack.jpg"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

@@ -4,6 +4,7 @@ date: 2008-10-27T17:42:28
 url: /first-look/think-before-you-buy-that-ipod/
 categories: ["First Look", "News"]
 tags: ["Cowon O2", "Cowon S9", "Cowon Media players", "iPod alternatives"]
+image: "/wp/wp-content/uploads/2008/10/cowon_o2.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

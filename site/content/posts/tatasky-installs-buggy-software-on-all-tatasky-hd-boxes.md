@@ -4,6 +4,7 @@ date: 2011-04-20T12:52:09
 url: /news/tatasky-installs-buggy-software-on-all-tatasky-hd-boxes/
 categories: ["News", "Home Entertainment"]
 tags: ["tata sky HD", "tatasky", "tatasky HD", "tatasky hd channels", "tatasky plus", "tatasky HD PVR"]
+image: "/wp/wp-content/uploads/2011/02/NewImage.png"
 author: "Setu"
 authors: ["setu"]
 ---

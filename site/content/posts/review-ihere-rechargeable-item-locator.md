@@ -4,6 +4,7 @@ date: 2016-04-11T23:08:38
 url: /reviews/review-ihere-rechargeable-item-locator/
 categories: ["Reviews"]
 tags: ["key locator", "phone finder", "ihere", "nonda"]
+image: "/wp/wp-content/uploads/2016/04/ihere-item-locator.png"
 author: "Setu"
 authors: ["setu"]
 ---

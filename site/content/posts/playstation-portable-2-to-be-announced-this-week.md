@@ -4,6 +4,7 @@ date: 2011-01-23T23:48:23
 url: /gaming/playstation-portable-2-to-be-announced-this-week/
 categories: ["Gaming", "Rumors"]
 tags: ["Playstation Portable 2", "PSP2", "PSP 2", "Playstation Phone", "PSP Phone", "PSPhone", "nintendo 3DS", "Playstation Portable 2 Launch", "PSP2 Launch Date"]
+image: "/wp/wp-content/uploads/2011/01/psp2.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

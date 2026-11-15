@@ -4,6 +4,7 @@ date: 2010-12-14T10:30:01
 url: /misc/gawker-media-lifehacker-gizmodo-passwords-hacked/
 categories: ["Misc"]
 tags: ["Gizmodo password hacked", "Lifehacker account hacked", "Gawker password hacked", "Gawker account compromise check"]
+image: "/wp/wp-content/uploads/2010/12/lifehacker_login.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

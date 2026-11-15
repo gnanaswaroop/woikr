@@ -4,6 +4,7 @@ date: 2009-03-25T14:07:09
 url: /wtf/its-spam-all-over-google-help-forums/
 categories: ["WTF?"]
 tags: ["google help", "google help forums", "google spam", "forums spam", "google talk help forum", "spam on google", "spam on forums", "spam google", "google captcha"]
+image: "/wp/wp-content/uploads/2009/03/google_talk_help_spam.jpg"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

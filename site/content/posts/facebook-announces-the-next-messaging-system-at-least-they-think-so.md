@@ -4,6 +4,7 @@ date: 2010-11-16T17:25:08
 url: /misc/facebook-announces-the-next-messaging-system-at-least-they-think-so/
 categories: ["Misc", "News"]
 tags: ["facebook", "facebook mail", "facebook messages", "fb mail", "fb messaging", "fb chat", "fb sms", "sms chat", "new fb mail", "facebook invites", "invites", "facebook mesaging", "facebook new mail", "facebook features", "facebook messaging features", "facebook new announcement", "unified inbox", "priority inbox", "unified chat", "unified messaging"]
+image: "/wp/wp-content/uploads/2010/11/Facebookmessages.png"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

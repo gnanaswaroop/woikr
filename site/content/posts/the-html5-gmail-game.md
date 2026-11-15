@@ -4,6 +4,7 @@ date: 2010-08-16T11:14:30
 url: /google/the-html5-gmail-game/
 categories: ["Google"]
 tags: ["HTML5", "gmail", "Gmail Game", "Space invaders", "html5 games", "html5 game", "gmail envelope", "Gmail web mail", "web mail", "gmail advantages", "space", "invaders", "20 percent", "google games", "modern browsers", "html5 browsers", "IE acid test", "acid test"]
+image: "/wp/wp-content/uploads/2010/08/galactic3.png"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

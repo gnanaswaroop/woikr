@@ -4,6 +4,7 @@ date: 2010-07-27T22:18:48
 url: /misc/the-presentation-responsible-for-the-indian-rupee-symbol/
 categories: ["Misc", "News"]
 tags: ["indian rupee symbol", "unicode for indian rupee", "new rupee symbol"]
+image: "/wp/wp-content/uploads/2010/07/image20.png"
 author: "Setu"
 authors: ["setu"]
 ---

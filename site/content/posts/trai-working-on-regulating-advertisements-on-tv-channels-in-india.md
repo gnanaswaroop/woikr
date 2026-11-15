@@ -4,6 +4,7 @@ date: 2012-03-21T23:06:34
 url: /news/trai-working-on-regulating-advertisements-on-tv-channels-in-india/
 categories: ["News", "Home Entertainment"]
 tags: ["TV channels india", "advertisements india", "india ads"]
+image: "/wp/wp-content/uploads/2012/03/TRAI-logo.png"
 author: "Setu"
 authors: ["setu"]
 aliases: ["/home-entertainment/trai-working-on-regulating-advertisements-on-tv-channels-in-india/"]

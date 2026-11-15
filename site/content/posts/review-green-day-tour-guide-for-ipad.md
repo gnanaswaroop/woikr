@@ -4,6 +4,7 @@ date: 2011-01-07T09:10:22
 url: /ipad/review-green-day-tour-guide-for-ipad/
 categories: ["iPad", "Reviews"]
 tags: ["green day", "green day tour", "green day ipad", "ipad concert"]
+image: "/wp/wp-content/uploads/2011/01/NewImage48.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

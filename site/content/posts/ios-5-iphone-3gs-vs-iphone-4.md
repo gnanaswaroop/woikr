@@ -4,6 +4,7 @@ date: 2011-06-10T11:49:47
 url: /iphone/ios-5-iphone-3gs-vs-iphone-4/
 categories: ["iPhone"]
 tags: ["iOS 5", "iphone 3gs", "iphone 4", "iOS 5 performance"]
+image: "/wp/wp-content/uploads/2011/06/iOS-5-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

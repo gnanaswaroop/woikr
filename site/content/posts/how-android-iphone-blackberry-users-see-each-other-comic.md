@@ -4,6 +4,7 @@ date: 2010-11-05T10:09:23
 url: /android/how-android-iphone-blackberry-users-see-each-other-comic/
 categories: ["Android", "LOL", "Mobile Phones", "iPhone"]
 tags: ["android fanboys", "iphone fanboys", "blackberry fanboys", "smartphone comic"]
+image: "/wp/wp-content/uploads/2010/11/ev17d3.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

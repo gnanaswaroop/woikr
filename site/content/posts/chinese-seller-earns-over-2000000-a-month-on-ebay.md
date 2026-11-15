@@ -4,6 +4,7 @@ date: 2011-01-06T08:25:03
 url: /misc/chinese-seller-earns-over-2000000-a-month-on-ebay/
 categories: ["Misc"]
 tags: ["eBay", "eBay China", "eBay Income"]
+image: "/wp/wp-content/uploads/2011/01/eBay.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

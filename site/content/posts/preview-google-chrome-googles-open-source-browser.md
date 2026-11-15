@@ -4,6 +4,7 @@ date: 2008-09-02T16:14:30
 url: /google/preview-google-chrome-googles-open-source-browser/
 categories: ["Google"]
 tags: ["google chrome", "Chrome", "google browser"]
+image: "/wp/wp-content/uploads/2008/09/google-chrome-logo.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

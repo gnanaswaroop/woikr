@@ -4,6 +4,7 @@ date: 2010-04-11T17:09:08
 url: /rumors/video-chat-on-the-next-iphone-rumors/
 categories: ["Rumors", "iPhone"]
 tags: ["iphone video chat", "iphone ichat", "iphone video conference", "mobile video chat", "iPhone", "next gen iphone", "iphone new version"]
+image: "/wp/wp-content/uploads/2010/04/iPhone_video_chat.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

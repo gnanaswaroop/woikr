@@ -4,6 +4,7 @@ date: 2010-06-16T21:14:36
 url: /news/tatasky-launches-indias-cheapest-hd-set-top-box/
 categories: ["News", "Home Entertainment"]
 tags: ["tatasky", "HD India", "HD broadcast India", "hd dth india", "tata sky", "tata sky HD", "tata sky dth"]
+image: "/wp/wp-content/uploads/2010/06/l_250_160_8FC244E8-103F-4B80-9FA7-4162C30F5247.jpeg"
 author: "Setu"
 authors: ["setu"]
 aliases: ["/home-entertainment/tatasky-launches-indias-cheapest-hd-set-top-box/"]

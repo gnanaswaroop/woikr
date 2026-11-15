@@ -4,6 +4,7 @@ date: 2009-10-07T11:38:29
 url: /news/and-the-worlds-best-company-is-nintendo/
 categories: ["News"]
 tags: ["Nintendo", "best company in the world"]
+image: "/wp/wp-content/uploads/2009/10/mario_1_400x314.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

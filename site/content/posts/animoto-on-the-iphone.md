@@ -4,6 +4,7 @@ date: 2008-12-24T13:21:19
 url: /iphone/animoto-on-the-iphone/
 categories: ["iPhone"]
 tags: ["iPhone", "animoto", "animoto for iphone", "iphone video", "iphone slideshow", "create video on iphone", "musical slideshows"]
+image: "/wp/wp-content/uploads/2008/12/animoto_logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

@@ -4,6 +4,7 @@ date: 2011-03-08T17:18:01
 url: /android/gingerbread-is-hiding-cute-zombie-art-easter-eggs-ftw/
 categories: ["Android"]
 tags: ["Android Easter Eggs", "Easter Eggs", "Gingerbread Jack Larson", "Gingerbread easter egg", "Android LOST Easter Egg", "LOST Easter Egg", "Star Wars Android", "Android Death Star easter egg"]
+image: "/wp/wp-content/uploads/2011/03/zombie_art_1.jpg"
 author: "Chirag"
 authors: ["chirag"]
 aliases: ["/uncategorized/gingerbread-is-hiding-cute-zombie-art-easter-eggs-ftw"]

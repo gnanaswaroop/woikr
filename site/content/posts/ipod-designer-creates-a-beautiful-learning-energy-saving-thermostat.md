@@ -4,6 +4,7 @@ date: 2011-10-25T12:45:14
 url: /misc/ipod-designer-creates-a-beautiful-learning-energy-saving-thermostat/
 categories: ["Misc"]
 tags: ["nest", "nest thermostat"]
+image: "/wp/wp-content/uploads/2011/10/nest-thermostat.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

@@ -4,6 +4,7 @@ date: 2011-01-03T02:13:47
 url: /google/read-ebooks-anywhere-with-google-ebookstore/
 categories: ["Google"]
 tags: ["Google", "google ebooks", "ebooks", "online books"]
+image: "/wp/wp-content/uploads/2011/01/NewImage.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

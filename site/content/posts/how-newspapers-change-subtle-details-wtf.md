@@ -4,6 +4,7 @@ date: 2010-01-16T12:03:09
 url: /wtf/how-newspapers-change-subtle-details-wtf/
 categories: ["WTF?"]
 tags: ["Solar Eclipse", "Times of India Bangalore"]
+image: "/wp/wp-content/uploads/2010/01/eclipse_china_400x260.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

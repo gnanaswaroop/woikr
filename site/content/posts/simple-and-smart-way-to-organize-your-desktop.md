@@ -4,6 +4,7 @@ date: 2010-03-31T10:53:47
 url: /howto/simple-and-smart-way-to-organize-your-desktop/
 categories: ["How Tos", "Misc"]
 tags: ["organize desktop", "stack icons", "smart wallpaper", "arrange desktop icons", "neat desktop"]
+image: "/wp/wp-content/uploads/2010/03/image16.png"
 author: "Setu"
 authors: ["setu"]
 ---

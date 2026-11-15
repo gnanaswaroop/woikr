@@ -4,6 +4,7 @@ date: 2011-07-16T20:10:38
 url: /telecom/mts-offers-high-speed-internet-connection-on-delhi-jaipur-stretch-of-national-highway-8/
 categories: ["Telecom"]
 tags: ["MTS", "mobile broadband", "mobile broadband india"]
+image: "/wp/wp-content/uploads/2011/07/mts-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

@@ -4,6 +4,7 @@ date: 2011-03-12T12:07:54
 url: /telecom/airtel-3g-offering-amazing-speed-in-delhincr/
 categories: ["Telecom"]
 tags: ["Airtel", "airtel 3g", "airtel 3g delhi", "airtel 3g speed", "airtel 3g delhi speed", "3g india", "3G", "3g speed india", "mobile broadband india"]
+image: "/wp/wp-content/uploads/2011/03/NewImage8.png"
 author: "Setu"
 authors: ["setu"]
 ---

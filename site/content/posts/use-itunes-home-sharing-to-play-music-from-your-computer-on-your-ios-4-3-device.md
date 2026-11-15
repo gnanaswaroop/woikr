@@ -4,6 +4,7 @@ date: 2011-04-24T22:31:16
 url: /howto/use-itunes-home-sharing-to-play-music-from-your-computer-on-your-ios-4-3-device/
 categories: ["How Tos", "iPad", "Apple", "iPhone", "Home Entertainment"]
 tags: ["itunes", "itunes home sharing", "iOS itunes", "iOS home sharing", "play music from computer on iPhone"]
+image: "/wp/wp-content/uploads/2011/04/iTunes-home-sharing.png"
 author: "Setu"
 authors: ["setu"]
 ---

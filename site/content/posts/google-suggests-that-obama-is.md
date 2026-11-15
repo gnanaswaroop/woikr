@@ -4,6 +4,7 @@ date: 2009-10-11T02:43:07
 url: /google/google-suggests-that-obama-is/
 categories: ["Google", "LOL"]
 tags: ["google suggest", "google search", "obama is", "google mishap", "obama is a", "barack obama", "president of the united states", "google president", "search results", "search mishap", "funny suggestions", "google funny suggestions"]
+image: "/wp/wp-content/uploads/2009/10/Obama-is.jpg"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

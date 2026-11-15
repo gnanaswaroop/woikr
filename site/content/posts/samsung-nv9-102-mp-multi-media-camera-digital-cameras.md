@@ -4,6 +4,7 @@ date: 2008-10-20T18:18:46
 url: /first-look/samsung-nv9-102-mp-multi-media-camera-digital-cameras/
 categories: ["First Look"]
 tags: ["samsung nv9", "samsung multi media camera", "samsung nv series review", "samsung nv", "samsung 10 MP"]
+image: "/wp/wp-content/uploads/2008/10/features.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

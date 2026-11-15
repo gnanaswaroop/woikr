@@ -4,6 +4,7 @@ date: 2012-12-13T12:51:23
 url: /google/google-maps-now-available-on-the-iphone/
 categories: ["Google", "News", "Apple"]
 tags: ["Google", "google maps", "google maps ios", "turn by turn navigation iphone"]
+image: "/wp/wp-content/uploads/2012/12/google-maps-ios-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

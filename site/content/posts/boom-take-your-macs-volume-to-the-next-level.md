@@ -4,6 +4,7 @@ date: 2011-02-03T23:53:18
 url: /mac/boom-take-your-macs-volume-to-the-next-level/
 categories: ["Mac"]
 tags: ["boom", "global delight", "GlobalDelight", "volume boost", "mac volume", "mac volume boost", "boom for mac"]
+image: "/wp/wp-content/uploads/2011/02/NewImage3.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

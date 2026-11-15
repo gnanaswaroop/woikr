@@ -4,6 +4,7 @@ date: 2014-02-05T19:07:17
 url: /news/satya-nadella-is-microsofts-3rd-ceo/
 categories: ["News", "Microsoft"]
 tags: ["microsoft ceo"]
+image: "/wp/wp-content/uploads/2014/02/microsoft-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

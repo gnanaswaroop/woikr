@@ -4,6 +4,7 @@ date: 2011-03-06T18:09:04
 url: /android/lg-launches-limited-edition-optimus-one-with-a-lame-engraving/
 categories: ["Android", "Mobile Phones"]
 tags: ["limited edition", "cricket world cup", "worldcup 2011", "limited edition mobiles", "LG Optimus One Limited edition", "LG Optimus Limited edition", "Android mobiles", "android devices", "LG Optimus One cricket", "Optimus One", "LG Optimus"]
+image: "/wp/wp-content/uploads/2011/03/LGoptimusonelimitededitionicccricketworldcup2011.jpg"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

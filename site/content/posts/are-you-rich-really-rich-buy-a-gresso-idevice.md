@@ -4,6 +4,7 @@ date: 2010-12-29T09:20:07
 url: /apple/are-you-rich-really-rich-buy-a-gresso-idevice/
 categories: ["Apple"]
 tags: ["Gresso iPad", "Gresso iPod", "Gresso Apple", "iPhone for Rich", "iPad for Rich", "Most expensive iPad", "Most expensive iPhone"]
+image: "/wp/wp-content/uploads/2010/12/gresso_iPhones.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

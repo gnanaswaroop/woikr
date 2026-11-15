@@ -4,6 +4,7 @@ date: 2009-05-25T18:04:09
 url: /google/fix-google-chrome-crashes-on-your-work-computer/
 categories: ["Google"]
 tags: ["Google", "Chrome", "firefox", "chrome crash", "chrome startup error"]
+image: "/wp/wp-content/uploads/2008/09/google-chrome-logo.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

@@ -4,6 +4,7 @@ date: 2012-01-24T21:45:55
 url: /internet/now-search-for-flights-using-ixigo-on-facebook-twitter/
 categories: ["Internet"]
 tags: ["iXiGo", "flight search", "flight search facebook", "flight search twitter"]
+image: "/wp/wp-content/uploads/2012/01/ixigo-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

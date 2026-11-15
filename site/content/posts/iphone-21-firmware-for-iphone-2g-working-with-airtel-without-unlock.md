@@ -4,6 +4,7 @@ date: 2008-09-27T00:54:42
 url: /apple/iphone-21-firmware-for-iphone-2g-working-with-airtel-without-unlock/
 categories: ["Apple", "iPhone"]
 tags: ["iPhone Unlock", "iphone airtel", "iphone 2G airtel", "iPhone India", "iphone 2.1", "iphone 2.1 airtel", "iphone 2.1 unlock", "old iphone upgrade"]
+image: "/wp/wp-content/uploads/2008/09/iphone-2_1_airtel_lead.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

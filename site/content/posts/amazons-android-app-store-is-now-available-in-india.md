@@ -4,6 +4,7 @@ date: 2011-09-21T11:29:02
 url: /android/amazons-android-app-store-is-now-available-in-india/
 categories: ["Android"]
 tags: ["amazon", "amazon app store", "amazon android store", "android india"]
+image: "/wp/wp-content/uploads/2011/09/amazon-app-store.png"
 author: "Setu"
 authors: ["setu"]
 ---

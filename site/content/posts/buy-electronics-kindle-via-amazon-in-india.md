@@ -4,6 +4,7 @@ date: 2013-06-25T20:55:00
 url: /news/buy-electronics-kindle-via-amazon-in-india/
 categories: ["News"]
 tags: ["amazon india", "amazon.in", "electronics store india"]
+image: "/wp/wp-content/uploads/2013/06/amazon-india-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

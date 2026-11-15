@@ -4,6 +4,7 @@ date: 2011-03-15T19:21:49
 url: /telecom/vodafone-launches-mifi-device-for-sharing-3g-data-over-wifi/
 categories: ["Telecom", "News"]
 tags: ["vodafone", "mifi", "vodafone 3g india", "3g broadband", "share 3g", "portable wifi", "partable hotspot"]
+image: "/wp/wp-content/uploads/2009/05/vodafone_logo.gif"
 author: "Setu"
 authors: ["setu"]
 ---

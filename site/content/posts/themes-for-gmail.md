@@ -4,6 +4,7 @@ date: 2008-11-20T19:08:20
 url: /news/themes-for-gmail/
 categories: ["News"]
 tags: ["gmail", "gmail themes", "customize gmail", "gmail colors", "gmail new feature"]
+image: "/wp/wp-content/uploads/2008/11/gmail_logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

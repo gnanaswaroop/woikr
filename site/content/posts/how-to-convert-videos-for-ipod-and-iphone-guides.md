@@ -4,6 +4,7 @@ date: 2008-10-03T19:34:18
 url: /apple/how-to-convert-videos-for-ipod-and-iphone-guides/
 categories: ["Apple", "iPhone"]
 tags: ["convert video for ipod", "ipod video encoder", "convert video ipod", "how to add videos to ipod", "iphone video converter", "ipod video converter", "videora", "iPod", "iPhone", "ipod video guide", "iphone video guide", "ipod video conversion guide", "iphone video conversion guide"]
+image: "/wp/wp-content/uploads/2008/10/videora_lead.png"
 author: "Setu"
 authors: ["setu"]
 ---

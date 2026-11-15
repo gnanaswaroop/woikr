@@ -4,6 +4,7 @@ date: 2008-12-17T15:19:30
 url: /rumors/bigflix-starting-game-rentals-soon/
 categories: ["Rumors"]
 tags: ["bigflix", "bigflix games", "game rentals india"]
+image: "/wp/wp-content/uploads/2008/12/bigflix_logo.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

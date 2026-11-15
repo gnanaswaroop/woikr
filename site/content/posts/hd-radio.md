@@ -4,6 +4,7 @@ date: 2009-04-13T16:48:42
 url: /first-look/hd-radio/
 categories: ["First Look"]
 tags: ["HD radio", "high quality radio", "satellite radio", "cd quality radio"]
+image: "/wp/wp-content/uploads/2009/04/hd_radio_logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

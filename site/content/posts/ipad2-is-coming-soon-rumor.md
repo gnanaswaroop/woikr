@@ -4,6 +4,7 @@ date: 2011-01-08T17:50:36
 url: /ipad/ipad2-is-coming-soon-rumor/
 categories: ["iPad", "Rumors", "Apple"]
 tags: ["apple ipad", "iPad2", "iPad 2", "iPad Rumors", "iPad2 rumours", "iPad2 release date", "iPad"]
+image: "/wp/wp-content/uploads/2011/01/iPad2.jpg"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

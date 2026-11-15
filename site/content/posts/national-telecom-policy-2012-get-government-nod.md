@@ -4,6 +4,7 @@ date: 2012-06-02T11:08:12
 url: /telecom/national-telecom-policy-2012-get-government-nod/
 categories: ["Telecom", "News"]
 tags: ["india telecom", "NTP 2012", "india telecom policy", "MNP", "mnp india", "roaming india"]
+image: "/wp/wp-content/uploads/2012/06/natinal-telecom-policy-india-2012.png"
 author: "Setu"
 authors: ["setu"]
 ---

@@ -4,6 +4,7 @@ date: 2010-12-25T09:51:38
 url: /apple/apples-new-patent-application-shows-antenna-in-the-logo/
 categories: ["Apple"]
 tags: ["Apple Antenna", "iPhone 4 Antenna", "Apple Antenna Patent", "iPad Antenna", "Antenna Apple Logo"]
+image: "/wp/wp-content/uploads/2010/12/patent_apple_antenna.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

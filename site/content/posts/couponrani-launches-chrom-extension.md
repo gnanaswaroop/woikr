@@ -4,6 +4,7 @@ date: 2013-01-19T17:07:56
 url: /deals/couponrani-launches-chrom-extension/
 categories: ["Deals"]
 tags: ["coupon site india", "chrome extension coupons", "couponrani"]
+image: "/wp/wp-content/uploads/2013/01/couponrani-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

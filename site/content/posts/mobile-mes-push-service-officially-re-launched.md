@@ -4,6 +4,7 @@ date: 2009-02-27T11:41:43
 url: /news/mobile-mes-push-service-officially-re-launched/
 categories: ["News"]
 tags: ["mobile me", "Apple", "iPhone", "push", "mobile me push", "iphone push", "iphone sync"]
+image: "/wp/wp-content/uploads/2009/02/mobileme.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

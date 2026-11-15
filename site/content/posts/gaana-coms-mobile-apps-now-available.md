@@ -4,6 +4,7 @@ date: 2013-01-19T16:57:20
 url: /news/gaana-coms-mobile-apps-now-available/
 categories: ["News", "Home Entertainment"]
 tags: ["gaana.com", "music streaming india"]
+image: "/wp/wp-content/uploads/2013/01/gaana.com-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

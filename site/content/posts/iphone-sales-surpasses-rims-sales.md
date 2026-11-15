@@ -4,6 +4,7 @@ date: 2008-10-22T16:08:09
 url: /news/iphone-sales-surpasses-rims-sales/
 categories: ["News"]
 tags: ["iPhone", "iphone sales", "iphone vs. rim", "apple q4 2008 results"]
+image: "/wp/wp-content/uploads/2008/10/appleeatingrim.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

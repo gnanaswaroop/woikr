@@ -4,6 +4,7 @@ date: 2011-01-06T18:27:10
 url: /news/1st-annual-indian-comic-con-in-feb-get-your-costumes-ready/
 categories: ["News"]
 tags: ["Indian Comic Con", "First Indian Comic Con"]
+image: "/wp/wp-content/uploads/2011/01/first_comic_con_india.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

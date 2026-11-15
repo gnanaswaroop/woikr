@@ -4,6 +4,7 @@ date: 2014-09-21T21:26:09
 url: /iphone/contract-free-iphone-6-is-factory-unlocked/
 categories: ["iPhone"]
 tags: ["iphone 6", "unlocked iphone 6"]
+image: "/wp/wp-content/uploads/2014/09/iphone-6.png"
 author: "Setu"
 authors: ["setu"]
 aliases: ["/iphone/contract-free-iphone-6-is-factory-unlocked"]

@@ -4,6 +4,7 @@ date: 2010-11-07T14:31:52
 url: /android/twitter-facebook-release-updated-apps-on-android/
 categories: ["Android"]
 tags: ["twitter android", "facebook android"]
+image: "/wp/wp-content/uploads/2010/11/fb_android_1.png"
 author: "Chirag"
 authors: ["chirag"]
 ---

@@ -4,6 +4,7 @@ date: 2010-12-30T18:36:19
 url: /news/european-commission-standardizes-microusb-as-mobile-charging-port/
 categories: ["News", "Mobile Phones"]
 tags: ["MicroUSB charger", "MicroUSB standard", "Mobile Phone Standard Charger", "Apple MicroUSB", "iPhone MicroUSB"]
+image: "/wp/wp-content/uploads/2010/12/microusb_charger.jpg"
 author: "Chirag"
 authors: ["chirag"]
 aliases: ["/news/eu-mobile-charging-port-micro-us"]

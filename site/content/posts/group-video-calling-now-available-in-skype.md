@@ -4,6 +4,7 @@ date: 2011-01-11T10:12:35
 url: /news/group-video-calling-now-available-in-skype/
 categories: ["News"]
 tags: ["skype", "group calling", "skype group calling"]
+image: "/wp/wp-content/uploads/2011/01/image6.png"
 author: "Setu"
 authors: ["setu"]
 ---

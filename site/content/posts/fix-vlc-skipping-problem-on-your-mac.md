@@ -4,6 +4,7 @@ date: 2009-10-02T05:37:46
 url: /mac/fix-vlc-skipping-problem-on-your-mac/
 categories: ["Mac"]
 tags: ["switch to a mac", "window to mac", "VideoLan Client on Mac", "VLC on Mac", "VLC skipping problem"]
+image: "/wp/wp-content/uploads/2009/10/vlc_mac_1.png"
 author: "Chirag"
 authors: ["chirag"]
 ---

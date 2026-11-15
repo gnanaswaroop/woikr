@@ -4,6 +4,7 @@ date: 2011-05-26T13:51:49
 url: /google/google-street-view-soon-in-india-first-in-bangalore/
 categories: ["Google"]
 tags: ["Google Street View India", "Bangalore Street View", "Street View for India"]
+image: "/wp/wp-content/uploads/2011/05/Google_Street_View_Cars_Tricycle_Captiva.jpg"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

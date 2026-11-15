@@ -4,6 +4,7 @@ date: 2011-01-20T11:15:47
 url: /android/samsungs-galaxy-s-successor-coming-feb-13-android/
 categories: ["Android", "Mobile Phones"]
 tags: ["Samsung Galaxy", "Samsung Galaxy S successor", "Samsung Galaxy MWC", "MWC Barcelona", "Samsung Galaxy February"]
+image: "/wp/wp-content/uploads/2011/01/galaxy_s_mwc.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

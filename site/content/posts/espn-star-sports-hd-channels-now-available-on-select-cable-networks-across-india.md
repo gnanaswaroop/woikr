@@ -4,6 +4,7 @@ date: 2012-01-08T15:18:54
 url: /telecom/espn-star-sports-hd-channels-now-available-on-select-cable-networks-across-india/
 categories: ["Telecom", "News", "Home Entertainment"]
 tags: ["espn hd india", "start sports HD", "HD India", "hd cable", "hd channels india", "hdtv india"]
+image: "/wp/wp-content/uploads/2011/10/hd.png"
 author: "Setu"
 authors: ["setu"]
 ---

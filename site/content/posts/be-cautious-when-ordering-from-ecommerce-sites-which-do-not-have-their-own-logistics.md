@@ -4,6 +4,7 @@ date: 2012-11-06T00:25:01
 url: /misc/be-cautious-when-ordering-from-ecommerce-sites-which-do-not-have-their-own-logistics/
 categories: ["Misc"]
 tags: ["ecommerce", "ecommerce india", "logistics india", "customer service"]
+image: "/wp/wp-content/uploads/2012/11/ecommerce.png"
 author: "Setu"
 authors: ["setu"]
 ---

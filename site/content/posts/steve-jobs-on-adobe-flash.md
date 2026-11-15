@@ -4,6 +4,7 @@ date: 2010-04-30T13:11:03
 url: /apple/steve-jobs-on-adobe-flash/
 categories: ["Apple"]
 tags: ["flash for iPhone", "iPhone", "steve jobs", "adobe flash"]
+image: "/wp/wp-content/uploads/2010/04/image53.png"
 author: "Setu"
 authors: ["setu"]
 ---

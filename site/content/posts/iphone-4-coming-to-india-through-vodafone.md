@@ -4,6 +4,7 @@ date: 2010-06-09T16:44:22
 url: /news/iphone-4-coming-to-india-through-vodafone/
 categories: ["News", "iPhone"]
 tags: ["iphone 4", "iphone 4.0", "iPhone India", "india iphone release", "iphone release date", "iphone vodafone", "iphone airtel", "iPhone price", "iPhone India Price", "iphone 4G", "Apple india", "apple india iphone", "iphone features", "apple new iPhone"]
+image: "/wp/wp-content/uploads/2010/06/iPhone4SharingVideo.jpg"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

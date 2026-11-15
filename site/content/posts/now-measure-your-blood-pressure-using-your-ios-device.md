@@ -4,6 +4,7 @@ date: 2011-01-06T07:25:35
 url: /ipad/now-measure-your-blood-pressure-using-your-ios-device/
 categories: ["iPad", "News", "iPhone"]
 tags: ["iphone health", "iPhone", "iPad", "ipod touch", "blood pressure instrument iphone"]
+image: "/wp/wp-content/uploads/2011/01/NewImage47.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

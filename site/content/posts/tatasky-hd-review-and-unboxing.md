@@ -4,6 +4,7 @@ date: 2011-02-12T22:32:39
 url: /home-entertainment/tatasky-hd-review-and-unboxing/
 categories: ["Home Entertainment"]
 tags: ["tatasky", "tatasky HD", "tata sky HD", "tatasky HD PVR", "tatasky plus", "tatasky unboxing", "tatasky+ hd review"]
+image: "/wp/wp-content/uploads/2011/02/NewImage.png"
 author: "Setu"
 authors: ["setu"]
 ---

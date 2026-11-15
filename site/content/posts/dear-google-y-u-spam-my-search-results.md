@@ -4,6 +4,7 @@ date: 2012-03-21T16:24:34
 url: /internet/dear-google-y-u-spam-my-search-results/
 categories: ["Internet", "Google"]
 tags: ["Google Search Evil", "Google Evil", "Evil Doings", "Technology misuse", "google search", "Saholic Coupon codes 2012", "Letsbuy Saholic", "Saholic", "letsbuy", "Coupon Code Search Results", "Search Engine Spam"]
+image: "/wp/wp-content/uploads/2012/03/image.png"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

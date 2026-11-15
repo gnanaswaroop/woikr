@@ -4,6 +4,7 @@ date: 2010-01-20T15:10:38
 url: /news/dominos-launches-online-ordering-in-india/
 categories: ["News"]
 tags: ["dominos pizza", "order pizza online india"]
+image: "/wp/wp-content/uploads/2010/01/image1.png"
 author: "Setu"
 authors: ["setu"]
 ---

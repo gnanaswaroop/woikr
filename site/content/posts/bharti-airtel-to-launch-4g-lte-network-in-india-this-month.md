@@ -4,6 +4,7 @@ date: 2012-03-14T00:09:37
 url: /telecom/bharti-airtel-to-launch-4g-lte-network-in-india-this-month/
 categories: ["Telecom", "News"]
 tags: ["Airtel", "airtel 3g", "airtel 4G", "LTE india", "4G india"]
+image: "/wp/wp-content/uploads/2012/03/iPad-4G-LTE.png"
 author: "Setu"
 authors: ["setu"]
 ---

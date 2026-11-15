@@ -4,6 +4,7 @@ date: 2014-07-03T07:47:52
 url: /internet/irctc-improves-site-performance/
 categories: ["Internet"]
 tags: ["irctc", "irctc fast"]
+image: "/wp/wp-content/uploads/2010/07/image_thumb22.png"
 author: "Setu"
 authors: ["setu"]
 ---

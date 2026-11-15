@@ -4,6 +4,7 @@ date: 2009-06-09T01:08:59
 url: /news/the-new-iphone-3gs/
 categories: ["News", "iPhone"]
 tags: ["iPhone", "Apple", "iphone 3G", "iphone 3gs", "new iphone", "next gen iphone", "iphone video"]
+image: "/wp/wp-content/uploads/2009/06/iphone_3gs_logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

@@ -1,10 +1,23 @@
 {{ define "main" }}
-<section class="post-list">
+<section class="intro">
+  <p>{{ site.Params.description }}</p>
+</section>
+<section class="cards">
   {{ $posts := where site.RegularPages "Section" "posts" }}
   {{ range (.Paginate ($posts.ByDate.Reverse)).Pages }}
-  <article class="teaser">
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-    <p class="meta">{{ with .Params.author }}{{ . }} · {{ end }}{{ .Date.Format "January 2, 2006" }}{{ with .Params.categories }} · {{ index . 0 }}{{ end }}</p>
+  {{ $p := . }}
+  <article class="card">
+    {{ with .Params.image }}
+    <a class="card-thumb" href="{{ $p.RelPermalink }}" tabindex="-1" aria-hidden="true">
+      <img src="{{ . | relURL }}" alt="" loading="lazy">
+    </a>
+    {{ end }}
+    <div class="card-body">
+      {{ with index .Params.categories 0 }}<p class="card-kicker">{{ . }}</p>{{ end }}
+      <h2 class="card-title"><a href="{{ $p.RelPermalink }}">{{ $p.Title }}</a></h2>
+      <p class="card-summary">{{ $p.Plain | truncate 180 }}</p>
+      <p class="card-meta">{{ with $p.Params.author }}{{ . }} · {{ end }}{{ $p.Date.Format "January 2, 2006" }}</p>
+    </div>
   </article>
   {{ end }}
 </section>

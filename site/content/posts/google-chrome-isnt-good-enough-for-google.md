@@ -4,6 +4,7 @@ date: 2008-10-21T17:27:17
 url: /lol/google-chrome-isnt-good-enough-for-google/
 categories: ["LOL"]
 tags: ["google chrome", "google custom search"]
+image: "/wp/wp-content/uploads/2008/10/google-custom-search-suggests-chrome-isnt-good-enough.jpg"
 author: "Swaroop"
 authors: ["swaroop"]
 aliases: ["/lol/google-chrome-aint-good-enough/"]

@@ -4,6 +4,7 @@ date: 2010-04-10T11:31:07
 url: /news/adobes-flash-platform-evangelist-says-go-screw-yourself-apple/
 categories: ["News"]
 tags: ["flash on iphone", "adobe rant", "iphone OS 4", "iphone sdk license"]
+image: "/wp/wp-content/uploads/2010/04/image10.png"
 author: "Setu"
 authors: ["setu"]
 ---

@@ -4,6 +4,7 @@ date: 2010-07-28T20:10:31
 url: /misc/indian-railways-planning-to-launch-its-own-ticket-booking-site/
 categories: ["Misc", "News"]
 tags: ["indian railways", "irctc", "irctc.co.in"]
+image: "/wp/wp-content/uploads/2010/07/image25.png"
 author: "Setu"
 authors: ["setu"]
 ---

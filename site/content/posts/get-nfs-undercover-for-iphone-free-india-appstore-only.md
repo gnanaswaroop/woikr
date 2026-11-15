@@ -4,6 +4,7 @@ date: 2011-12-09T11:30:24
 url: /apple/get-nfs-undercover-for-iphone-free-india-appstore-only/
 categories: ["Apple", "iPhone"]
 tags: ["need for speed", "NFS Undercover", "NFS iOS", "iOS Games"]
+image: "/wp/wp-content/uploads/2011/12/NFS_UnderCover_iOS.jpg"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

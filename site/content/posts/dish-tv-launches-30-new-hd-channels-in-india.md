@@ -4,6 +4,7 @@ date: 2011-02-23T15:23:25
 url: /home-entertainment/dish-tv-launches-30-new-hd-channels-in-india/
 categories: ["Home Entertainment"]
 tags: ["dish tv", "hd dth india", "hd channels india", "HD India"]
+image: "/wp/wp-content/uploads/2011/02/NewImage3.png"
 author: "Setu"
 authors: ["setu"]
 ---

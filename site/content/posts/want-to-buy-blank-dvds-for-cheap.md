@@ -4,6 +4,7 @@ date: 2010-04-08T14:26:28
 url: /deals/want-to-buy-blank-dvds-for-cheap/
 categories: ["Deals"]
 tags: ["buy cds dvds online india", "cheap cds dvds india", "moser baer", "buy blank cds dvds"]
+image: "/wp/wp-content/uploads/2010/04/image1.png"
 author: "Setu"
 authors: ["setu"]
 ---

@@ -4,6 +4,7 @@ date: 2011-02-19T00:16:30
 url: /android/webbox-converts-your-old-tv-into-an-internet-ready-box/
 categories: ["Android"]
 tags: ["internet on tv", "cheap internet", "android devices", "Android 2.1", "Opera Mini", "cheap internet on tv", "how to use internet on tv", "WebBox", "vodafone webbox", "vodacom webbox", "internet games on tv", "fast internet for developing countries"]
+image: "/wp/wp-content/uploads/2011/02/Vodafonewebboxinternetontv2.jpg"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

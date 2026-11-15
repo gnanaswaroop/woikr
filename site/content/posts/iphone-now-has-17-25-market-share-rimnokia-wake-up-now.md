@@ -4,6 +4,7 @@ date: 2011-02-01T18:24:19
 url: /news/iphone-now-has-17-25-market-share-rimnokia-wake-up-now/
 categories: ["News", "iPhone"]
 tags: ["iPhone market share", "iPhone market profiles", "iPhone stats", "iPhone revenue", "iphone 2010", "Android 2010", "iPhone5", "Android Vs iPhone"]
+image: "/wp/wp-content/uploads/2011/02/iPhoneSmartPhoneComparison.png"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

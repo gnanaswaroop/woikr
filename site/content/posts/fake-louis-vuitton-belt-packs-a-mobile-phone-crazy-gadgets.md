@@ -4,6 +4,7 @@ date: 2011-01-10T08:46:32
 url: /mobile-phones/fake-louis-vuitton-belt-packs-a-mobile-phone-crazy-gadgets/
 categories: ["Mobile Phones"]
 tags: ["Louis Vuitton", "Louis Vuitton Phone", "Louis Vuitton Belt", "Belt Phone", "Belt Buckle Phone"]
+image: "/wp/wp-content/uploads/2011/01/louis_vuitton_belt_buckle_phone.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

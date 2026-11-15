@@ -4,6 +4,7 @@ date: 2009-10-25T00:10:35
 url: /wtf/microsoft-wants-you-to-buy-gold-membership-to-use-facebook-and-twitter-on-your-xbox-360-wtf/
 categories: ["WTF?"]
 tags: ["Microsoft", "xbox", "Xbox 360", "xbox 360 facebook twitter", "xbox update preview"]
+image: "/wp/wp-content/uploads/2009/10/image21.png"
 author: "Setu"
 authors: ["setu"]
 ---

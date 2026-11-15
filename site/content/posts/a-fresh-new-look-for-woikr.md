@@ -4,6 +4,7 @@ date: 2009-10-04T01:14:05
 url: /blogging/a-fresh-new-look-for-woikr/
 categories: ["Blogging", "News"]
 tags: []
+image: "/wp/wp-content/uploads/2009/10/woikr_oct2009_theme.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

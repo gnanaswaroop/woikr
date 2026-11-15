@@ -4,6 +4,7 @@ date: 2010-04-24T10:47:07
 url: /news/check-out-the-swanky-new-beta-version-of-irctc-co-in/
 categories: ["News"]
 tags: ["irctc", "irctc.co.in", "book train tickets online", "internet reservation india", "indian railways", "irctc new interface"]
+image: "/wp/wp-content/uploads/2010/04/image19.png"
 author: "Setu"
 authors: ["setu"]
 ---

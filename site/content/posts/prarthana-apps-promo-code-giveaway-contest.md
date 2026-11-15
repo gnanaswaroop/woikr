@@ -4,6 +4,7 @@ date: 2009-04-27T19:19:14
 url: /contests/prarthana-apps-promo-code-giveaway-contest/
 categories: ["Giveaways"]
 tags: ["iphone app give away", "app promocodes", "puja on iphone", "iphone prarthana apps", "vishnu durga app", "promo codes iphone", "iPhone"]
+image: "/wp/wp-content/uploads/2009/04/img_0043.png"
 author: "Setu"
 authors: ["setu"]
 ---

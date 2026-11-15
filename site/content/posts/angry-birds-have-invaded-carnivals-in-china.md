@@ -4,6 +4,7 @@ date: 2011-01-04T11:56:46
 url: /gaming/angry-birds-have-invaded-carnivals-in-china/
 categories: ["Gaming"]
 tags: ["angry birds", "iPhone games", "Carnival Games", "Angry Birds Carnival", "Angry Birds Toys"]
+image: "/wp/wp-content/uploads/2011/01/angry_birds_carnival.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

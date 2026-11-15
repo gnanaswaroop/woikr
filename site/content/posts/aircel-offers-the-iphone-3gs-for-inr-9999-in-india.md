@@ -4,6 +4,7 @@ date: 2012-07-24T12:17:04
 url: /news/aircel-offers-the-iphone-3gs-for-inr-9999-in-india/
 categories: ["News", "Apple", "Mobile Phones"]
 tags: ["iPhone India", "iphone 3gs india price", "iPhone India Price"]
+image: "/wp/wp-content/uploads/2012/07/aircel-iphone-3gs.png"
 author: "Setu"
 authors: ["setu"]
 ---

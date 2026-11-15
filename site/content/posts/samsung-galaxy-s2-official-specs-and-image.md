@@ -4,6 +4,7 @@ date: 2011-02-13T18:23:14
 url: /android/samsung-galaxy-s2-official-specs-and-image/
 categories: ["Android", "Mobile Phones"]
 tags: ["Samsung Galaxy", "Samsung Galaxy S2", "Samsung Galaxy S2 Official", "Android Gingerbread"]
+image: "/wp/wp-content/uploads/2011/02/galaxy_s2_300x533.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

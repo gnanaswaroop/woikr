@@ -4,6 +4,7 @@ date: 2012-05-23T20:00:29
 url: /telecom/airtel-launches-affordable-high-speed-8-mbps-and-16-mbps-broadband-plans/
 categories: ["Telecom"]
 tags: ["airtel broadband", "airtel india", "broadband", "broadband connection with fast download speeds", "broadband india"]
+image: "/wp/wp-content/uploads/2011/01/NewImage62.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

@@ -4,6 +4,7 @@ date: 2011-02-13T00:36:42
 url: /ipad/att-accessory-sale-hints-ipad-2-coming-soon-rumor/
 categories: ["iPad", "Rumors"]
 tags: ["iPad 2", "iPad 2 release", "iPad Accessories on Sale"]
+image: "/wp/wp-content/uploads/2010/12/apple_ipad.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

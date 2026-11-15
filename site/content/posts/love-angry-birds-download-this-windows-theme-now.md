@@ -4,6 +4,7 @@ date: 2011-07-09T13:57:07
 url: /gaming/love-angry-birds-download-this-windows-theme-now/
 categories: ["Gaming", "Misc"]
 tags: ["angry birds", "angry birds theme", "windows themes"]
+image: "/wp/wp-content/uploads/2011/07/angry-birds-windows-theme.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

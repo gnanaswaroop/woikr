@@ -4,6 +4,7 @@ date: 2008-10-19T21:41:26
 url: /rumors/nikon-to-launch-41-mp-sensor/
 categories: ["Rumors"]
 tags: ["Nikon 41 Megapixel", "Nikon Big event", "Nikon rumors"]
+image: "/wp/wp-content/uploads/2008/10/nikonbigevent2.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

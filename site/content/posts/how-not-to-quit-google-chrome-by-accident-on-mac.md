@@ -4,6 +4,7 @@ date: 2011-03-22T22:24:22
 url: /howto/how-not-to-quit-google-chrome-by-accident-on-mac/
 categories: ["How Tos", "Google", "Mac"]
 tags: ["google chrome", "Google Chrome Quit by accident", "Google Chrome Command Q", "Google Chrome Hold Quitting", "Chrome Confirm before quitting"]
+image: "/wp/wp-content/uploads/2011/03/chrome_quit.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

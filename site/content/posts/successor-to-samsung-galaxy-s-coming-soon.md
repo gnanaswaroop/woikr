@@ -4,6 +4,7 @@ date: 2011-01-10T22:51:02
 url: /android/successor-to-samsung-galaxy-s-coming-soon/
 categories: ["Android", "Rumors", "Mobile Phones"]
 tags: ["Android Gingerbread", "Samsung Galaxy S2", "Samsung Galaxy i9100", "Samsung Galaxy S successor", "Samsung Galaxy S India availability"]
+image: "/wp/wp-content/uploads/2011/01/Samsung-i9000-galaxy-s.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

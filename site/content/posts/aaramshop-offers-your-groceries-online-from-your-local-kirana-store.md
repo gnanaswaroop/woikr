@@ -4,6 +4,7 @@ date: 2011-10-08T08:05:15
 url: /news/aaramshop-offers-your-groceries-online-from-your-local-kirana-store/
 categories: ["News"]
 tags: ["aaramshop", "ecommerce india", "online groceries india"]
+image: "/wp/wp-content/uploads/2011/10/aaramshop-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

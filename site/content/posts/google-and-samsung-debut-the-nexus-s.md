@@ -4,6 +4,7 @@ date: 2010-12-07T08:37:11
 url: /google/google-and-samsung-debut-the-nexus-s/
 categories: ["Google", "Mobile Phones"]
 tags: ["google phone", "nexus s", "samsung nexus s", "Google", "newxus one successor", "new google phone", "gingerbread"]
+image: "/wp/wp-content/uploads/2010/12/image.png"
 author: "Setu"
 authors: ["setu"]
 ---

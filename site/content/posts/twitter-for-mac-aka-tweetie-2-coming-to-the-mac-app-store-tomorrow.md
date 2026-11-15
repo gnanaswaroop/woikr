@@ -4,6 +4,7 @@ date: 2011-01-06T06:08:22
 url: /mac/twitter-for-mac-aka-tweetie-2-coming-to-the-mac-app-store-tomorrow/
 categories: ["Mac"]
 tags: ["twitter", "twitter for mac", "tweetie", "tweetie 2", "mac app store"]
+image: "/wp/wp-content/uploads/2011/01/NewImage40.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

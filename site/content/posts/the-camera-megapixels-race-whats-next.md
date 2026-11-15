@@ -4,6 +4,7 @@ date: 2008-08-16T00:02:01
 url: /photography/the-camera-megapixels-race-whats-next/
 categories: ["Photo Gear"]
 tags: ["P65+", "Hasselblad", "PhaseOne", "50MP", "60.5MP", "Resolution", "Megapixels", "Photo Gear", "Cameras", "H3DII-50", "Photokina", "Sensor+", "645 Sensor", "High Resolution"]
+image: "/wp/wp-content/uploads/2008/08/race_lead_image.jpg"
 author: "Anshuman Johri"
 authors: ["anshuman"]
 ---

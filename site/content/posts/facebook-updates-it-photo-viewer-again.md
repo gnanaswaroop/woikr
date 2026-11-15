@@ -4,6 +4,7 @@ date: 2011-08-28T01:54:50
 url: /news/facebook-updates-it-photo-viewer-again/
 categories: ["News"]
 tags: ["facebook", "Facebook Photos", "facebook photo viewer", "facebook lightbox"]
+image: "/wp/wp-content/uploads/2011/08/facebook-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

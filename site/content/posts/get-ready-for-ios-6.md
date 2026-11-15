@@ -4,6 +4,7 @@ date: 2012-06-12T20:54:03
 url: /news/get-ready-for-ios-6/
 categories: ["News", "Apple"]
 tags: ["latest iOS", "wwdc 2012", "iPhone OS", "iOS 6", "iPad OS"]
+image: "/wp/wp-content/uploads/2012/06/iOS-6-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

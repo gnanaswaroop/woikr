@@ -4,6 +4,7 @@ date: 2010-07-26T23:34:01
 url: /news/us-copyright-office-legalizes-jailbreaking-and-unlocking-of-iphone/
 categories: ["News"]
 tags: ["dmca", "iPhone Unlock", "iPhone Jailbreak", "DVD rip", "dmca 2010", "copyrights act 2010"]
+image: "/wp/wp-content/uploads/2010/07/image17.png"
 author: "Setu"
 authors: ["setu"]
 ---

@@ -4,6 +4,7 @@ date: 2010-08-18T17:32:26
 url: /ipad/yahoo-mail-launches-html5-version-for-ipad/
 categories: ["iPad", "News"]
 tags: ["iPad", "yahoo", "yahoo mail", "yahoo mail for iPad", "HTML5"]
+image: "/wp/wp-content/uploads/2010/08/iPadInboxFull.png"
 author: "Setu"
 authors: ["setu"]
 ---

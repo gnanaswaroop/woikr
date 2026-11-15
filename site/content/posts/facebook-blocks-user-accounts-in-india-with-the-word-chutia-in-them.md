@@ -4,6 +4,7 @@ date: 2012-03-13T00:52:36
 url: /wtf/facebook-blocks-user-accounts-in-india-with-the-word-chutia-in-them/
 categories: ["WTF?"]
 tags: ["facebook", "facebook indian languages", "Facebook india"]
+image: "/wp/wp-content/uploads/2011/08/facebook-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

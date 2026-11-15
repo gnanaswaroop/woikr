@@ -4,6 +4,7 @@ date: 2011-01-31T23:39:44
 url: /android/android-is-the-worlds-most-selling-smartphone-platform-now/
 categories: ["Android", "Mobile Phones"]
 tags: ["Android market share", "Android Number 1 in smartphone market", "Android leads smartphone market", "Android beats Nokia", "Android beats Symbian"]
+image: "/wp/wp-content/uploads/2011/01/canalys_android.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

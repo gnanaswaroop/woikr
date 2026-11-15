@@ -4,6 +4,7 @@ date: 2008-11-21T17:09:31
 url: /news/nokia-test-labs/
 categories: ["News", "Mobile Phones"]
 tags: ["Nokia durability tests", "Nokia Test Labs", "Nokia Damage test labs", "Nokia Mobile phones", "Mobile phone durability tests"]
+image: "/wp/wp-content/uploads/2008/11/keypad_pressing_test.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

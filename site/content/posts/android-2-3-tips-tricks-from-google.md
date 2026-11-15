@@ -4,6 +4,7 @@ date: 2011-01-04T09:49:12
 url: /android/android-2-3-tips-tricks-from-google/
 categories: ["Android"]
 tags: ["android", "android 2.3", "gingerbread", "android tips", "Google", "nexus s"]
+image: "/wp/wp-content/uploads/2011/01/NewImage13.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

@@ -4,6 +4,7 @@ date: 2011-02-08T09:22:44
 url: /google/googles-interactive-submarine-doodle-honors-jules-verne/
 categories: ["Google"]
 tags: ["Google Doodle", "Jules Verne", "Father of Science Fiction", "Google Submarine Doodle", "Google Underwater Doodle", "Google Sea Doodle", "Google Interactive Doodle", "Google Jules Verne Doodle", "Jules Verne's 183rd birthday"]
+image: "/wp/wp-content/uploads/2011/02/jules_verne_doodle.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

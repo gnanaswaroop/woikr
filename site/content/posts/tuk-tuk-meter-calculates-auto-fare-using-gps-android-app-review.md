@@ -4,6 +4,7 @@ date: 2011-01-30T18:23:16
 url: /android/tuk-tuk-meter-calculates-auto-fare-using-gps-android-app-review/
 categories: ["Android", "Reviews"]
 tags: ["Tuk Tuk Meter", "Tuk Tuk for Android", "Auto fare Android Phones", "Calculate Auto fare on Phone", "Auto Fare app", "Distance Calculation app", "Calculate Distance using GPS"]
+image: "/wp/wp-content/uploads/2011/01/tuktuk1.png"
 author: "Chirag"
 authors: ["chirag"]
 ---

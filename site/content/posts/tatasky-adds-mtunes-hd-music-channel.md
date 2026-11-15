@@ -4,6 +4,7 @@ date: 2012-12-02T12:41:09
 url: /home-entertainment/tatasky-adds-mtunes-hd-music-channel/
 categories: ["Home Entertainment"]
 tags: ["tatasky", "tatasky HD", "mtunes HD", "hd music channel india"]
+image: "/wp/wp-content/uploads/2012/12/MTunes-HD-Logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

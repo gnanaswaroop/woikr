@@ -4,6 +4,7 @@ date: 2010-09-27T22:35:39
 url: /android/an-indianized-8-android-tablet-for-9k/
 categories: ["Android"]
 tags: []
+image: "/wp/wp-content/uploads/2010/09/112975_binatone-home-surf-touch-tablet.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

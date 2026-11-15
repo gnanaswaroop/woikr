@@ -4,6 +4,7 @@ date: 2010-12-30T10:53:23
 url: /iphone/iphone-cdma-is-coming-soon/
 categories: ["iPhone"]
 tags: ["iphone4", "iPhone5", "iPhone CDMA", "CDMA", "iPhone Verizon", "iPhone AT&T", "Verizon", "AT&T", "iPhone India", "iphone release"]
+image: "/wp/wp-content/uploads/2010/12/iPhoneCDMA.jpg"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

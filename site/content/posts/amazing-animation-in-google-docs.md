@@ -4,6 +4,7 @@ date: 2011-01-06T05:23:27
 url: /google/amazing-animation-in-google-docs/
 categories: ["Google"]
 tags: ["Google", "google docs", "google docs animation", "google powerpoint"]
+image: "/wp/wp-content/uploads/2011/01/NewImage38.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

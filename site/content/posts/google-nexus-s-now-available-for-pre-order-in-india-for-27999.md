@@ -4,6 +4,7 @@ date: 2011-03-23T18:19:03
 url: /android/google-nexus-s-now-available-for-pre-order-in-india-for-27999/
 categories: ["Android", "Mobile Phones"]
 tags: ["nexus s", "samsung nexus s", "Google Nexus S", "Nexus S India", "Nexus S India price", "Nexus S price", "Nexus S India release", "Flipkart Nexus S"]
+image: "/wp/wp-content/uploads/2011/03/flipkart_nexus_s.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

@@ -4,6 +4,7 @@ date: 2010-11-01T12:00:27
 url: /ipad/ipad-available-in-india-for-icici-bank-customers/
 categories: ["iPad", "WTF?", "News"]
 tags: ["iPad", "iPad India", "Ipad 3G India", "ipad 3G", "icici"]
+image: "/wp/wp-content/uploads/2010/11/image_thumb41.png"
 author: "Setu"
 authors: ["setu"]
 ---

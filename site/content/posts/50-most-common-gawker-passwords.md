@@ -4,6 +4,7 @@ date: 2010-12-16T23:21:18
 url: /misc/50-most-common-gawker-passwords/
 categories: ["Misc"]
 tags: ["50 most common passwords", "gawker media passwords", "password security"]
+image: "/wp/wp-content/uploads/2010/12/top50gawker.png"
 author: "Chirag"
 authors: ["chirag"]
 ---

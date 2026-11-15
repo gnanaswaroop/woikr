@@ -4,6 +4,7 @@ date: 2010-08-16T16:22:14
 url: /howto/double-driver-backs-up-all-your-windows-drivers/
 categories: ["How Tos", "Misc"]
 tags: ["double driver", "device drivers backup"]
+image: "/wp/wp-content/uploads/2010/08/image34.png"
 author: "Setu"
 authors: ["setu"]
 ---

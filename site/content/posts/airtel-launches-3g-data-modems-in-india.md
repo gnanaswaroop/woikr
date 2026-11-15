@@ -4,6 +4,7 @@ date: 2010-09-02T17:51:59
 url: /telecom/airtel-launches-3g-data-modems-in-india/
 categories: ["Telecom", "News"]
 tags: ["Airtel", "bharti airtel", "airtel 3g", "3g india", "3g broadband", "3g service in India"]
+image: "/wp/wp-content/uploads/2010/03/image_thumb5.png"
 author: "Setu"
 authors: ["setu"]
 ---

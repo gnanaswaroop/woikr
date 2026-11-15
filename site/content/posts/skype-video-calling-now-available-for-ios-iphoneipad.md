@@ -4,6 +4,7 @@ date: 2010-12-30T11:19:08
 url: /ipad/skype-video-calling-now-available-for-ios-iphoneipad/
 categories: ["iPad", "iPhone"]
 tags: ["skype video calls", "video calls", "skype facetime", "video facetime", "facetime", "iPhone facetime", "facetime vs skype", "skype iPhone"]
+image: "/wp/wp-content/uploads/2010/12/iPhoneSkypeVideo21.jpg"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

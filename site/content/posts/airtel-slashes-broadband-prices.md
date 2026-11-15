@@ -4,6 +4,7 @@ date: 2009-07-28T12:05:29
 url: /news/airtel-slashes-broadband-prices/
 categories: ["News"]
 tags: ["airtel broadband", "airtel broadband tariffs", "airtel 1 mbps"]
+image: "/wp/wp-content/uploads/2009/07/airtel-logo.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

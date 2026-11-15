@@ -4,6 +4,7 @@ date: 2012-04-23T19:48:48
 url: /news/reliance-infotel-plans-to-install-100000-towers-for-4g-lte-operations-across-india/
 categories: ["News"]
 tags: ["4G india", "LTE india", "wireless broadband", "wireless india"]
+image: "/wp/wp-content/uploads/2012/04/reliance-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

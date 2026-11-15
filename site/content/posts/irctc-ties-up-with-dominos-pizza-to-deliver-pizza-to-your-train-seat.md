@@ -4,6 +4,7 @@ date: 2015-02-26T06:11:43
 url: /news/irctc-ties-up-with-dominos-pizza-to-deliver-pizza-to-your-train-seat/
 categories: ["News"]
 tags: ["irctc", "pizza on train", "dominos indian railways"]
+image: "/wp/wp-content/uploads/2010/07/image_thumb22.png"
 author: "Setu"
 authors: ["setu"]
 ---

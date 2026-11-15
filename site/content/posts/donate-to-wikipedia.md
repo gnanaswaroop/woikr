@@ -4,6 +4,7 @@ date: 2010-12-17T12:49:32
 url: /misc/donate-to-wikipedia/
 categories: ["Misc"]
 tags: ["wikipedia", "donations"]
+image: "/wp/wp-content/uploads/2010/12/image5.png"
 author: "Setu"
 authors: ["setu"]
 ---

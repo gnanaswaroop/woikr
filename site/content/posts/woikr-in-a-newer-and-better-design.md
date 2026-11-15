@@ -4,6 +4,7 @@ date: 2008-10-19T23:46:49
 url: /blogging/woikr-in-a-newer-and-better-design/
 categories: ["Blogging", "News"]
 tags: ["woikr.com", "woikr redesign", "mimbo theme"]
+image: "/wp/wp-content/uploads/2008/10/woikr-redesign.png"
 author: "Team Woikr"
 authors: ["woikr"]
 aliases: ["/news/woikr-in-a-newer-and-better-design/"]

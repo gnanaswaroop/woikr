@@ -4,6 +4,7 @@ date: 2011-01-08T17:27:31
 url: /android/ski-with-the-new-android-snow-goggles/
 categories: ["Android"]
 tags: ["android eyegear", "recon instruments", "reconinstruments", "snow boarding", "skiing", "skiing gear", "eyegear with Android"]
+image: "/wp/wp-content/uploads/2011/01/ReconInstrumentsSnowGogglesAndroid.jpg"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

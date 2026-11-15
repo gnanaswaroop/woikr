@@ -4,6 +4,7 @@ date: 2013-03-12T22:48:05
 url: /news/indian-airports-to-accept-mobile-boarding-passes-for-domestic-flights-soon/
 categories: ["News"]
 tags: ["mobile boarding pass india", "civil aviation india"]
+image: "/wp/wp-content/uploads/2013/03/mobile-boarding-pass.png"
 author: "Setu"
 authors: ["setu"]
 aliases: ["/news/indian-airports-to-accept-mobile-boarding-passes-for-domestic-flights-soon"]

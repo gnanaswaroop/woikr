@@ -4,6 +4,7 @@ date: 2012-12-04T19:20:53
 url: /android/mahindra-launches-android-app-to-connect-with-your-xuv-500/
 categories: ["Android", "News"]
 tags: ["mahindra", "xuv", "xuv 500", "mahindra android app", "xuv android app"]
+image: "/wp/wp-content/uploads/2012/12/mahindra-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

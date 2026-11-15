@@ -4,6 +4,7 @@ date: 2010-09-29T23:02:16
 url: /news/bose-launches-videowave-an-integrated-tv-and-home-theater-system/
 categories: ["News", "Home Entertainment"]
 tags: ["bose", "bose videowave", "adaptiq", "phaseguide"]
+image: "/wp/wp-content/uploads/2010/09/image38.png"
 author: "Setu"
 authors: ["setu"]
 ---

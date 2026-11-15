@@ -4,6 +4,7 @@ date: 2012-03-19T19:20:56
 url: /gaming/if-you-havent-played-draw-something-yet-you-should-play-it-now/
 categories: ["Gaming"]
 tags: ["Draw Something", "pictionary like game iphone"]
+image: "/wp/wp-content/uploads/2012/03/DrawSomething.png"
 author: "Setu"
 authors: ["setu"]
 ---

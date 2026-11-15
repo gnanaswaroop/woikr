@@ -4,6 +4,7 @@ date: 2011-08-30T19:57:17
 url: /ipad/indian-members-of-parliament-mps-are-getting-ipads-from-taxpayers-money-wtf/
 categories: ["iPad", "WTF?", "News"]
 tags: ["ipad 2 india", "iPad India", "iPad 2", "ipad government of india", "ipad MPs india"]
+image: "/wp/wp-content/uploads/2011/08/ipad-fail.png"
 author: "Setu"
 authors: ["setu"]
 ---

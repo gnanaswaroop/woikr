@@ -4,6 +4,7 @@ date: 2011-01-05T09:08:33
 url: /news/750-million-photos-uploaded-to-facebook-on-new-years-eve/
 categories: ["News"]
 tags: ["Facebook Photos", "facebook", "Flickr", "Mark Zuckerberg", "Randi Zuckerberg", "How big is Facebook"]
+image: "/wp/wp-content/uploads/2011/01/facebook_580x218.shkl_.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

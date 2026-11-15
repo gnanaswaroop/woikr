@@ -4,6 +4,7 @@ date: 2012-08-30T21:03:16
 url: /news/recharge-your-delhi-gurgaon-expressway-smart-tag-via-paytm/
 categories: ["News"]
 tags: ["recharge toll cards online", "toll card online india"]
+image: "/wp/wp-content/uploads/2012/08/paytm-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

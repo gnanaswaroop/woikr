@@ -4,6 +4,7 @@ date: 2011-02-03T23:20:39
 url: /android/google-launches-android-market-website-with-some-nifty-features-finally/
 categories: ["Android"]
 tags: ["Android Market", "Android Market website", "Android Market new features", "Android Market issues", "Remote install apps", "Android remote installaton"]
+image: "/wp/wp-content/uploads/2011/02/amweb.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

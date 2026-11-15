@@ -4,6 +4,7 @@ date: 2011-08-27T18:18:26
 url: /microsoft/how-microsoft-plans-to-enhance-copypaste-experience-in-windows-8/
 categories: ["Microsoft"]
 tags: ["Windows 8", "Windows 8 new features", "Windows 8 improvements", "Windows 8 Explorer", "Windows 8 copy/paste enhancements"]
+image: "/wp/wp-content/uploads/2011/08/copy_multiple_win8.png"
 author: "Chirag"
 authors: ["chirag"]
 ---

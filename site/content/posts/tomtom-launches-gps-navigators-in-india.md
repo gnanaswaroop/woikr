@@ -4,6 +4,7 @@ date: 2011-10-04T07:08:29
 url: /telecom/tomtom-launches-gps-navigators-in-india/
 categories: ["Telecom", "News"]
 tags: ["gps india", "tomtom india", "navigators in india"]
+image: "/wp/wp-content/uploads/2011/10/tomtom-india-gps.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

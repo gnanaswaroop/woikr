@@ -4,6 +4,7 @@ date: 2008-09-19T20:18:56
 url: /gaming/review-moto-chaser-paid-iphone-apps/
 categories: ["Gaming", "Apple", "iPhone", "Reviews"]
 tags: ["moto chaser", "moto chaser iphone", "moto chaser review", "iphone racing game", "iphone bike racing", "moto racer app store", "moto racer iphone", "iphone game", "paid iPhone app"]
+image: "/wp/wp-content/uploads/2008/09/moto_chaser_lead.png"
 author: "Setu"
 authors: ["setu"]
 ---

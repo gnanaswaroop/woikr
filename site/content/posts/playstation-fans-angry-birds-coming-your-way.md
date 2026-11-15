@@ -4,6 +4,7 @@ date: 2011-01-03T23:23:17
 url: /gaming/playstation-fans-angry-birds-coming-your-way/
 categories: ["Gaming", "Misc"]
 tags: ["playstation 3", "playstation portable", "psp", "ps3", "angry birds", "angrybirds", "rovio mobile"]
+image: "/wp/wp-content/uploads/2011/01/AngryBirds.jpg"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

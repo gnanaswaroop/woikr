@@ -4,6 +4,7 @@ date: 2010-03-04T19:46:21
 url: /google/a-cheaper-nexus-one-for-india/
 categories: ["Google", "News", "Mobile Phones"]
 tags: ["google phone india", "nexus one in india", "nexus one", "android india"]
+image: "/wp/wp-content/uploads/2010/03/image.png"
 author: "Setu"
 authors: ["setu"]
 ---

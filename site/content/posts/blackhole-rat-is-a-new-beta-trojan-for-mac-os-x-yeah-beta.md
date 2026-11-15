@@ -4,6 +4,7 @@ date: 2011-03-01T10:56:32
 url: /mac/blackhole-rat-is-a-new-beta-trojan-for-mac-os-x-yeah-beta/
 categories: ["Mac"]
 tags: ["Trojan for Mac", "Virus for Mac", "Mac malware", "Mac viruses", "BlackHole RAT", "darkComet", "Remote Access Trojan", "RAT", "OSX/MunMinim-A", "MusMinim-A", "Mac Security Issues", "Sophos", "Mac OS X"]
+image: "/wp/wp-content/uploads/2011/03/musmunima_alert.png"
 author: "Chirag"
 authors: ["chirag"]
 ---

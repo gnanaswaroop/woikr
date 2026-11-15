@@ -4,6 +4,7 @@ date: 2012-01-07T01:35:43
 url: /news/bigflix-launches-netflix-like-streaming-service-in-india/
 categories: ["News", "Home Entertainment"]
 tags: ["netflix type service in india", "netflix india", "bigflix", "bigflix plus", "streaming service india"]
+image: "/wp/wp-content/uploads/2012/01/bigflix-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

@@ -4,6 +4,7 @@ date: 2011-01-11T10:26:09
 url: /wtf/iphone-3gs-price-reduced-to-49-in-the-us/
 categories: ["WTF?", "News"]
 tags: ["iPhone", "iphone 3gs", "iPhone price"]
+image: "/wp/wp-content/uploads/2009/06/image2.png"
 author: "Setu"
 authors: ["setu"]
 ---

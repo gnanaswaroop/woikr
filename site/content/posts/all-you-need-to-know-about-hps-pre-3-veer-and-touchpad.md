@@ -4,6 +4,7 @@ date: 2011-02-17T09:45:46
 url: /first-look/all-you-need-to-know-about-hps-pre-3-veer-and-touchpad/
 categories: ["First Look"]
 tags: ["HP", "WebOS", "Palm. webOS", "pre", "Pre3", "Veer", "TouchPad", "palm pre", "Palm Pre3", "Palm Veer", "Palm Tablet", "HP TouchPad", "HP Veer", "HP Pre3"]
+image: "/wp/wp-content/uploads/2011/02/HP_Pre3.jpg"
 author: "Abdul Rahaman"
 authors: ["arahaman"]
 ---

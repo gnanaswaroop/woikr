@@ -4,6 +4,7 @@ date: 2010-12-25T11:10:04
 url: /android/3-apps-you-can-gift-an-android-owner-this-christmas/
 categories: ["Android"]
 tags: ["Android Games", "Android Fun Apps", "Android Christmas Gifts"]
+image: "/wp/wp-content/uploads/2010/12/camera_fun_pro.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

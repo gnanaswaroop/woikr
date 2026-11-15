@@ -4,6 +4,7 @@ date: 2010-12-17T23:33:32
 url: /apple/two-fastest-selling-gadgets-of-all-time-ipad-and-kinect/
 categories: ["Apple", "Microsoft"]
 tags: ["iPad vs Kinect", "iPad sales", "Kinect sales"]
+image: "/wp/wp-content/uploads/2010/12/ipadvskinect.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

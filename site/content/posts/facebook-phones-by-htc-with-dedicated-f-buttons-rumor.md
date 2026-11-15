@@ -4,6 +4,7 @@ date: 2011-02-15T00:17:34
 url: /android/facebook-phones-by-htc-with-dedicated-f-buttons-rumor/
 categories: ["Android", "Rumors", "Mobile Phones"]
 tags: ["Facebook Phonoe", "HTC Android Facebook", "HTC Facebook Phones", "HTC Facebook Dedicated button", "HTC Facebook Android Phone", "facebook android"]
+image: "/wp/wp-content/uploads/2011/02/facebookphone1.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

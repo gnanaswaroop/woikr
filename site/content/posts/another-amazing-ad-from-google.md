@@ -4,6 +4,7 @@ date: 2010-05-06T23:28:12
 url: /misc/another-amazing-ad-from-google/
 categories: ["Misc", "Google"]
 tags: ["Google", "google chrome", "google ads", "amazing ads", "Chrome"]
+image: "/wp/wp-content/uploads/2009/05/logo-google-chrome-thumb.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

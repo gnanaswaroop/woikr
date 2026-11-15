@@ -4,6 +4,7 @@ date: 2009-10-08T00:35:22
 url: /deals/ipods-at-lowest-prices-in-india-deals/
 categories: ["Deals"]
 tags: ["buy iPods in India", "ipods on discount", "discounts on ipod in india"]
+image: "/wp/wp-content/uploads/2009/10/ebay_ipod.png"
 author: "Chirag"
 authors: ["chirag"]
 ---

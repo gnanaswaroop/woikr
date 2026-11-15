@@ -4,6 +4,7 @@ date: 2011-04-27T18:49:33
 url: /ipad/its-official-apple-ipad-2-coming-to-india-this-friday/
 categories: ["iPad", "Apple"]
 tags: ["iPad 2", "Apple iPad 2 India", "iPad 2 India launch date"]
+image: "/wp/wp-content/uploads/2011/04/iPad-2.png"
 author: "Chirag"
 authors: ["chirag"]
 ---

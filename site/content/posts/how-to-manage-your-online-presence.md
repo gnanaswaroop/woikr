@@ -4,6 +4,7 @@ date: 2010-09-25T22:51:49
 url: /misc/how-to-manage-your-online-presence/
 categories: ["Misc"]
 tags: ["social networking", "how to", "use twitter", "orkut", "digg", "linkedin", "twitter", "facebook", "india social", "social online", "social networking in india", "online presence", "purchase websites", "how to be online", "social life online", "online social"]
+image: "/wp/wp-content/uploads/2010/09/cloud.png"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

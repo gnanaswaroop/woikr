@@ -4,6 +4,7 @@ date: 2014-02-04T14:56:48
 url: /internet/facebook-completes-10-years-today/
 categories: ["Internet"]
 tags: ["facebook", "facebook anniversary"]
+image: "/wp/wp-content/uploads/2011/08/facebook-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

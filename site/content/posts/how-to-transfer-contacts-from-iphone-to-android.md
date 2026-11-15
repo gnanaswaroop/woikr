@@ -4,6 +4,7 @@ date: 2011-01-19T23:32:26
 url: /howto/how-to-transfer-contacts-from-iphone-to-android/
 categories: ["How Tos", "Android", "iPhone"]
 tags: ["iPhone", "android", "iphone to android", "iphone to android contacts", "iphone contacts", "androidn contacts", "google contacts"]
+image: "/wp/wp-content/uploads/2011/01/image9.png"
 author: "Setu"
 authors: ["setu"]
 aliases: ["/iphone/how-to-transfer-contacts-from-iphone-to-android/"]

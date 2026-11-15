@@ -4,6 +4,7 @@ date: 2009-04-09T14:38:18
 url: /news/color-filters-in-google-image-search/
 categories: ["News"]
 tags: ["Google", "google image search", "image search by color", "google color filters"]
+image: "/wp/wp-content/uploads/2009/04/google_image_search_logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

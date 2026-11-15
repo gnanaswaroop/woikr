@@ -4,6 +4,7 @@ date: 2011-04-26T22:56:58
 url: /ipad/ipad-2-coming-to-india-soon/
 categories: ["iPad"]
 tags: ["ipad 2 india", "iPad", "iPad 2", "iPad India", "buy ipad 2 in india"]
+image: "/wp/wp-content/uploads/2011/03/NewImage2.png"
 author: "Setu"
 authors: ["setu"]
 ---

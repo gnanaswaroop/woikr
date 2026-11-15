@@ -4,6 +4,7 @@ date: 2010-07-23T13:13:58
 url: /news/indian-government-builds-inr-1500-personal-computing-device/
 categories: ["News"]
 tags: ["indian government", "hr ministry"]
+image: "/wp/wp-content/uploads/2010/07/image12.png"
 author: "Setu"
 authors: ["setu"]
 ---

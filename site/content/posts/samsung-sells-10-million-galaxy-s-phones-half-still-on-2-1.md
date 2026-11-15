@@ -4,6 +4,7 @@ date: 2011-01-03T22:03:41
 url: /android/samsung-sells-10-million-galaxy-s-phones-half-still-on-2-1/
 categories: ["Android"]
 tags: ["Google Android Fragmentation", "Google Android", "Samsung Galaxy S", "Galaxy S 10 million", "Galaxy S Froyo", "Galaxy S US froyo"]
+image: "/wp/wp-content/uploads/2011/01/Samsung-i9000-galaxy-s.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

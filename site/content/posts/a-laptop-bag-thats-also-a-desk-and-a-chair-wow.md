@@ -4,6 +4,7 @@ date: 2011-01-03T22:19:36
 url: /misc/a-laptop-bag-thats-also-a-desk-and-a-chair-wow/
 categories: ["Misc"]
 tags: ["laptop bag", "laptop case", "best laptop bag design", "laptop bag and chair and desk in one"]
+image: "/wp/wp-content/uploads/2011/01/03.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

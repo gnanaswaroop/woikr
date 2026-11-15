@@ -4,6 +4,7 @@ date: 2011-09-03T23:49:55
 url: /gaming/jenga-the-wood-block-game-in-the-big-bang-theory-is-now-available-on-the-ios-app-store/
 categories: ["Gaming", "News", "iPhone"]
 tags: ["jenga", "jenga online", "jenga iphone", "jenga ios"]
+image: "/wp/wp-content/uploads/2011/09/jenga-iphone.png"
 author: "Setu"
 authors: ["setu"]
 ---

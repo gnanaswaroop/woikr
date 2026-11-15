@@ -4,6 +4,7 @@ date: 2011-02-18T11:19:53
 url: /android/htc-desire-series-will-get-gingerbread-eventually/
 categories: ["Android", "Mobile Phones"]
 tags: ["HTC Desire Gingerbread", "HTC Desire", "HTC Desire Z Gingerbread", "HTC Desire HD Gingerbread", "gingerbread", "Android Gingerbread"]
+image: "/wp/wp-content/uploads/2011/02/547px-HTC_Desire_01.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

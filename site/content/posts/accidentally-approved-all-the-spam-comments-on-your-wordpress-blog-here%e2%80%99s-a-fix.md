@@ -4,6 +4,7 @@ date: 2011-02-08T00:11:35
 url: /howto/accidentally-approved-all-the-spam-comments-on-your-wordpress-blog-here%e2%80%99s-a-fix/
 categories: ["How Tos", "Blogging"]
 tags: ["wordpress tricks", "wordpress akismet fix", "how to re-check spam comments", "wordpress akismet approved comments", "wordpress akismet tables"]
+image: "/wp/wp-content/uploads/2011/02/image1.png"
 author: "Swaroop"
 authors: ["swaroop"]
 aliases: ["/howto/accidentally-approved-all-the-spam-comments-on-your-wordpress-blog-here%e2%80%99s-a-fix"]

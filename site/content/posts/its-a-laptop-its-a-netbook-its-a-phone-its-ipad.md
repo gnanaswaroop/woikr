@@ -4,6 +4,7 @@ date: 2010-01-29T01:12:24
 url: /ipad/its-a-laptop-its-a-netbook-its-a-phone-its-ipad/
 categories: ["iPad", "Apple"]
 tags: ["apple ipad", "Apple", "iPad"]
+image: "/wp/wp-content/uploads/2010/01/image3.png"
 author: "Setu"
 authors: ["setu"]
 ---

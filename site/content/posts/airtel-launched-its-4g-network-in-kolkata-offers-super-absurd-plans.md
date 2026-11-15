@@ -4,6 +4,7 @@ date: 2012-04-10T16:51:02
 url: /telecom/airtel-launched-its-4g-network-in-kolkata-offers-super-absurd-plans/
 categories: ["Telecom", "News"]
 tags: ["airtel 4G", "4G india", "4G LTE india"]
+image: "/wp/wp-content/uploads/2012/04/airtel-4G-LTE.png"
 author: "Setu"
 authors: ["setu"]
 ---

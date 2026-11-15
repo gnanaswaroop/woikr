@@ -4,6 +4,7 @@ date: 2010-05-11T18:02:46
 url: /wtf/government-of-india-planning-to-develop-its-own-operating-system-and-anti-virus-omfg-wtf/
 categories: ["WTF?", "News"]
 tags: ["government of india", "government operating system", "government anti virus", "indian government OS"]
+image: "/wp/wp-content/uploads/2010/05/windowslogo1.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

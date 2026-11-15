@@ -4,6 +4,7 @@ date: 2009-10-16T20:31:56
 url: /news/wow-finland-makes-broadband-a-legal-right/
 categories: ["News"]
 tags: ["finland", "universal broadband"]
+image: "/wp/wp-content/uploads/2009/10/image18.png"
 author: "Setu"
 authors: ["setu"]
 ---

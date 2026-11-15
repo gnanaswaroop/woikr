@@ -4,6 +4,7 @@ date: 2008-11-16T16:01:05
 url: /google/google-iphone-voice-recognition-app/
 categories: ["Google", "News"]
 tags: ["google app iphone", "google voice recognition app", "iphone voice recognition", "iPhone", "Google"]
+image: "/wp/wp-content/uploads/2008/11/iphone.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

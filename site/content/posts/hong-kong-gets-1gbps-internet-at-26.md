@@ -4,6 +4,7 @@ date: 2011-02-17T09:28:43
 url: /telecom/hong-kong-gets-1gbps-internet-at-26/
 categories: ["Telecom", "News"]
 tags: ["1Gbps Internet", "1000 Mbps Internet", "Hong Kong Broadband", "Hong Kong Internet Speeds", "HKBN Internet"]
+image: "/wp/wp-content/uploads/2011/02/HK_FLAG.png"
 author: "Chirag"
 authors: ["chirag"]
 ---

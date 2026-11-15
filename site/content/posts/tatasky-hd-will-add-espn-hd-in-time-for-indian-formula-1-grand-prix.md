@@ -4,6 +4,7 @@ date: 2011-10-25T12:12:44
 url: /news/tatasky-hd-will-add-espn-hd-in-time-for-indian-formula-1-grand-prix/
 categories: ["News", "Home Entertainment"]
 tags: ["tatasky", "tatasky HD", "tatasky hd channels", "espn hd india", "HD India", "formula 1 hd transmission india"]
+image: "/wp/wp-content/uploads/2011/05/tatasky-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

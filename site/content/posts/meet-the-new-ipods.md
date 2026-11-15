@@ -4,6 +4,7 @@ date: 2010-09-02T15:36:47
 url: /news/meet-the-new-ipods/
 categories: ["News", "Apple"]
 tags: ["iPod", "ipod 2010", "new ipods", "apple september 2010 event", "ipod shuffle", "ipod nano", "iPod touch jainbreak", "ipod facetime"]
+image: "/wp/wp-content/uploads/2010/09/image.png"
 author: "Setu"
 authors: ["setu"]
 ---

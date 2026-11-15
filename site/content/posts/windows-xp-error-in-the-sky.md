@@ -4,6 +4,7 @@ date: 2009-11-10T11:58:17
 url: /misc/windows-xp-error-in-the-sky/
 categories: ["Misc"]
 tags: ["windows xp", "error in sky", "billboards", "fog"]
+image: "/wp/wp-content/uploads/2009/11/image1.png"
 author: "Setu"
 authors: ["setu"]
 ---

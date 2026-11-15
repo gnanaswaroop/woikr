@@ -4,6 +4,7 @@ date: 2010-12-26T22:55:00
 url: /misc/batmobile-inspires-british-combat-vehicle-the-raider/
 categories: ["Misc"]
 tags: ["Batmobile", "The Dark Knight", "Batman Begins", "The Tumbler", "The Raider", "Defense Industry"]
+image: "/wp/wp-content/uploads/2010/12/Tumbler-Batmobile.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

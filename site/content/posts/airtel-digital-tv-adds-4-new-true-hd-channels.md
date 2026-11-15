@@ -4,6 +4,7 @@ date: 2011-11-02T06:49:19
 url: /home-entertainment/airtel-digital-tv-adds-4-new-true-hd-channels/
 categories: ["Home Entertainment"]
 tags: ["airtel digital TV", "airtel hd", "HD India", "hd channels india", "hd dth india"]
+image: "/wp/wp-content/uploads/2011/01/NewImage62.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

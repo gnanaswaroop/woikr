@@ -4,6 +4,7 @@ date: 2011-01-12T19:07:19
 url: /gaming/zynga-targets-1-billion-indians-explores-new-payment-options/
 categories: ["Gaming", "News"]
 tags: ["Zynga India", "Zynga Bangalore", "FarmVille", "CityVille", "Mafia Wars", "Zynga Payment Cards", "Zynga payment options"]
+image: "/wp/wp-content/uploads/2011/01/zynga.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

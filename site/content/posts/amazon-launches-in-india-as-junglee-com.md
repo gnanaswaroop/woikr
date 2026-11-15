@@ -4,6 +4,7 @@ date: 2012-02-02T20:54:50
 url: /news/amazon-launches-in-india-as-junglee-com/
 categories: ["News"]
 tags: ["junglee", "amazon india", "amazon", "junglee.com", "amazon junglee"]
+image: "/wp/wp-content/uploads/2012/02/junglee-com-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

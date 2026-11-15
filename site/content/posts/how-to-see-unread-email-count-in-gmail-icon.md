@@ -4,6 +4,7 @@ date: 2011-01-28T09:42:51
 url: /howto/how-to-see-unread-email-count-in-gmail-icon/
 categories: ["How Tos", "Google"]
 tags: ["Gmail unread icon", "Google Labs", "gmail labs", "Check Unread Email in Gmail"]
+image: "/wp/wp-content/uploads/2011/01/gmail_unread_email_icon.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

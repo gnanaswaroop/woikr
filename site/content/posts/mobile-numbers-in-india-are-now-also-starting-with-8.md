@@ -4,6 +4,7 @@ date: 2009-10-21T12:43:08
 url: /telecom/mobile-numbers-in-india-are-now-also-starting-with-8/
 categories: ["Telecom", "News"]
 tags: ["new numbering system 8", "mobile numbers in india 8", "mobile numbers starting with 8", "new mobile numbering scheme in india 8", "NNP"]
+image: "/wp/wp-content/uploads/2009/10/image19.png"
 author: "Setu"
 authors: ["setu"]
 ---

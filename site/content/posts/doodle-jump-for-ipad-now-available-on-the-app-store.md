@@ -4,6 +4,7 @@ date: 2011-09-02T15:57:23
 url: /gaming/doodle-jump-for-ipad-now-available-on-the-app-store/
 categories: ["Gaming", "iPad"]
 tags: ["doodle jump", "doodle jump ipad", "ipad games"]
+image: "/wp/wp-content/uploads/2011/03/doodle-jump_thumb.jpg"
 author: "Setu"
 authors: ["setu"]
 aliases: ["/gaming/doodle-jump-for-ipad-now-available-on-the-app-store"]

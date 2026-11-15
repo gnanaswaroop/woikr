@@ -4,6 +4,7 @@ date: 2012-03-08T12:34:48
 url: /apple/apple-tv-updated-to-support-1080p-full-hd-videos/
 categories: ["Apple", "Home Entertainment"]
 tags: ["apple tv", "1080p apple TV", "full HD apple TV"]
+image: "/wp/wp-content/uploads/2012/03/apple-tv.png"
 author: "Setu"
 authors: ["setu"]
 ---

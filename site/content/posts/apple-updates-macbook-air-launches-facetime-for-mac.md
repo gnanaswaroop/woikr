@@ -4,6 +4,7 @@ date: 2010-10-22T02:50:13
 url: /news/apple-updates-macbook-air-launches-facetime-for-mac/
 categories: ["News", "Laptops", "Mac"]
 tags: ["macbook", "macbook air", "facetime", "facetime for mac", "facetime on mac", "mac facetime", "new macbook air"]
+image: "/wp/wp-content/uploads/2010/10/image2.png"
 author: "Setu"
 authors: ["setu"]
 aliases: ["/mac/apple-updates-macbook-air-launches-facetime-for-mac/"]

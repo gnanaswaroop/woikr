@@ -4,6 +4,7 @@ date: 2014-02-04T14:42:00
 url: /home-entertainment/tatasky-adds-6-new-hd-channels-now-beams-a-total-of-24-hd-channels/
 categories: ["Home Entertainment"]
 tags: ["tatasky", "tatasky hd capacity", "tatasky hd india", "HD India", "hd channels india", "hd dth india"]
+image: "/wp/wp-content/uploads/2012/02/tatasky-hd-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

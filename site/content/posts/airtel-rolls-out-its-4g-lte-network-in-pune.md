@@ -4,6 +4,7 @@ date: 2012-10-18T19:48:05
 url: /telecom/airtel-rolls-out-its-4g-lte-network-in-pune/
 categories: ["Telecom"]
 tags: ["Airtel", "airtel 4G", "4G LTE india"]
+image: "/wp/wp-content/uploads/2012/04/airtel-4G-LTE.png"
 author: "Setu"
 authors: ["setu"]
 ---

@@ -4,6 +4,7 @@ date: 2013-02-16T12:18:29
 url: /misc/tyreonwheels-com-will-change-your-vehicles-tyres-at-your-home/
 categories: ["Misc"]
 tags: ["tyres online india", "vehicle repair online india", "buy tyres online india"]
+image: "/wp/wp-content/uploads/2013/02/tyre-on-wheels-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

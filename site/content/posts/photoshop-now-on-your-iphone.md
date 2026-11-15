@@ -4,6 +4,7 @@ date: 2009-10-13T01:16:39
 url: /iphone/photoshop-now-on-your-iphone/
 categories: ["iPhone"]
 tags: ["Adobe Photoshop mobile", "Photoshop.com mobile", "Photoshop iPhone", "iphone apps"]
+image: "/wp/wp-content/uploads/2009/10/Picture-3_400x201.shkl.png"
 author: "Chirag"
 authors: ["chirag"]
 ---

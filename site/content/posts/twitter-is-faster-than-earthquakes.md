@@ -4,6 +4,7 @@ date: 2011-08-28T01:21:27
 url: /lol/twitter-is-faster-than-earthquakes/
 categories: ["LOL"]
 tags: ["twitter", "twitter ads", "twitter app", "twitter iphone"]
+image: "/wp/wp-content/uploads/2011/06/twitter.png"
 author: "Setu"
 authors: ["setu"]
 ---

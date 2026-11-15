@@ -4,6 +4,7 @@ date: 2013-03-12T22:30:06
 url: /misc/exclusivelane-com-offers-handicrafts-products-online/
 categories: ["Misc", "Internet"]
 tags: ["indian handicraft online", "buy handicrafts online"]
+image: "/wp/wp-content/uploads/2013/03/exclusivelane-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

@@ -4,6 +4,7 @@ date: 2014-07-03T08:05:47
 url: /news/uber-launches-low-cost-uber-x-in-india/
 categories: ["News"]
 tags: ["uber", "uber india", "underx india"]
+image: "/wp/wp-content/uploads/2014/07/uber-logo.png"
 author: "Setu"
 authors: ["setu"]
 aliases: ["/news/uber-launches-low-cost-uber-x-in-india"]

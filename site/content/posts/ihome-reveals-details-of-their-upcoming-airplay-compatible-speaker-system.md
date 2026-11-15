@@ -4,6 +4,7 @@ date: 2011-01-06T06:33:32
 url: /news/ihome-reveals-details-of-their-upcoming-airplay-compatible-speaker-system/
 categories: ["News", "Home Entertainment"]
 tags: ["ihome", "airplay", "airplay speakers"]
+image: "/wp/wp-content/uploads/2011/01/NewImage46.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

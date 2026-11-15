@@ -4,6 +4,7 @@ date: 2011-06-21T13:18:05
 url: /apple/apple-sued-in-india/
 categories: ["Apple"]
 tags: ["Apple", "apple lawsuits", "apple supply issues india", "Apple india"]
+image: "/wp/wp-content/uploads/2011/06/apple-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

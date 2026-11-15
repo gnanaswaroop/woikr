@@ -4,6 +4,7 @@ date: 2011-11-11T23:23:56
 url: /apple/aircel-bringing-iphone4s-to-india-unlocked-iphones-available-for-pre-order-in-the-us/
 categories: ["Apple", "iPhone"]
 tags: ["Apple iPhone India", "iPhone4S India", "iPhone4S release date", "iPhone4S prices in India", "Unlocked iPhone4S", "iPhone 4S India"]
+image: "/wp/wp-content/uploads/2011/11/Aircel_iPhone4S_India_Coming_Soon.jpg"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

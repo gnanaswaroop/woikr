@@ -4,6 +4,7 @@ date: 2011-07-25T10:52:52
 url: /ipad/apples-new-ipad-ad-well-always/
 categories: ["iPad"]
 tags: ["iPad", "iPad 2", "ipad ad", "ipad advertisement", "apple ads"]
+image: "/wp/wp-content/uploads/2011/06/apple-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

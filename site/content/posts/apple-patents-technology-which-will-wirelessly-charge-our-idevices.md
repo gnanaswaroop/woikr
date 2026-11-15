@@ -4,6 +4,7 @@ date: 2011-06-16T22:26:39
 url: /apple/apple-patents-technology-which-will-wirelessly-charge-our-idevices/
 categories: ["Apple"]
 tags: ["Apple", "wireless charger", "wireless charging", "NFMR"]
+image: "/wp/wp-content/uploads/2011/06/apple-wireless-charging.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

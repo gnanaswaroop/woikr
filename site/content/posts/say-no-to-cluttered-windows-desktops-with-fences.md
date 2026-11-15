@@ -4,6 +4,7 @@ date: 2011-09-22T05:27:21
 url: /howto/say-no-to-cluttered-windows-desktops-with-fences/
 categories: ["How Tos"]
 tags: ["manage desktop windows", "manage icons", "cluttered desktop windows"]
+image: "/wp/wp-content/uploads/2011/09/cluttered-desktop.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

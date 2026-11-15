@@ -4,6 +4,7 @@ date: 2011-02-24T14:30:27
 url: /ipad/ipad-2-will-be-announced-on-march-2nd-apple-event/
 categories: ["iPad", "Apple"]
 tags: ["apple ipad", "iPad 2", "iPad2", "iPad2 announcement", "iPad2 March 2nd", "iPad2 rumors", "iPad 2 features", "iPad better camera", "iPad HD camera", "iPad screen resolution", "iPad speakers", "stereo speakers", "Xoom Vs iPad"]
+image: "/wp/wp-content/uploads/2011/02/iPad2March2ndAppleEventInvite.jpg"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

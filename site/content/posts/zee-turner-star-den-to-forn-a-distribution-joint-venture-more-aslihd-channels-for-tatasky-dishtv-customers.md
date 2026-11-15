@@ -4,6 +4,7 @@ date: 2011-05-26T19:34:05
 url: /news/zee-turner-star-den-to-forn-a-distribution-joint-venture-more-aslihd-channels-for-tatasky-dishtv-customers/
 categories: ["News", "Home Entertainment"]
 tags: ["AsliHD", "asli HD", "zee india", "star india", "dth india", "hd dth india", "hd channels india"]
+image: "/wp/wp-content/uploads/2011/05/star-den-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

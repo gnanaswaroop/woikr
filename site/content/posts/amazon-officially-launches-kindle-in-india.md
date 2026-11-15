@@ -4,6 +4,7 @@ date: 2012-08-30T20:41:08
 url: /news/amazon-officially-launches-kindle-in-india/
 categories: ["News"]
 tags: ["amazon", "amazon kindle", "amazon kindle india", "kindle", "kindle india"]
+image: "/wp/wp-content/uploads/2012/08/amazon-kindle-india.png"
 author: "Setu"
 authors: ["setu"]
 ---

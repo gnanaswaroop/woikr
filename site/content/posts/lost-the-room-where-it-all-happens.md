@@ -4,6 +4,7 @@ date: 2010-04-24T11:36:28
 url: /misc/lost-the-room-where-it-all-happens/
 categories: ["Misc"]
 tags: ["lost", "end of lost", "when will lost end", "lost tv series", "lost series finale"]
+image: "/wp/wp-content/uploads/2010/04/image24.png"
 author: "Setu"
 authors: ["setu"]
 ---

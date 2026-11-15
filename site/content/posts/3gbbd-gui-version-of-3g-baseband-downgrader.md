@@ -4,6 +4,7 @@ date: 2009-04-28T19:36:56
 url: /news/3gbbd-gui-version-of-3g-baseband-downgrader/
 categories: ["News"]
 tags: ["iPhone", "iphone 3G", "iPhone Unlock", "iphone 3g baseband downgrade", "downgrade iphone 3g firmware", "unlock 02.30.03", "unlock 2.2.1", "unlock iphone 3G 2.2.1"]
+image: "/wp/wp-content/uploads/2009/03/iphone_unlocked-244x300.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

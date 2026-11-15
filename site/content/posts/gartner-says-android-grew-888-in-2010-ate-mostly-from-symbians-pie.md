@@ -4,6 +4,7 @@ date: 2011-02-10T00:38:54
 url: /news/gartner-says-android-grew-888-in-2010-ate-mostly-from-symbians-pie/
 categories: ["News", "Mobile Phones"]
 tags: ["android-os", "Android market share", "Nokia falling share", "Nokia Market Share", "Apple market Share"]
+image: "/wp/wp-content/uploads/2011/02/gartner2_android1.jpg"
 author: "Chirag"
 authors: ["chirag"]
 aliases: ["/news/gartner-says-android-grew-888-in-2010-ate-mostly-from-symbians-pie"]

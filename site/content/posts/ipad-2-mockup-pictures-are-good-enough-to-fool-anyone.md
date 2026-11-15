@@ -4,6 +4,7 @@ date: 2011-01-07T10:30:39
 url: /ipad/ipad-2-mockup-pictures-are-good-enough-to-fool-anyone/
 categories: ["iPad"]
 tags: ["iPad 2 Pictures"]
+image: "/wp/wp-content/uploads/2011/01/iPad2_1.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

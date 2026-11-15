@@ -4,6 +4,7 @@ date: 2015-09-13T07:31:05
 url: /news/apple-announces-the-new-apple-tv/
 categories: ["News", "Apple"]
 tags: ["apple tv", "apple tv 2015"]
+image: "/wp/wp-content/uploads/2015/09/apple-tv-2015.png"
 author: "Setu"
 authors: ["setu"]
 aliases: ["/apple/apple-announces-the-new-apple-tv/"]

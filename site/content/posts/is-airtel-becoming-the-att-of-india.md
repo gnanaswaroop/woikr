@@ -4,6 +4,7 @@ date: 2011-05-30T20:54:58
 url: /telecom/is-airtel-becoming-the-att-of-india/
 categories: ["Telecom"]
 tags: ["airtel india", "Airtel", "airtel sucks", "airtel 3g", "3g india", "at&t india"]
+image: "/wp/wp-content/uploads/2011/01/NewImage62.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

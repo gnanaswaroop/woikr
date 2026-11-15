@@ -4,6 +4,7 @@ date: 2010-12-26T23:11:40
 url: /news/facebook-topples-yahoo-from-3/
 categories: ["News"]
 tags: ["yahoo", "Google", "facebook", "Microsoft", "comScore", "Facebook beats Yahoo"]
+image: "/wp/wp-content/uploads/2010/12/comScore_g_m_f_y.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

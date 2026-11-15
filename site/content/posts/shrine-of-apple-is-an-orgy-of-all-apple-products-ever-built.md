@@ -4,6 +4,7 @@ date: 2011-08-30T20:23:46
 url: /apple/shrine-of-apple-is-an-orgy-of-all-apple-products-ever-built/
 categories: ["Apple"]
 tags: ["Apple", "apple product", "apple products", "shrine of apple", "apple product timelines", "all apple products"]
+image: "/wp/wp-content/uploads/2011/08/shrine-of-apple.png"
 author: "Setu"
 authors: ["setu"]
 ---

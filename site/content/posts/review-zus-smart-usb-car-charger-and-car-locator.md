@@ -4,6 +4,7 @@ date: 2016-02-23T11:52:33
 url: /reviews/review-zus-smart-usb-car-charger-and-car-locator/
 categories: ["Reviews"]
 tags: ["zus charger", "smart usb car charger", "parking locator", "car parking locator"]
+image: "/wp/wp-content/uploads/2016/02/zus-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

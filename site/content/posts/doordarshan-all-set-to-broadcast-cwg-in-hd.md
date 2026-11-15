@@ -4,6 +4,7 @@ date: 2010-08-16T20:49:52
 url: /news/doordarshan-all-set-to-broadcast-cwg-in-hd/
 categories: ["News", "Home Entertainment"]
 tags: ["hd dth india", "doordarshan HD"]
+image: "/wp/wp-content/uploads/2010/03/image_thumb7.png"
 author: "Setu"
 authors: ["setu"]
 ---

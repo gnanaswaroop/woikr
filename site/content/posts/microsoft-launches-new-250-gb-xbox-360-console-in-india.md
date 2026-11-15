@@ -4,6 +4,7 @@ date: 2010-08-27T15:00:43
 url: /gaming/microsoft-launches-new-250-gb-xbox-360-console-in-india/
 categories: ["Gaming", "News", "Microsoft"]
 tags: ["xbox", "Xbox 360", "xbox 360 india", "xbox 360 price in india", "new xbox 360 india", "black xbox 360 india", "250 GB xbox 360 india"]
+image: "/wp/wp-content/uploads/2010/08/image57.png"
 author: "Setu"
 authors: ["setu"]
 ---

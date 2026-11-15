@@ -4,6 +4,7 @@ date: 2010-12-23T12:52:10
 url: /apple/griffin-slap-vs-iwatchz-ipod-nano-watch-straps/
 categories: ["Apple", "Reviews"]
 tags: ["iPod", "ipod nano", "new ipod nano", "ipod watch", "ipod nano watch", "iwatchz", "griffin slap", "nano watch", "ipod wristband"]
+image: "/wp/wp-content/uploads/2010/12/slap-nano6-1-300x218.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

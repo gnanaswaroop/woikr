@@ -4,6 +4,7 @@ date: 2011-07-15T18:51:43
 url: /home-entertainment/tatasky-says-the-hdmi-dolby-issue-on-their-hd-stbs-will-be-fixed-soon/
 categories: ["Home Entertainment"]
 tags: ["tatasky", "tatasky HD", "tatasky HD PVR", "tatasky hdmi issue", "tatasky hdmi dolby issue"]
+image: "/wp/wp-content/uploads/2011/05/tatasky-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

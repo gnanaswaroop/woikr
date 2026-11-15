@@ -4,6 +4,7 @@ date: 2010-12-28T22:48:22
 url: /home-entertainment/lg-72-inch-3d-led-tv/
 categories: ["Home Entertainment"]
 tags: ["World's Largest TV", "72 inch LED TV", "LG 72\" TV", "LG 3D LED TV"]
+image: "/wp/wp-content/uploads/2010/12/lg-lz9700-small.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

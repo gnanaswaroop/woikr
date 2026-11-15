@@ -4,6 +4,7 @@ date: 2011-02-19T12:03:32
 url: /misc/how-computers-evolved-from-1939-to-2010-infographic/
 categories: ["Misc"]
 tags: ["Infographic", "HP Complex Number Calculator", "Computers Timeline", "History Of Computers"]
+image: "/wp/wp-content/uploads/2011/02/HistoryOfComputers.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

@@ -4,6 +4,7 @@ date: 2009-03-04T12:18:58
 url: /lol/orkut-sex-fiasco/
 categories: ["LOL"]
 tags: []
+image: "/wp/wp-content/uploads/2009/03/are-they-women.jpg"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

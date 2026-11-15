@@ -4,6 +4,7 @@ date: 2010-03-24T12:23:47
 url: /telecom/bsnl-joins-the-bandwagon-offers-new-lamer-plans/
 categories: ["Telecom", "News"]
 tags: ["bsnl broadband", "bsnl", "broadband india", "high speed internet in India"]
+image: "/wp/wp-content/uploads/2010/03/bsnllogo1_thumb.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

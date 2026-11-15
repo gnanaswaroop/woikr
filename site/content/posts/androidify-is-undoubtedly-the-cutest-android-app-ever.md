@@ -4,6 +4,7 @@ date: 2011-02-14T13:24:22
 url: /android/androidify-is-undoubtedly-the-cutest-android-app-ever/
 categories: ["Android", "Google"]
 tags: ["Google Android", "Androidify", "Google Androidify Review", "Google Android Avatar", "Create your own android avatar"]
+image: "/wp/wp-content/uploads/2011/02/androidify.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

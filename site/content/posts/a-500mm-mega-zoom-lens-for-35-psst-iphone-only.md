@@ -4,6 +4,7 @@ date: 2011-02-19T11:09:20
 url: /photography/a-500mm-mega-zoom-lens-for-35-psst-iphone-only/
 categories: ["Photo Gear", "iPhone"]
 tags: ["iPhone Zoom lens", "iPhone High zoom", "iPhone telephoto", "Megazoom for cheap", "8x zoom on iPhone"]
+image: "/wp/wp-content/uploads/2011/02/iPhone_Zoom_500.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

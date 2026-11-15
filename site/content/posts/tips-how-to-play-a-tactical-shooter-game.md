@@ -4,6 +4,7 @@ date: 2008-09-07T12:29:30
 url: /gaming/tips-how-to-play-a-tactical-shooter-game/
 categories: ["Gaming"]
 tags: ["counter strike", "multiplayer gaming", "team strategy", "game strategy", "gaming tips", "gaming how to"]
+image: "/wp/wp-content/uploads/2008/09/team-play1.png"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

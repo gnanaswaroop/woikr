@@ -4,6 +4,7 @@ date: 2009-04-08T20:35:42
 url: /google/new-version-of-gmail-for-iphone/
 categories: ["Google", "News"]
 tags: ["new gmail mobile", "gmail", "Google", "iPhone", "android-os", "fast gmail"]
+image: "/wp/wp-content/uploads/2008/11/gmail_logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

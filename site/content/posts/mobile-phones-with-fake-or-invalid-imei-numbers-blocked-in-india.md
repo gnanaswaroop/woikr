@@ -4,6 +4,7 @@ date: 2009-12-02T12:41:33
 url: /telecom/mobile-phones-with-fake-or-invalid-imei-numbers-blocked-in-india/
 categories: ["Telecom", "News"]
 tags: ["imei", "unbranded chinese gsm phones blocked in india", "gsm india"]
+image: "/wp/wp-content/uploads/2009/12/image.png"
 author: "Setu"
 authors: ["setu"]
 ---

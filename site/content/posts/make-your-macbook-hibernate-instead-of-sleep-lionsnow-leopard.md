@@ -4,6 +4,7 @@ date: 2011-12-31T20:48:06
 url: /mac/make-your-macbook-hibernate-instead-of-sleep-lionsnow-leopard/
 categories: ["Mac"]
 tags: ["Snow Leopard Hibernate mode", "Lion Hibernate mode", "Mac OS X hibernate mode", "Macbook Pro Hibernate"]
+image: "/wp/wp-content/uploads/2011/12/macbook_pro_sleep_light.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

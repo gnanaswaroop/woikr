@@ -4,6 +4,7 @@ date: 2009-06-07T15:42:39
 url: /gaming/project-natal-from-microsoft/
 categories: ["Gaming", "News"]
 tags: ["project natal", "milo", "Xbox 360", "e3", "Microsoft"]
+image: "/wp/wp-content/uploads/2008/12/xbox360logo-300x195.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

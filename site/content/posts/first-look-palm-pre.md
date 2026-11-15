@@ -4,6 +4,7 @@ date: 2009-01-12T15:27:44
 url: /first-look/first-look-palm-pre/
 categories: ["First Look", "News"]
 tags: ["palm", "palm pre", "palm touch screen", "palm touchscreen", "web OS", "palm phone", "palm 3G wifi", "palm vs. iphone", "palm vs. android", "wireless charger"]
+image: "/wp/wp-content/uploads/2009/01/palm_pre_top.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

@@ -4,6 +4,7 @@ date: 2011-04-13T01:30:05
 url: /ipad/glasses-free-3d-on-ipad2/
 categories: ["iPad", "Apple"]
 tags: ["apple ipad", "iPad 3D", "3D video on iPad", "Glasses Free 3D", "No glasses 3D", "3D without glasses", "3D on iPad", "iPad2 3D", "iOS5", "iOS Feature list", "iOS5 Features"]
+image: "/wp/wp-content/uploads/2011/04/Glasses-Free-3D-On-iPad.jpg"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

@@ -4,6 +4,7 @@ date: 2009-05-11T17:52:30
 url: /wtf/happy-to-help-apparently-not/
 categories: ["WTF?"]
 tags: ["vodafone", "Airtel", "calling cards", "vodafone WTF", "customer care"]
+image: "/wp/wp-content/uploads/2009/01/airtel_logo.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

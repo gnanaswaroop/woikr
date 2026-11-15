@@ -4,6 +4,7 @@ date: 2011-01-29T22:54:42
 url: /gaming/20th-century-fox-takes-angry-birds-to-rio/
 categories: ["Gaming"]
 tags: ["Rio Movie", "Rio Animation Movie", "Angry Birds Rio", "angry birds", "Angry Birds Rio Trailer"]
+image: "/wp/wp-content/uploads/2011/01/rio_movie_400x593.shkl_.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

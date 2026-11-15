@@ -4,6 +4,7 @@ date: 2010-08-19T11:34:36
 url: /ipad/send-receive-sms-and-mms-from-your-ipad-3g/
 categories: ["iPad", "News"]
 tags: ["sms mms from ipad", "iPad", "ipad 3G", "messaging on ipad 3g"]
+image: "/wp/wp-content/uploads/2010/08/image41.png"
 author: "Setu"
 authors: ["setu"]
 ---

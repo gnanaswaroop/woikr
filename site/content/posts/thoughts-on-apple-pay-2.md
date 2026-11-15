@@ -4,6 +4,7 @@ date: 2015-02-04T07:23:13
 url: /apple/thoughts-on-apple-pay-2/
 categories: ["Apple"]
 tags: ["apple pay", "nfc iphone", "iphone 6"]
+image: "/wp/wp-content/uploads/2015/02/Apple-Pay-icon.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

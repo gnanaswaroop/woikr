@@ -4,6 +4,7 @@ date: 2009-04-15T14:12:48
 url: /news/indian-deity-on-the-iphone/
 categories: ["News"]
 tags: ["iPhone", "india iphone", "indian god iphone", "godess durga iphone", "lord vishnu iphone", "puja on iphone", "aarti on iphone"]
+image: "/wp/wp-content/uploads/2009/04/available_on_app_store.png"
 author: "Setu"
 authors: ["setu"]
 ---

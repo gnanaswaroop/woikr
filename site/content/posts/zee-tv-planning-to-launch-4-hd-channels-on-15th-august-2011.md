@@ -4,6 +4,7 @@ date: 2011-07-25T11:40:40
 url: /home-entertainment/zee-tv-planning-to-launch-4-hd-channels-on-15th-august-2011/
 categories: ["Home Entertainment"]
 tags: ["HD India", "hd channels india", "hd dth india", "hdtv india"]
+image: "/wp/wp-content/uploads/2011/07/zee-tv-logo-2011.png"
 author: "Setu"
 authors: ["setu"]
 aliases: ["/uncategorized/zee-tv-planning-to-launch-4-hd-channels-on-15th-august-2011/"]

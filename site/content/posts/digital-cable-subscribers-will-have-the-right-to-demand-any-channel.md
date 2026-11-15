@@ -4,6 +4,7 @@ date: 2012-03-13T22:05:17
 url: /news/digital-cable-subscribers-will-have-the-right-to-demand-any-channel/
 categories: ["News", "Home Entertainment"]
 tags: ["HD broadcast India", "digital cable india", "digital tv"]
+image: "/wp/wp-content/uploads/2012/03/digital-cable.png"
 author: "Setu"
 authors: ["setu"]
 ---

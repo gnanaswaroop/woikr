@@ -4,6 +4,7 @@ date: 2012-05-25T20:26:34
 url: /telecom/reliance-idea-reduce-their-3g-tariffs/
 categories: ["Telecom", "News"]
 tags: ["3g india", "3G tariff india", "Airtel", "reliance", "idea", "idea 3g"]
+image: "/wp/wp-content/uploads/2012/05/reliance-mobile-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

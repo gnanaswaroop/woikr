@@ -4,6 +4,7 @@ date: 2011-02-25T08:52:12
 url: /apple/apple-unveils-the-latest-macbook-pro-faster-thunderbolt-and-hd-facetime/
 categories: ["Apple", "Laptops"]
 tags: ["apple laptops", "apple macbook pro", "Macbook Pro 13", "MBP 13", "MBP 15", "MBP 17", "MBP India", "Macbook Pro India", "Apple india", "Macbook pro prices india", "Macbook pro prices compared", "india", "Singapore", "USA"]
+image: "/wp/wp-content/uploads/2011/02/Macbookprolinedup.jpg"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

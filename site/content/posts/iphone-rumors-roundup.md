@@ -4,6 +4,7 @@ date: 2009-02-04T13:13:07
 url: /rumors/iphone-rumors-roundup/
 categories: ["Rumors"]
 tags: ["iPhone", "iphone version 3", "iphone push", "push notification service", "iphone 3", "next gen iphone", "iphone 3G"]
+image: "/wp/wp-content/uploads/2009/02/no_push_for_iphone.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

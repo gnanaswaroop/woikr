@@ -4,6 +4,7 @@ date: 2009-04-13T14:08:12
 url: /gaming/braid-now-on-pc/
 categories: ["Gaming"]
 tags: ["Braid", "Braid Xbox", "Braid PC", "Braid xbox live arcade game", "best puzzle game for PC"]
+image: "/wp/wp-content/uploads/2009/04/braid_title-pc.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

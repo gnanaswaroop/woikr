@@ -4,6 +4,7 @@ date: 2012-05-29T19:51:28
 url: /google/dear-google-ignorance-is-bliss/
 categories: ["Google", "WTF?"]
 tags: ["Google", "Google Plus", "creepy google", "google privacy"]
+image: "/wp/wp-content/uploads/2012/05/google-plus-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

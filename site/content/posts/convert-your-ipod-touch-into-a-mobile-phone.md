@@ -4,6 +4,7 @@ date: 2010-07-28T20:50:07
 url: /apple/convert-your-ipod-touch-into-a-mobile-phone/
 categories: ["Apple"]
 tags: ["ipod touch", "ipod voice calls"]
+image: "/wp/wp-content/uploads/2010/07/image28.png"
 author: "Setu"
 authors: ["setu"]
 ---

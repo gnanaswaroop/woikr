@@ -4,6 +4,7 @@ date: 2011-01-13T22:35:56
 url: /gaming/sonys-psp2-as-powerful-as-ps3-arrives-q4-2011-rumor/
 categories: ["Gaming", "Rumors"]
 tags: ["Playstation Portable 2", "PSP 2", "ps3"]
+image: "/wp/wp-content/uploads/2011/01/psp2.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

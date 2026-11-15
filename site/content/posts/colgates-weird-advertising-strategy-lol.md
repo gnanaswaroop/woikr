@@ -4,6 +4,7 @@ date: 2009-09-17T14:31:38
 url: /lol/colgates-weird-advertising-strategy-lol/
 categories: ["LOL"]
 tags: ["colgate", "ice cream"]
+image: "/wp/wp-content/uploads/2009/09/image.png"
 author: "Setu"
 authors: ["setu"]
 ---

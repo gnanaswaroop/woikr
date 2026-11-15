@@ -4,6 +4,7 @@ date: 2008-11-11T16:15:49
 url: /news/iphone-3g-best-selling-handset-in-the-us-worst-sales-in-india/
 categories: ["News"]
 tags: ["iphone 3G sales", "iphone 3G", "iPhone", "iphone 3g price", "iphone 3G india", "iphone 3g US"]
+image: "/wp/wp-content/uploads/2008/11/iphone_sales.png"
 author: "Setu"
 authors: ["setu"]
 ---

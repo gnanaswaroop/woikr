@@ -4,6 +4,7 @@ date: 2010-07-23T21:42:36
 url: /news/white-iphone-4-delayed-further-to-later-this-year/
 categories: ["News", "iPhone"]
 tags: ["iphone 4", "white iPhone 4"]
+image: "/wp/wp-content/uploads/2010/07/image15.png"
 author: "Setu"
 authors: ["setu"]
 ---

@@ -4,6 +4,7 @@ date: 2010-11-15T22:39:56
 url: /news/announcements-galore-itunes-facebook-mail-what-to-expect/
 categories: ["News", "Apple"]
 tags: ["facebook mail", "facebook", "itunes announcement", "apple itunes", "email revolution", "facebook vs google", "google mail", "gmail", "fmail features", "fmail", "fb email", "fb mail", "fb"]
+image: "/wp/wp-content/uploads/2010/11/iTunesAnnouncement.png"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

@@ -4,6 +4,7 @@ date: 2009-10-09T10:56:10
 url: /news/character-count-in-iphone-sms-app/
 categories: ["News", "iPhone"]
 tags: ["iPhone", "sms character count", "character counter for iPhone", "iphone apps"]
+image: "/wp/wp-content/uploads/2008/11/iphone-logo.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

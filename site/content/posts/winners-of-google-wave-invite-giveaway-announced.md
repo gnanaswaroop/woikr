@@ -4,6 +4,7 @@ date: 2009-10-18T00:13:58
 url: /contests/winners-of-google-wave-invite-giveaway-announced/
 categories: ["Giveaways"]
 tags: ["Giveaways", "google wave", "google wave give away", "Google"]
+image: "/wp/wp-content/uploads/2009/10/image_thumb13.png"
 author: "Setu"
 authors: ["setu"]
 ---

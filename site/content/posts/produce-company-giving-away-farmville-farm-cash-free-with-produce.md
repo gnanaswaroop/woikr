@@ -4,6 +4,7 @@ date: 2010-07-27T21:57:19
 url: /misc/produce-company-giving-away-farmville-farm-cash-free-with-produce/
 categories: ["Misc"]
 tags: []
+image: "/wp/wp-content/uploads/2010/07/image19.png"
 author: "Setu"
 authors: ["setu"]
 ---

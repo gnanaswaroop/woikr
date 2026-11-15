@@ -4,6 +4,7 @@ date: 2010-05-05T23:27:00
 url: /news/tatasky-remote-recording-feature-now-available/
 categories: ["News", "Home Entertainment"]
 tags: ["tata sky", "tata sky dth", "tata sky plus", "tatasky", "tatasky+ dual access remote recording", "tatasky+ record from internet", "mobile recording tv", "pvr"]
+image: "/wp/wp-content/uploads/2008/10/tataskyplus-featured.png"
 author: "Setu"
 authors: ["setu"]
 ---

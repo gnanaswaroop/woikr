@@ -4,6 +4,7 @@ date: 2010-11-16T17:02:09
 url: /telecom/airtel-rebranding-new-logo/
 categories: ["Telecom", "News"]
 tags: ["airtel new logo", "airtel rebranding"]
+image: "/wp/wp-content/uploads/2010/11/Airtel-New-Logo.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

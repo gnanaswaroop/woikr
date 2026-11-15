@@ -4,6 +4,7 @@ date: 2008-10-25T17:29:54
 url: /telecom/tata-sky-next-gen-dth-services-in-india/
 categories: ["Telecom", "News", "Home Entertainment"]
 tags: ["tata sky", "tata sky plus", "tata sky dth", "dth india", "hd dth india", "dvr india", "big tv", "digital tv", "tata sky vs. reliance vs. airtel", "best dth service in india", "tatasky"]
+image: "/wp/wp-content/uploads/2008/10/tataskyplus-featured.png"
 author: "Setu"
 authors: ["setu"]
 ---

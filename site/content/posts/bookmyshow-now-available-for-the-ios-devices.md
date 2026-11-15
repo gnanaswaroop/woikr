@@ -4,6 +4,7 @@ date: 2010-12-17T22:38:00
 url: /misc/bookmyshow-now-available-for-the-ios-devices/
 categories: ["Misc", "iPhone"]
 tags: ["iphone apps", "movies", "online movie", "movie booking", "ebooking", "bookmyshow", "bookmyshow online", "bookmyshow mobile", "book movie tickets", "movie tickets online", "sports tickets online", "bookmyshow movies", "bookmyshow sports", "bookmyshow payment", "online payment options", "seat selection", "big cinemas", "mobile applications", "movies mobile", "bigcinemas"]
+image: "/wp/wp-content/uploads/2010/12/BookMyShowLogo.jpg"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

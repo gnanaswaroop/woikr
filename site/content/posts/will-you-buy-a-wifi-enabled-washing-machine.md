@@ -4,6 +4,7 @@ date: 2012-01-11T21:03:01
 url: /misc/will-you-buy-a-wifi-enabled-washing-machine/
 categories: ["Misc"]
 tags: ["waching machine", "smart home appliances", "samsung"]
+image: "/wp/wp-content/uploads/2012/01/Samsung-WiFi-Washer-Front.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

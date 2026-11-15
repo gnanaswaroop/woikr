@@ -4,6 +4,7 @@ date: 2011-06-08T23:20:18
 url: /internet/youtube-india-to-show-one-movie-every-month-in-full-hd-for-free/
 categories: ["Internet", "Google"]
 tags: ["youtube", "youtube bollywood movies", "youtube hindi movies", "youtube india"]
+image: "/wp/wp-content/uploads/2011/06/youtube-india-movies.png"
 author: "Setu"
 authors: ["setu"]
 ---

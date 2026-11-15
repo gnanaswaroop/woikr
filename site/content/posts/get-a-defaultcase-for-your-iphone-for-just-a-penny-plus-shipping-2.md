@@ -4,6 +4,7 @@ date: 2011-01-02T15:09:26
 url: /iphone/get-a-defaultcase-for-your-iphone-for-just-a-penny-plus-shipping-2/
 categories: ["iPhone"]
 tags: ["iphone case", "cheap iphone case", "iphone 4 case", "cheap iphone 4 case", "default case"]
+image: "/wp/wp-content/uploads/2011/01/image1.png"
 author: "Setu"
 authors: ["setu"]
 ---

@@ -4,6 +4,7 @@ date: 2011-09-19T03:44:46
 url: /news/indian-railways-irctc-now-allow-paperless-soft-copies-of-tickets-on-trains-go-green/
 categories: ["News"]
 tags: ["irctc", "irctc.co.in", "indian railways", "indian railways paperless", "paperless ticket"]
+image: "/wp/wp-content/uploads/2010/07/image_thumb21.png"
 author: "Setu"
 authors: ["setu"]
 ---

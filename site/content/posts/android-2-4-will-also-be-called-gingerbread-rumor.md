@@ -4,6 +4,7 @@ date: 2011-02-13T00:04:29
 url: /android/android-2-4-will-also-be-called-gingerbread-rumor/
 categories: ["Android", "Rumors"]
 tags: ["Nexus S 2.4", "android", "Android Gingerbread", "Android 2.4", "android 2.3", "ViewSonic ViewPad 4"]
+image: "/wp/wp-content/uploads/2011/02/viewpad.jpg"
 author: "Chirag"
 authors: ["chirag"]
 aliases: ["/rumors/android-2-4-will-also-be-called-gingerbread-rumor/"]

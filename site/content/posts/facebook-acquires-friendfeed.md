@@ -4,6 +4,7 @@ date: 2009-08-11T21:31:47
 url: /news/facebook-acquires-friendfeed/
 categories: ["News"]
 tags: ["facebook", "friendfeed"]
+image: "/wp/wp-content/uploads/2009/08/image.png"
 author: "Setu"
 authors: ["setu"]
 ---

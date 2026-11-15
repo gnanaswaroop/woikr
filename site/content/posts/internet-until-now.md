@@ -4,6 +4,7 @@ date: 2008-08-31T12:31:41
 url: /misc/internet-until-now/
 categories: ["Misc"]
 tags: ["Internet", "Web 2.0", "History of Web 2.0", "Impact of Web 2.0", "Evolution of Internet"]
+image: "/wp/wp-content/uploads/2008/08/woikr-web20-lead.png"
 author: "Ravi"
 authors: ["ravi"]
 ---

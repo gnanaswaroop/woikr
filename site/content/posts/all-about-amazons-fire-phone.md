@@ -4,6 +4,7 @@ date: 2014-07-03T09:16:13
 url: /news/all-about-amazons-fire-phone/
 categories: ["News", "Mobile Phones"]
 tags: ["amazon fire phone", "amazon phone"]
+image: "/wp/wp-content/uploads/2014/07/amazon-fire-phone.png"
 author: "Setu"
 authors: ["setu"]
 ---

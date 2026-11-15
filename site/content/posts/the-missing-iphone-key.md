@@ -4,6 +4,7 @@ date: 2009-10-29T01:41:40
 url: /wtf/the-missing-iphone-key/
 categories: ["WTF?", "iPhone"]
 tags: ["Apple missing key", "missing iPhone key", "back tick iPhone keyboard", "backtick iPhone", "iPhone keyboard keys"]
+image: "/wp/wp-content/uploads/2009/10/iPhone_backtick1.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

@@ -4,6 +4,7 @@ date: 2011-03-16T14:29:34
 url: /lol/kinect-becomes-skynet-destroys-the-world-humor/
 categories: ["LOL", "Microsoft"]
 tags: ["open kinect", "kinect self-awareness", "xbox kinect", "xbox 360 accessories", "doomsday theory", "how kinect destroyed the world", "kinect doomsday", "kinect skynet"]
+image: "/wp/wp-content/uploads/2011/03/open_kinect.png"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

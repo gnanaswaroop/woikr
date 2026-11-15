@@ -4,6 +4,7 @@ date: 2011-01-13T23:41:29
 url: /iphone/apple-store-geniuses-say-iphone-not-designed-for-below-freezing-and-above-35%c2%b0c/
 categories: ["iPhone"]
 tags: ["iPhone Extreme Temperatures", "iPhone Heat", "iPhone Cold", "iPhone Freezing Cold Weather"]
+image: "/wp/wp-content/uploads/2011/01/iPhone_cracked.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

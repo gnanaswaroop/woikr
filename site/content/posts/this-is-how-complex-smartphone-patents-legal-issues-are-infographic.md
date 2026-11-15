@@ -4,6 +4,7 @@ date: 2011-08-21T11:51:41
 url: /mobile-phones/this-is-how-complex-smartphone-patents-legal-issues-are-infographic/
 categories: ["Mobile Phones"]
 tags: ["Smartphone Patent Suits", "Smartphone patent issues", "Who is suing whom for mobile phones", "Motorola Google deal"]
+image: "/wp/wp-content/uploads/2011/08/Mobile_Patents_Issues.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

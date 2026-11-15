@@ -4,6 +4,7 @@ date: 2012-10-18T19:58:23
 url: /telecom/indian-cellular-carriers-offering-nano-sims/
 categories: ["Telecom", "Apple", "iPhone"]
 tags: ["nano sim india", "iPhone 5", "iphone 5 india"]
+image: "/wp/wp-content/uploads/2012/10/nano-sim.png"
 author: "Setu"
 authors: ["setu"]
 ---

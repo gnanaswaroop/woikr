@@ -4,6 +4,7 @@ date: 2010-12-29T09:40:07
 url: /ipad/all-ipad-2-rumors-in-one-place/
 categories: ["iPad"]
 tags: ["iPad Rumors", "iPad Retina Display", "iPad Gyroscope", "iPad Processor Upgrade", "iPad USB Ports", "iPad FaceTime", "iPad Video Calling", "iPad 2"]
+image: "/wp/wp-content/uploads/2010/12/apple_ipad.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

@@ -4,6 +4,7 @@ date: 2008-12-26T11:31:01
 url: /news/icontrolpad-for-jailbroken-iphones/
 categories: ["News"]
 tags: ["iPhone", "iphone cames", "iphone control pad", "iphone games controller", "icontrolpad", "iphone controller"]
+image: "/wp/wp-content/uploads/2008/12/icontrolpad1.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

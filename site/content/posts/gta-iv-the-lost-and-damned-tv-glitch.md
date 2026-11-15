@@ -4,6 +4,7 @@ date: 2009-02-22T22:32:55
 url: /gaming/gta-iv-the-lost-and-damned-tv-glitch/
 categories: ["Gaming", "LOL"]
 tags: ["gta iv", "tlod", "tv glitch", "the lost and damned", "grand theft auto iv", "gta 4"]
+image: "/wp/wp-content/uploads/2009/02/gta4lost.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

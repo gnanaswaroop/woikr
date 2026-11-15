@@ -4,6 +4,7 @@ date: 2010-04-16T14:49:04
 url: /news/tata-sky-launches-three-new-features-to-compete-with-airtel-digital-tv-pvr/
 categories: ["News", "Home Entertainment"]
 tags: ["tata sky", "tata sky dth", "tata sky HD", "tata sky plus", "tatasky", "video on demand india", "airtel digital TV recorder", "airtel digital TV", "pvr india", "hd dth india"]
+image: "/wp/wp-content/uploads/2008/10/tataskyplus-featured.png"
 author: "Setu"
 authors: ["setu"]
 ---

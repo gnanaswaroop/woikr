@@ -4,6 +4,7 @@ date: 2009-02-06T16:15:59
 url: /news/mtnl-launches-3g-telecom-service-in-india/
 categories: ["News"]
 tags: ["jadoo", "3G", "3g india", "mtnl", "iphone 3G"]
+image: "/wp/wp-content/uploads/2009/02/news_3g.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

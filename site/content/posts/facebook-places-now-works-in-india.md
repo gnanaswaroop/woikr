@@ -4,6 +4,7 @@ date: 2011-02-21T14:31:57
 url: /internet/facebook-places-now-works-in-india/
 categories: ["Internet"]
 tags: ["facebook", "facebook places", "facebook places in india", "how to use facebook places in india", "Facebook places works in India", "facebook places iPhone", "Facebook places Android", "Social Check-ins"]
+image: "/wp/wp-content/uploads/2010/10/FacebookPlaces.png"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

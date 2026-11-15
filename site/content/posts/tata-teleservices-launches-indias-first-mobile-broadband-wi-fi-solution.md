@@ -4,6 +4,7 @@ date: 2010-08-26T11:53:31
 url: /telecom/tata-teleservices-launches-indias-first-mobile-broadband-wi-fi-solution/
 categories: ["Telecom", "News"]
 tags: ["wifi broadband router", "portable broadband", "tata photon wifi", "tata photon", "mobile broadband"]
+image: "/wp/wp-content/uploads/2010/08/image49.png"
 author: "Setu"
 authors: ["setu"]
 ---

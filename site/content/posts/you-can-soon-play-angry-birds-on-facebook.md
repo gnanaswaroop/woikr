@@ -4,6 +4,7 @@ date: 2011-03-06T23:04:34
 url: /gaming/you-can-soon-play-angry-birds-on-facebook/
 categories: ["Gaming"]
 tags: ["angry birds", "facebook games", "angry birds facebook", "facebook angry birds", "angrybirds"]
+image: "/wp/wp-content/uploads/2011/03/angrybirds_big.jpg"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

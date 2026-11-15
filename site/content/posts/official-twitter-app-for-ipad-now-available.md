@@ -4,6 +4,7 @@ date: 2010-09-02T21:14:48
 url: /news/official-twitter-app-for-ipad-now-available/
 categories: ["News"]
 tags: ["twitter", "twitter for ipad", "twitter app"]
+image: "/wp/wp-content/uploads/2010/09/image27.png"
 author: "Setu"
 authors: ["setu"]
 ---

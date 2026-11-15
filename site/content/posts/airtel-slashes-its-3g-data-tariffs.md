@@ -4,6 +4,7 @@ date: 2012-05-18T20:44:18
 url: /telecom/airtel-slashes-its-3g-data-tariffs/
 categories: ["Telecom", "News"]
 tags: ["airtel 3G india", "3g india", "3G tariff india"]
+image: "/wp/wp-content/uploads/2011/01/NewImage62.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

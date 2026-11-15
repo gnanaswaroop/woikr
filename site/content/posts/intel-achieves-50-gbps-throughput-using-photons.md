@@ -4,6 +4,7 @@ date: 2010-07-28T21:07:37
 url: /telecom/intel-achieves-50-gbps-throughput-using-photons/
 categories: ["Telecom", "News"]
 tags: ["intel", "50 Gbps", "fast telecommunication"]
+image: "/wp/wp-content/uploads/2010/07/image29.png"
 author: "Setu"
 authors: ["setu"]
 ---

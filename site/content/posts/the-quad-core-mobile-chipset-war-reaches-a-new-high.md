@@ -4,6 +4,7 @@ date: 2011-02-15T00:48:28
 url: /news/the-quad-core-mobile-chipset-war-reaches-a-new-high/
 categories: ["News", "Mobile Phones"]
 tags: ["Qualcomm", "NVIDIA Tegra 3", "Tegra 3", "Quadcore", "Quad core", "Quadcore chipsets", "4 cores", "2.5ghz 4 cores", "Adreno GPU", "NVIDIA Vs Qualcomm"]
+image: "/wp/wp-content/uploads/2011/02/QualcommSnapdragon.jpg"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

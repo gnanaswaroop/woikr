@@ -4,6 +4,7 @@ date: 2011-08-21T09:06:37
 url: /photography/this-may-be-the-perfect-dslr-accessory-hoodcap/
 categories: ["Photo Gear"]
 tags: ["HoodCap", "Best camera accessory", "Essential Digital SLR accessory", "DSLR lens cap and hood", "DSLR Lens cap problem", "DSLR Lens Hood problem", "Lens Cap and Hood in one"]
+image: "/wp/wp-content/uploads/2011/08/flower_cap.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

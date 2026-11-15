@@ -4,6 +4,7 @@ date: 2013-06-05T21:23:38
 url: /news/amazon-launches-amazon-in-in-india/
 categories: ["News"]
 tags: ["amazon india", "amazon.in"]
+image: "/wp/wp-content/uploads/2013/06/amazon-india-logo.png"
 author: "Setu"
 authors: ["setu"]
 aliases: ["/news/amazon-launches-amazon-in-in-india"]

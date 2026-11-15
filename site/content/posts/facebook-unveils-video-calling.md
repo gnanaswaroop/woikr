@@ -4,6 +4,7 @@ date: 2011-07-07T00:24:52
 url: /internet/facebook-unveils-video-calling/
 categories: ["Internet", "News"]
 tags: ["facebook", "facebook applications", "facebook chat", "facebook video chat", "facebook video calling"]
+image: "/wp/wp-content/uploads/2011/07/Facebook-video-calling-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

@@ -4,6 +4,7 @@ date: 2010-12-27T08:41:54
 url: /photography/nikon-dslr-lens-electronic-zoom/
 categories: ["Photo Gear"]
 tags: []
+image: "/wp/wp-content/uploads/2010/12/nikon-electronic-zoom-lens-patent.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

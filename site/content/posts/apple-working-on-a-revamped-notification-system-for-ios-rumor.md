@@ -4,6 +4,7 @@ date: 2011-02-15T00:43:45
 url: /iphone/apple-working-on-a-revamped-notification-system-for-ios-rumor/
 categories: ["iPhone"]
 tags: ["Apple Notification System", "Android Notification bar", "WebOS Notification Banner", "iOS Notifications", "Boxcar", "Apple buying Boxcar", "Rich Dellinger"]
+image: "/wp/wp-content/uploads/2011/02/boxcar1.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

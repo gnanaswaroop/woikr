@@ -4,6 +4,7 @@ date: 2010-05-06T11:55:42
 url: /google/googles-new-look/
 categories: ["Google", "News"]
 tags: ["Google", "google search", "google new look"]
+image: "/wp/wp-content/uploads/2010/05/image14.png"
 author: "Setu"
 authors: ["setu"]
 ---

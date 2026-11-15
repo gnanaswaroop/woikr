@@ -4,6 +4,7 @@ date: 2011-01-07T22:31:09
 url: /mac/mac-app-store-clocks-over-a-million-downloads-on-day-1/
 categories: ["Mac"]
 tags: ["Apple Mac Store", "mac app store", "Mac App Store Million Downloads"]
+image: "/wp/wp-content/uploads/2011/01/mac_app_store_580x363.shkl_.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

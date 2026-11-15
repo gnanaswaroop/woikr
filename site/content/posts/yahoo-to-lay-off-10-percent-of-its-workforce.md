@@ -4,6 +4,7 @@ date: 2008-10-22T17:47:15
 url: /news/yahoo-to-lay-off-10-percent-of-its-workforce/
 categories: ["News"]
 tags: ["yahoo", "yahoo lay offs", "yahoo fires", "yahoo fires employees", "jerry yang email"]
+image: "/wp/wp-content/uploads/2008/10/yahoo-firing.png"
 author: "Setu"
 authors: ["setu"]
 ---

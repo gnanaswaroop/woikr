@@ -4,6 +4,7 @@ date: 2011-05-29T17:22:22
 url: /home-entertainment/watch-french-open-2011-in-hd-on-star-sports-hd-on-tatasky/
 categories: ["Home Entertainment"]
 tags: ["HD India", "start sports HD", "french open in hd", "french open 2011"]
+image: "/wp/wp-content/uploads/2011/05/Star-sports-hd-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

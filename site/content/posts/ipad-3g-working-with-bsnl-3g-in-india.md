@@ -4,6 +4,7 @@ date: 2010-06-10T18:32:57
 url: /ipad/ipad-3g-working-with-bsnl-3g-in-india/
 categories: ["iPad"]
 tags: ["iPad", "Apple", "3G", "bsnl", "iPad India", "Ipad 3G India"]
+image: "/wp/wp-content/uploads/2010/06/p_1024_768_1819CCA1-8616-4D5F-A9EC-FBDF43C5F19F.jpeg"
 author: "Setu"
 authors: ["setu"]
 ---

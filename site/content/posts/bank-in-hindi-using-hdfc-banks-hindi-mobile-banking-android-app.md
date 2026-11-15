@@ -4,6 +4,7 @@ date: 2012-12-02T13:32:00
 url: /news/bank-in-hindi-using-hdfc-banks-hindi-mobile-banking-android-app/
 categories: ["News"]
 tags: ["HDFC Bank", "Hindi mobile banking"]
+image: "/wp/wp-content/uploads/2012/12/hdfc-bank-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

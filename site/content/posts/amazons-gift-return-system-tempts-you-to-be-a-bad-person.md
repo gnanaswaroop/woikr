@@ -4,6 +4,7 @@ date: 2010-12-29T22:39:59
 url: /misc/amazons-gift-return-system-tempts-you-to-be-a-bad-person/
 categories: ["Misc"]
 tags: ["amazon", "amazon gifts", "holiday gifts", "return policy", "amazon gifts return", "gift amaon", "return gifts"]
+image: "/wp/wp-content/uploads/2010/12/amazon-300x257.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

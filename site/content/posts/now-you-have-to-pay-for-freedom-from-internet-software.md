@@ -4,6 +4,7 @@ date: 2011-01-10T22:34:44
 url: /wtf/now-you-have-to-pay-for-freedom-from-internet-software/
 categories: ["WTF?", "Mac"]
 tags: ["Freedom from Internet", "Freedom Productivity software", "Freedom for Windows", "Freedom for Mac"]
+image: "/wp/wp-content/uploads/2011/01/freedom_mac.png"
 author: "Chirag"
 authors: ["chirag"]
 ---

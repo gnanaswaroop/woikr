@@ -4,6 +4,7 @@ date: 2010-12-22T15:08:07
 url: /iphone/mobile-safari-gyroscope-demo-shows-the-future-of-google-maps/
 categories: ["iPhone"]
 tags: ["google maps", "360 Panorama", "Occipital", "Gyroscope Mobile Safari", "Gyroscope demo", "iPhone Gyroscope"]
+image: "/wp/wp-content/uploads/2010/12/mobile_safari_gyroscope.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

@@ -4,6 +4,7 @@ date: 2011-02-17T10:25:09
 url: /gaming/ea-kills-mirrors-edge/
 categories: ["Gaming"]
 tags: ["Mirror's Edge", "Mirror's Edge 2", "Mirror's Edge Cancelled", "Mirror's Edge Dead", "Mirror's Edge 2 Killed"]
+image: "/wp/wp-content/uploads/2011/02/Mirrors_Edge.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

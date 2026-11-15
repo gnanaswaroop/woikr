@@ -4,6 +4,7 @@ date: 2010-03-30T13:49:46
 url: /news/who-says-twitter-is-a-waste-of-time/
 categories: ["News"]
 tags: ["shashi tharoor twitter", "passport twitter help india"]
+image: "/wp/wp-content/uploads/2010/03/image14.png"
 author: "Setu"
 authors: ["setu"]
 ---

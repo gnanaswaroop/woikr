@@ -4,6 +4,7 @@ date: 2010-09-24T22:45:35
 url: /ipad/airtel-launches-micro-sim-cards-in-india-launch-of-iphone-4-imminent/
 categories: ["iPad", "Telecom", "News", "iPhone"]
 tags: ["Airtel", "airtel 3g", "3g india", "airtel micro sim", "micro sim india", "iphone 4 india"]
+image: "/wp/wp-content/uploads/2010/09/airtellogo1.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

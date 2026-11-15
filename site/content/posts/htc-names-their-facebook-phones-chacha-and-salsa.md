@@ -4,6 +4,7 @@ date: 2011-02-16T09:23:50
 url: /android/htc-names-their-facebook-phones-chacha-and-salsa/
 categories: ["Android", "Mobile Phones"]
 tags: ["HTC Salsa", "HTC Chacha", "HTC Facebook Phones", "Facebook Phones", "First Facebook Phones", "HTC Facebook Dedicated button", "One-touch facebook access", "Android Gingerbread", "android", "android 2.3"]
+image: "/wp/wp-content/uploads/2011/02/facebook_phones.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

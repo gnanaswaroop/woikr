@@ -4,6 +4,7 @@ date: 2010-02-20T12:50:43
 url: /deals/24hoursloot-is-indias-woot/
 categories: ["Deals", "News"]
 tags: ["24hoursloot", "deal of the day", "india woot", "cheap deals india"]
+image: "/wp/wp-content/uploads/2010/02/image1.png"
 author: "Setu"
 authors: ["setu"]
 ---

@@ -4,6 +4,7 @@ date: 2010-10-03T09:49:09
 url: /misc/wish-list-for-the-google-new-social-network/
 categories: ["Misc"]
 tags: ["social networking", "place checkin", "business model", "social online", "google me", "friendfeed", "threaded conversations", "video chat", "voice chat", "open social", "facebook", "facebook applications", "facebook APIs", "developers", "titanium appcelerator", "mobile applications", "native applications", "location based", "location checkins", "foursquare", "facebook places", "user privacy", "privacy options", "user timeline", "twitter", "threaded conversation", "wish list", "wishlist", "facebook vs google", "facebook vs orkut", "inline replies", "native mobile applications", "multi platform", "facebook iPhone"]
+image: "/wp/wp-content/uploads/2010/10/GoogleMe.png"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

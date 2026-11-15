@@ -4,6 +4,7 @@ date: 2010-11-16T12:46:08
 url: /apple/steve-jobs-home-office-pictures/
 categories: ["Apple"]
 tags: ["steve jobs home", "steve jobs pictures", "steve jobs office"]
+image: "/wp/wp-content/uploads/2010/11/01.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

@@ -4,6 +4,7 @@ date: 2008-11-12T18:28:22
 url: /lol/keanu-reeves-posing-for-a-local-salon/
 categories: ["LOL"]
 tags: ["keanu reeves", "keanu reeves photo saloon", "keanu reeves saloon", "LOL"]
+image: "/wp/wp-content/uploads/2008/11/keanu_saloon.jpg"
 author: "Setu"
 authors: ["setu"]
 aliases: ["/lol/keanu-reeves-posing-for-a-local-saloon"]

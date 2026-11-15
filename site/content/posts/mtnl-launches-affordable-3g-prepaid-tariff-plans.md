@@ -4,6 +4,7 @@ date: 2009-06-04T21:59:50
 url: /news/mtnl-launches-affordable-3g-prepaid-tariff-plans/
 categories: ["News"]
 tags: ["3G", "3g india", "mtnl", "jadoo", "umts", "hsdpa"]
+image: "/wp/wp-content/uploads/2009/02/news_3g.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

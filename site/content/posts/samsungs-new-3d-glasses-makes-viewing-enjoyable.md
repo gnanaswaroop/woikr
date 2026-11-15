@@ -4,6 +4,7 @@ date: 2011-01-03T14:28:24
 url: /misc/samsungs-new-3d-glasses-makes-viewing-enjoyable/
 categories: ["Misc"]
 tags: ["samsung 3D", "3D TV", "3D glasses", "wireless charger", "silhouette", "glasses", "ergonomic glasses", "3D glasses for kids", "3D glasses for kids and adults"]
+image: "/wp/wp-content/uploads/2011/01/Samsung3dglasses.jpg"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

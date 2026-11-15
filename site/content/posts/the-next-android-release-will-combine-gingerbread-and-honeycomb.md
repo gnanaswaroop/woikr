@@ -4,6 +4,7 @@ date: 2011-02-16T08:58:58
 url: /android/the-next-android-release-will-combine-gingerbread-and-honeycomb/
 categories: ["Android"]
 tags: ["Next Android Version", "Ice Cream Sandwich", "gingerbread", "honeycomb", "Android Versions"]
+image: "/wp/wp-content/uploads/2011/01/icecream_sandwich.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

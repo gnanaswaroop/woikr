@@ -4,6 +4,7 @@ date: 2011-10-06T06:21:53
 url: /news/rip-steve-jobs/
 categories: ["News", "Apple"]
 tags: ["steve jobs", "Apple", "icon", "steve jobs dies", "steve jobs death"]
+image: "/wp/wp-content/uploads/2011/10/RIP-Steve-Jobs.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

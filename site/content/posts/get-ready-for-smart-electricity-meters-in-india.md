@@ -4,6 +4,7 @@ date: 2013-10-09T13:12:57
 url: /news/get-ready-for-smart-electricity-meters-in-india/
 categories: ["News"]
 tags: ["electricity meters", "smart meters", "electricity meters india"]
+image: "/wp/wp-content/uploads/2013/10/smart-electric-meters.png"
 author: "Setu"
 authors: ["setu"]
 ---

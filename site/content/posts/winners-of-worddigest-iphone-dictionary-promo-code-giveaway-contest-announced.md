@@ -4,6 +4,7 @@ date: 2009-05-16T16:01:10
 url: /contests/winners-of-worddigest-iphone-dictionary-promo-code-giveaway-contest-announced/
 categories: ["Giveaways"]
 tags: ["worddigest", "iphone promo code", "free dictionary", "winners promocode"]
+image: "/wp/wp-content/uploads/2009/05/worddigest_logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

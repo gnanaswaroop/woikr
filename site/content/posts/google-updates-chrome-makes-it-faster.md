@@ -4,6 +4,7 @@ date: 2009-05-22T11:35:27
 url: /news/google-updates-chrome-makes-it-faster/
 categories: ["News"]
 tags: ["Google", "Chrome", "chrome 2", "faster chrome"]
+image: "/wp/wp-content/uploads/2009/05/logo-google-chrome.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

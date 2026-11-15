@@ -4,6 +4,7 @@ date: 2009-01-08T17:11:53
 url: /news/webex-on-the-iphone/
 categories: ["News"]
 tags: ["iPhone", "webex", "iphone 3G", "online meetings", "wireless meetings", "webex meetings iphone", "webex iphone app"]
+image: "/wp/wp-content/uploads/2009/01/webex.png"
 author: "Setu"
 authors: ["setu"]
 ---

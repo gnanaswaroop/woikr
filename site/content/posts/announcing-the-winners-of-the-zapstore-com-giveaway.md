@@ -4,6 +4,7 @@ date: 2011-12-15T14:42:09
 url: /contests/announcing-the-winners-of-the-zapstore-com-giveaway/
 categories: ["Giveaways"]
 tags: ["ZAPstore", "Giveaways"]
+image: "/wp/wp-content/uploads/2011/12/Untitled.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

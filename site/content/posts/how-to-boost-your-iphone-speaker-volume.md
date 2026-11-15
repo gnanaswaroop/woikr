@@ -4,6 +4,7 @@ date: 2010-10-18T23:33:08
 url: /iphone/how-to-boost-your-iphone-speaker-volume/
 categories: ["iPhone"]
 tags: ["iphone speaker", "iPhone volume", "iPhone external speaker", "iPhone speaker volume", "increase speaker volume", "increase iPhone volume", "xmini 1.1", "xmini external speaker", "xmini capsule speaker", "iPhone Jailbreak", "iPhone volume increase", "iPhone tips and tricks"]
+image: "/wp/wp-content/uploads/2010/10/iPhonespeaker.jpg"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

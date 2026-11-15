@@ -4,6 +4,7 @@ date: 2009-02-27T12:12:41
 url: /news/bsnl-launches-3g-service-in-india/
 categories: ["News"]
 tags: ["bsnl", "bsnl 3g", "3g india", "iphone 3G", "3g broadband", "mobile broadband"]
+image: "/wp/wp-content/uploads/2009/02/3ghome.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

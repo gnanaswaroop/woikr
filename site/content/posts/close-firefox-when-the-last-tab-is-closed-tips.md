@@ -4,6 +4,7 @@ date: 2009-10-04T18:40:44
 url: /howto/close-firefox-when-the-last-tab-is-closed-tips/
 categories: ["How Tos"]
 tags: ["firefox", "keyboard shortcut", "firefox tabs"]
+image: "/wp/wp-content/uploads/2009/10/image6.png"
 author: "Setu"
 authors: ["setu"]
 ---

@@ -4,6 +4,7 @@ date: 2012-12-28T13:44:02
 url: /apple/cycloramic-lets-you-take-panoramic-videos-by-automatically-spinning-your-iphone-5/
 categories: ["Apple", "iPhone"]
 tags: ["cycloramic", "iphone panorama"]
+image: "/wp/wp-content/uploads/2012/12/cycloramic-app-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

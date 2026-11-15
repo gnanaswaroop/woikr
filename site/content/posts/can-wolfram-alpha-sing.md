@@ -4,6 +4,7 @@ date: 2009-06-01T01:39:05
 url: /lol/can-wolfram-alpha-sing/
 categories: ["LOL"]
 tags: ["Wolfram Alpha", "Easter Eggs"]
+image: "/wp/wp-content/uploads/2009/06/wolfram-sing.png"
 author: "Chirag"
 authors: ["chirag"]
 ---

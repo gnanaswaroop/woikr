@@ -4,6 +4,7 @@ date: 2010-12-22T23:32:01
 url: /android/get-fresh-local-news-taazzago-for-android/
 categories: ["Android", "Reviews"]
 tags: ["Taazza Android", "TaazzaGo", "Taazza", "Local News", "Local Deals"]
+image: "/wp/wp-content/uploads/2010/12/taazza_larger_logo.png"
 author: "Chirag"
 authors: ["chirag"]
 ---

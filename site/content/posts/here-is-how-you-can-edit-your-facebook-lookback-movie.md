@@ -4,6 +4,7 @@ date: 2014-02-11T13:15:09
 url: /internet/here-is-how-you-can-edit-your-facebook-lookback-movie/
 categories: ["Internet"]
 tags: ["facebook", "lookback movie edit", "facebook lookback"]
+image: "/wp/wp-content/uploads/2011/08/facebook-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

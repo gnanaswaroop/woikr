@@ -4,6 +4,7 @@ date: 2010-04-25T10:00:00
 url: /news/details-of-the-upcoming-solar-powered-rickshaw-soleckshaw/
 categories: ["News"]
 tags: ["soleckshaw", "solar powered rickshaw", "rickshaw in india", "green initiative india", "csir"]
+image: "/wp/wp-content/uploads/2010/04/image26.png"
 author: "Setu"
 authors: ["setu"]
 ---

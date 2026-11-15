@@ -4,6 +4,7 @@ date: 2008-11-20T12:48:36
 url: /rumors/snow-leopard-release-set-for-q1-2009-unconfirmed/
 categories: ["Rumors"]
 tags: ["snow leopard", "apple mac os x", "net version of mac os x", "mac os x 10.6"]
+image: "/wp/wp-content/uploads/2008/11/snow_leopard.png"
 author: "Setu"
 authors: ["setu"]
 ---

@@ -4,6 +4,7 @@ date: 2011-01-10T09:25:30
 url: /news/htc-evos-battery-can-dodge-bullets-true-story/
 categories: ["News", "Mobile Phones"]
 tags: ["HTC Evo 4G", "HTC Evo Battery", "Cellphone Dodge Bullets", "Strong Battery"]
+image: "/wp/wp-content/uploads/2011/01/htc_evo_battery.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

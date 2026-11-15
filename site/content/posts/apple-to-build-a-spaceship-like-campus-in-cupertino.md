@@ -4,6 +4,7 @@ date: 2011-06-09T23:19:33
 url: /apple/apple-to-build-a-spaceship-like-campus-in-cupertino/
 categories: ["Apple"]
 tags: ["Apple", "apple cupertino"]
+image: "/wp/wp-content/uploads/2011/06/apple-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

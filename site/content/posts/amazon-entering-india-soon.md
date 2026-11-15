@@ -4,6 +4,7 @@ date: 2011-06-26T14:11:33
 url: /internet/amazon-entering-india-soon/
 categories: ["Internet"]
 tags: ["amazon", "amazon india"]
+image: "/wp/wp-content/uploads/2011/06/amazon-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

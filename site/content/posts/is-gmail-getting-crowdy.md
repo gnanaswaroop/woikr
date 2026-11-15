@@ -4,6 +4,7 @@ date: 2009-03-21T15:41:34
 url: /google/is-gmail-getting-crowdy/
 categories: ["Google"]
 tags: ["gmail header", "gmail crowdy", "gmail menu", "gmail", "gmail labs"]
+image: "/wp/wp-content/uploads/2009/03/gmail-getting-crowdy_page.png"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

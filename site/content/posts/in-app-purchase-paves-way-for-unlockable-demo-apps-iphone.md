@@ -4,6 +4,7 @@ date: 2009-10-16T19:30:21
 url: /news/in-app-purchase-paves-way-for-unlockable-demo-apps-iphone/
 categories: ["News", "iPhone"]
 tags: ["iPhone", "free apps", "in app purchase"]
+image: "/wp/wp-content/uploads/2009/10/image17.png"
 author: "Setu"
 authors: ["setu"]
 ---

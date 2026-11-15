@@ -4,6 +4,7 @@ date: 2011-01-18T23:54:45
 url: /howto/how-to-enable-proper-cut-paste-on-mac/
 categories: ["How Tos", "Mac"]
 tags: ["Cut Paste on Mac", "moveAddict", "moveAddict Sale", "mac app store", "Mac App Store Discount", "Move files on Mac", "Merge Folders Mac"]
+image: "/wp/wp-content/uploads/2011/01/moveAddict_logo.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

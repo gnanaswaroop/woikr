@@ -4,6 +4,7 @@ date: 2010-08-26T13:53:13
 url: /google/call-phones-from-gmail/
 categories: ["Google", "News"]
 tags: ["gmail", "gmail chat features", "gmail chat new features", "gmail phone", "call phone from gmail", "google voice", "cheap phone call gmail"]
+image: "/wp/wp-content/uploads/2010/08/image55.png"
 author: "Setu"
 authors: ["setu"]
 ---

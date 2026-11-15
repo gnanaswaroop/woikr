@@ -4,6 +4,7 @@ date: 2012-09-20T12:54:33
 url: /ipad/how-to-get-back-google-maps-experience-on-ios6-iphoneipad/
 categories: ["iPad", "Apple", "iPhone"]
 tags: ["iOS6", "Apple Maps suck", "Google Maps replaced", "google maps", "Apple Maps Vs Google Maps", "iOS6 google maps", "Google maps removed", "Apple Bad moves", "iPhone Apple maps", "Apple mistakes", "iOS6 features", "iOS6 Maps", "Map applications", "Google Maps Alternative", "How to get Google Maps in iOS6"]
+image: "/wp/wp-content/uploads/2012/09/Photo-20-09-12-12-35-27-PM.png"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

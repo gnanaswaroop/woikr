@@ -4,6 +4,7 @@ date: 2015-06-14T05:04:03
 url: /apple/i-bought-an-apple-watch-and-returned-it/
 categories: ["Apple"]
 tags: ["Apple", "apple watch", "smartwatch"]
+image: "/wp/wp-content/uploads/2014/09/apple-watch-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

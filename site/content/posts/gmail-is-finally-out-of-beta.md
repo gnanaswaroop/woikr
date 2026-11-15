@@ -4,6 +4,7 @@ date: 2009-07-08T00:55:28
 url: /google/gmail-is-finally-out-of-beta/
 categories: ["Google", "News"]
 tags: ["gmail", "Google", "beta", "out of beta", "google apps", "back to beta"]
+image: "/wp/wp-content/uploads/2009/07/image.png"
 author: "Setu"
 authors: ["setu"]
 ---

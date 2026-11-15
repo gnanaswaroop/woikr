@@ -4,6 +4,7 @@ date: 2011-08-30T20:05:40
 url: /gaming/play-angry-anna-game-online/
 categories: ["Gaming"]
 tags: ["angry anna", "angry birds", "angry birds clone"]
+image: "/wp/wp-content/uploads/2011/08/angry-anna.png"
 author: "Setu"
 authors: ["setu"]
 ---

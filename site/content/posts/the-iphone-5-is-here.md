@@ -4,6 +4,7 @@ date: 2012-09-14T22:17:12
 url: /news/the-iphone-5-is-here/
 categories: ["News", "Apple", "iPhone"]
 tags: ["iphone 5 india", "iPhone 5", "latest iphone", "4 inch iphone"]
+image: "/wp/wp-content/uploads/2012/09/iphone-5.png"
 author: "Setu"
 authors: ["setu"]
 ---

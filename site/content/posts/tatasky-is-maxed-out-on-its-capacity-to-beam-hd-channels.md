@@ -4,6 +4,7 @@ date: 2011-07-25T02:40:52
 url: /home-entertainment/tatasky-is-maxed-out-on-its-capacity-to-beam-hd-channels/
 categories: ["Home Entertainment"]
 tags: ["tatasky hd channels", "tatasky HD", "tatasky hd transponders", "tatasky", "tatasky hd capacity"]
+image: "/wp/wp-content/uploads/2011/05/tatasky-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

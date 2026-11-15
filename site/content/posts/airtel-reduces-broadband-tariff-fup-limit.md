@@ -4,6 +4,7 @@ date: 2010-02-19T19:39:07
 url: /news/airtel-reduces-broadband-tariff-fup-limit/
 categories: ["News"]
 tags: ["Airtel", "airtel broadband", "new airtel broadband tariffs", "FUP"]
+image: "/wp/wp-content/uploads/2008/12/logo_airtel.gif"
 author: "Setu"
 authors: ["setu"]
 ---

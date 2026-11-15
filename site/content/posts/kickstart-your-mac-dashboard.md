@@ -4,6 +4,7 @@ date: 2010-09-24T14:48:12
 url: /mac/kickstart-your-mac-dashboard/
 categories: ["Mac"]
 tags: ["mac dashboard speedup", "fast mac dashboard"]
+image: "/wp/wp-content/uploads/2010/09/dashboard_240910.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

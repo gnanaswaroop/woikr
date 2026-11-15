@@ -4,6 +4,7 @@ date: 2008-10-12T03:39:29
 url: /reviews/review-acer-5920-series-laptops/
 categories: ["Reviews", "Laptops"]
 tags: ["Acer 5920", "Acer 5920 Windows XP", "Acer Aspire", "Acer Windows XP", "Acer Aspire 5920", "Acer Gemstone"]
+image: "/wp/wp-content/uploads/2008/10/acer593.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

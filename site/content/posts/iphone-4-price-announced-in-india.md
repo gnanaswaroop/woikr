@@ -4,6 +4,7 @@ date: 2011-05-25T11:44:37
 url: /iphone/iphone-4-price-announced-in-india/
 categories: ["iPhone"]
 tags: ["iphone 4", "iPhone India", "iphone 4 india price"]
+image: "/wp/wp-content/uploads/2010/06/iPhone4Pic4_thumb.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

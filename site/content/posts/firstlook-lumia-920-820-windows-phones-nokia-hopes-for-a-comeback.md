@@ -4,6 +4,7 @@ date: 2012-09-06T23:49:56
 url: /first-look/firstlook-lumia-920-820-windows-phones-nokia-hopes-for-a-comeback/
 categories: ["First Look", "Mobile Phones"]
 tags: ["Windows Phone 8", "Windows Phone", "Nokia Lumia", "Nokia Comeback", "Nokia Lumia 920", "Nokia Lumia 820. Windows Phones", "Microsoft Mobile"]
+image: "/wp/wp-content/uploads/2012/09/image3.png"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

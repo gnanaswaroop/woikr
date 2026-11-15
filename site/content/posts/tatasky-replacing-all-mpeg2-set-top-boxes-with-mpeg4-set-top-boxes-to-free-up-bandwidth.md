@@ -4,6 +4,7 @@ date: 2013-07-30T20:05:49
 url: /news/tatasky-replacing-all-mpeg2-set-top-boxes-with-mpeg4-set-top-boxes-to-free-up-bandwidth/
 categories: ["News", "Home Entertainment"]
 tags: ["tatasky", "tatasky HD", "tatasky hd capacity", "tatasky hd transponders"]
+image: "/wp/wp-content/uploads/2011/05/tatasky-logo.png"
 author: "Setu"
 authors: ["setu"]
 aliases: ["/home-entertainment/tatasky-replacing-all-mpeg2-set-top-boxes-with-mpeg4-set-top-boxes-to-free-up-bandwidth/"]

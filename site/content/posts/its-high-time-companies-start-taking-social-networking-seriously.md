@@ -4,6 +4,7 @@ date: 2011-08-20T15:11:39
 url: /misc/its-high-time-companies-start-taking-social-networking-seriously/
 categories: ["Misc"]
 tags: ["social networking in india", "twitter customer service", "facebook customer service", "social customer service"]
+image: "/wp/wp-content/uploads/2011/08/airtel-twitter-rant.jpg"
 author: "Setu"
 authors: ["setu"]
 aliases: ["/misc/its-high-time-companies-start-taking-social-networking-seriously"]

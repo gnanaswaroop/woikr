@@ -4,6 +4,7 @@ date: 2011-07-20T18:34:21
 url: /apple/mac-os-x-lion-now-available-on-the-mac-app-store/
 categories: ["Apple"]
 tags: ["mac app store", "Mac OS X Lion", "max os x", "lion", "Apple"]
+image: "/wp/wp-content/uploads/2011/07/mac-os-x-lion.png"
 author: "Setu"
 authors: ["setu"]
 ---

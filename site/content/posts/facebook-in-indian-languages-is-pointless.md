@@ -4,6 +4,7 @@ date: 2009-05-09T11:53:02
 url: /news/facebook-in-indian-languages-is-pointless/
 categories: ["News"]
 tags: ["facebook and orkut", "facebook in hindi", "Facebook india", "facebook indian languages", "social networking in india"]
+image: "/wp/wp-content/uploads/2009/05/facebook-hindi.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

@@ -4,6 +4,7 @@ date: 2011-10-26T07:34:51
 url: /news/indian-cable-operators-planning-to-launch-hd-channels/
 categories: ["News", "Home Entertainment"]
 tags: ["HD India", "hd channels india", "hd cable", "digital cable india", "digital tv"]
+image: "/wp/wp-content/uploads/2011/10/hd.png"
 author: "Setu"
 authors: ["setu"]
 ---

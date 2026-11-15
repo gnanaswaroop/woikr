@@ -4,6 +4,7 @@ date: 2011-04-27T19:41:50
 url: /android/nexus-s-officially-available-in-stores-across-india/
 categories: ["Android", "Google", "News"]
 tags: ["nexus", "nexus s", "Nexus S India", "nexus india"]
+image: "/wp/wp-content/uploads/2010/12/image1.png"
 author: "Setu"
 authors: ["setu"]
 ---

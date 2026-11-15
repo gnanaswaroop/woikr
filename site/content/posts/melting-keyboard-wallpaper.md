@@ -4,6 +4,7 @@ date: 2009-05-15T11:01:46
 url: /misc/melting-keyboard-wallpaper/
 categories: ["Misc"]
 tags: ["cool keyboard wallpaper", "melting keyboard", "home decoration"]
+image: "/wp/wp-content/uploads/2009/05/melting-keyboard-wallpaper.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

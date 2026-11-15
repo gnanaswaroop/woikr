@@ -4,6 +4,7 @@ date: 2010-05-06T11:10:20
 url: /news/big-tv-launches-high-definition-dvr-set-top-box-in-india/
 categories: ["News", "Home Entertainment"]
 tags: ["reliance", "reliance big tv", "big tv", "high defitionion TV india", "HD recorder", "reliance big tv stb", "pvr", "HD DVR india", "hd dth india"]
+image: "/wp/wp-content/uploads/2010/05/image6.png"
 author: "Setu"
 authors: ["setu"]
 ---

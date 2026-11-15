@@ -4,6 +4,7 @@ date: 2011-01-03T22:57:38
 url: /photography/lexar-introduces-128-gb-sd-card-deleting-becomes-history/
 categories: ["Photo Gear"]
 tags: ["Lexar 128 GB", "128 GB Memory Card", "Lexar Professional 133x SDXC Card"]
+image: "/wp/wp-content/uploads/2011/01/SDXC_128GB_133x.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

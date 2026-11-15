@@ -4,6 +4,7 @@ date: 2011-05-04T10:33:11
 url: /news/apple-updates-imac-line-with-quad-core-processors/
 categories: ["News", "Apple"]
 tags: ["imac", "Mac", "apple imac", "new imac"]
+image: "/wp/wp-content/uploads/2011/05/iMac-2011.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

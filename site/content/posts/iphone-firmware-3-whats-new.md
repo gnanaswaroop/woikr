@@ -4,6 +4,7 @@ date: 2009-03-13T14:57:48
 url: /iphone/iphone-firmware-3-whats-new/
 categories: ["iPhone"]
 tags: ["iphone 3.0", "iphone firmware", "iphone wishlist", "iphone 3.0 wishlist", "iphone push notification", "iphone bluetooth", "iphone copy paste", "iphone flash", "iphone mms", "iphone firmware 3.0", "iphone firmware 3", "iphone 3.0 features", "iphone firmware wishlist", "iphone video recording"]
+image: "/wp/wp-content/uploads/2009/03/iphone_30_firmware_lead_image.jpg"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

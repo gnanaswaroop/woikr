@@ -4,6 +4,7 @@ date: 2011-01-02T13:36:51
 url: /misc/aol-knows-you-hate-your-boss/
 categories: ["Misc"]
 tags: ["AOL Job Advertisement"]
+image: "/wp/wp-content/uploads/2011/01/aolcareers.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

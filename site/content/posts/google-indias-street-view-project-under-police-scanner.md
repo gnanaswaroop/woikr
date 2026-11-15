@@ -4,6 +4,7 @@ date: 2011-06-21T15:12:14
 url: /google/google-indias-street-view-project-under-police-scanner/
 categories: ["Google"]
 tags: ["Google", "google india", "street view", "street view india"]
+image: "/wp/wp-content/uploads/2011/05/Google_Street_View_Cars_Tricycle_Captiva_thumb.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

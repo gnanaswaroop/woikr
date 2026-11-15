@@ -4,6 +4,7 @@ date: 2009-02-09T16:33:36
 url: /news/nikon-launches-budget-prime/
 categories: ["News", "Photo Gear"]
 tags: ["Nikkor 35mm prime", "Prime lens for Nikon D40", "Prime lens for Nikon D40x", "Prime lens for Nikon D60", "Budget prime lens from Nikon", "Nikon 35mm prime", "Nikkor AF-S 35mm f1.8 prime"]
+image: "/wp/wp-content/uploads/2009/02/nikkor35mm.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

@@ -4,6 +4,7 @@ date: 2008-09-03T01:21:35
 url: /first-look/first-look-google-chrome/
 categories: ["First Look", "Google"]
 tags: ["Google Browser review", "Google Chrome review", "Google Chrome first look", "google chrome"]
+image: "/wp/wp-content/uploads/2008/09/install-close-ff1.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

@@ -4,6 +4,7 @@ date: 2011-01-11T22:51:00
 url: /misc/smallest-hotel-room-in-china-makes-me-feel-lucky/
 categories: ["Misc", "WTF?"]
 tags: ["Smallest Hotel Room China", "Shanghai Capsule Hotel", "Capsule Hotel Prices", "Smallest Hotel Room Prices"]
+image: "/wp/wp-content/uploads/2011/01/china_capsule_1.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

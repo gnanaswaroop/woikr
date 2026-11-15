@@ -4,6 +4,7 @@ date: 2008-11-21T12:56:25
 url: /news/iphone-firmware-22-update-available-now/
 categories: ["News"]
 tags: ["iPhone", "iphone update", "iphone update 2.2", "apple update", "iphone firmware", "iphone firmware 2.2", "iphone 2.2"]
+image: "/wp/wp-content/uploads/2008/11/iphone-logo.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

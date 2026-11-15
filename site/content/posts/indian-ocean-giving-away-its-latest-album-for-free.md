@@ -4,6 +4,7 @@ date: 2010-07-27T21:47:53
 url: /news/indian-ocean-giving-away-its-latest-album-for-free/
 categories: ["News"]
 tags: ["indian ocean band", "indian ocean free album", "download free song"]
+image: "/wp/wp-content/uploads/2010/07/image18.png"
 author: "Setu"
 authors: ["setu"]
 ---

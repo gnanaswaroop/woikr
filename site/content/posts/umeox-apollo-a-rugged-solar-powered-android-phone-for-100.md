@@ -4,6 +4,7 @@ date: 2011-03-05T00:35:17
 url: /android/umeox-apollo-a-rugged-solar-powered-android-phone-for-100/
 categories: ["Android", "Mobile Phones"]
 tags: ["Solar powered mobile phone", "Solar phone", "Solar cellphone", "Solar Powered Android Phone", "Solar Android", "Rugged Android phone", "Android 2.2", "Froyo", "Umeox", "Intivation", "Umeox Apollo", "Sturdy Android Phone"]
+image: "/wp/wp-content/uploads/2011/03/Umeox-Apollo.jpg"
 author: "Chirag"
 authors: ["chirag"]
 aliases: ["/mobile-phones/umeox-apollo-a-rugged-solar-powered-android-phone-for-100/", "/mobile-phones/umeox-apollo-a-rugged-solar-powered-android-phone-for-100"]

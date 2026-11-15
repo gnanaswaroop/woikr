@@ -4,6 +4,7 @@ date: 2009-10-05T16:00:03
 url: /news/sony-develops-wireless-power-transfer-system/
 categories: ["News"]
 tags: ["wireless power", "sony", "wireless power system prototype", "wireless TV"]
+image: "/wp/wp-content/uploads/2009/10/image12.png"
 author: "Setu"
 authors: ["setu"]
 ---

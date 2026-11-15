@@ -4,6 +4,7 @@ date: 2008-11-21T03:38:11
 url: /gaming/new-xbox-experience/
 categories: ["Gaming"]
 tags: ["Xbox 360", "Microsoft Xbox", "New Xbox Experience", "New Xbox guide", "Xbox 360 software upgrade", "Xbox NXE update"]
+image: "/wp/wp-content/uploads/2008/11/avatar-body.png"
 author: "Chirag"
 authors: ["chirag"]
 ---

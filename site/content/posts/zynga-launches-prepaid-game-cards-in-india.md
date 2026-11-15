@@ -4,6 +4,7 @@ date: 2011-03-01T23:46:40
 url: /gaming/zynga-launches-prepaid-game-cards-in-india/
 categories: ["Gaming"]
 tags: ["Mafia Wars", "FarmVille", "CityVille", "Zynga India", "Zynga Game cards", "Zynga points India"]
+image: "/wp/wp-content/uploads/2011/01/zynga.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

@@ -4,6 +4,7 @@ date: 2011-07-23T01:02:26
 url: /home-entertainment/tatasky-updates-its-iphone-app-to-a-social-programming-guide-with-a-universal-remote-control/
 categories: ["Home Entertainment"]
 tags: ["tatasky", "tatasky HD", "tatasky iphone app", "iphone remote", "iphone universal remote"]
+image: "/wp/wp-content/uploads/2011/07/tatasky-iphone-app.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

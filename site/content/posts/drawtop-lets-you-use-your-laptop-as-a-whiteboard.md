@@ -4,6 +4,7 @@ date: 2011-10-22T09:50:40
 url: /misc/drawtop-lets-you-use-your-laptop-as-a-whiteboard/
 categories: ["Misc"]
 tags: ["drawtop", "whiteboard laptop"]
+image: "/wp/wp-content/uploads/2011/10/drawtop-laptop-whiteboard.png"
 author: "Setu"
 authors: ["setu"]
 aliases: ["/misc/drawtop-lets-you-use-your-laptop-as-a-whiteboard"]

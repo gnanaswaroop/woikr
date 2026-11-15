@@ -4,6 +4,7 @@ date: 2012-03-19T19:47:50
 url: /internet/watch-indian-television-shows-on-youtube/
 categories: ["Internet", "Home Entertainment"]
 tags: ["youtube india", "youtube TV shows", "indian tv shows online"]
+image: "/wp/wp-content/uploads/2012/03/YouTube-Logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

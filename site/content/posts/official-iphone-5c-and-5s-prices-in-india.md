@@ -4,6 +4,7 @@ date: 2013-10-16T21:14:49
 url: /news/official-iphone-5c-and-5s-prices-in-india/
 categories: ["News", "Apple", "Mobile Phones", "iPhone"]
 tags: ["iphone 5c 5s price india", "iPhone India", "iphone price in india"]
+image: "/wp/wp-content/uploads/2013/10/iPhone-5s.png"
 author: "Setu"
 authors: ["setu"]
 aliases: ["/apple/official-iphone-5c-and-5s-prices-in-india/"]

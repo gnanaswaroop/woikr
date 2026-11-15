@@ -4,6 +4,7 @@ date: 2010-03-04T20:58:46
 url: /telecom/bsnl-launches-24mbps-broadband-plan-in-india/
 categories: ["Telecom", "News"]
 tags: ["bsnl", "bsnl broadband", "high speed internet in India", "24Mbps", "24 Mbps", "broadband india"]
+image: "/wp/wp-content/uploads/2010/03/bsnllogo1.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

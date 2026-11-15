@@ -4,6 +4,7 @@ date: 2010-03-10T13:17:31
 url: /news/tata-sky-planning-to-launch-hd-channels-in-india-this-year/
 categories: ["News", "Home Entertainment"]
 tags: ["tata sky", "tata sky dth", "tata sky plus", "tatasky", "tata sky HD", "HD transmission india", "DTH HD India"]
+image: "/wp/wp-content/uploads/2010/03/image3.png"
 author: "Setu"
 authors: ["setu"]
 ---

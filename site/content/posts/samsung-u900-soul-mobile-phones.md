@@ -4,6 +4,7 @@ date: 2008-10-21T08:45:21
 url: /first-look/samsung-u900-soul-mobile-phones/
 categories: ["First Look", "Mobile Phones"]
 tags: ["Samsung U900 Soul", "Samsung 5 Megapixel Cameraphone", "Samsung U900 preview"]
+image: "/wp/wp-content/uploads/2008/10/u900_featuretop.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

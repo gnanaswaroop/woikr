@@ -4,6 +4,7 @@ date: 2010-12-27T23:00:32
 url: /microsoft/pcworld-names-microsoft-kin-the-biggest-failure-of-2010/
 categories: ["Microsoft"]
 tags: []
+image: "/wp/wp-content/uploads/2010/12/kin_fail.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

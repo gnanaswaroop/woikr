@@ -4,6 +4,7 @@ date: 2011-08-28T02:13:24
 url: /news/99%c2%a2-tv-show-rentals-pulled-from-apple-tv/
 categories: ["News", "Apple", "Home Entertainment"]
 tags: ["tv show rentals apple tv", "apple tv", "apple tv in india"]
+image: "/wp/wp-content/uploads/2010/09/image16.png"
 author: "Setu"
 authors: ["setu"]
 ---

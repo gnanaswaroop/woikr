@@ -4,6 +4,7 @@ date: 2010-04-10T10:59:23
 url: /news/get-ready-for-the-official-twitter-app-for-iphone/
 categories: ["News"]
 tags: ["twitter", "twitter iphone", "tweetie", "official twitter app for iphone"]
+image: "/wp/wp-content/uploads/2010/04/image9.png"
 author: "Setu"
 authors: ["setu"]
 ---

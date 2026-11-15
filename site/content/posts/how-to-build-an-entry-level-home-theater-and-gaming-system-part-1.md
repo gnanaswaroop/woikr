@@ -4,6 +4,7 @@ date: 2009-10-25T03:08:54
 url: /howto/how-to-build-an-entry-level-home-theater-and-gaming-system-part-1/
 categories: ["How Tos"]
 tags: ["home theater", "gaming system", "home theater setup", "entry level home theater india", "LCD TV India"]
+image: "/wp/wp-content/uploads/2009/10/image23.png"
 author: "Setu"
 authors: ["setu"]
 ---

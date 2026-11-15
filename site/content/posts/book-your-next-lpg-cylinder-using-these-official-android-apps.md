@@ -4,6 +4,7 @@ date: 2013-01-19T16:43:38
 url: /android/book-your-next-lpg-cylinder-using-these-official-android-apps/
 categories: ["Android"]
 tags: ["LPG cylinder apps", "bharatgas", "indane", "HP Gas", "android apps"]
+image: "/wp/wp-content/uploads/2013/01/bharatgas-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

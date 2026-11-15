@@ -4,6 +4,7 @@ date: 2011-02-14T23:37:54
 url: /android/xperia-pro-neo-and-the-playstation-phone-announced/
 categories: ["Android", "Mobile Phones"]
 tags: ["sony phones", "Android phones", "android first look", "gingerbread phones", "android 2.3", "Mobile World Congress", "MWC 2011", "Sony ericsson", "Play Station Phone", "Playstation Phone", "Xperia Play", "XPeria Pro", "XPeria Series", "XPeria Android", "XPeria Neo", "Differences between XPeria Neo and XPeria Pro", "Neo Vs Pro", "XPeria Neo Vs XPeria Pro", "compare XPeria Neo with XPeria Pro"]
+image: "/wp/wp-content/uploads/2011/01/android.jpg"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

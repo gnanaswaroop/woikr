@@ -4,6 +4,7 @@ date: 2010-03-25T13:58:10
 url: /misc/taco-bell-comes-to-india/
 categories: ["Misc", "News"]
 tags: ["taco bell india", "mexican food india", "taco india", "taco bell bangalore"]
+image: "/wp/wp-content/uploads/2010/03/image11.png"
 author: "Setu"
 authors: ["setu"]
 ---

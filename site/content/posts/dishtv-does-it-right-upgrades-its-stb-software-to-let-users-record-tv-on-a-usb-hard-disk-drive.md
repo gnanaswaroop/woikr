@@ -4,6 +4,7 @@ date: 2012-02-02T21:27:22
 url: /news/dishtv-does-it-right-upgrades-its-stb-software-to-let-users-record-tv-on-a-usb-hard-disk-drive/
 categories: ["News", "Home Entertainment"]
 tags: ["dish tv", "dish truHD", "HD DVR india", "HD DVR", "USB HDD DVR"]
+image: "/wp/wp-content/uploads/2012/02/dish-truhd-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

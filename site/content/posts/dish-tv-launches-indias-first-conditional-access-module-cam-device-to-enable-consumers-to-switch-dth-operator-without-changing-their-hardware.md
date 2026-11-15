@@ -4,6 +4,7 @@ date: 2011-08-23T21:21:25
 url: /home-entertainment/dish-tv-launches-indias-first-conditional-access-module-cam-device-to-enable-consumers-to-switch-dth-operator-without-changing-their-hardware/
 categories: ["Home Entertainment"]
 tags: ["cam", "customer access module", "cam dth", "dth india", "change dth operator india", "dish tv", "dish freedom"]
+image: "/wp/wp-content/uploads/2011/08/Direct-to-home.png"
 author: "Setu"
 authors: ["setu"]
 ---

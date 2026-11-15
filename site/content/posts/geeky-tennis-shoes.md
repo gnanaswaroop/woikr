@@ -4,6 +4,7 @@ date: 2011-03-27T21:37:01
 url: /misc/geeky-tennis-shoes/
 categories: ["Misc"]
 tags: ["geek stuff", "tennis geek", "geeky shoes", "geek shoes"]
+image: "/wp/wp-content/uploads/2011/03/NewImage27.png"
 author: "Setu"
 authors: ["setu"]
 ---

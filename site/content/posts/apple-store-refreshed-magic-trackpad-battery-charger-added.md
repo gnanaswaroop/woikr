@@ -4,6 +4,7 @@ date: 2010-07-28T13:45:58
 url: /news/apple-store-refreshed-magic-trackpad-battery-charger-added/
 categories: ["News", "Apple"]
 tags: ["Apple", "magic trackpad", "apple battery charger", "apple store"]
+image: "/wp/wp-content/uploads/2010/07/image21.png"
 author: "Setu"
 authors: ["setu"]
 ---

@@ -4,6 +4,7 @@ date: 2010-03-23T18:28:08
 url: /telecom/airtel-launches-4mbps-plans-with-absurd-fup-limits/
 categories: ["Telecom", "News"]
 tags: ["Airtel", "airtel broadband", "airtel broadband tariffs", "airtel high speed plans", "4 mbps broadband india", "high speed internet in India"]
+image: "/wp/wp-content/uploads/2009/07/airtel-logo.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

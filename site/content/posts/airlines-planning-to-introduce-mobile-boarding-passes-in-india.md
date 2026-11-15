@@ -4,6 +4,7 @@ date: 2011-10-04T06:51:18
 url: /telecom/airlines-planning-to-introduce-mobile-boarding-passes-in-india/
 categories: ["Telecom", "News"]
 tags: ["mobile boarding", "mobile boarding pass", "airlines india", "internet india", "3g india"]
+image: "/wp/wp-content/uploads/2011/10/Mobile-boarding-pass.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

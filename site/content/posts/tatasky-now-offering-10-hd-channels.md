@@ -4,6 +4,7 @@ date: 2012-06-07T09:26:39
 url: /news/tatasky-now-offering-10-hd-channels/
 categories: ["News", "Home Entertainment"]
 tags: ["tatasky", "tatasky HD", "tatasky hd capacity", "tatasky hd channels", "tatasky hd transponders"]
+image: "/wp/wp-content/uploads/2012/02/tatasky-hd-logo.png"
 author: "Setu"
 authors: ["setu"]
 aliases: ["/home-entertainment/tatasky-now-offering-10-hd-channels/"]

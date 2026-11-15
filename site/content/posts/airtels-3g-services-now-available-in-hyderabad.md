@@ -4,6 +4,7 @@ date: 2011-04-05T14:04:57
 url: /telecom/airtels-3g-services-now-available-in-hyderabad/
 categories: ["Telecom", "News"]
 tags: ["Airtel", "airtel 3g", "airtel 3g hyderabad", "3g hyderabad", "3g andhra pradesh"]
+image: "/wp/wp-content/uploads/2011/03/NewImage8.png"
 author: "Setu"
 authors: ["setu"]
 ---

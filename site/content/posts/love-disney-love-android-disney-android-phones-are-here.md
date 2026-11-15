@@ -4,6 +4,7 @@ date: 2011-01-19T09:49:26
 url: /android/love-disney-love-android-disney-android-phones-are-here/
 categories: ["Android", "Mobile Phones"]
 tags: ["Disney Phones", "Disney Mobile Phones", "Disney Android Phones", "Sharp Galapagos Disney", "Sharp Galapagos", "Disney Smartphone"]
+image: "/wp/wp-content/uploads/2011/01/disney_android.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

@@ -4,6 +4,7 @@ date: 2011-03-03T12:16:28
 url: /ipad/the-ipad-2-is-here/
 categories: ["iPad"]
 tags: ["iPad", "iPad 2", "apple ipad", "ipad new generation", "latest ipad", "iPad FaceTime", "ipad with camera"]
+image: "/wp/wp-content/uploads/2011/03/NewImage2.png"
 author: "Setu"
 authors: ["setu"]
 ---

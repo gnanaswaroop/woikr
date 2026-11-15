@@ -4,6 +4,7 @@ date: 2010-12-30T17:12:29
 url: /android/is-honeycomb-android-3-or-2-4/
 categories: ["Android"]
 tags: ["Android Honeycomb", "Android 2.4", "Android Rumors", "Honeycomb 3.0", "Honeycomb 2.4", "android 3.0"]
+image: "/wp/wp-content/uploads/2010/12/honeycomb_androidme.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

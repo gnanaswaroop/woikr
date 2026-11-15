@@ -4,6 +4,7 @@ date: 2011-07-18T11:10:52
 url: /news/cleartax-files-your-income-tax-return-online-for-free/
 categories: ["News"]
 tags: ["cleartax", "income tax", "income tax india", "income tax e filing", "income tax return free"]
+image: "/wp/wp-content/uploads/2011/07/cleartax-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

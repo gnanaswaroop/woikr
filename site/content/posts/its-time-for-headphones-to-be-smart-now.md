@@ -4,6 +4,7 @@ date: 2012-01-10T23:14:37
 url: /news/its-time-for-headphones-to-be-smart-now/
 categories: ["News", "Home Entertainment"]
 tags: ["Headphones", "noise cancelling headphones", "smart headphones", "parrot"]
+image: "/wp/wp-content/uploads/2012/01/Zik_ParrotByStarck_10.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

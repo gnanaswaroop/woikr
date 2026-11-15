@@ -4,6 +4,7 @@ date: 2011-01-12T09:48:49
 url: /android/next-android-release-will-be-called-ice-cream-sandwich/
 categories: ["Android"]
 tags: ["Android Ice Cream Sandwich", "Android 2.4"]
+image: "/wp/wp-content/uploads/2011/01/icecream_sandwich.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

@@ -4,6 +4,7 @@ date: 2011-08-27T23:58:33
 url: /iphone/the-best-video-recording-app-on-iphone-capture/
 categories: ["iPhone", "Reviews"]
 tags: ["video recording iphone", "best iphone video recorder", "iOS video recorder", "Best video recording app", "capture iphone", "capture for ipod", "capture.app", "one click video recording iphone"]
+image: "/wp/wp-content/uploads/2011/08/capture.app_.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

@@ -4,6 +4,7 @@ date: 2012-01-10T23:30:35
 url: /home-entertainment/a-home-theater-which-is-both-stylish-functional/
 categories: ["Home Entertainment"]
 tags: ["home theater", "home theater connections", "home theater setup", "home decoration"]
+image: "/wp/wp-content/uploads/2012/01/UNITY-top.png"
 author: "Setu"
 authors: ["setu"]
 ---

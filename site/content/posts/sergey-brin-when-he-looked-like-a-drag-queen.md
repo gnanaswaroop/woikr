@@ -4,6 +4,7 @@ date: 2010-12-30T15:18:41
 url: /lol/sergey-brin-when-he-looked-like-a-drag-queen/
 categories: ["LOL"]
 tags: ["Sergey Brin", "Sergey Brin of Google", "Sergey Brin Drag Queen"]
+image: "/wp/wp-content/uploads/2010/12/drag96_sergey.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

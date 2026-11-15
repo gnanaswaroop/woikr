@@ -4,6 +4,7 @@ date: 2009-06-06T17:17:38
 url: /google/faster-picasa-web-albums/
 categories: ["Google", "News"]
 tags: ["picasa", "Google", "fast web albums", "fast picasa"]
+image: "/wp/wp-content/uploads/2009/06/image1.png"
 author: "Setu"
 authors: ["setu"]
 ---

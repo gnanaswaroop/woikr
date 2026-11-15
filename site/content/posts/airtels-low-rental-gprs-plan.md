@@ -4,6 +4,7 @@ date: 2010-03-12T00:32:55
 url: /telecom/airtels-low-rental-gprs-plan/
 categories: ["Telecom", "News"]
 tags: ["Airtel", "airtel gprs", "airtel edge", "airtel data plans india", "airtel unlimited GPRS plan"]
+image: "/wp/wp-content/uploads/2009/07/airtel-logo.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

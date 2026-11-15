@@ -4,6 +4,7 @@ date: 2009-11-23T13:18:07
 url: /howto/how-to-build-an-entry-level-home-theater-and-gaming-system-part-2/
 categories: ["How Tos"]
 tags: ["entry level home theater india", "gaming system", "home theater", "home theater setup", "LCD TV India", "speaker calibration", "home theater connections", "listening modes", "best optimum speaker placement"]
+image: "/wp/wp-content/uploads/2009/10/image23.png"
 author: "Setu"
 authors: ["setu"]
 ---

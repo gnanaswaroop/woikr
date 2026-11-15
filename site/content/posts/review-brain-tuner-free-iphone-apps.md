@@ -4,6 +4,7 @@ date: 2008-09-16T10:19:22
 url: /gaming/review-brain-tuner-free-iphone-apps/
 categories: ["Gaming", "Apple", "iPhone", "Reviews"]
 tags: ["brain tuner", "iphone apps", "brain exercise", "iphone brain", "iphone brain game", "iphone game"]
+image: "/wp/wp-content/uploads/2008/09/brain_tuner_lead.png"
 author: "Setu"
 authors: ["setu"]
 ---

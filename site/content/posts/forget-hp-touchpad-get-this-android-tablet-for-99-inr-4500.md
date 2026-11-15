@@ -4,6 +4,7 @@ date: 2011-08-21T17:52:22
 url: /tablets/forget-hp-touchpad-get-this-android-tablet-for-99-inr-4500/
 categories: ["Tablets"]
 tags: ["android", "android tablet", "cheapest tablet", "cheapest android tablet"]
+image: "/wp/wp-content/uploads/2011/08/magnum-pepper-android-tablet-india.png"
 author: "Setu"
 authors: ["setu"]
 ---

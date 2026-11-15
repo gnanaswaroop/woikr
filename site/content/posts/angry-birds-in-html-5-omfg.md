@@ -4,6 +4,7 @@ date: 2011-05-12T13:07:56
 url: /gaming/angry-birds-in-html-5-omfg/
 categories: ["Gaming", "Google"]
 tags: ["angry birds", "angry birds free", "html 5", "Chrome"]
+image: "/wp/wp-content/uploads/2011/05/angry-birds-logo.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

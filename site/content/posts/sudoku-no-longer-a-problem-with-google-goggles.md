@@ -4,6 +4,7 @@ date: 2011-01-11T10:15:44
 url: /google/sudoku-no-longer-a-problem-with-google-goggles/
 categories: ["Google"]
 tags: ["Google goggles", "Solve Sudoku quickly", "Fast Sudoku solver", "Google Sudoku", "Automatic sudoku solver"]
+image: "/wp/wp-content/uploads/2011/01/GoogleGogglesSudoku0.png"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

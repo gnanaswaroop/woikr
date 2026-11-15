@@ -4,6 +4,7 @@ date: 2011-02-23T20:10:49
 url: /apple/13-macbook-pro-spec-leak-upgraded-with-thunderbolt-port/
 categories: ["Apple", "Laptops"]
 tags: ["apple product", "apple leak", "macbook pro", "MBP 13", "Macbook Pro 13", "13\" inch 2011", "13 inch Macbook pro leaked", "Macbook Pro leaked spec", "leaked specs", "Intel Lightpeak", "Thunderbolt port", "Thunderbolt", "Intel High Speed", "Light Peak 10Gbps"]
+image: "/wp/wp-content/uploads/2011/02/MacBookPro13inch2011upgradedspec.jpg"
 author: "Swaroop"
 authors: ["swaroop"]
 aliases: ["/apple/13-macbook-pro-spec-leak-13-inch-upgraded-with-thunderbolt"]

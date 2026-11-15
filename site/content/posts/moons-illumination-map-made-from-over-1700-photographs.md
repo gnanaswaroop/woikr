@@ -4,6 +4,7 @@ date: 2010-12-18T23:12:25
 url: /science/moons-illumination-map-made-from-over-1700-photographs/
 categories: ["Science"]
 tags: ["Moon's illumination map", "LROC"]
+image: "/wp/wp-content/uploads/2010/12/moon_illumination_map.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

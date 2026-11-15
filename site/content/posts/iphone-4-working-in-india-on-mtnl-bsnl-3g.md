@@ -4,6 +4,7 @@ date: 2010-09-10T22:08:20
 url: /iphone/iphone-4-working-in-india-on-mtnl-bsnl-3g/
 categories: ["iPhone"]
 tags: ["iPhone", "iphone 4", "iphone 4 india", "iphone 4 bsnl mtnl", "bsnl mtnl 3g"]
+image: "/wp/wp-content/uploads/2010/09/IMG_04781.png"
 author: "Setu"
 authors: ["setu"]
 ---

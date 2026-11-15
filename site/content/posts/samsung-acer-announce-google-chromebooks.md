@@ -4,6 +4,7 @@ date: 2011-05-12T10:09:38
 url: /google/samsung-acer-announce-google-chromebooks/
 categories: ["Google", "News"]
 tags: ["samsung", "acer", "chromebook", "chrome OS", "chrome notebook", "google netbook"]
+image: "/wp/wp-content/uploads/2011/05/chrome-logo.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

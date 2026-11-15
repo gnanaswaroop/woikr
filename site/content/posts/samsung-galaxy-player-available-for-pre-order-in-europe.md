@@ -4,6 +4,7 @@ date: 2011-01-03T09:50:09
 url: /android/samsung-galaxy-player-available-for-pre-order-in-europe/
 categories: ["Android"]
 tags: ["Samsung Galaxy Player", "android music player", "android mp3 player", "Samsung Galaxy Player price"]
+image: "/wp/wp-content/uploads/2011/01/samsung_galaxy_player_580x580.shkl_.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

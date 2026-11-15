@@ -4,6 +4,7 @@ date: 2011-02-24T15:50:32
 url: /howto/how-to-use-google-maps-for-facebook-places/
 categories: ["How Tos", "Internet"]
 tags: ["facebook places", "Bing Maps india", "Bing Maps Vs Google Maps", "Bing Vs Google", "Google Maps in Facebook Places", "Greasemonkey scripts", "userscript", "Facebook places Mozilla", "Bing Maps ugly", "Faecbook Places Chrome", "what are facebook places"]
+image: "/wp/wp-content/uploads/2011/02/FacebookPlacesGoogleMaps.png"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

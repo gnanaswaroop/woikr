@@ -4,6 +4,7 @@ date: 2010-12-21T20:17:08
 url: /android/nexus-one-to-get-gingerbread-soon-2/
 categories: ["Android"]
 tags: ["nexus one", "Gingerbread Nexus One", "Android Nexus One"]
+image: "/wp/wp-content/uploads/2010/12/nexus-one-gingerbread.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

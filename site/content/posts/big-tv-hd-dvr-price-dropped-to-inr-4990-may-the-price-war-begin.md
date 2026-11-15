@@ -4,6 +4,7 @@ date: 2010-08-16T18:41:29
 url: /news/big-tv-hd-dvr-price-dropped-to-inr-4990-may-the-price-war-begin/
 categories: ["News", "Home Entertainment"]
 tags: ["reliance", "reliance big tv", "reliance big tv stb", "big tv", "hd dth india", "HD DVR india"]
+image: "/wp/wp-content/uploads/2010/08/image36.png"
 author: "Setu"
 authors: ["setu"]
 ---

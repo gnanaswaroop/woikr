@@ -4,6 +4,7 @@ date: 2011-01-18T18:39:12
 url: /news/html5-gets-an-official-logo-ready-to-save-the-world-now/
 categories: ["News"]
 tags: ["HTML5", "HTML5 Logo", "HTML5 W3C", "HTML5 T-shirts"]
+image: "/wp/wp-content/uploads/2011/01/HTML5_Logo_512-300x300.png"
 author: "Chirag"
 authors: ["chirag"]
 ---

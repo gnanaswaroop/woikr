@@ -4,6 +4,7 @@ date: 2011-08-28T20:47:34
 url: /blogging/how-our-alexa-rank-jumped-from-400000-to-100000-in-2-months/
 categories: ["Blogging"]
 tags: ["Alexa rank tricks", "our alexa rank experience", "personal alexa experience", "simple SEO tips", "SEO tricks", "how we improved our alexa rank"]
+image: "/wp/wp-content/uploads/2011/08/alexa_rank_woikr.png"
 author: "Chirag"
 authors: ["chirag"]
 aliases: ["/blogging/how-our-alexa-rank-jumped-from-400000-to-100000-in-2-months"]

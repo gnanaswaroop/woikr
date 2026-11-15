@@ -4,6 +4,7 @@ date: 2011-01-20T10:44:47
 url: /deals/buy-html5-t-shirtsweatshirt-in-india-only-today/
 categories: ["Deals"]
 tags: ["24hoursloot", "Woot India", "HTML5 Goodies", "HTML5 T-shirts", "HTML5 Jacket", "HTML5 Hoodie", "HTML5 Sweatshirt"]
+image: "/wp/wp-content/uploads/2011/01/tshirt.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

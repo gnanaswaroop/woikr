@@ -4,6 +4,7 @@ date: 2008-12-17T18:17:50
 url: /howto/synergy-share-a-single-mouse-and-keyboard-between-multiple-computers/
 categories: ["How Tos"]
 tags: ["synergy", "synergy2", "share single keyboard and mouse", "multiple computers on single desk", "screen sharing", "multiple screens", "single mouse multiple screens", "multiple desktops", "extended desktops"]
+image: "/wp/wp-content/uploads/2008/12/synergy_logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

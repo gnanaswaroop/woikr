@@ -4,6 +4,7 @@ date: 2010-12-28T08:47:21
 url: /misc/disney-wants-your-cakes-to-be-interactive-geeky-cakes/
 categories: ["Misc"]
 tags: ["SciFi Cakes", "Geeky Cakes", "Projector Cakes", "Disney Cake"]
+image: "/wp/wp-content/uploads/2010/12/mario_cake.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

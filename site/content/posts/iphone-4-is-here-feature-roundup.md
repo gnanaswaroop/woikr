@@ -4,6 +4,7 @@ date: 2010-06-08T17:26:11
 url: /news/iphone-4-is-here-feature-roundup/
 categories: ["News", "iPhone"]
 tags: ["iphone4", "iPhone", "iphone 4G", "iphone 4.0", "firmware 4.0", "firmware 4", "iphone firmware", "iphone wwdc", "iphone 2010", "iphone latest", "wwdc 2010", "wwdc", "apple iphone", "iphone features", "iOS", "iOS4", "iphone OS 4", "iPhone OS", "iDevice", "Apple", "apple wwdc", "wwdc2010", "iphone upgrade", "apple hardware", "iphone a4", "multitasking", "videochat"]
+image: "/wp/wp-content/uploads/2010/06/iPhone4Pic1.jpg"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

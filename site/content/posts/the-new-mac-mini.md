@@ -4,6 +4,7 @@ date: 2009-03-09T16:56:53
 url: /news/the-new-mac-mini/
 categories: ["News", "Apple"]
 tags: ["mac mini", "Apple", "Mac", "mac mini india", "new mac mini", "mac mini price", "mac mini config", "mac mini specs"]
+image: "/wp/wp-content/uploads/2009/03/new_mac_mini_top.png"
 author: "Setu"
 authors: ["setu"]
 ---

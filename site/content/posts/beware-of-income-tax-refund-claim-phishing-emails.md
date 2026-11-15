@@ -4,6 +4,7 @@ date: 2010-12-22T12:32:18
 url: /misc/beware-of-income-tax-refund-claim-phishing-emails/
 categories: ["Misc"]
 tags: ["phishing emails", "income tax", "tax refund", "phishing", "beware"]
+image: "/wp/wp-content/uploads/2010/12/image6.png"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

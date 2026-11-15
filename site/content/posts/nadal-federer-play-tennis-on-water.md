@@ -4,6 +4,7 @@ date: 2011-01-05T05:44:55
 url: /misc/nadal-federer-play-tennis-on-water/
 categories: ["Misc"]
 tags: ["rafael nadal", "roger federed", "tennis on water", "qatar sports", "qatar atp", "qatar 2022"]
+image: "/wp/wp-content/uploads/2011/01/NewImage15.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

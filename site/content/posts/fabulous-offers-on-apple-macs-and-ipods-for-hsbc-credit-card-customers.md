@@ -4,6 +4,7 @@ date: 2010-01-21T11:07:26
 url: /deals/fabulous-offers-on-apple-macs-and-ipods-for-hsbc-credit-card-customers/
 categories: ["Deals"]
 tags: ["croma", "apple offer", "hsbc offer apple", "mabook ipod offer india", "croma apple offer"]
+image: "/wp/wp-content/uploads/2010/01/banner1.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

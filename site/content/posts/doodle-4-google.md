@@ -4,6 +4,7 @@ date: 2009-10-28T20:35:46
 url: /google/doodle-4-google/
 categories: ["Google"]
 tags: ["Doodle 4 Google"]
+image: "/wp/wp-content/uploads/2009/10/s1-16_400x287.shkl.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

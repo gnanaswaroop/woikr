@@ -4,6 +4,7 @@ date: 2010-04-09T11:13:32
 url: /news/apple-announces-iphone-os-4-with-multitasking/
 categories: ["News", "Apple", "iPhone"]
 tags: ["iPhone", "iPad", "iphone OS 4", "new iphone OS", "iphone new features", "iphone multitasking"]
+image: "/wp/wp-content/uploads/2010/04/image3.png"
 author: "Setu"
 authors: ["setu"]
 ---

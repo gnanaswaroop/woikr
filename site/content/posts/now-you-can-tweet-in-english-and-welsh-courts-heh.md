@@ -4,6 +4,7 @@ date: 2010-12-20T20:10:32
 url: /news/now-you-can-tweet-in-english-and-welsh-courts-heh/
 categories: ["News"]
 tags: ["england wales court twitter", "twitter"]
+image: "/wp/wp-content/uploads/2010/12/twitter.jpg"
 author: "Chirag"
 authors: ["chirag"]
 aliases: ["/news/twitter-in-courts"]

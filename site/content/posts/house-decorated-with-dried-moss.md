@@ -4,6 +4,7 @@ date: 2009-10-01T11:42:33
 url: /misc/house-decorated-with-dried-moss/
 categories: ["Misc"]
 tags: ["moss", "interiors", "decoration", "wallpaper"]
+image: "/wp/wp-content/uploads/2009/10/image.png"
 author: "Setu"
 authors: ["setu"]
 ---

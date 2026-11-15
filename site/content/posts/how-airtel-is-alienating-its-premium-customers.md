@@ -4,6 +4,7 @@ date: 2012-02-06T21:33:11
 url: /telecom/how-airtel-is-alienating-its-premium-customers/
 categories: ["Telecom", "WTF?"]
 tags: ["airtel sucks", "Airtel"]
+image: "/wp/wp-content/uploads/2012/02/failtel.png"
 author: "Setu"
 authors: ["setu"]
 ---

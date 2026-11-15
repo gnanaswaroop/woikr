@@ -4,6 +4,7 @@ date: 2009-03-30T16:46:37
 url: /google/driving-directions-in-google-maps-india/
 categories: ["Google", "News"]
 tags: ["Google", "google maps", "google maps india", "iPhone", "iphone driving directions", "driving directions india"]
+image: "/wp/wp-content/uploads/2009/03/google_maps_india_directions.png"
 author: "Setu"
 authors: ["setu"]
 ---

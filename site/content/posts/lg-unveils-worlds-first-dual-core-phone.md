@@ -4,6 +4,7 @@ date: 2010-12-16T10:02:15
 url: /android/lg-unveils-worlds-first-dual-core-phone/
 categories: ["Android"]
 tags: ["Optimus 2x", "Dual Core phone", "Dual core android phone", "LG Optimus 2X"]
+image: "/wp/wp-content/uploads/2010/12/lg-optimus-2x-01.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

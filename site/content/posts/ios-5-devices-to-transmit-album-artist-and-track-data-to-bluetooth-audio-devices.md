@@ -4,6 +4,7 @@ date: 2011-06-10T12:56:20
 url: /iphone/ios-5-devices-to-transmit-album-artist-and-track-data-to-bluetooth-audio-devices/
 categories: ["iPhone"]
 tags: ["iOS 5", "iOS new features", "iOS bluetooth", "iphone bluetooth"]
+image: "/wp/wp-content/uploads/2011/06/iOS-5-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

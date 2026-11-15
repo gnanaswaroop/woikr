@@ -4,6 +4,7 @@ date: 2011-01-27T22:59:01
 url: /first-look/want-a-sturdy-weather-proof-phone-motorola-defy-is-here-android/
 categories: ["First Look", "Android", "Mobile Phones"]
 tags: ["Motorola Defy India", "Motorola Defy Water Resistant", "Motorola Defy Review", "Motorola Defy India Price", "Motorola Defy Performance", "Sturdy Smartphone", "Sturdy Android Phone", "Waterproof Phone", "Sturdy Mobile Phone"]
+image: "/wp/wp-content/uploads/2011/01/motorola-defy.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

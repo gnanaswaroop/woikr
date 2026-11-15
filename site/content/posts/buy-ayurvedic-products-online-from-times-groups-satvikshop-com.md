@@ -4,6 +4,7 @@ date: 2012-08-30T20:56:02
 url: /news/buy-ayurvedic-products-online-from-times-groups-satvikshop-com/
 categories: ["News"]
 tags: ["ayurveda india online", "buy ayurvedic products online", "ecommerce india", "ecommerce"]
+image: "/wp/wp-content/uploads/2012/08/satvikshop-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

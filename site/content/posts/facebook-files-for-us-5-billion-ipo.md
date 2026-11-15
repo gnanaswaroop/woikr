@@ -4,6 +4,7 @@ date: 2012-02-02T20:27:52
 url: /internet/facebook-files-for-us-5-billion-ipo/
 categories: ["Internet", "News"]
 tags: ["facebook", "facebook IPO"]
+image: "/wp/wp-content/uploads/2011/08/facebook-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

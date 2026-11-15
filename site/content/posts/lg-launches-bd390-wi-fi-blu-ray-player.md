@@ -4,6 +4,7 @@ date: 2009-05-15T11:36:50
 url: /news/lg-launches-bd390-wi-fi-blu-ray-player/
 categories: ["News", "Home Entertainment"]
 tags: ["lg bd390", "kg blu-ray player", "wifi blu ray player"]
+image: "/wp/wp-content/uploads/2009/05/lg-bd390-front1.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

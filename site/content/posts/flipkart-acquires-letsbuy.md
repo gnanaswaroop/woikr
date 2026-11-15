@@ -4,6 +4,7 @@ date: 2012-02-09T20:26:05
 url: /news/flipkart-acquires-letsbuy/
 categories: ["News"]
 tags: ["flipkart", "letsbuy", "ecommerce india"]
+image: "/wp/wp-content/uploads/2011/10/flipkart_india1.png"
 author: "Setu"
 authors: ["setu"]
 ---

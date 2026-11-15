@@ -4,6 +4,7 @@ date: 2008-12-26T11:17:54
 url: /rumors/iphone-nano-rumor-roundup/
 categories: ["Rumors"]
 tags: ["iPhone", "iphone nano", "iphone nano case", "iphone case", "iphone cover", "iphone protective cover"]
+image: "/wp/wp-content/uploads/2008/12/iphone_nano_case.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

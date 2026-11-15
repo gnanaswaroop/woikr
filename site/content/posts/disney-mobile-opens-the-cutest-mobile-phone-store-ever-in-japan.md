@@ -4,6 +4,7 @@ date: 2011-03-06T23:51:32
 url: /mobile-phones/disney-mobile-opens-the-cutest-mobile-phone-store-ever-in-japan/
 categories: ["Mobile Phones"]
 tags: ["Disney Mobile", "Disney Japan", "Disney Store Tokyo", "Disney Mobile Phones", "Disney Cellphone store"]
+image: "/wp/wp-content/uploads/2011/03/disney_japan_1.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

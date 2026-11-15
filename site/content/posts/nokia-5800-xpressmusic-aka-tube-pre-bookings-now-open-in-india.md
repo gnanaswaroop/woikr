@@ -4,6 +4,7 @@ date: 2008-12-27T14:44:32
 url: /news/nokia-5800-xpressmusic-aka-tube-pre-bookings-now-open-in-india/
 categories: ["News"]
 tags: ["nokia", "nokia tube", "nokia 5800", "xpress music", "nokia touchscreen", "nokia pre booking", "8gb", "nokia 8 GB touchscreen phone", "iphone killer", "iPhone", "5800 xpressmusic"]
+image: "/wp/wp-content/uploads/2008/12/nokia_5800_india.png"
 author: "Setu"
 authors: ["setu"]
 ---

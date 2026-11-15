@@ -4,6 +4,7 @@ date: 2011-03-27T21:16:53
 url: /iphone/erase-drunk-social-networking-fiascos-with-last-night-never-happened/
 categories: ["iPhone"]
 tags: ["facebook", "twitter", "delete social networking posts"]
+image: "/wp/wp-content/uploads/2011/03/NewImage24.png"
 author: "Setu"
 authors: ["setu"]
 ---

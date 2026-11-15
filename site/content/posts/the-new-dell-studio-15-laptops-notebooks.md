@@ -4,6 +4,7 @@ date: 2009-05-26T23:41:08
 url: /laptops/the-new-dell-studio-15-laptops-notebooks/
 categories: ["Laptops"]
 tags: ["dell", "studio 15", "dell notebook laptop"]
+image: "/wp/wp-content/uploads/2009/05/dell-studio-15-lead.png"
 author: "Setu"
 authors: ["setu"]
 ---

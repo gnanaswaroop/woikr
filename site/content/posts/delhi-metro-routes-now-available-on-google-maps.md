@@ -4,6 +4,7 @@ date: 2010-03-05T19:26:02
 url: /misc/delhi-metro-routes-now-available-on-google-maps/
 categories: ["Misc", "Google", "News"]
 tags: ["google maps india", "delhi metro routes", "delhi metro map", "delhi metro google map", "publiic transit delhi"]
+image: "/wp/wp-content/uploads/2010/03/image1.png"
 author: "Setu"
 authors: ["setu"]
 ---

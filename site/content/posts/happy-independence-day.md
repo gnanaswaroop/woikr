@@ -4,6 +4,7 @@ date: 2010-08-15T00:02:41
 url: /misc/happy-independence-day/
 categories: ["Misc"]
 tags: ["indian startups", "indian tech companies"]
+image: "/wp/wp-content/uploads/2010/08/image11.png"
 author: "Setu"
 authors: ["setu"]
 ---

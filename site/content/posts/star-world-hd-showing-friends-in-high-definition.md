@@ -4,6 +4,7 @@ date: 2011-07-17T22:07:29
 url: /home-entertainment/star-world-hd-showing-friends-in-high-definition/
 categories: ["Home Entertainment"]
 tags: ["friends", "friends TV series", "friends HD"]
+image: "/wp/wp-content/uploads/2011/07/Friends_logo.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

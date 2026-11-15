@@ -4,6 +4,7 @@ date: 2012-05-18T20:32:55
 url: /news/samsung-opens-pre-orders-for-galaxy-s-iii-in-india/
 categories: ["News", "Mobile Phones"]
 tags: ["Samsung Galaxy", "samsung galaxy S III india"]
+image: "/wp/wp-content/uploads/2012/05/samsung-galaxy-s-iii.png"
 author: "Setu"
 authors: ["setu"]
 ---

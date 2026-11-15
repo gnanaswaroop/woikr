@@ -4,6 +4,7 @@ date: 2011-01-06T22:39:21
 url: /howto/fix-mac-app-store-error-100/
 categories: ["How Tos", "Mac"]
 tags: ["mac app store", "Mac App Store Error", "Mac App Store Problem", "Mac App Store Error 100"]
+image: "/wp/wp-content/uploads/2011/01/mac_app_store_erroe_100.png"
 author: "Chirag"
 authors: ["chirag"]
 ---

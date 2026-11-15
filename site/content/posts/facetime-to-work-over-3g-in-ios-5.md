@@ -4,6 +4,7 @@ date: 2011-06-10T12:05:16
 url: /iphone/facetime-to-work-over-3g-in-ios-5/
 categories: ["iPhone"]
 tags: ["facetime", "facetime on 3G", "iOS 5"]
+image: "/wp/wp-content/uploads/2011/06/facetime-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

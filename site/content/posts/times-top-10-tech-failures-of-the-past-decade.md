@@ -4,6 +4,7 @@ date: 2009-05-16T10:35:18
 url: /news/times-top-10-tech-failures-of-the-past-decade/
 categories: ["News"]
 tags: ["time magazine", "top 10 tech failures", "zune", "vista", "Microsoft"]
+image: "/wp/wp-content/uploads/2009/05/ms-failures.png"
 author: "Setu"
 authors: ["setu"]
 ---

@@ -4,6 +4,7 @@ date: 2011-01-09T23:22:47
 url: /android/nox-audios-admiral-touch-headphones-run-android-no-really/
 categories: ["Android"]
 tags: ["Android Headphones", "Google Android", "Headphones", "Audiophile gear"]
+image: "/wp/wp-content/uploads/2011/01/nox_audio_admiral_touch-300x199.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

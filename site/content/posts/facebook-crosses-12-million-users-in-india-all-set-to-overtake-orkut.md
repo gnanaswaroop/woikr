@@ -4,6 +4,7 @@ date: 2010-07-23T22:22:08
 url: /news/facebook-crosses-12-million-users-in-india-all-set-to-overtake-orkut/
 categories: ["News"]
 tags: ["facebook", "Facebook india", "facebook vs orkut", "facebook addiction"]
+image: "/wp/wp-content/uploads/2010/07/image16.png"
 author: "Setu"
 authors: ["setu"]
 ---

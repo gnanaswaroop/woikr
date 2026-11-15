@@ -4,6 +4,7 @@ date: 2012-02-27T23:50:48
 url: /news/flipkart-launches-flyte-digital-store/
 categories: ["News"]
 tags: ["flipkart", "mp3 downloads india", "itunes india"]
+image: "/wp/wp-content/uploads/2012/02/flipkart-flyte-digital-store.png"
 author: "Setu"
 authors: ["setu"]
 aliases: ["/news/flipkart-launches-flyte-digital-store"]

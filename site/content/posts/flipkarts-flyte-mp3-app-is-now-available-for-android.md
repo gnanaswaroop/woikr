@@ -4,6 +4,7 @@ date: 2012-04-12T19:06:15
 url: /android/flipkarts-flyte-mp3-app-is-now-available-for-android/
 categories: ["Android", "News"]
 tags: ["flipkart", "flyte", "mp3 downloads india", "music store india", "digital music india", "mobile music store india"]
+image: "/wp/wp-content/uploads/2012/04/flyte-mp3-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

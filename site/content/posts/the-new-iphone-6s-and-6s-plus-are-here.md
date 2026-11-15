@@ -4,6 +4,7 @@ date: 2015-09-12T21:27:12
 url: /apple/the-new-iphone-6s-and-6s-plus-are-here/
 categories: ["Apple", "iPhone"]
 tags: ["iphone 6S", "iPhone 6s plus"]
+image: "/wp/wp-content/uploads/2015/09/NewImage.png"
 author: "Setu"
 authors: ["setu"]
 ---

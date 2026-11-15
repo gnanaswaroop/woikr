@@ -4,6 +4,7 @@ date: 2011-02-18T11:38:30
 url: /deals/orkut-is-giving-away-free-movie-tickets-in-mumbai-this-weekend/
 categories: ["Deals"]
 tags: ["Free movie tickets", "Orkut Box Office", "Orkut free movie tickets", "Orkut Freebies", "Orkut giveaway"]
+image: "/wp/wp-content/uploads/2011/02/orkut_boxoffice_seat.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

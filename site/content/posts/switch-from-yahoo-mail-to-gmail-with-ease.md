@@ -4,6 +4,7 @@ date: 2009-05-14T22:53:00
 url: /news/switch-from-yahoo-mail-to-gmail-with-ease/
 categories: ["News"]
 tags: ["gmail", "yahoo to gmail", "migrate from yahoo hotmail AOL to gmail", "import into gmail", "gmail import email contacts"]
+image: "/wp/wp-content/uploads/2009/05/gmailimport1.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

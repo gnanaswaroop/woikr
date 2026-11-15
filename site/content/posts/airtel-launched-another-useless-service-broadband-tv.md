@@ -4,6 +4,7 @@ date: 2011-03-15T20:38:46
 url: /telecom/airtel-launched-another-useless-service-broadband-tv/
 categories: ["Telecom", "News"]
 tags: ["Airtel", "airtel TV", "broadband tv india", "internet tv india", "live tv india"]
+image: "/wp/wp-content/uploads/2011/01/NewImage62.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

@@ -4,6 +4,7 @@ date: 2010-12-15T10:03:10
 url: /android/facebook-for-android-adds-chat-for-all-push-for-froyo/
 categories: ["Android"]
 tags: ["facebook android", "facebook chat android"]
+image: "/wp/wp-content/uploads/2010/12/facebook15_android.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

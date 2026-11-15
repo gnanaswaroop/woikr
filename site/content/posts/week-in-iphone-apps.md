@@ -4,6 +4,7 @@ date: 2009-04-08T21:05:57
 url: /news/week-in-iphone-apps/
 categories: ["News"]
 tags: ["iPhone", "Apple", "iphone apps", "yahoo messenger", "skype", "voip", "iphone wifi calls"]
+image: "/wp/wp-content/uploads/2009/04/available_on_app_store.png"
 author: "Setu"
 authors: ["setu"]
 ---

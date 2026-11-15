@@ -4,6 +4,7 @@ date: 2011-11-21T00:53:26
 url: /apple/hacked-siri-can-even-turn-off-your-thermostat/
 categories: ["Apple", "iPhone"]
 tags: ["iPhone 4S Siri", "Siri Hacks", "Siri protocol explained", "Siri custom commands", "Siri Protocol", "iPhone Siri", "iOS Siri"]
+image: "/wp/wp-content/uploads/2011/11/Siri-Make-Me-A-Sandwich.png"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

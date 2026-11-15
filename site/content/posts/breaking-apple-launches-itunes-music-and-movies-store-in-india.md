@@ -4,6 +4,7 @@ date: 2012-12-04T09:59:55
 url: /news/breaking-apple-launches-itunes-music-and-movies-store-in-india/
 categories: ["News", "Apple", "Home Entertainment"]
 tags: ["itunes", "itunes store india", "online music india", "buy music india", "itunes india"]
+image: "/wp/wp-content/uploads/2012/12/itunes-india-flag.png"
 author: "Setu"
 authors: ["setu"]
 ---

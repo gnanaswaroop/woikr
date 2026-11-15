@@ -4,6 +4,7 @@ date: 2011-01-06T09:50:25
 url: /android/motorola-atrix-4g-a-laptop-and-phone-hybrid-seriously/
 categories: ["Android"]
 tags: ["Motorola Atrix", "Phone and Laptop Hybrid", "CES", "nVidia Tegra", "QHD Display", "Pocket or Dock it", "Motorola Atrix 4G"]
+image: "/wp/wp-content/uploads/2011/01/atrix4g.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

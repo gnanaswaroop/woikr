@@ -4,6 +4,7 @@ date: 2012-05-29T20:37:49
 url: /howto/how-to-access-blocked-torrents-sites-on-airtel-broadband/
 categories: ["How Tos", "Telecom"]
 tags: ["torrent", "torrents", "airtel broadband", "airtel torrents"]
+image: "/wp/wp-content/uploads/2011/01/NewImage62.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

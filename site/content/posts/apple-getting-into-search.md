@@ -4,6 +4,7 @@ date: 2008-11-16T15:30:18
 url: /rumors/apple-getting-into-search/
 categories: ["Rumors"]
 tags: ["apple rumor", "apple search", "apple vs. google", "apple search engine", "eric schmidt apple", "iphone vs. android"]
+image: "/wp/wp-content/uploads/2008/11/apple_logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

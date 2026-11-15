@@ -4,6 +4,7 @@ date: 2011-06-10T11:41:29
 url: /apple/all-about-apples-new-software-products-announced-at-wwdc-2011/
 categories: ["Apple"]
 tags: ["wwdc", "WWDC 2011", "iOS 5", "iCloud", "lion", "Mac OS X Lion"]
+image: "/wp/wp-content/uploads/2011/06/lion-mac.png"
 author: "Setu"
 authors: ["setu"]
 ---

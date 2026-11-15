@@ -4,6 +4,7 @@ date: 2010-03-16T09:29:11
 url: /ipad/they-fixed-the-ipad-already/
 categories: ["iPad", "Apple"]
 tags: ["ipad hardware", "ipad volume control", "ipad office support", "ipad exchange support", "ipad flash"]
+image: "/wp/wp-content/uploads/2010/03/hero_20100307-247x300.png"
 author: "Chirag"
 authors: ["chirag"]
 ---

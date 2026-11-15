@@ -4,6 +4,7 @@ date: 2009-06-01T10:42:01
 url: /news/bing-is-live/
 categories: ["News"]
 tags: ["Microsoft", "bing", "search engine"]
+image: "/wp/wp-content/uploads/2009/06/image.png"
 author: "Setu"
 authors: ["setu"]
 ---

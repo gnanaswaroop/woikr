@@ -4,6 +4,7 @@ date: 2008-10-27T19:04:24
 url: /news/get-that-username-before-someone-else-does/
 categories: ["News"]
 tags: ["Usernamecheck"]
+image: "/wp/wp-content/uploads/2008/10/unamecheck.png"
 author: "Chirag"
 authors: ["chirag"]
 ---

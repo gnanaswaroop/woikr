@@ -4,6 +4,7 @@ date: 2009-05-04T11:32:49
 url: /lol/undefined-usage-of-gmail-lol/
 categories: ["LOL"]
 tags: ["gmail", "gmail bug", "undefined usage", "undefined MB", "undefined%", "gmail undefined"]
+image: "/wp/wp-content/uploads/2009/05/gmail-undefined-usage.jpg"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

@@ -4,6 +4,7 @@ date: 2010-12-25T21:57:13
 url: /misc/this-power-socket-strip-could-fix-one-problem-in-your-life/
 categories: ["Misc"]
 tags: ["Power Strip Design", "Power Socket Problems"]
+image: "/wp/wp-content/uploads/2010/12/power_strip_design_1.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

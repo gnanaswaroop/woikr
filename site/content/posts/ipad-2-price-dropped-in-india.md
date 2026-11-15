@@ -4,6 +4,7 @@ date: 2012-03-08T23:11:26
 url: /ipad/ipad-2-price-dropped-in-india/
 categories: ["iPad"]
 tags: ["ipad 2 india", "iPad 2", "new ipad india"]
+image: "/wp/wp-content/uploads/2011/03/NewImage.png"
 author: "Setu"
 authors: ["setu"]
 ---

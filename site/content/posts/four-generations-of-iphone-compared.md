@@ -4,6 +4,7 @@ date: 2010-07-28T19:53:07
 url: /iphone/four-generations-of-iphone-compared/
 categories: ["iPhone"]
 tags: ["iPhone", "iphone 4", "iphone 3G", "iphone 3gs"]
+image: "/wp/wp-content/uploads/2010/07/image24.png"
 author: "Setu"
 authors: ["setu"]
 ---

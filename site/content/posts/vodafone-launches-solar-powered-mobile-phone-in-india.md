@@ -4,6 +4,7 @@ date: 2010-07-28T20:21:28
 url: /news/vodafone-launches-solar-powered-mobile-phone-in-india/
 categories: ["News", "Mobile Phones"]
 tags: ["vodafone", "vodafone india", "solar phone india"]
+image: "/wp/wp-content/uploads/2009/05/vodafone_logo.gif"
 author: "Setu"
 authors: ["setu"]
 ---

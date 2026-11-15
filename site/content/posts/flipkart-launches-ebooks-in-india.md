@@ -4,6 +4,7 @@ date: 2012-12-02T13:18:35
 url: /news/flipkart-launches-ebooks-in-india/
 categories: ["News"]
 tags: ["flipkart", "ebooks", "ebooks india", "digital store india"]
+image: "/wp/wp-content/uploads/2012/05/flipkart-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

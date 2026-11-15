@@ -4,6 +4,7 @@ date: 2008-10-27T17:12:33
 url: /news/link-youtube-videos-to-start-at-a-specific-time/
 categories: ["News"]
 tags: ["youtube", "youtube deep linking", "youtube starting point", "youtube specify time", "youtube scroll ahead", "start YouTube at a specific time"]
+image: "/wp/wp-content/uploads/2008/10/youtube-logo.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

@@ -4,6 +4,7 @@ date: 2011-02-12T23:00:10
 url: /first-look/what-is-aircel-wifi/
 categories: ["First Look", "Telecom"]
 tags: ["Hotspot vs 3G", "Aircel", "Wireless Hotspot India", "Wifi Hotspots in India", "wifi hotspot", "Aircel WiFi"]
+image: "/wp/wp-content/uploads/2011/02/Aircel_WiFi.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

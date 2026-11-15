@@ -4,6 +4,7 @@ date: 2010-12-25T20:37:06
 url: /misc/happy-birthday-www-you-were-the-best-christmas-gift-ever/
 categories: ["Misc"]
 tags: []
+image: "/wp/wp-content/uploads/2010/12/www_oldest.png"
 author: "Chirag"
 authors: ["chirag"]
 ---

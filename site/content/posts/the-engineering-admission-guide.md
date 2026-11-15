@@ -4,6 +4,7 @@ date: 2011-05-15T14:52:24
 url: /howto/the-engineering-admission-guide/
 categories: ["How Tos"]
 tags: ["Engineering in India", "How to choose an Engineering college", "IT vs CSE", "Computer Science vs Information Technology", "Electronics vs Computers", "IT vs ECE", "Engineering admissions in India"]
+image: "/wp/wp-content/uploads/2011/05/IIT-Roorkee_400x257.jpg"
 author: "nimesh"
 authors: ["nimesh"]
 ---

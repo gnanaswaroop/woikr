@@ -4,6 +4,7 @@ date: 2009-05-04T16:05:26
 url: /gaming/myst-now-on-iphone/
 categories: ["Gaming", "News", "iPhone"]
 tags: ["Myst iPhone", "adventure games on iPhone", "adventure games on ipod", "Myst iPod Touch", "iphone apps"]
+image: "/wp/wp-content/uploads/2009/05/iphone-myst.png"
 author: "Chirag"
 authors: ["chirag"]
 ---

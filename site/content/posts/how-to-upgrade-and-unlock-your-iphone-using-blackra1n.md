@@ -4,6 +4,7 @@ date: 2009-11-16T14:06:41
 url: /iphone/how-to-upgrade-and-unlock-your-iphone-using-blackra1n/
 categories: ["iPhone"]
 tags: ["iPhone Unlock", "iphone 3.1.2", "iphone 2G unlock", "iphone 3g unlock", "iphone 3GS unlock", "iPhone Blackra1n", "iphone blackrain", "blackrain", "blacksnow", "iphone unlock blackrain", "iphone upgrade blackrain", "iphone upgrade", "iphone 3g upgrade", "iphone 2G upgrade", "iphone 3gs upgrade", "unlock and upgrade", "iphone latest firmware", "firmware 3.1.2", "iPhone 3.1", "firmware 3.1", "iphone latest unlock", "iphone latest upgrade", "iphone black rain", "3.1.2 blackrain", "3.1.2 blackra1n", "iPhone"]
+image: "/wp/wp-content/uploads/2009/11/blackra1n.jpg"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

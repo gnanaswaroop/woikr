@@ -4,6 +4,7 @@ date: 2009-03-25T20:19:43
 url: /gaming/another-reason-to-be-a-game-developer/
 categories: ["Gaming"]
 tags: ["Xbox 360", "Xbox 360 developer kit", "Xbox 360 Metallic Blue", "Xbox 360 Matte Black"]
+image: "/wp/wp-content/uploads/2009/03/x360_bluev.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

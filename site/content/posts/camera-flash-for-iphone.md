@@ -4,6 +4,7 @@ date: 2008-12-26T12:05:21
 url: /news/camera-flash-for-iphone/
 categories: ["News"]
 tags: ["iPhone", "iphone camera", "iphone came flash", "iphone flash", "flash for iPhone", "camera flash for iPhone", "snapture", "snaptureflash"]
+image: "/wp/wp-content/uploads/2008/12/snaptureflash4.png"
 author: "Setu"
 authors: ["setu"]
 ---

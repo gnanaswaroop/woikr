@@ -4,6 +4,7 @@ date: 2009-02-26T14:13:30
 url: /news/gmail-attach-multiple-files-in-one-go-monitor-upload-progress/
 categories: ["News"]
 tags: ["gmail", "gmail attachments", "gmail multi select", "gmail progress bar attachment", "gmail new feature"]
+image: "/wp/wp-content/uploads/2008/11/gmail_logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

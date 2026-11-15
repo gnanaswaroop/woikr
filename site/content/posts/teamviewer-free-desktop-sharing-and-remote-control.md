@@ -4,6 +4,7 @@ date: 2008-10-10T06:15:55
 url: /howto/teamviewer-free-desktop-sharing-and-remote-control/
 categories: ["How Tos"]
 tags: ["teamviewer", "team viewer", "remote desktop", "remote desktop vs. team viewer", "vnc vs. team viewer", "free remote desktop", "free desktop sharing", "free remote control"]
+image: "/wp/wp-content/uploads/2008/10/teamviewer_lead.png"
 author: "Setu"
 authors: ["setu"]
 ---

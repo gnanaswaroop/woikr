@@ -4,6 +4,7 @@ date: 2011-01-04T06:46:17
 url: /iphone/iphone-app-giveaway-3-promo-codes-for-bookbuddy/
 categories: ["iPhone", "Giveaways"]
 tags: ["bookbuddy", "book buddy", "iphone book management", "iphone app giveaway"]
+image: "/wp/wp-content/uploads/2011/01/NewImage12.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

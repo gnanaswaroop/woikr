@@ -4,6 +4,7 @@ date: 2010-04-23T23:34:47
 url: /news/full-hd-3d-led-tvs-make-their-way-to-india/
 categories: ["News", "Home Entertainment"]
 tags: ["3D", "3D TV India", "3D TV", "Full HD 3D", "3D broadcast india", "HD India", "samsung LG 3d"]
+image: "/wp/wp-content/uploads/2010/04/image13.png"
 author: "Setu"
 authors: ["setu"]
 ---

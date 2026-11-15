@@ -4,6 +4,7 @@ date: 2010-12-27T22:35:13
 url: /android/vlc-for-android-is-only-weeks-away/
 categories: ["Android"]
 tags: ["android apps", "Android NDK", "Android VLC"]
+image: "/wp/wp-content/uploads/2010/12/vlc_logo1.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

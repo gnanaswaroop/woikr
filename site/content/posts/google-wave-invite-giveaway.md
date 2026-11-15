@@ -4,6 +4,7 @@ date: 2009-10-13T23:37:30
 url: /contests/google-wave-invite-giveaway/
 categories: ["Giveaways"]
 tags: ["google wave invite", "wave", "Google", "google wave", "google wave invite contest", "google wave giveaway"]
+image: "/wp/wp-content/uploads/2009/10/image16.png"
 author: "Setu"
 authors: ["setu"]
 ---

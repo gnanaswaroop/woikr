@@ -4,6 +4,7 @@ date: 2011-01-20T00:20:37
 url: /android/over-50-android-users-are-on-froyo-12-still-below-2-android-fragmentation/
 categories: ["Android"]
 tags: ["Android Fragmenta", "Google Android", "Android Froyo"]
+image: "/wp/wp-content/uploads/2011/01/android_usage_chart.png"
 author: "Chirag"
 authors: ["chirag"]
 ---

@@ -4,6 +4,7 @@ date: 2009-01-03T14:33:27
 url: /news/iphone-3g-unlock-steps/
 categories: ["News"]
 tags: ["iPhone", "iphone 3G", "iphone 3g unlock", "yellowsnow", "iphone dev team", "quickpwn", "3g unlock", "how to unlock iphone 3g", "iphone 3g unlock steps"]
+image: "/wp/wp-content/uploads/2008/12/iphone_unlock.png"
 author: "Setu"
 authors: ["setu"]
 ---

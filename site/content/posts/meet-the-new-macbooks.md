@@ -4,6 +4,7 @@ date: 2009-06-10T21:55:18
 url: /news/meet-the-new-macbooks/
 categories: ["News"]
 tags: ["macbook", "macbook pro", "wwdc 2009", "new macbooks"]
+image: "/wp/wp-content/uploads/2009/06/image5.png"
 author: "Setu"
 authors: ["setu"]
 ---

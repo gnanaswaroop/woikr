@@ -4,6 +4,7 @@ date: 2012-06-04T19:59:27
 url: /misc/need-to-see-a-doctor-helpingdoc-com-can-help-you-find-one-near-you/
 categories: ["Misc"]
 tags: ["doctor online india", "helping doc india", "book doctor appointment online india"]
+image: "/wp/wp-content/uploads/2012/06/helping-doc-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

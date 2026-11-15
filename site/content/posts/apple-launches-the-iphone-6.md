@@ -4,6 +4,7 @@ date: 2014-09-10T06:43:02
 url: /apple/apple-launches-the-iphone-6/
 categories: ["Apple", "iPhone"]
 tags: ["iphone 6", "iphone latest", "bigger iphone", "iphone 2014"]
+image: "/wp/wp-content/uploads/2014/09/iphone-6.png"
 author: "Setu"
 authors: ["setu"]
 aliases: ["/apple/apple-launches-the-iphone-6"]

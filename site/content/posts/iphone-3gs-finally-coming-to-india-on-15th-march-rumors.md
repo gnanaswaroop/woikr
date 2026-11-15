@@ -4,6 +4,7 @@ date: 2010-03-13T11:21:44
 url: /rumors/iphone-3gs-finally-coming-to-india-on-15th-march-rumors/
 categories: ["Rumors", "News", "iPhone"]
 tags: ["iphone 3gs india", "iphone 3gs india price", "iphone 3gs india availability", "iPhone"]
+image: "/wp/wp-content/uploads/2009/06/iphone_3gs_logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

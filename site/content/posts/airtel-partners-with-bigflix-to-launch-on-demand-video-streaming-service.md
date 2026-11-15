@@ -4,6 +4,7 @@ date: 2011-06-06T22:08:50
 url: /telecom/airtel-partners-with-bigflix-to-launch-on-demand-video-streaming-service/
 categories: ["Telecom", "News", "Home Entertainment"]
 tags: ["Airtel", "airtel broadband", "bigflix", "netflix type service in india", "movie streaming india"]
+image: "/wp/wp-content/uploads/2011/01/NewImage62.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

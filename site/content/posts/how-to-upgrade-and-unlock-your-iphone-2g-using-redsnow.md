@@ -4,6 +4,7 @@ date: 2009-06-21T10:51:58
 url: /iphone/how-to-upgrade-and-unlock-your-iphone-2g-using-redsnow/
 categories: ["iPhone"]
 tags: ["iphone 3.0", "iPhone", "3.0 firmware unlock", "iphone 2G unlock", "iphone 3G jailbreak", "iPod touch jainbreak", "redsn0w", "redsnow", "dev team unlock"]
+image: "/wp/wp-content/uploads/2009/06/iphone_2Gunlock_redsn0w_1.png"
 author: "Setu"
 authors: ["setu"]
 ---

@@ -4,6 +4,7 @@ date: 2011-01-28T23:24:05
 url: /gaming/xbox-live-gold-free-this-weekend/
 categories: ["Gaming"]
 tags: ["Xbox live", "Xbox Live Gold Free", "Free Xbox Live", "Free Multiplayer Gaming on Xbox"]
+image: "/wp/wp-content/uploads/2011/01/Xbox-live-logo.jpg"
 author: "Chirag"
 authors: ["chirag"]
 aliases: ["/gaming/xbox-live-for-this-weekend/"]

@@ -4,6 +4,7 @@ date: 2011-03-22T16:36:38
 url: /internet/firefox-4-final-available-for-download-now/
 categories: ["Internet"]
 tags: ["Firefox 4", "Firefox latest", "Firefox 4.0", "html5 browsers", "HTML5"]
+image: "/wp/wp-content/uploads/2011/03/Firefox4.png"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

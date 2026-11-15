@@ -4,6 +4,7 @@ date: 2011-03-31T19:25:57
 url: /news/samsung-debuts-super-cool-see-thru-lcd-panels/
 categories: ["News"]
 tags: ["see thru lcd", "transparent lcd", "samsung lcd"]
+image: "/wp/wp-content/uploads/2011/03/NewImage42.png"
 author: "Setu"
 authors: ["setu"]
 ---

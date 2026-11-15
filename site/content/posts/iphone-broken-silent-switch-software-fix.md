@@ -4,6 +4,7 @@ date: 2009-08-05T18:05:29
 url: /iphone/iphone-broken-silent-switch-software-fix/
 categories: ["iPhone"]
 tags: ["iPhone silent switch", "iPhone silent switch not working", "iPhone silent switch broken", "iPhone ringer switch", "iPhone ringer not working", "iPhone ringer broken", "iPhone ringer software fix", "iPhone silent switch software fix"]
+image: "/wp/wp-content/uploads/2009/08/silent_iphone.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

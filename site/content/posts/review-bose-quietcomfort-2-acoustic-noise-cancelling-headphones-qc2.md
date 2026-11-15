@@ -4,6 +4,7 @@ date: 2008-08-17T23:32:13
 url: /reviews/review-bose-quietcomfort-2-acoustic-noise-cancelling-headphones-qc2/
 categories: ["Reviews"]
 tags: ["bose", "qc2", "QuietComfort 2", "Noise Cancelling", "noise cancelling headphones", "bose headphones", "qc2 headphones", "QuietComfort"]
+image: "/wp/wp-content/uploads/2008/08/bose_quietcomfort_2_case-300x200.jpg"
 author: "Setu"
 authors: ["setu"]
 aliases: ["/review-bose-quietcomfort-2-acoustic-noise-cancelling-headphones-qc2/"]

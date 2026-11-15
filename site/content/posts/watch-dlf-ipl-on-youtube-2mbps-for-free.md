@@ -4,6 +4,7 @@ date: 2010-03-12T11:30:00
 url: /news/watch-dlf-ipl-on-youtube-2mbps-for-free/
 categories: ["News"]
 tags: ["youtube", "dlf ipl live", "ipl youtube", "airtel ipl speed boost"]
+image: "/wp/wp-content/uploads/2008/10/youtube-logo-300x212.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

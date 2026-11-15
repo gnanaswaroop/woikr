@@ -4,6 +4,7 @@ date: 2011-01-02T09:24:15
 url: /rumors/iphone-on-verizon-rumors-might-be-coming-true/
 categories: ["Rumors", "iPhone"]
 tags: ["iPhone 4 Verizon", "Verizon iPhone", "iPhone Reliance", "iPhone CDMA"]
+image: "/wp/wp-content/uploads/2011/01/verizon_iphone_url.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

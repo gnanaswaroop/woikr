@@ -4,6 +4,7 @@ date: 2014-07-03T08:30:32
 url: /tablets/flipkart-launches-android-based-tablet-in-india/
 categories: ["Tablets", "News"]
 tags: ["flipkart", "flipkart tablet", "cheap tablet india"]
+image: "/wp/wp-content/uploads/2014/07/digiflip-pro-logo.png"
 author: "Setu"
 authors: ["setu"]
 aliases: ["/news/flipkart-launches-android-based-tablet-in-india/"]

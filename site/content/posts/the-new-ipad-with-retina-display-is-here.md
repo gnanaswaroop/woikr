@@ -4,6 +4,7 @@ date: 2012-03-08T13:29:45
 url: /ipad/the-new-ipad-with-retina-display-is-here/
 categories: ["iPad"]
 tags: ["ipad 3", "new iPad", "next gen iPad", "ipad retina"]
+image: "/wp/wp-content/uploads/2012/03/ipad-Logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

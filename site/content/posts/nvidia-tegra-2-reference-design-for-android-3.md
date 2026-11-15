@@ -4,6 +4,7 @@ date: 2010-12-21T22:58:15
 url: /android/nvidia-tegra-2-reference-design-for-android-3/
 categories: ["Android", "Rumors"]
 tags: ["nVidia Tegra", "nVidia Tegra Honeycomb reference design", "nVidia tegra Android 3.0", "Samsung Galaxy Tab 2"]
+image: "/wp/wp-content/uploads/2010/12/Tegra_3D_large.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

@@ -4,6 +4,7 @@ date: 2011-07-16T20:23:45
 url: /telecom/airtel-idea-vodafone-to-offer-pan-india-3g-roaming/
 categories: ["Telecom"]
 tags: ["3g india", "3g roaming india"]
+image: "/wp/wp-content/uploads/2011/01/NewImage62.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

@@ -4,6 +4,7 @@ date: 2013-07-30T19:34:04
 url: /news/get-food-at-railway-stations-during-your-journey-by-travelkhana-com/
 categories: ["News"]
 tags: ["travelkhana", "tdelivery on train", "delivery to railway station", "railway food"]
+image: "/wp/wp-content/uploads/2013/07/travelkhana-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

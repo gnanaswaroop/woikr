@@ -4,6 +4,7 @@ date: 2009-03-13T20:58:49
 url: /news/the-new-ipod-shuffle/
 categories: ["News"]
 tags: ["Apple", "ipod shuffle", "iPod", "new ipod", "new shuffle", "ipod talk", "ipod voice", "aluminum ipod", "4GB shuffle", "talking ipod", "voiceover"]
+image: "/wp/wp-content/uploads/2009/03/new_ipod_shuffle.png"
 author: "Setu"
 authors: ["setu"]
 ---

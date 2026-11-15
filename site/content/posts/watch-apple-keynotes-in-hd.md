@@ -4,6 +4,7 @@ date: 2012-01-24T21:58:48
 url: /apple/watch-apple-keynotes-in-hd/
 categories: ["Apple"]
 tags: ["apple keynotes HD", "HD keynotes", "HD podcasts", "apple keynotes podcast"]
+image: "/wp/wp-content/uploads/2012/01/apple-keynotes.png"
 author: "Setu"
 authors: ["setu"]
 ---

@@ -4,6 +4,7 @@ date: 2010-12-30T14:33:51
 url: /photography/the-perfect-mp3-player-for-canon-fanboys/
 categories: ["Photo Gear"]
 tags: ["Canon DSLR", "Canon DSLR Replica", "Canon MP3 Player"]
+image: "/wp/wp-content/uploads/2010/12/canon_mp3_1.jpg"
 author: "Chirag"
 authors: ["chirag"]
 aliases: ["/photography/the-perfect-mp3-player-for-canon-fanboys"]

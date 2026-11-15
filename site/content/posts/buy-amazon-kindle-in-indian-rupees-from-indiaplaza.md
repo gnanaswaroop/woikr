@@ -4,6 +4,7 @@ date: 2011-04-05T13:13:18
 url: /news/buy-amazon-kindle-in-indian-rupees-from-indiaplaza/
 categories: ["News"]
 tags: ["kindle", "kindle india", "amazon kindle india", "buy kindle india"]
+image: "/wp/wp-content/uploads/2011/04/NewImage.png"
 author: "Setu"
 authors: ["setu"]
 ---

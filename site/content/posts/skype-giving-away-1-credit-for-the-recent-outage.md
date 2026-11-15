@@ -4,6 +4,7 @@ date: 2011-01-02T15:26:48
 url: /news/skype-giving-away-1-credit-for-the-recent-outage/
 categories: ["News"]
 tags: ["skype", "skype bugs", "skype application", "skype outage", "skype credit"]
+image: "/wp/wp-content/uploads/2011/01/image6.png"
 author: "Setu"
 authors: ["setu"]
 ---

@@ -4,6 +4,7 @@ date: 2011-06-16T22:17:31
 url: /lol/sega-wants-you-to-control-a-video-game-with-your-pee-lol-wtf/
 categories: ["LOL", "WTF?"]
 tags: ["sega", "pee", "toilet games", "toilet video games", "toylet"]
+image: "/wp/wp-content/uploads/2011/06/sega-toylet.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

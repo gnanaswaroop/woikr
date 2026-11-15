@@ -4,6 +4,7 @@ date: 2011-12-18T12:42:07
 url: /home-entertainment/upgrading-your-tatasky-set-top-box-beware-of-their-absurd-warranty-policy/
 categories: ["Home Entertainment"]
 tags: ["tatasky", "tatasky HD", "tatasky warranty"]
+image: "/wp/wp-content/uploads/2011/05/tatasky-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

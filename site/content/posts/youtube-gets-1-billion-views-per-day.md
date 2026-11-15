@@ -4,6 +4,7 @@ date: 2009-10-09T14:18:40
 url: /google/youtube-gets-1-billion-views-per-day/
 categories: ["Google", "News"]
 tags: ["youtube", "youtube logo", "youtube views stats"]
+image: "/wp/wp-content/uploads/2008/10/youtube-logo-300x212.jpg"
 author: "Setu"
 authors: ["setu"]
 aliases: ["/google/youttube-gets-1-billion-views-per-day/"]

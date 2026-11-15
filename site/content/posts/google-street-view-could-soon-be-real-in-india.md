@@ -4,6 +4,7 @@ date: 2011-04-12T22:52:19
 url: /google/google-street-view-could-soon-be-real-in-india/
 categories: ["Google"]
 tags: ["Google Street View", "Street view cars", "streetview", "streetview cars captured", "streetview Hyderabad"]
+image: "/wp/wp-content/uploads/2011/04/Google-Street-View-Cards-Hyderabad-India-1.jpg"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

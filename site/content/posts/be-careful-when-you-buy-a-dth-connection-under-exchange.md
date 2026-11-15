@@ -4,6 +4,7 @@ date: 2010-04-14T12:27:41
 url: /news/be-careful-when-you-buy-a-dth-connection-under-exchange/
 categories: ["News", "Home Entertainment"]
 tags: ["sun dth", "sun direct hd", "sun direct exchange offer", "dth india", "DTH HD India", "dth offer india"]
+image: "/wp/wp-content/uploads/2009/04/sun_direct_hd_logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

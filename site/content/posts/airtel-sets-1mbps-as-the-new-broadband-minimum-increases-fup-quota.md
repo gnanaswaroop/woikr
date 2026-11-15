@@ -4,6 +4,7 @@ date: 2011-06-21T14:58:34
 url: /telecom/airtel-sets-1mbps-as-the-new-broadband-minimum-increases-fup-quota/
 categories: ["Telecom"]
 tags: ["airtel 1 mbps", "Airtel", "airtel broadband", "airtel broadband tariffs"]
+image: "/wp/wp-content/uploads/2011/01/NewImage62.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

@@ -4,6 +4,7 @@ date: 2008-11-15T10:58:51
 url: /news/torrentzcom-domain-taken-over/
 categories: ["News"]
 tags: ["torrentz.com hacked", "torrentz", "torrentz.com", "torrentz.eu", "torrentz.com domain", "torrentz domain hacked", "torrentz domain taken over"]
+image: "/wp/wp-content/uploads/2008/11/torrentz_logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

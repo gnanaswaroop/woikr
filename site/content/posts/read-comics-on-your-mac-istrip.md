@@ -4,6 +4,7 @@ date: 2010-12-27T08:14:49
 url: /reviews/read-comics-on-your-mac-istrip/
 categories: ["Reviews", "Mac"]
 tags: ["iStrip", "iStrip Mac", "Read comics on Mac", "xkcd Mac", "Questionable Content Mac"]
+image: "/wp/wp-content/uploads/2010/12/xkcd_istrip.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

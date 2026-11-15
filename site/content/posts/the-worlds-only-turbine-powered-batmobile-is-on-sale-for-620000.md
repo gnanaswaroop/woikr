@@ -4,6 +4,7 @@ date: 2011-09-04T23:09:43
 url: /misc/the-worlds-only-turbine-powered-batmobile-is-on-sale-for-620000/
 categories: ["Misc"]
 tags: ["Batmobile", "Batmobile replica", "Batmobile for sale", "ebay batmobile", "turbine engine bat car", "Casey Putch", "Batmobile price", "buy a batmobile"]
+image: "/wp/wp-content/uploads/2011/09/batmobile1.jpg"
 author: "Chirag"
 authors: ["chirag"]
 aliases: ["/misc/the-world%e2%80%99s-only-turbine-powered-batmobile-is-on-sale-for-620000/", "/misc/the-world%E2%80%99s-only-turbine-powered-batmobile-is-on-sale-for-620000/"]

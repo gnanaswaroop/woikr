@@ -4,6 +4,7 @@ date: 2009-04-28T19:12:40
 url: /gaming/xbox-live-fre-this-weekend/
 categories: ["Gaming", "News"]
 tags: ["Xbox live", "xbox live free", "microsoft uk", "xtival 09"]
+image: "/wp/wp-content/uploads/2009/04/xtival09.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

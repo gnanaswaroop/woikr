@@ -4,6 +4,7 @@ date: 2011-06-10T12:25:26
 url: /iphone/forget-custom-ringtones-custom-vibrations-is-the-new-in-thing/
 categories: ["iPhone"]
 tags: ["custom vibrations", "accessibility iOS", "iOS 5 new features", "iPhone"]
+image: "/wp/wp-content/uploads/2011/06/iOS-5-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

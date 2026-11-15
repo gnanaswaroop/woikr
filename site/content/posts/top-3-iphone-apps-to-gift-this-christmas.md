@@ -4,6 +4,7 @@ date: 2010-12-25T11:12:43
 url: /iphone/top-3-iphone-apps-to-gift-this-christmas/
 categories: ["iPhone"]
 tags: ["iphone apps", "Christmas Special", "FruitNinja", "Fruit Ninja", "Cut The Rope", "CutTheRope", "Camera apps", "Camera app", "Camera+", "camera plus"]
+image: "/wp/wp-content/uploads/2010/12/CutTheRope1.jpg"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

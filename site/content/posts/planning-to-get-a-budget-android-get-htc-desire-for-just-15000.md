@@ -4,6 +4,7 @@ date: 2011-06-10T09:58:59
 url: /deals/planning-to-get-a-budget-android-get-htc-desire-for-just-15000/
 categories: ["Deals", "Android", "Mobile Phones"]
 tags: ["HTC Desire", "HTC Desire best price india", "HTC Desire Lowest price India", "Best budget android phone"]
+image: "/wp/wp-content/uploads/2011/06/htc-desire-a8181-saholic.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

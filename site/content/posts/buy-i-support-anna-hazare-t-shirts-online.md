@@ -4,6 +4,7 @@ date: 2011-08-25T09:46:53
 url: /misc/buy-i-support-anna-hazare-t-shirts-online/
 categories: ["Misc"]
 tags: ["buy t shirts online india", "anna hazare", "support anna hazare", "india against corruption"]
+image: "/wp/wp-content/uploads/2011/08/anna-hazare-t-shirt.png"
 author: "Setu"
 authors: ["setu"]
 ---

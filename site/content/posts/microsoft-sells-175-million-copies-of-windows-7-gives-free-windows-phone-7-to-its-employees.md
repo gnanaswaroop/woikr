@@ -4,6 +4,7 @@ date: 2010-07-23T11:57:53
 url: /news/microsoft-sells-175-million-copies-of-windows-7-gives-free-windows-phone-7-to-its-employees/
 categories: ["News"]
 tags: ["Microsoft", "microsoft windows 7", "windows phone 7"]
+image: "/wp/wp-content/uploads/2010/07/image7.png"
 author: "Setu"
 authors: ["setu"]
 ---

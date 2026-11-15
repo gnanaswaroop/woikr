@@ -4,6 +4,7 @@ date: 2011-01-28T20:54:18
 url: /ipad/apple-dumps-1st-generation-ipad-in-india/
 categories: ["iPad"]
 tags: ["iPad India", "iPad", "Ipad 3G India", "ipad 3G", "ipad bsnl"]
+image: "/wp/wp-content/uploads/2010/11/image_thumb41.png"
 author: "Setu"
 authors: ["setu"]
 ---

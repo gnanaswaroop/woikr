@@ -4,6 +4,7 @@ date: 2013-09-07T20:06:39
 url: /news/meru-cabs-ios-and-android-apps-now-available/
 categories: ["News"]
 tags: ["radio cabs india", "cab app india", "taxi app"]
+image: "/wp/wp-content/uploads/2013/09/meru-app-icon.png"
 author: "Setu"
 authors: ["setu"]
 ---

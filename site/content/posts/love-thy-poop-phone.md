@@ -4,6 +4,7 @@ date: 2010-12-23T09:03:22
 url: /lol/love-thy-poop-phone/
 categories: ["LOL"]
 tags: ["Poop Phone", "Weird Japanese Phone"]
+image: "/wp/wp-content/uploads/2010/12/poop-phone.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

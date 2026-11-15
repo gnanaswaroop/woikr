@@ -4,6 +4,7 @@ date: 2011-01-03T03:04:55
 url: /iphone/turn-your-iphone-into-a-universal-remote-for-99/
 categories: ["iPhone"]
 tags: ["iPhone", "iphone universal remote", "universal remote cheap", "unity remote"]
+image: "/wp/wp-content/uploads/2011/01/NewImage9.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

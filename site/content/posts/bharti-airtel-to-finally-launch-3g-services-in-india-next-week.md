@@ -4,6 +4,7 @@ date: 2011-01-24T00:24:53
 url: /telecom/bharti-airtel-to-finally-launch-3g-services-in-india-next-week/
 categories: ["Telecom", "News"]
 tags: ["Airtel", "airtel 3g", "3g india"]
+image: "/wp/wp-content/uploads/2011/01/NewImage62.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

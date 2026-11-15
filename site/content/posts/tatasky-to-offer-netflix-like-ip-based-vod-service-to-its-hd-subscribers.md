@@ -4,6 +4,7 @@ date: 2011-11-25T07:22:59
 url: /home-entertainment/tatasky-to-offer-netflix-like-ip-based-vod-service-to-its-hd-subscribers/
 categories: ["Home Entertainment"]
 tags: ["tatasky", "tatasky HD", "netflix type service in india", "iptv india", "VoD india", "video on demand india"]
+image: "/wp/wp-content/uploads/2011/05/tatasky-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

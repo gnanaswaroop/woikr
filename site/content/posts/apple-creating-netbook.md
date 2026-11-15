@@ -4,6 +4,7 @@ date: 2008-10-24T18:53:17
 url: /rumors/apple-creating-netbook/
 categories: ["Rumors"]
 tags: ["apple netbook", "macbook mini", "iphone 3.0", "apple tablet"]
+image: "/wp/wp-content/uploads/2008/10/apple-netbook.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

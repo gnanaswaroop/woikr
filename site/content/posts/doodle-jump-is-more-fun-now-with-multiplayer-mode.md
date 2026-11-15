@@ -4,6 +4,7 @@ date: 2011-03-29T18:04:26
 url: /gaming/doodle-jump-is-more-fun-now-with-multiplayer-mode/
 categories: ["Gaming", "Android", "iPhone"]
 tags: ["doodle jump", "DoodleJump", "Multiplayer Games", "iPhone games", "iOS Games", "Doodle Jump Multiplayer", "Doodle Jump multi users", "multiplayer", "Doodle Jump Android", "Android Games"]
+image: "/wp/wp-content/uploads/2011/03/doodle-jump.jpg"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

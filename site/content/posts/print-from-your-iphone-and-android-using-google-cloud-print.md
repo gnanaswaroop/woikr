@@ -4,6 +4,7 @@ date: 2011-01-26T16:50:14
 url: /android/print-from-your-iphone-and-android-using-google-cloud-print/
 categories: ["Android", "Google", "iPhone"]
 tags: ["apple airprint", "apple printing", "iOS printing", "cloud printing", "airprint printers", "cloud enabled printing", "google cloud print", "printing iPhone", "printing images from iPhone", "printing documents from iPhone", "print from iPad", "CloudPrint API", "Integrate Cloud Print API", "CloudPrint"]
+image: "/wp/wp-content/uploads/2011/01/CloudPrint.jpg"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

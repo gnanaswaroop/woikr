@@ -4,6 +4,7 @@ date: 2011-01-03T01:32:48
 url: /misc/tesla-confident-about-its-sedan-pricing-at-57000/
 categories: ["Misc"]
 tags: ["tesla", "electric sedan", "cheap electric car"]
+image: "/wp/wp-content/uploads/2011/01/image-full.png"
 author: "Setu"
 authors: ["setu"]
 ---

@@ -4,6 +4,7 @@ date: 2010-11-06T14:55:54
 url: /misc/how-the-web-browser-works-comic/
 categories: ["Misc"]
 tags: ["how web browser works", "comic"]
+image: "/wp/wp-content/uploads/2010/11/browser_comic.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

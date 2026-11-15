@@ -4,6 +4,7 @@ date: 2008-10-27T17:36:06
 url: /lol/first-class-jerk/
 categories: ["LOL"]
 tags: ["entourage iphone", "Ari Gold iphone", "Ari Gold LOL", "Ari Gold iphone goof", "entourage iPhone goof", "first class jerk iphone", "entourage iphone lol"]
+image: "/wp/wp-content/uploads/2008/10/entourage-iphone2.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

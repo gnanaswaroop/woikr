@@ -4,6 +4,7 @@ date: 2011-10-05T10:53:39
 url: /iphone/apple-drops-prices-for-unlocked-iphone-4-and-iphone-3gs/
 categories: ["iPhone"]
 tags: ["iphone 3gs unlocked price", "unlocked iphone price", "unlocked iphone 4 price", "iphone 4", "iphone 4 price", "iphone 3gs"]
+image: "/wp/wp-content/uploads/2011/10/iphone-4.png"
 author: "Setu"
 authors: ["setu"]
 ---

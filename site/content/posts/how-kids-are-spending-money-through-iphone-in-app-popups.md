@@ -4,6 +4,7 @@ date: 2011-01-06T08:45:16
 url: /misc/how-kids-are-spending-money-through-iphone-in-app-popups/
 categories: ["Misc", "Apple", "iPhone"]
 tags: ["In App Purchases", "In App Purchases Kids", "Kids Spending Money", "In-App Popups"]
+image: "/wp/wp-content/uploads/2011/01/in_app.jpeg"
 author: "Chirag"
 authors: ["chirag"]
 ---

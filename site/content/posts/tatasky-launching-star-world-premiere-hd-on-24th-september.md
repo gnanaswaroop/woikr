@@ -4,6 +4,7 @@ date: 2013-09-21T01:19:12
 url: /news/tatasky-launching-star-world-premiere-hd-on-24th-september/
 categories: ["News", "Home Entertainment"]
 tags: ["hd channels india", "tatasky", "tatasky HD", "star world hd", "star hd channels"]
+image: "/wp/wp-content/uploads/2012/02/tatasky-hd-logo.png"
 author: "Setu"
 authors: ["setu"]
 aliases: ["/home-entertainment/tatasky-launching-star-world-premiere-hd-on-24th-september/"]

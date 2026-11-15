@@ -4,6 +4,7 @@ date: 2010-12-31T11:13:37
 url: /google/happy-new-year-mmxi-google-doodle/
 categories: ["Google"]
 tags: ["MMXI", "Google Doodle", "happy new year 2011"]
+image: "/wp/wp-content/uploads/2010/12/newyear11-hp.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

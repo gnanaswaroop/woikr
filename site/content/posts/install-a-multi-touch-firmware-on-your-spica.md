@@ -4,6 +4,7 @@ date: 2011-01-31T10:22:20
 url: /howto/install-a-multi-touch-firmware-on-your-spica/
 categories: ["How Tos", "Android"]
 tags: ["Samsung Galaxy Spica", "Samsung Galaxy i5700", "Samsung Galaxy Spica Root", "Samsung Galaxy Spica Multitouch", "Samdroid Kitchen", "SamdroidMod Kitchen", "Custom Firmware on Spica", "Spica Multitouch", "Spica Root"]
+image: "/wp/wp-content/uploads/2010/10/1.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

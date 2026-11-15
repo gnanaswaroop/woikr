@@ -4,6 +4,7 @@ date: 2009-11-20T12:14:14
 url: /google/what-is-google-chrome-os/
 categories: ["Google", "News"]
 tags: ["Google", "chrome OS", "google open source OS", "google operating system", "chromium"]
+image: "/wp/wp-content/uploads/2009/11/image4.png"
 author: "Setu"
 authors: ["setu"]
 ---

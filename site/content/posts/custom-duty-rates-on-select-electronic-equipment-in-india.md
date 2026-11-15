@@ -4,6 +4,7 @@ date: 2012-05-25T20:00:55
 url: /misc/custom-duty-rates-on-select-electronic-equipment-in-india/
 categories: ["Misc"]
 tags: ["customs", "custom clearance", "custom duty india"]
+image: "/wp/wp-content/uploads/2012/05/customs-india.png"
 author: "Setu"
 authors: ["setu"]
 ---

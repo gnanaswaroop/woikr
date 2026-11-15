@@ -4,6 +4,7 @@ date: 2010-01-19T11:59:57
 url: /iphone/the-1000-iphone-app/
 categories: ["iPhone"]
 tags: ["BarMax", "iphone apps", "Most expensive iPhone app", "$1000 iPhone app", "iRa Pro"]
+image: "/wp/wp-content/uploads/2010/01/500x_barmax.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

@@ -4,6 +4,7 @@ date: 2009-04-30T19:47:17
 url: /gaming/max-payne-1-2-on-xbox-live/
 categories: ["Gaming", "News"]
 tags: ["Max Payne 3", "Max Payne Xbox", "Xbox 360 Originals"]
+image: "/wp/wp-content/uploads/2009/04/max-payne.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

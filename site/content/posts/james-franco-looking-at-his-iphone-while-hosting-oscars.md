@@ -4,6 +4,7 @@ date: 2011-02-28T23:06:23
 url: /lol/james-franco-looking-at-his-iphone-while-hosting-oscars/
 categories: ["LOL"]
 tags: ["James Franco", "Anne Hathaway", "James Franco iPhone", "James Franco Oscars", "Academy Awards 2011", "Oscars 2011", "Celebrities with iPhone"]
+image: "/wp/wp-content/uploads/2011/02/jamesfranco_iPhone.jpg"
 author: "Chirag"
 authors: ["chirag"]
 aliases: ["/lol/james-franco-looking-at-his-iphone-while-hosting-oscars&utm_campaign=Feed%3A+woikr+(woikr)"]

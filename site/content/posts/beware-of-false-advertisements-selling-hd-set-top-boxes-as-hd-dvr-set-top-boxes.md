@@ -4,6 +4,7 @@ date: 2012-04-11T00:31:22
 url: /home-entertainment/beware-of-false-advertisements-selling-hd-set-top-boxes-as-hd-dvr-set-top-boxes/
 categories: ["Home Entertainment"]
 tags: ["HD broadcast India", "HD DVR india"]
+image: "/wp/wp-content/uploads/2012/04/dth-dish.png"
 author: "Setu"
 authors: ["setu"]
 ---

@@ -4,6 +4,7 @@ date: 2013-11-28T06:27:57
 url: /apple/apple-starts-a-new-era-of-free-software/
 categories: ["Apple"]
 tags: ["apple software", "apple app price", "free software apple"]
+image: "/wp/wp-content/uploads/2011/06/apple-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

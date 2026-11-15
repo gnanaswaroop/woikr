@@ -4,6 +4,7 @@ date: 2011-08-29T22:15:12
 url: /contests/giveaway-win-3-binverse-usenet-accounts-50gb-free-downloads/
 categories: ["Giveaways"]
 tags: ["binverse giveaway", "usenet softwares", "binverse", "free downloads", "software giveaways", "free software", "usenet vs torrents", "Advantages of Usenet", "Advantages Disadvantages of usenet", "Usenet Better than Bittorrent"]
+image: "/wp/wp-content/uploads/2011/08/binverse-logo.jpg"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

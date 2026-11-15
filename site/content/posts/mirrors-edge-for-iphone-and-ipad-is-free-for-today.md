@@ -4,6 +4,7 @@ date: 2011-01-04T13:56:29
 url: /gaming/mirrors-edge-for-iphone-and-ipad-is-free-for-today/
 categories: ["Gaming", "Deals", "iPad", "iPhone"]
 tags: []
+image: "/wp/wp-content/uploads/2011/01/mirrors_edge_iphone_ipad.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

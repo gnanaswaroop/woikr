@@ -4,6 +4,7 @@ date: 2015-03-02T05:52:19
 url: /android/huawei-announces-the-best-looking-android-smartwatch-yet/
 categories: ["Android", "News"]
 tags: []
+image: "/wp/wp-content/uploads/2015/03/huawei-smartwatch.jpg"
 author: "Setu"
 authors: ["setu"]
 aliases: ["/news/huawei-announces-the-best-looking-android-smartwatch-yet/"]

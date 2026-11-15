@@ -4,6 +4,7 @@ date: 2013-02-16T12:27:08
 url: /internet/saavn-to-go-pro-offer-offline-playback-and-high-quality-streaming-at-3-99-a-month/
 categories: ["Internet", "Home Entertainment"]
 tags: ["saavn", "saavn pro", "saavn high quality"]
+image: "/wp/wp-content/uploads/2013/02/saavn-pro-logo.png"
 author: "Setu"
 authors: ["setu"]
 aliases: ["/home-entertainment/saavn-to-go-pro-offer-offline-playback-and-high-quality-streaming-at-3-99-a-month/"]

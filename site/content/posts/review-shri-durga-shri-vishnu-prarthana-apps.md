@@ -4,6 +4,7 @@ date: 2009-04-26T19:27:18
 url: /reviews/review-shri-durga-shri-vishnu-prarthana-apps/
 categories: ["Reviews"]
 tags: ["iPhone", "appstore", "hindu god iphone", "indian deity iphone", "iphone pooja", "iphone prayers", "aarti on iphone", "godess durga iphone", "india iphone", "indian god iphone", "lord vishnu iphone", "puja on iphone", "robosoft", "prarthana apps review"]
+image: "/wp/wp-content/uploads/2009/04/available_on_app_store.png"
 author: "Setu"
 authors: ["setu"]
 ---

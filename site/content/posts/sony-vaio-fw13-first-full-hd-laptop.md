@@ -4,6 +4,7 @@ date: 2008-09-18T00:44:55
 url: /first-look/sony-vaio-fw13-first-full-hd-laptop/
 categories: ["First Look", "Laptops"]
 tags: ["vaio", "FW 13", "fw 13 GU", "fw13 GU/H", "vaio 13", "vaio india", "sony fw13 laptop", "blue ray laptop", "sony HD laptop"]
+image: "/wp/wp-content/uploads/2008/09/vaio_fw_13_lead.png"
 author: "Setu"
 authors: ["setu"]
 ---

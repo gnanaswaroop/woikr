@@ -4,6 +4,7 @@ date: 2010-12-19T16:13:09
 url: /android/gingerbread-keyboard-on-eclair-froyo/
 categories: ["Android"]
 tags: ["Gingerbread keyboard", "Gingerbread keyboard eclair", "gingerbread keyboard froyo"]
+image: "/wp/wp-content/uploads/2010/12/spica_gingerbread.png"
 author: "Chirag"
 authors: ["chirag"]
 ---

@@ -4,6 +4,7 @@ date: 2010-01-21T01:04:51
 url: /iphone/a-free-iphone-app-everyday/
 categories: ["iPhone"]
 tags: ["free iphone apps", "free iphone games", "free iphone apps daily", "Free App a Day"]
+image: "/wp/wp-content/uploads/2010/01/appaday_screen.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

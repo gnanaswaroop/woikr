@@ -4,6 +4,7 @@ date: 2009-10-09T14:06:24
 url: /news/iphone-os-3-1-2-released-by-apple/
 categories: ["News", "iPhone"]
 tags: ["iPhone", "firmware 3.1.2", "iPhone Unlock"]
+image: "/wp/wp-content/uploads/2008/11/iphone-logo.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

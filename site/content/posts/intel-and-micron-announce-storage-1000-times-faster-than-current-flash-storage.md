@@ -4,6 +4,7 @@ date: 2015-08-01T05:14:22
 url: /news/intel-and-micron-announce-storage-1000-times-faster-than-current-flash-storage/
 categories: ["News"]
 tags: []
+image: "/wp/wp-content/uploads/2015/08/intel-logo.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

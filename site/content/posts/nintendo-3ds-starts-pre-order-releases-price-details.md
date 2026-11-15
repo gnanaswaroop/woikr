@@ -4,6 +4,7 @@ date: 2011-01-21T11:13:40
 url: /gaming/nintendo-3ds-starts-pre-order-releases-price-details/
 categories: ["Gaming"]
 tags: ["nintendo 3DS", "nintendo gaming", "nintendo DS", "nintendo DSi", "3D camera", "Gaming consoles", "handheld games"]
+image: "/wp/wp-content/uploads/2011/01/Nintendo3DS.png"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

@@ -4,6 +4,7 @@ date: 2009-05-10T18:45:39
 url: /reviews/review-worddigest-english-dictionary-thesaurus-spell-checker-iphone-apps/
 categories: ["Reviews"]
 tags: ["iphone apps dictionary", "iphone Dictionary", "iphone Thesaurus", "iphone Spell Checker", "worddigest", "dictionary for iPhone", "iphone apps"]
+image: "/wp/wp-content/uploads/2009/05/worddigest_logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

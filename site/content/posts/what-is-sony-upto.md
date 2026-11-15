@@ -4,6 +4,7 @@ date: 2008-12-22T16:10:59
 url: /rumors/what-is-sony-upto/
 categories: ["Rumors"]
 tags: ["sony", "vaio", "netbooks", "sony laptop", "9 jan"]
+image: "/wp/wp-content/uploads/2008/12/vaio_9jan.png"
 author: "Setu"
 authors: ["setu"]
 ---

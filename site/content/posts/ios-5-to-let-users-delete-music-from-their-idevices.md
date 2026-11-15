@@ -4,6 +4,7 @@ date: 2011-06-10T12:34:34
 url: /iphone/ios-5-to-let-users-delete-music-from-their-idevices/
 categories: ["iPhone"]
 tags: ["iOS 5", "iOS new features", "delete music from iphone"]
+image: "/wp/wp-content/uploads/2011/06/iOS-5-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

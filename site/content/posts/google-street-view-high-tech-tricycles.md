@@ -4,6 +4,7 @@ date: 2009-05-15T11:59:46
 url: /news/google-street-view-high-tech-tricycles/
 categories: ["News"]
 tags: ["Google", "street view", "high tech tricycles", "street view india"]
+image: "/wp/wp-content/uploads/2009/05/google-street-view-tricycle-1.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

@@ -4,6 +4,7 @@ date: 2008-08-23T13:21:50
 url: /first-look/first-look-sony-vaio-vgn-sr13/
 categories: ["First Look", "Laptops"]
 tags: ["sony vaio", "SR13GN", "vaio SR13", "SR13GB", "SR13GS", "SR13GP", "SR13G", "sony vaio SR series", "vaio vgn", "SR13GN/B/S/P"]
+image: "/wp/wp-content/uploads/2008/08/vaio_vgn_sr-300x263.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

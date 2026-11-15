@@ -4,6 +4,7 @@ date: 2010-10-13T22:19:45
 url: /apple/apple-os-x-lion-to-follow-now-leopard/
 categories: ["Apple", "Mac"]
 tags: ["Apple Back to the Mac", "Apple Mac OS X Lion", "Apple Mac OS X 10.5.7"]
+image: "/wp/wp-content/uploads/2010/10/appleinvite2234234.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

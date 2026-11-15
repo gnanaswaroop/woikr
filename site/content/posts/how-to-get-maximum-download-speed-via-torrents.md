@@ -4,6 +4,7 @@ date: 2009-05-23T10:33:59
 url: /howto/how-to-get-maximum-download-speed-via-torrents/
 categories: ["How Tos"]
 tags: ["utorrent", "torrents", "torrent", "maximum download speed", "max download speeds", "good download speed", "port forwarding", "router port forwarding", "broadband"]
+image: "/wp/wp-content/uploads/2009/05/image.png"
 author: "Setu"
 authors: ["setu"]
 ---

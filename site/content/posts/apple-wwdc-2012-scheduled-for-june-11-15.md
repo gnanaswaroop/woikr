@@ -4,6 +4,7 @@ date: 2012-04-25T20:26:19
 url: /apple/apple-wwdc-2012-scheduled-for-june-11-15/
 categories: ["Apple"]
 tags: ["apple wwdc", "wwdc 2012"]
+image: "/wp/wp-content/uploads/2012/04/apple-wwdc-2012.png"
 author: "Setu"
 authors: ["setu"]
 ---

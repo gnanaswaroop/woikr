@@ -4,6 +4,7 @@ date: 2011-01-19T23:59:37
 url: /ipad/the-ipad-that-runs-windows-7-it-happens-only-in-china/
 categories: ["iPad"]
 tags: ["Fake iPad", "Chinese iPad", "Goog Chinese iPad Knockoff", "iPad Chinese Replica", "iPad Windows 7"]
+image: "/wp/wp-content/uploads/2011/01/iPad_win7_1.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

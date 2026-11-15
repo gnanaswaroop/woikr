@@ -4,6 +4,7 @@ date: 2013-10-26T17:07:57
 url: /gaming/watch-this-amazing-xbox-one-launch-ad/
 categories: ["Gaming", "Microsoft"]
 tags: ["Xbox one", "xbox ad", "amazing ads"]
+image: "/wp/wp-content/uploads/2013/10/xbox-one-logo.png"
 author: "Setu"
 authors: ["setu"]
 aliases: ["/gaming/watch-this-amazing-xbox-one-launch-ad"]

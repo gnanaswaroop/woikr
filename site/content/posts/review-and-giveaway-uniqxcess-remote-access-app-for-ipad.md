@@ -4,6 +4,7 @@ date: 2011-09-03T14:43:07
 url: /ipad/review-and-giveaway-uniqxcess-remote-access-app-for-ipad/
 categories: ["iPad", "Reviews", "Giveaways"]
 tags: ["uniqxcess for ipad", "ipad remote file access", "remote access for ipad"]
+image: "/wp/wp-content/uploads/2011/09/uniqxcess-ipad1.png"
 author: "Setu"
 authors: ["setu"]
 aliases: ["/reviews/review-and-giveaway-uniqxcess-remote-access-app-for-ipad/"]

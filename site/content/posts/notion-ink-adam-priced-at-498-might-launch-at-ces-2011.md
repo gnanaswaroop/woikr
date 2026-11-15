@@ -4,6 +4,7 @@ date: 2010-08-16T12:09:56
 url: /news/notion-ink-adam-priced-at-498-might-launch-at-ces-2011/
 categories: ["News"]
 tags: ["notion ink", "adam tablet", "indian tablet", "notion ink adam"]
+image: "/wp/wp-content/uploads/2010/08/image33.png"
 author: "Setu"
 authors: ["setu"]
 ---

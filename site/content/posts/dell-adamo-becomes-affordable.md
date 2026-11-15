@@ -4,6 +4,7 @@ date: 2010-12-26T07:55:06
 url: /laptops/dell-adamo-becomes-affordable/
 categories: ["Laptops"]
 tags: ["Dell Adamo", "Adamo Onyx", "Dell Adamo Price", "Dell Adamo Affordable"]
+image: "/wp/wp-content/uploads/2010/12/adamo-onyx.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

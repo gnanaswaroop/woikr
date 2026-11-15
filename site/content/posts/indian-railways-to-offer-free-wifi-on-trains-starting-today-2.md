@@ -4,6 +4,7 @@ date: 2013-04-02T17:39:28
 url: /news/indian-railways-to-offer-free-wifi-on-trains-starting-today-2/
 categories: ["News"]
 tags: ["free wifi indian trains", "wifi on trains india", "wifi india train", "indian railways wifi"]
+image: "/wp/wp-content/uploads/2013/04/rajdhani-express.png"
 author: "Setu"
 authors: ["setu"]
 aliases: ["/uncategorized/indian-railways-to-offer-free-wifi-on-trains-starting-today-2/"]

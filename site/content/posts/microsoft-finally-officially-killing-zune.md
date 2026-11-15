@@ -4,6 +4,7 @@ date: 2011-03-15T21:01:07
 url: /news/microsoft-finally-officially-killing-zune/
 categories: ["News", "Microsoft"]
 tags: ["Microsoft", "zune", "zune hd", "zune is dead", "m$", "zune dead"]
+image: "/wp/wp-content/uploads/2011/03/NewImage19.png"
 author: "Setu"
 authors: ["setu"]
 ---

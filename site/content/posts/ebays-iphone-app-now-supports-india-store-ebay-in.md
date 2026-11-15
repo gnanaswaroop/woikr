@@ -4,6 +4,7 @@ date: 2011-09-19T03:30:39
 url: /iphone/ebays-iphone-app-now-supports-india-store-ebay-in/
 categories: ["iPhone"]
 tags: ["ebay india", "eBay", "ebay iphone", "iphone ecommerce india", "iPhone India"]
+image: "/wp/wp-content/uploads/2008/08/ebay.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

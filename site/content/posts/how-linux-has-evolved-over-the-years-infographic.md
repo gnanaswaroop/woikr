@@ -4,6 +4,7 @@ date: 2011-08-17T23:30:58
 url: /misc/how-linux-has-evolved-over-the-years-infographic/
 categories: ["Misc"]
 tags: ["Linux", "Linux market share", "Infographic", "Linux in 2010", "Linux in 1990s"]
+image: "/wp/wp-content/uploads/2011/08/linux_thenandnow.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

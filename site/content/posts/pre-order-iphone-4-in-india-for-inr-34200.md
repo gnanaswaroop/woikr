@@ -4,6 +4,7 @@ date: 2011-05-07T12:39:54
 url: /iphone/pre-order-iphone-4-in-india-for-inr-34200/
 categories: ["iPhone"]
 tags: ["iPhone", "iphone 4 india", "buy iphone 4 in india"]
+image: "/wp/wp-content/uploads/2010/06/iPhone4Pic4_thumb.jpg"
 author: "Setu"
 authors: ["setu"]
 aliases: ["/news/but-apple-ipad-2-in-india-at-homeshop18"]

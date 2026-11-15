@@ -4,6 +4,7 @@ date: 2010-12-23T09:40:09
 url: /howto/how-to-share-nsfw-links-without-embarrassing-people/
 categories: ["How Tos"]
 tags: ["share NSFW links", "NSFW warning"]
+image: "/wp/wp-content/uploads/2010/12/isnsfw_1.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

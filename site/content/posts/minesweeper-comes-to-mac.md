@@ -4,6 +4,7 @@ date: 2011-01-09T22:16:58
 url: /gaming/minesweeper-comes-to-mac/
 categories: ["Gaming", "Mac"]
 tags: ["Minesweeper", "Minesweeper Mac", "Casual Games Mac"]
+image: "/wp/wp-content/uploads/2011/01/minesweeper_mac.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

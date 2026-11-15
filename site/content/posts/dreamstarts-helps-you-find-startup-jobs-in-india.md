@@ -4,6 +4,7 @@ date: 2011-09-30T19:55:51
 url: /first-look/dreamstarts-helps-you-find-startup-jobs-in-india/
 categories: ["First Look"]
 tags: ["Startup Jobs in India", "Startup Jobs in Bangalore", "DreamStarts", "Startups in India", "Android jobs in India", "iOS app developers in India", "python jobs", "ruby on rails jobs in india"]
+image: "/wp/wp-content/uploads/2011/09/dreamstartsin1-300x114.jpg"
 author: "Ranjeet"
 authors: ["ranjeet"]
 ---

@@ -4,6 +4,7 @@ date: 2011-04-15T14:53:56
 url: /home-entertainment/tatasky-adds-3-new-hd-channels-to-its-bouquet/
 categories: ["Home Entertainment"]
 tags: ["tatasky", "tatasky HD", "tatasky hd channels", "HD India"]
+image: "/wp/wp-content/uploads/2011/02/NewImage.png"
 author: "Setu"
 authors: ["setu"]
 ---

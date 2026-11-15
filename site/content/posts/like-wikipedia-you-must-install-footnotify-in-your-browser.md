@@ -4,6 +4,7 @@ date: 2011-08-23T22:48:23
 url: /internet/like-wikipedia-you-must-install-footnotify-in-your-browser/
 categories: ["Internet"]
 tags: ["Must have browser extension", "footnotify", "footnotify firefox extensions", "wikipedia browser extension", "Chrome extension", "Firefox extension", "safari wikipedia extension"]
+image: "/wp/wp-content/uploads/2011/08/footnotify_screenshot.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

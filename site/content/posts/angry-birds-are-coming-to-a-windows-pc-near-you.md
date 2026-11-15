@@ -4,6 +4,7 @@ date: 2011-01-05T10:33:28
 url: /gaming/angry-birds-are-coming-to-a-windows-pc-near-you/
 categories: ["Gaming"]
 tags: ["angrybirds", "angry birds", "intel appup", "intel appstore", "appstore", "catapult games", "rovio", "windows os", "angrybirds windows"]
+image: "/wp/wp-content/uploads/2011/01/image7.png"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

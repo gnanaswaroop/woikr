@@ -4,6 +4,7 @@ date: 2011-03-06T23:04:42
 url: /science/japanese-professor-invents-a-creepy-doll-phone/
 categories: ["Science"]
 tags: ["Creepy Telepresence Doll", "Doll Phone", "Japanese Doll Phone", "Creepy Japanese gadgets", "Telepresence device", "Motion transmitting phone", "Motion telepresence device"]
+image: "/wp/wp-content/uploads/2011/03/doll_phone1.jpeg"
 author: "Chirag"
 authors: ["chirag"]
 ---

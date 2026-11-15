@@ -4,6 +4,7 @@ date: 2011-10-06T12:26:13
 url: /apple/a-wallpaper-tribute-to-steve-jobs/
 categories: ["Apple"]
 tags: ["steve jobs", "steve jobs death", "steve jobs wallpaper"]
+image: "/wp/wp-content/uploads/2011/10/Steve-jobs-wallpaper-tribute.png"
 author: "Setu"
 authors: ["setu"]
 ---

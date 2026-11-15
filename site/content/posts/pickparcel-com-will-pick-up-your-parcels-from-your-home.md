@@ -4,6 +4,7 @@ date: 2014-07-03T10:14:08
 url: /news/pickparcel-com-will-pick-up-your-parcels-from-your-home/
 categories: ["News"]
 tags: ["courier pick up india", "courier online india", "parcel pick up india"]
+image: "/wp/wp-content/uploads/2014/07/pickparcel-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

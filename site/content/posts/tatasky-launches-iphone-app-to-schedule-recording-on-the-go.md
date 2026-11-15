@@ -4,6 +4,7 @@ date: 2010-08-26T13:17:58
 url: /news/tatasky-launches-iphone-app-to-schedule-recording-on-the-go/
 categories: ["News", "Home Entertainment"]
 tags: ["tatasky", "tatasky plus", "tatasky remote recording iphone", "iPhone India"]
+image: "/wp/wp-content/uploads/2008/10/tataskyplus-featured.png"
 author: "Setu"
 authors: ["setu"]
 ---

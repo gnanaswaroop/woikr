@@ -4,6 +4,7 @@ date: 2011-03-01T23:49:55
 url: /ipad/what-not-to-expect-from-ipad-2/
 categories: ["iPad"]
 tags: ["iPad 2", "iPad Rumors", "what not to expect from iPad", "iPad won't do these", "iPad won't feature"]
+image: "/wp/wp-content/uploads/2010/12/apple_ipad.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

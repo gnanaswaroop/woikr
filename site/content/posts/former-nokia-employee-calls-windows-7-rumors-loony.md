@@ -4,6 +4,7 @@ date: 2011-01-02T12:48:28
 url: /mobile-phones/former-nokia-employee-calls-windows-7-rumors-loony/
 categories: ["Mobile Phones"]
 tags: ["Nokia Microsoft", "Nokia Windows 7 Phone", "Nokia Windows 7", "Windows 7 Phone"]
+image: "/wp/wp-content/uploads/2010/12/nokia_n9_windows_7.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

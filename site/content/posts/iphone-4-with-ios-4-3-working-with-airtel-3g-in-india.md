@@ -4,6 +4,7 @@ date: 2011-03-12T02:59:45
 url: /telecom/iphone-4-with-ios-4-3-working-with-airtel-3g-in-india/
 categories: ["Telecom", "iPhone"]
 tags: ["iphone 4 airtel 3g", "personal hotspot iphone airtel", "iOS 4.3 airtel", "iphone 4", "iphone airtel 3g"]
+image: "/wp/wp-content/uploads/2011/03/NewImage8.png"
 author: "Setu"
 authors: ["setu"]
 aliases: ["/iphone/iphone-4-with-ios-4-3-working-with-airtel-3g-in-india/"]

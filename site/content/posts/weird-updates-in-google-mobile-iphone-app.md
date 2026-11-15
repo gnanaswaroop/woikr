@@ -4,6 +4,7 @@ date: 2009-04-29T18:20:14
 url: /lol/weird-updates-in-google-mobile-iphone-app/
 categories: ["LOL"]
 tags: ["iPhone", "Google", "google iphone voice app", "ninja", "google lol", "google mobile lol"]
+image: "/wp/wp-content/uploads/2009/04/google_mobile_iphone_app_update_lol.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

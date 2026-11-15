@@ -4,6 +4,7 @@ date: 2010-07-07T23:25:58
 url: /home-entertainment/dth-operators-unleash-hd-price-war-in-india/
 categories: ["Home Entertainment"]
 tags: ["HD", "hd dth india", "HD India", "HD transmission india", "HDTV", "tata sky dth", "dish tv", "big tv", "sun direct", "airtel digital TV", "hd dth india price comparision"]
+image: "/wp/wp-content/uploads/2010/07/image.png"
 author: "Setu"
 authors: ["setu"]
 ---

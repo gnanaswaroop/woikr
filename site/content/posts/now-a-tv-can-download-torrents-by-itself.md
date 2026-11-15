@@ -4,6 +4,7 @@ date: 2011-09-02T10:01:51
 url: /news/now-a-tv-can-download-torrents-by-itself/
 categories: ["News"]
 tags: ["BitTorrent", "BitTorrent TV", "TV with Torrent", "Download torrent on TV", "Vestel Torrent TV"]
+image: "/wp/wp-content/uploads/2011/09/VestelTorrentTV.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

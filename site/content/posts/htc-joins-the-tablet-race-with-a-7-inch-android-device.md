@@ -4,6 +4,7 @@ date: 2011-02-15T17:41:44
 url: /android/htc-joins-the-tablet-race-with-a-7-inch-android-device/
 categories: ["Android"]
 tags: ["Android Tablets", "HTC Tablet", "Android 2.4 Tablets", "Android 2.4", "Android Gingerbread", "Gingerbread Tablets", "HTC Flyer"]
+image: "/wp/wp-content/uploads/2011/02/HTCFlyerAndroidTabletGingerbread1.jpg"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

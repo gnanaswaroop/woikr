@@ -4,6 +4,7 @@ date: 2011-01-23T14:46:53
 url: /howto/apple-tv-working-in-india/
 categories: ["How Tos", "Apple", "Home Entertainment"]
 tags: ["apple tv", "itunes rentals india", "apple tv in india"]
+image: "/wp/wp-content/uploads/2011/01/NewImage56.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

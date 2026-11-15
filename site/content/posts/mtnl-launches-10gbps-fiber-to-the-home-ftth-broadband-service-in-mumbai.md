@@ -4,6 +4,7 @@ date: 2011-04-30T16:45:57
 url: /telecom/mtnl-launches-10gbps-fiber-to-the-home-ftth-broadband-service-in-mumbai/
 categories: ["Telecom", "News", "Home Entertainment"]
 tags: ["mtnl", "mtnl broadband", "broadband india", "triple play india"]
+image: "/wp/wp-content/uploads/2011/04/MTNL-FTTH.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

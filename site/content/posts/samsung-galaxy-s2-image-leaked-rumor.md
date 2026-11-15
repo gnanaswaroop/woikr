@@ -4,6 +4,7 @@ date: 2011-01-11T21:40:59
 url: /android/samsung-galaxy-s2-image-leaked-rumor/
 categories: ["Android", "Rumors", "Mobile Phones"]
 tags: ["Samsung Galaxy S2", "Samsung Galaxy Successor"]
+image: "/wp/wp-content/uploads/2011/01/Galaxy-S2.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

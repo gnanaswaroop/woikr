@@ -4,6 +4,7 @@ date: 2015-03-09T09:54:41
 url: /reviews/review-nomads-portable-charging-products/
 categories: ["Reviews"]
 tags: ["nomad", "chargekey", "carabiner charger"]
+image: "/wp/wp-content/uploads/2015/03/nomad-logo-new.png"
 author: "Setu"
 authors: ["setu"]
 ---

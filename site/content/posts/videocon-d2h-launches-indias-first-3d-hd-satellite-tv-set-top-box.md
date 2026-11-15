@@ -4,6 +4,7 @@ date: 2011-03-17T21:13:02
 url: /home-entertainment/videocon-d2h-launches-indias-first-3d-hd-satellite-tv-set-top-box/
 categories: ["Home Entertainment"]
 tags: ["videocon", "videocon d2h", "hd dth india", "HD India", "hd pvr", "hd pvr india", "3D TV", "3d satellite tv", "3d india", "3d tv in india"]
+image: "/wp/wp-content/uploads/2011/03/NewImage23.png"
 author: "Setu"
 authors: ["setu"]
 ---

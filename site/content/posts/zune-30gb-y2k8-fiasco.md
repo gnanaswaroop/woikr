@@ -4,6 +4,7 @@ date: 2009-01-03T15:10:26
 url: /lol/zune-30gb-y2k8-fiasco/
 categories: ["LOL", "WTF?", "News"]
 tags: ["zune", "zune sucks", "zune bug", "y2k8", "zune bsod", "zune blue screen", "microsoft sucks"]
+image: "/wp/wp-content/uploads/2009/01/zuneblue.png"
 author: "Setu"
 authors: ["setu"]
 ---

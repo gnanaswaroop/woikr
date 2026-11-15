@@ -4,6 +4,7 @@ date: 2011-02-09T00:43:28
 url: /android/lg-g-slate-preview-3d-viewing-and-recording-honeycomb-tablet/
 categories: ["Android"]
 tags: ["LG Tablet", "Android Tablets", "android 3.0", "honeycomb", "LG Optimus", "LG Optimus Pad", "LG G-Slate", "GSlate", "G-slate", "3D video recording", "HDMI Output", "Honeycomb Tablets", "Android Honeycomb", "android 3", "3D Tablets", "3D viewing"]
+image: "/wp/wp-content/uploads/2011/02/LGGSlatePicture.png"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

@@ -4,6 +4,7 @@ date: 2011-09-11T14:26:37
 url: /howto/how-to-upgrade-lg-optimus-one-to-android-2-3-gingerbread/
 categories: ["How Tos", "Android"]
 tags: ["LG P500", "LG Optimus one", "LG Optimus", "2.3 Android phones", "LG Optimus One India", "LG Optimus One Gingerbread", "Android 2.3 phones in India", "2.2 to 2.3", "Upgrade from Froyo", "Upgrade to Gingerbread"]
+image: "/wp/wp-content/uploads/2010/12/LGActualPic.jpg"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

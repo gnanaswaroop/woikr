@@ -4,6 +4,7 @@ date: 2009-05-15T11:20:05
 url: /misc/the-dharma-desktop-lost/
 categories: ["Misc"]
 tags: ["lost", "dharma initiative", "dharma desktop wallpaper", "lost wallpaper"]
+image: "/wp/wp-content/uploads/2009/05/dharma-desktop.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

@@ -4,6 +4,7 @@ date: 2013-02-16T11:57:38
 url: /google/google-india-mapathon-2013/
 categories: ["Google"]
 tags: ["google india", "google maps india", "google map maker", "google map maker india"]
+image: "/wp/wp-content/uploads/2012/12/google-maps-ios-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

@@ -4,6 +4,7 @@ date: 2008-08-16T23:57:41
 url: /reviews/review-compaq-presario-v3780tu-notebook/
 categories: ["Reviews", "Laptops"]
 tags: ["v3780TU", "compaq presario v3780tu", "presario v3000", "presario v3780", "v3780", "compaq v3780", "compaq v3780tu", "compaq", "presario", "compaq 3780", "presario 3780"]
+image: "/wp/wp-content/uploads/2008/08/compaq-presario-v3780tu-notebook-pc1-300x300.jpg"
 author: "Setu"
 authors: ["setu"]
 aliases: ["/review-compaq-presario-v3780tu-notebook/"]

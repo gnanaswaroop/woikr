@@ -4,6 +4,7 @@ date: 2009-03-20T10:36:55
 url: /google/gmail-labs-undo-send/
 categories: ["Google", "News"]
 tags: ["gmail", "gmail labs", "undo sent email", "undo send gmail"]
+image: "/wp/wp-content/uploads/2008/11/gmail_logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

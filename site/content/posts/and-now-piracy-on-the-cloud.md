@@ -4,6 +4,7 @@ date: 2009-10-17T01:20:42
 url: /misc/and-now-piracy-on-the-cloud/
 categories: ["Misc"]
 tags: ["Put.io", "Online Storage startup"]
+image: "/wp/wp-content/uploads/2009/10/putio-logo1.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

@@ -4,6 +4,7 @@ date: 2011-01-02T13:04:36
 url: /misc/this-is-how-a-uber-cool-space-antenna-looks-like-picture/
 categories: ["Misc"]
 tags: ["Space Antenna", "SciFi But Real", "Atacama Pathfinder Experiment"]
+image: "/wp/wp-content/uploads/2011/01/antenna-night.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

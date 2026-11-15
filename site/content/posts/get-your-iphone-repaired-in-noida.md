@@ -4,6 +4,7 @@ date: 2008-11-03T14:09:00
 url: /news/get-your-iphone-repaired-in-noida/
 categories: ["News"]
 tags: ["iphone repair noida", "repair broken iphone noida", "iphone noida", "iphone delhi", "iphone repair india"]
+image: "/wp/wp-content/uploads/2008/11/iphone-repair.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

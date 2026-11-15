@@ -4,6 +4,7 @@ date: 2011-06-28T15:58:38
 url: /misc/a-printer-that-can-print-3d-objects-omfg/
 categories: ["Misc"]
 tags: ["3d printer", "3d replication"]
+image: "/wp/wp-content/uploads/2011/06/z-corporation-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

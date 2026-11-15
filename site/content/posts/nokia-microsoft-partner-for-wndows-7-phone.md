@@ -4,6 +4,7 @@ date: 2010-12-21T00:08:14
 url: /rumors/nokia-microsoft-partner-for-wndows-7-phone/
 categories: ["Rumors", "Mobile Phones"]
 tags: ["Nokia Microsoft", "Nokia Windows 7"]
+image: "/wp/wp-content/uploads/2010/12/nokia_n9_windows_7.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

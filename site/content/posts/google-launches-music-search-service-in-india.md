@@ -4,6 +4,7 @@ date: 2010-10-23T05:19:27
 url: /google/google-launches-music-search-service-in-india/
 categories: ["Google", "News"]
 tags: ["Google", "free Bollywood music", "google music service india", "google music search", "bollywood music search", "indian music", "google india"]
+image: "/wp/wp-content/uploads/2010/10/image12.png"
 author: "Setu"
 authors: ["setu"]
 ---

@@ -4,6 +4,7 @@ date: 2011-05-26T20:01:06
 url: /lol/who-needs-an-iphone-when-you-have-god-residing-on-your-t-series-bhakti-sagar-mobile-phone-lol/
 categories: ["LOL", "News", "Mobile Phones"]
 tags: ["t series", "bhakti phone"]
+image: "/wp/wp-content/uploads/2011/05/bhakti-sagar-phone-t-series.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

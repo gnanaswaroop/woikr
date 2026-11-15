@@ -4,6 +4,7 @@ date: 2012-11-21T14:51:34
 url: /news/saavn-adds-english-music-to-its-catalogue/
 categories: ["News"]
 tags: ["saavn", "streaming service india", "streaming music india"]
+image: "/wp/wp-content/uploads/2012/11/saavn-logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

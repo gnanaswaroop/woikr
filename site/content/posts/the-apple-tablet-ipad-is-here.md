@@ -4,6 +4,7 @@ date: 2010-01-28T11:57:50
 url: /apple/the-apple-tablet-ipad-is-here/
 categories: ["Apple"]
 tags: ["apple ipad", "iPad", "apple tablet", "tablet", "ipad 3G", "ipad Wifi", "ipad hardware", "ipad software", "ipad rants", "iphone ipad", "ipad prices", "ipad price", "ipad release", "apple product", "latest from apple", "ipad sdk", "ipad flaws", "ipad camera", "microsim", "ipad pictures"]
+image: "/wp/wp-content/uploads/2010/01/ipad_accessories1.jpg"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

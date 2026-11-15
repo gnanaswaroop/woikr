@@ -4,6 +4,7 @@ date: 2009-11-22T01:29:26
 url: /deals/15-off-on-new-airtel-digital-tv-connections-for-citibank-credit-card-holders-deals/
 categories: ["Deals"]
 tags: ["Airtel", "deal", "offers", "digital tv", "discount", "citibank", "dth"]
+image: "/wp/wp-content/uploads/2009/11/image6.png"
 author: "Setu"
 authors: ["setu"]
 ---

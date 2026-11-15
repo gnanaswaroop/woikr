@@ -4,6 +4,7 @@ date: 2011-01-28T09:18:28
 url: /google/google-on-the-way-to-block-piracy/
 categories: ["Google"]
 tags: ["Google Blocking Piracy", "Google Does Not Suggest Torrents", "Google Pirate Search", "Google Blocking Torrents"]
+image: "/wp/wp-content/uploads/2011/01/google_pirate_search.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

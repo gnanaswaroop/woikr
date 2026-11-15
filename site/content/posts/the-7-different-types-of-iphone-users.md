@@ -4,6 +4,7 @@ date: 2011-02-21T16:06:23
 url: /lol/the-7-different-types-of-iphone-users/
 categories: ["LOL", "iPhone"]
 tags: ["iPhone Users", "Types of iPhone Users", "iphone fanboys", "iPhone infographic"]
+image: "/wp/wp-content/uploads/2011/02/Infographics-7-Types-iPhone-Users.jpg"
 author: "Abdul Rahaman"
 authors: ["arahaman"]
 ---

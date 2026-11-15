@@ -4,6 +4,7 @@ date: 2009-10-06T10:57:03
 url: /lol/another-reason-to-stop-using-hotmail/
 categories: ["LOL", "News"]
 tags: ["Hotmail password leak", "Hotmail sucks", "Reason to quit Hotmail"]
+image: "/wp/wp-content/uploads/2009/10/coldmail.PNG"
 author: "Chirag"
 authors: ["chirag"]
 ---

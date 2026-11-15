@@ -4,6 +4,7 @@ date: 2009-02-04T18:14:27
 url: /google/google-launches-india-internet-bus/
 categories: ["Google", "News"]
 tags: ["Google", "google internet bus", "google initiative India", "google india", "internet on wheels", "mobile internet", "google bus"]
+image: "/wp/wp-content/uploads/2009/02/google_india_internet_bus1.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

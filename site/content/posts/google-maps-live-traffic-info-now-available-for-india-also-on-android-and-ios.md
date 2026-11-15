@@ -4,6 +4,7 @@ date: 2012-09-11T12:18:23
 url: /internet/google-maps-live-traffic-info-now-available-for-india-also-on-android-and-ios/
 categories: ["Internet", "Google", "iPhone"]
 tags: ["google maps india", "Live Traffic", "Live traffic info India", "Hyderabad Traffic", "Google Maps Traffic on Phone", "Android Phones Maps", "Apple iPhone traffic", "traffic information", "Live traffic india"]
+image: "/wp/wp-content/uploads/2012/09/Photo-11-09-12-11-42-38-AM.png"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

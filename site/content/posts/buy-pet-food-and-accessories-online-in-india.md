@@ -4,6 +4,7 @@ date: 2013-09-07T19:15:50
 url: /news/buy-pet-food-and-accessories-online-in-india/
 categories: ["News"]
 tags: ["pet foor online", "online pets", "pet accessories online india"]
+image: "/wp/wp-content/uploads/2013/09/dogspot.in_.png"
 author: "Setu"
 authors: ["setu"]
 ---

@@ -4,6 +4,7 @@ date: 2010-12-14T22:38:43
 url: /mac/google-tasks-on-your-mac-menubar/
 categories: ["Mac"]
 tags: ["Google Tasks on Mac", "Gmail Task Mac"]
+image: "/wp/wp-content/uploads/2010/12/fluid_google_tasks_mac_menu.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

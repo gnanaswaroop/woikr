@@ -4,6 +4,7 @@ date: 2011-06-08T22:52:06
 url: /gaming/play-carrom-on-your-ipad/
 categories: ["Gaming", "iPad"]
 tags: ["carrom", "ipad games", "iPad India"]
+image: "/wp/wp-content/uploads/2011/06/carrom-mp.png"
 author: "Setu"
 authors: ["setu"]
 ---

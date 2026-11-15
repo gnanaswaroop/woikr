@@ -4,6 +4,7 @@ date: 2010-08-29T20:26:34
 url: /android/root-your-samsung-galaxy-spica-i5700/
 categories: ["Android", "Mobile Phones"]
 tags: ["Root Android", "root spica", "root samsung galaxy i5700", "samsung galaxy spica apps to sd", "samsung galaxy spica wifi tethering"]
+image: "/wp/wp-content/uploads/2010/08/spica_root1.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

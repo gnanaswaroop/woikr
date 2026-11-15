@@ -4,6 +4,7 @@ date: 2011-01-29T23:21:11
 url: /home-entertainment/tatasky-about-to-launch-hd-pvr-tatasky-hd-in-india/
 categories: ["Home Entertainment"]
 tags: ["tatasky", "tatasky plus", "tatasky HD", "tata sky HD", "tatasky HD PVR", "hd pvr india"]
+image: "/wp/wp-content/uploads/2008/10/tataskyplus-featured.png"
 author: "Setu"
 authors: ["setu"]
 ---

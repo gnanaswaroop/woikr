@@ -4,6 +4,7 @@ date: 2009-04-10T13:28:00
 url: /news/insert-inline-images-in-gmail/
 categories: ["News"]
 tags: ["gmail", "Google", "gmail insert images", "insert inline images", "display images in email", "gmail labs"]
+image: "/wp/wp-content/uploads/2008/11/gmail_logo.png"
 author: "Setu"
 authors: ["setu"]
 ---

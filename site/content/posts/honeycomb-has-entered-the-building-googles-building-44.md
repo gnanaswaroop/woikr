@@ -4,6 +4,7 @@ date: 2011-03-01T11:09:46
 url: /android/honeycomb-has-entered-the-building-googles-building-44/
 categories: ["Android"]
 tags: ["Google Building 44", "Google Android Figures", "Android Dessert Statues", "Android Desserts", "Google Android Naming", "honeycomb", "gingerbread"]
+image: "/wp/wp-content/uploads/2011/03/honeycomb_google_building.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

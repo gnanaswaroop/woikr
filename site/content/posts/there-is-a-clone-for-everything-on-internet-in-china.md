@@ -4,6 +4,7 @@ date: 2011-03-03T17:12:35
 url: /internet/there-is-a-clone-for-everything-on-internet-in-china/
 categories: ["Internet"]
 tags: ["Chinese Clones", "Software Clones in China", "Website Clones in China", "Facebook Clone", "Twitter Clone", "Tumblr clone", "Groupon clone", "Foursquare clone", "Flipboard clone", "Instagram Clone"]
+image: "/wp/wp-content/uploads/2011/03/ChinaClones_600p.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

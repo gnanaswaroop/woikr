@@ -4,6 +4,7 @@ date: 2009-01-09T21:47:05
 url: /news/nokia-xpressmusic-5800-officially-launched-in-india/
 categories: ["News"]
 tags: ["nokia 5800", "xpressmusic", "xpress music", "nokia tube", "nokia iphone killer", "nokia touchscreen", "touch screen nokia", "nokia 3G wi-fi"]
+image: "/wp/wp-content/uploads/2008/12/nokia_5800_india.png"
 author: "Setu"
 authors: ["setu"]
 ---

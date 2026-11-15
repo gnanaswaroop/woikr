@@ -4,6 +4,7 @@ date: 2011-06-16T22:32:52
 url: /google/gmail-now-lets-you-paste-images-from-clipboard/
 categories: ["Google"]
 tags: ["gmail", "gmail advantages", "gmail attachments", "gmail insert images", "gmail paste image"]
+image: "/wp/wp-content/uploads/2010/08/image55.png"
 author: "Setu"
 authors: ["setu"]
 ---

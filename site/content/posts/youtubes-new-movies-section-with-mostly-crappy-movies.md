@@ -4,6 +4,7 @@ date: 2010-08-27T17:47:55
 url: /google/youtubes-new-movies-section-with-mostly-crappy-movies/
 categories: ["Google", "News"]
 tags: ["youtube bollywood movies", "youtube grindhouse movies", "youtube hindi movies"]
+image: "/wp/wp-content/uploads/2010/08/youtube_crappy_movies.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

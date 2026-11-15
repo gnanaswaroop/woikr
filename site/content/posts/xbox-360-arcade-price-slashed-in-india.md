@@ -4,6 +4,7 @@ date: 2010-07-08T11:57:44
 url: /gaming/xbox-360-arcade-price-slashed-in-india/
 categories: ["Gaming", "News", "Home Entertainment"]
 tags: ["xbox", "Xbox 360", "xbox 360 india", "xbox india", "xbox 360 price in india"]
+image: "/wp/wp-content/uploads/2010/07/image6.png"
 author: "Setu"
 authors: ["setu"]
 ---

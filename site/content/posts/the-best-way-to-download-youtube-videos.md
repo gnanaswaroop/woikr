@@ -4,6 +4,7 @@ date: 2011-03-05T23:15:21
 url: /howto/the-best-way-to-download-youtube-videos/
 categories: ["How Tos"]
 tags: ["youtube", "Download Youtube videos", "YouTube Download MP4", "YouTube download trick"]
+image: "/wp/wp-content/uploads/2011/03/YouTube_Logo.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

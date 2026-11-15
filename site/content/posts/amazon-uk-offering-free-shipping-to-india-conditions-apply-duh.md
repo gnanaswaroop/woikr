@@ -4,6 +4,7 @@ date: 2011-03-09T18:17:53
 url: /deals/amazon-uk-offering-free-shipping-to-india-conditions-apply-duh/
 categories: ["Deals"]
 tags: ["Amazon UK", "Amazon Free shipping to India", "Amazon Australia", "Amazon New Zealand", "Amazon South Africa", "Amazon free shipping"]
+image: "/wp/wp-content/uploads/2011/03/amazon_uk_free_shipping.png"
 author: "Chirag"
 authors: ["chirag"]
 ---

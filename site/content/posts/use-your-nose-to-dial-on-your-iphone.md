@@ -4,6 +4,7 @@ date: 2011-01-03T02:36:09
 url: /iphone/use-your-nose-to-dial-on-your-iphone/
 categories: ["iPhone"]
 tags: ["iPhone", "cold weather app iphone", "nose dialing", "iphone nose dialing", "iphone winter app", "nose dial", "nosedial"]
+image: "/wp/wp-content/uploads/2011/01/NewImage3.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

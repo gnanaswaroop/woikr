@@ -4,6 +4,7 @@ date: 2014-09-21T21:46:03
 url: /iphone/how-to-fix-no-audio-issues-with-facetime-video-on-iphone-6/
 categories: ["iPhone"]
 tags: ["iphone 6", "iphone 6 audio issues"]
+image: "/wp/wp-content/uploads/2014/09/iphone-6-back.png"
 author: "Setu"
 authors: ["setu"]
 aliases: ["/iphone/ho-to-fix-no-audio-issues-with-facetime-video-on-iphone-6/", "/iphone/how-to-fix-no-audio-issues-with-facetime-video-on-iphone-6"]

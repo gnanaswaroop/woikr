@@ -4,6 +4,7 @@ date: 2012-02-18T11:55:42
 url: /apple/os-x-mountain-lion-is-coming-this-summer/
 categories: ["Apple", "Mac"]
 tags: ["OS X", "mountain lion", "Mac OS X"]
+image: "/wp/wp-content/uploads/2012/02/OsXMountainLionLogo.png"
 author: "Setu"
 authors: ["setu"]
 ---

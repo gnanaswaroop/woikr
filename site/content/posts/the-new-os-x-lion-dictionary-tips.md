@@ -4,6 +4,7 @@ date: 2011-07-24T01:36:08
 url: /apple/the-new-os-x-lion-dictionary-tips/
 categories: ["Apple", "Mac"]
 tags: ["Mac OS dictionary", "OS X Lion dictionary keyboard shortcut", "three finger tap dictionary", "OS X dictionary shortcut"]
+image: "/wp/wp-content/uploads/2011/07/Screen-Shot-2011-07-24-at-1.22.59-AM.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

@@ -4,6 +4,7 @@ date: 2011-07-28T12:12:16
 url: /mobile-phones/train-late-but-woke-up-early-pyka-solves-your-travel-woes/
 categories: ["Mobile Phones"]
 tags: ["Wake up at right time", "Indian railways train late", "PYKA wakes at the right time", "train travel reminder service"]
+image: "/wp/wp-content/uploads/2011/07/image.png"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

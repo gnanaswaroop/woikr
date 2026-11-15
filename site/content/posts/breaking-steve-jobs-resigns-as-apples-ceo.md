@@ -4,6 +4,7 @@ date: 2011-08-25T09:00:19
 url: /news/breaking-steve-jobs-resigns-as-apples-ceo/
 categories: ["News", "Apple"]
 tags: ["steve jobs", "Apple", "steve jobs resigns", "apple new ceo"]
+image: "/wp/wp-content/uploads/2011/08/steve-jobs.png"
 author: "Setu"
 authors: ["setu"]
 ---

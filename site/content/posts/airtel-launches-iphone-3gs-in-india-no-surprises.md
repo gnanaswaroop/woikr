@@ -4,6 +4,7 @@ date: 2010-03-25T12:49:04
 url: /wtf/airtel-launches-iphone-3gs-in-india-no-surprises/
 categories: ["WTF?", "News", "Mobile Phones", "iPhone"]
 tags: ["iPhone", "iphone 3gs", "iphone 3gs india", "iphone price in india", "iphone data plan india", "iphone 3gs launch date india"]
+image: "/wp/wp-content/uploads/2010/03/iphone_3gs_logo_modified.png"
 author: "Setu"
 authors: ["setu"]
 ---

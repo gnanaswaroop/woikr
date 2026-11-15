@@ -4,6 +4,7 @@ date: 2011-03-09T00:00:35
 url: /mobile-phones/nokia-e7-available-for-pre-order-at-35k-overpriced-stock-clearance/
 categories: ["Mobile Phones"]
 tags: ["Nokia E7", "Nokia E7 Launch Date", "Nokia E7 price", "Nokia E7 India price", "Nokia E7 India release", "Nokia Windows Phone 7"]
+image: "/wp/wp-content/uploads/2011/01/nokia_e7_communicator-300x258.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

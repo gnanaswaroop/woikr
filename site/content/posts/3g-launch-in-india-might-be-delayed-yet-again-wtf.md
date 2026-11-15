@@ -4,6 +4,7 @@ date: 2010-12-22T07:58:07
 url: /telecom/3g-launch-in-india-might-be-delayed-yet-again-wtf/
 categories: ["Telecom", "WTF?", "News"]
 tags: ["3G", "3g india", "3g service in India", "3g in india"]
+image: "/wp/wp-content/uploads/2010/12/3gindia.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

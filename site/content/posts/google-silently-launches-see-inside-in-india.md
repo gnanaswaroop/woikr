@@ -4,6 +4,7 @@ date: 2013-01-25T17:42:57
 url: /internet/google-silently-launches-see-inside-in-india/
 categories: ["Internet", "Google"]
 tags: ["google maps", "See Inside", "street view", "View inside Restaurants", "Maps Inside Malls", "See Inside Businesses", "Explore places from inside"]
+image: "/wp/wp-content/uploads/2013/01/image.png"
 author: "Swaroop"
 authors: ["swaroop"]
 ---

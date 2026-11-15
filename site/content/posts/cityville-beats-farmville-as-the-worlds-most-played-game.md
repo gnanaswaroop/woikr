@@ -4,6 +4,7 @@ date: 2010-12-25T19:18:00
 url: /gaming/cityville-beats-farmville-as-the-worlds-most-played-game/
 categories: ["Gaming"]
 tags: ["Zynga", "CityVille", "FarmVille", "Social Gaming", "Facebook Gaming"]
+image: "/wp/wp-content/uploads/2010/12/cityville.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

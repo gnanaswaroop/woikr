@@ -4,6 +4,7 @@ date: 2011-05-04T12:22:12
 url: /news/airtel-launches-hd-dvr-set-top-box-in-india/
 categories: ["News", "Home Entertainment"]
 tags: ["hd channels india", "hd dth india", "HD India", "hd pvr", "hd pvr india", "HDTV", "hdtv india", "Airtel", "airtel hd"]
+image: "/wp/wp-content/uploads/2011/01/NewImage62.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

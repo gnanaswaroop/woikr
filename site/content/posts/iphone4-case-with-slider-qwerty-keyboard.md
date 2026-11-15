@@ -4,6 +4,7 @@ date: 2010-12-28T22:22:36
 url: /iphone/iphone4-case-with-slider-qwerty-keyboard/
 categories: ["iPhone"]
 tags: ["iPhone Keyboard", "iPhone Physical Keyboard", "iPhone Keyboard Case", "iphone case", "Keyboard Buddy", "iPhone Blackberry Keyboard"]
+image: "/wp/wp-content/uploads/2010/12/iphone_keyboard_1.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

@@ -4,6 +4,7 @@ date: 2010-12-21T20:42:39
 url: /lol/first-venn-diagram-lol/
 categories: ["LOL"]
 tags: ["Venn Diagram"]
+image: "/wp/wp-content/uploads/2010/12/first_venn_diagram.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

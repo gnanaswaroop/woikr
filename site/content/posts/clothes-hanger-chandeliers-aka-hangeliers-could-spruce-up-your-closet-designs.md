@@ -4,6 +4,7 @@ date: 2009-10-27T10:01:53
 url: /misc/clothes-hanger-chandeliers-aka-hangeliers-could-spruce-up-your-closet-designs/
 categories: ["Misc"]
 tags: ["hangeliers", "clothes hanger chandeliers", "innovative designs"]
+image: "/wp/wp-content/uploads/2009/10/image30.png"
 author: "Setu"
 authors: ["setu"]
 ---

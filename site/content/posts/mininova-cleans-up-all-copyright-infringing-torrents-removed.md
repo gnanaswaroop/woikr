@@ -4,6 +4,7 @@ date: 2009-11-26T23:56:53
 url: /news/mininova-cleans-up-all-copyright-infringing-torrents-removed/
 categories: ["News"]
 tags: ["mininova", "copyright infringement", "torrents"]
+image: "/wp/wp-content/uploads/2009/11/image13.png"
 author: "Setu"
 authors: ["setu"]
 ---

@@ -4,6 +4,7 @@ date: 2011-07-18T17:34:13
 url: /home-entertainment/airtel-dth-adds-stars-aslihd-channels-to-its-hd-offering/
 categories: ["Home Entertainment"]
 tags: ["airtel hd", "asli HD", "star hd channels", "star world hd", "airtel DTH", "videocon", "videocon d2h", "videocon HD", "reliance HD DTH", "tatasky HD"]
+image: "/wp/wp-content/uploads/2011/07/star-asli-hd.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

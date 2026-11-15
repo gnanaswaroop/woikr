@@ -4,6 +4,7 @@ date: 2011-01-04T23:43:23
 url: /microsoft/windows-7-reaches-20-market-share-snow-leopard-3/
 categories: ["Microsoft"]
 tags: ["microsoft windows", "Windows Market Share", "Apple market Share", "Linux market share"]
+image: "/wp/wp-content/uploads/2011/01/mswindows.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

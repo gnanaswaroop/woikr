@@ -4,6 +4,7 @@ date: 2011-08-02T07:38:31
 url: /apple/apples-icloud-has-the-cutest-error-screens-ever/
 categories: ["Apple"]
 tags: ["Apple iCloud", "iCloud", "iCloud Screenshots", "iCloud Web Apps", "iCloud Error Pages", "Cutest Error Screens", "Best 404 page"]
+image: "/wp/wp-content/uploads/2011/08/iCloud_login_beta.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

@@ -4,6 +4,7 @@ date: 2011-01-11T10:19:19
 url: /misc/toyotas-entune-in-car-entertainment-system/
 categories: ["Misc", "News"]
 tags: ["toyota", "toyota in car entertainment", "entune", "toyota entune", "car entertainment"]
+image: "/wp/wp-content/uploads/2011/01/NewImage53.jpg"
 author: "Setu"
 authors: ["setu"]
 ---

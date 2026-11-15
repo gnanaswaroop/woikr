@@ -4,6 +4,7 @@ date: 2009-10-06T03:13:54
 url: /iphone/review-wisen-up-iphone-apps/
 categories: ["iPhone", "Reviews"]
 tags: ["Wisen Up", "GlobalDelight", "iPhone Medical app", "iPhone medical jokes", "iphone apps"]
+image: "/wp/wp-content/uploads/2009/10/wisen_up_11.png"
 author: "Chirag"
 authors: ["chirag"]
 ---

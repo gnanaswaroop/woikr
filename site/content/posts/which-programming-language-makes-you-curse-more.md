@@ -4,6 +4,7 @@ date: 2011-02-28T23:29:41
 url: /misc/which-programming-language-makes-you-curse-more/
 categories: ["Misc", "Dev"]
 tags: ["Best Programming Language", "Worst Programming Language", "C++ worst", "Python is a Zen language", "Programming makes me curse"]
+image: "/wp/wp-content/uploads/2011/02/proramming_swearing.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

@@ -4,6 +4,7 @@ date: 2009-10-05T00:17:49
 url: /howto/send-emails-in-background-in-thunderbird-tips/
 categories: ["How Tos"]
 tags: ["thunderbird", "outbox", "background sending", "send in background", "outbox for thunderbird", "blunderdelay", "mozilla"]
+image: "/wp/wp-content/uploads/2009/10/image_thumb7.png"
 author: "Setu"
 authors: ["setu"]
 ---

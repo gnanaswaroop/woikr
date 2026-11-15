@@ -4,6 +4,7 @@ date: 2011-03-12T10:21:56
 url: /mobile-phones/nokia-e7-gets-a-price-cut-even-before-release-now-29999/
 categories: ["Mobile Phones"]
 tags: ["Nokia E7", "Nokia E7 Launch Date", "Nokia E7 price", "Nokia E7 India", "Nokia E7 India price"]
+image: "/wp/wp-content/uploads/2011/03/nokia_e7_price_cut.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---

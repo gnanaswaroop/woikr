@@ -4,6 +4,7 @@ date: 2009-10-30T02:54:28
 url: /google/orkut-to-get-makeover/
 categories: ["Google"]
 tags: ["orkut sucks", "facebook vs orkut", "new orkut interface", "new orkut experience"]
+image: "/wp/wp-content/uploads/2009/10/orkut_logo.gif"
 author: "Chirag"
 authors: ["chirag"]
 ---

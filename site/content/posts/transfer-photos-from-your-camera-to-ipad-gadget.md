@@ -4,6 +4,7 @@ date: 2010-12-31T20:29:49
 url: /ipad/transfer-photos-from-your-camera-to-ipad-gadget/
 categories: ["iPad"]
 tags: ["iPad Camera Connector", "Transfer photos from Camera to iPad", "Transfer Photos from Phone to iPad", "Transfer Photos to iPad via USB", "iPad SD Card", "iPad MicroSD Card"]
+image: "/wp/wp-content/uploads/2010/12/camera_iPad_2.jpg"
 author: "Chirag"
 authors: ["chirag"]
 ---
