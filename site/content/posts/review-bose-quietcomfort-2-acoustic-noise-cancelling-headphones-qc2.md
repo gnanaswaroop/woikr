@@ -6,6 +6,7 @@ categories: ["Reviews"]
 tags: ["bose", "qc2", "QuietComfort 2", "Noise Cancelling", "noise cancelling headphones", "bose headphones", "qc2 headphones", "QuietComfort"]
 author: "Setu"
 authors: ["setu"]
+aliases: ["/review-bose-quietcomfort-2-acoustic-noise-cancelling-headphones-qc2/"]
 ---
 <p><a href="http://en.wikipedia.org/wiki/Bose_Corporation" target="_blank"><img class="alignnone" src="/images/qc2-lead.PNG" alt="" width="593" height="226" /></a></p>
 <p><a href="http://en.wikipedia.org/wiki/Bose_Corporation" target="_blank">Bose</a> is known for high class audio products. They have an unparalleled offering of audio solutions ranging from personal audio systems to home and professional audio solutions. Their USP is the technology they have developed after doing solid research in the field of sound. Almost all of their products have a Bose patented technology inside. Hence the steep price.</p>

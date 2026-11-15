@@ -6,6 +6,7 @@ categories: ["Internet"]
 tags: ["What are social check-in services", "Location privacy importance", "What is location privacy", "iPhone location tracking", "is my iPhone tracking me", "Social Check-ins"]
 author: "Swaroop"
 authors: ["swaroop"]
+aliases: ["/uncategorized/location-privacy-and-all-the-fuss-around-it"]
 ---
 <p>Social check-in services have a secret agenda. They've grown to keep their user's engaged by awarding them "new badges", they make money by signing up <a href="https://foursquare.com/cafecoffeeday">deals</a> with the famous places.</p>
 <p><img class="alignnone size-full wp-image-7833" title="foursquare_badges" src="/wp/wp-content/uploads/2011/05/foursquare_badges.png" alt="" width="480" height="145" /></p>

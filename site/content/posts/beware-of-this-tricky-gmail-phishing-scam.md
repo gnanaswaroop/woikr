@@ -6,6 +6,7 @@ categories: ["Internet"]
 tags: ["Phishing Scam", "Gmail Phishing", "Internet Scam", "Phishing Email", "Gmail account will be deleted"]
 author: "Chirag"
 authors: ["chirag"]
+aliases: ["/internet/beware-of-this-tricky-gmail-phishing-scam&utm_campaign=Feed%3A+woikr+(woikr)"]
 ---
 <p>Apparently a new Phishing scam email is doing the rounds. The email pretends to be an email from Google and says that since they are upgrading their Database servers and e-mail account center (What's that?), they will be deleting unused Gmail accounts. And how do they check whether an account is used? Not by it's activity. Not by the space usage. But by making you click on a suspicious "Authenticate" link. Clearly, it's meant to scare newbies or people who aren't very careful about what they do on the Internet.</p>
 <p><a href="/wp/wp-content/uploads/2011/03/Gmail-Phising-scam.png"><img title="Gmail Phising scam" src="/wp/wp-content/uploads/2011/03/Gmail-Phising-scam-600x194.png" alt="Gmail Phising scam email" width="600" height="194" /></a></p>

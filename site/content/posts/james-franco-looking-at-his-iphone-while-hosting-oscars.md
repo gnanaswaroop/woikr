@@ -6,6 +6,7 @@ categories: ["LOL"]
 tags: ["James Franco", "Anne Hathaway", "James Franco iPhone", "James Franco Oscars", "Academy Awards 2011", "Oscars 2011", "Celebrities with iPhone"]
 author: "Chirag"
 authors: ["chirag"]
+aliases: ["/lol/james-franco-looking-at-his-iphone-while-hosting-oscars&utm_campaign=Feed%3A+woikr+(woikr)"]
 ---
 <p>Apparently James Franco was more interested in checking out something on his iPhone rather than concentrating on his job as the host of the 2011 Academy Awards :)</p>
 <p><a href="/wp/wp-content/uploads/2011/02/jamesfranco_iPhone.jpg"><img class="alignnone size-large wp-image-7238" title="James Franco &amp; Anne Hathaway, Oscars 2011" src="/wp/wp-content/uploads/2011/02/jamesfranco_iPhone-600x337.jpg" alt="James Franco &amp; Anne Hathaway, Oscars 2011" width="600" height="337" /></a></p>

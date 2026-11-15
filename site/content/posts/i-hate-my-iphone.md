@@ -6,7 +6,7 @@ categories: ["Apple", "iPhone"]
 tags: ["iPhone", "Apple", "i hate", "i hate iphone", "iPhone India"]
 author: "Chirag"
 authors: ["chirag"]
-aliases: ["/i-hate-my-iphone/"]
+aliases: ["/i-hate-my-iphone", "/i-hate-my-iphone/"]
 ---
 <div class="mceTemp mceIEcenter">
 <p><a href="/wp/wp-content/uploads/2008/08/hate_iphone_lead.jpg"><img class="alignnone size-full wp-image-115" title="hate_iphone_lead" src="/wp/wp-content/uploads/2008/08/hate_iphone_lead.jpg" alt="" width="500" height="189" /></a></p>

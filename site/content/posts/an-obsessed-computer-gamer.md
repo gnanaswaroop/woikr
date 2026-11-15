@@ -6,6 +6,7 @@ categories: ["Gaming"]
 tags: ["computer gaming"]
 author: "Swaroop"
 authors: ["swaroop"]
+aliases: ["/an-obsessed-computer-gamer/"]
 ---
 <p>In most parts of the world people have bad views regarding gaming.</p>
 <p>This is a post to explain why we still game and stay thrilled.</p>

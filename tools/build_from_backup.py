@@ -109,7 +109,7 @@ def main():
     red_ok = red_skip = 0
     for r in load("wp_redirection_items"):
         src = (r.get("url") or "").split("?")[0]
-        target = urlsplit(r.get("action_data") or "").path
+        target = urlsplit(r.get("action_data") or "").path.rstrip("/") + "/"  # match trailing-slash URLs
         if target in url_of and src and src != target and src not in url_of:
             aliases = post_fm[url_of[target]]["aliases"]
             if src not in aliases:

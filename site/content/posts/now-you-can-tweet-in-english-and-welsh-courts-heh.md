@@ -6,6 +6,7 @@ categories: ["News"]
 tags: ["england wales court twitter", "twitter"]
 author: "Chirag"
 authors: ["chirag"]
+aliases: ["/news/twitter-in-courts"]
 ---
 <p><a href="/wp/wp-content/uploads/2010/12/twitter.jpg"></a><img title="twitter" src="/wp/wp-content/uploads/2010/12/twitter.jpg" alt="" width="270" height="197" /><a href="/wp/wp-content/uploads/2010/12/twitter.jpg"></a></p>
 <p>Lord Chief Justice for England and Wales has ruled that Twitter or any form of live text-based communication (Facebook, email, SMS) would be allowed as long as the judge believed it does not interfere with the administration of justice. The ruling was announced after the WikiLeaks founder Assange's hearing where journalists were allowed to tweet live updates. The ruling said: "The use of an unobtrusive, hand-held, virtually silent piece of modern equipment for the purposes of simultaneous reporting of proceedings to the outside world as they unfold in court is unlikely to interfere with the proper administration of justice."</p>

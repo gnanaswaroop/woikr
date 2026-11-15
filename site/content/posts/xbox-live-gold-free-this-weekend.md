@@ -6,6 +6,7 @@ categories: ["Gaming"]
 tags: ["Xbox live", "Xbox Live Gold Free", "Free Xbox Live", "Free Multiplayer Gaming on Xbox"]
 author: "Chirag"
 authors: ["chirag"]
+aliases: ["/gaming/xbox-live-for-this-weekend/"]
 ---
 <a href="/wp/wp-content/uploads/2011/01/Xbox-live-logo.jpg"><img class="alignnone size-medium wp-image-6619" title="Xbox-live-logo" src="/wp/wp-content/uploads/2011/01/Xbox-live-logo-300x138.jpg" alt="Xbox Live Gold Free this weekend in India" width="300" height="138" /></a>
 <p>If you have an Xbox and are not a Gold member, this is a time to experience it for 2 days for free! This weekend (Jan 28 and 29) all Xbox Live members in India will be upgraded to Live Gold.</p>

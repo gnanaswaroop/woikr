@@ -6,6 +6,7 @@ categories: ["LOL"]
 tags: ["keanu reeves", "keanu reeves photo saloon", "keanu reeves saloon", "LOL"]
 author: "Setu"
 authors: ["setu"]
+aliases: ["/lol/keanu-reeves-posing-for-a-local-saloon"]
 ---
 A local salon in Noida Sector 63 has <a href="http://en.wikipedia.org/wiki/Keanu_Reeves" target="_blank">Keanu Reeves</a> as model in its billboard (click for a larger view):
 
