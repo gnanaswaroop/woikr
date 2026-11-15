@@ -6,7 +6,7 @@
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} · {{ site.Title }}{{ end }}</title>
   <meta name="description" content="{{ site.Params.description }}">
   <link rel="icon" href="{{ site.Params.logo }}">
-  <link rel="stylesheet" href="{{ "css/style.css" | relURL }}?v=3">
+  {{ with resources.Get "css/style.css" | minify }}<style>{{ .Content | safeCSS }}</style>{{ end }}
 </head>
 <body>
   <header class="site-header">

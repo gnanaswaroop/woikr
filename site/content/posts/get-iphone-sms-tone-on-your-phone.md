@@ -4,7 +4,6 @@ date: 2010-12-24T22:36:10
 url: /mobile-phones/get-iphone-sms-tone-on-your-phone/
 categories: ["Mobile Phones", "iPhone"]
 tags: ["iPhone Tritone", "iPhone SMS Tone", "iPhone SMS tone on Android", "iPhone SMS tone for Nokia", "iPhone SMS Tone for Blackberry"]
-image: "/wp/wp-content/uploads/2010/12/iPhone_SMS.mp3"
 author: "Chirag"
 authors: ["chirag"]
 ---

@@ -24,9 +24,20 @@ jobs:
         with:
           hugo-version: "0.169.0"
           extended: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install image tools
+        run: pip install -r tools/requirements.txt
+      - name: Prepare images (card thumbnails, shrink oversized uploads)
+        run: |
+          python tools/make_thumbs.py
+          python tools/optimize_images.py
       - name: Build
         working-directory: site
         run: hugo --minify --destination ../_site
+      - name: Performance budget check
+        run: python tools/check_budgets.py _site
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
