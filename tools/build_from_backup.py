@@ -25,7 +25,6 @@ SHORTCODE_TAG = re.compile(r"\[/?(?:sharebar|gallery|embed|audio|video|caption)[
 ATTR_NOISE = re.compile(r'\s(?:style|border|align|allowtransparency|scrolling|frameborder)="[^"]*"', re.I)
 SCRIPT = re.compile(r"<(script|iframe|style|ins)\b.*?</\1>", re.S | re.I)
 COMMENT = re.compile(r"<!--.*?-->", re.S)
-EMAIL_IN_TEXT = re.compile(r"[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}")
 MEDIA_RE = re.compile(r'(?:src|href)="((?:https?://(?:www\.)?woikr\.com)?/?wp/wp-content/uploads/[^"]+)"')
 
 
@@ -58,8 +57,6 @@ def clean_body(h):
     h = COMMENT.sub("", h)
     h = ATTR_NOISE.sub("", h)
     h = SITE_HOST.sub("", h)  # root-relative; keeps /wp/wp-content/... paths
-    # Individuals' and press contact addresses quoted in old articles are not republished.
-    h = EMAIL_IN_TEXT.sub(lambda m: m.group(0) if m.group(0).endswith("bot.talk.google.com") else "[email removed]", h)
     return h.strip()
 
 

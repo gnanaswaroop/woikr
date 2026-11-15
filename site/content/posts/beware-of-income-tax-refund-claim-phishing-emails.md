@@ -23,7 +23,7 @@ Refund can be delayed for some reasons:
 <strong>Tax Refund Department<br>
 Department of revenue,<br>
 Ministry of finance, Government of India.</strong></blockquote>
-<p>The Link has been suppressed for obvious reasons. Although this email comes from probably a trusted sender <a href="mailto:“[email removed]">“[email removed]</a>”, watch out for the website which actually goes to a domain called as zinuru.org.</p>
+<p>The Link has been suppressed for obvious reasons. Although this email comes from probably a trusted sender <a href="mailto:“refunds@incometaxindia.in.net">“refunds@incometaxindia.in.net</a>”, watch out for the website which actually goes to a domain called as zinuru.org.</p>
 <p></p>
 <p>The page is a phished website with some of the links pointing to NSDL and webpage which the users can enter the bank details.<br>
 <a href="/wp/wp-content/uploads/2010/12/image6.png"><img title="image" src="/wp/wp-content/uploads/2010/12/image_thumb1.png" alt="image" width="698" height="572" /></a></p>

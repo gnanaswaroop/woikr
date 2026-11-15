@@ -66,10 +66,10 @@ We believe this definitely is a strong competitor to Facebook, but it'll take ti
 <div>Find a friend who already has a Google Plus account</div></li>
 	<li>
 <div>Ask him to create a new "Status Update" and in that mention your email address.<br>
-i.e if your email is <a href="mailto:[email removed]">[email removed]</a>,  ask your friend to write it as shown below and Click on “Share”.<br>
+i.e if your email is <a href="mailto:abc@gmail.com">abc@gmail.com</a>,  ask your friend to write it as shown below and Click on “Share”.<br>
 <a href="/wp/wp-content/uploads/2011/06/GooglePlusInviteTrick.jpg"><img title="GooglePlus-Invite-Trick" src="/wp/wp-content/uploads/2011/06/GooglePlusInviteTrick_thumb.jpg" alt="GooglePlus-Invite-Trick" width="467" height="181" /></a></div></li>
 	<li>
-<div>You’ll now receive an email on <a href="mailto:[email removed]">[email removed]</a>, click on "Learn More" and you will be taken to the signup page (Account already activated).</div></li>
+<div>You’ll now receive an email on <a href="mailto:abc@gmail.com">abc@gmail.com</a>, click on "Learn More" and you will be taken to the signup page (Account already activated).</div></li>
 	<li>
 <div>Voila!, that's it – Thank us.</div></li>
 </ol>

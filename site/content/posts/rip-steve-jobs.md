@@ -13,4 +13,4 @@ authors: ["setu"]
 <blockquote>
 <p>We are deeply saddened to announce that Steve Jobs passed away today.<br />Steve’s brilliance, passion and energy were the source of countless innovations that enrich and improve all of our lives. The world is immeasurably better because of Steve.<br />His greatest love was for his wife, Laurene, and his family. Our hearts go out to them and to all who were touched by his extraordinary gifts.</p>
 </blockquote>
-<p>Apple has put up a <a href="http://www.apple.com/stevejobs/">microsite</a> in memory of Steve Jobs and have set up the email address <a href="mailto:[email removed]">[email removed]</a> for anyone who might want to share thoughts, memories and condolences.</p>
+<p>Apple has put up a <a href="http://www.apple.com/stevejobs/">microsite</a> in memory of Steve Jobs and have set up the email address <a href="mailto:rememberingsteve@apple.com">rememberingsteve@apple.com</a> for anyone who might want to share thoughts, memories and condolences.</p>

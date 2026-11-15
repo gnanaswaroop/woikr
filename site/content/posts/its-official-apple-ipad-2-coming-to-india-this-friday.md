@@ -33,10 +33,10 @@ Apple designs Macs, the best personal computers in the world, along with OS X, i
 <strong>Press Contacts:</strong><br>
 Trudy Muller<br>
 Apple<br>
-<a href="mailto:[email removed]">[email removed]</a><br>
+<a href="mailto:tmuller@apple.com">tmuller@apple.com</a><br>
 (408) 862-7426
 
 Natalie Kerris<br>
 Apple<br>
-<a href="mailto:[email removed]">[email removed]</a><br>
+<a href="mailto:nat@apple.com">nat@apple.com</a><br>
 (408) 974-6877</blockquote>

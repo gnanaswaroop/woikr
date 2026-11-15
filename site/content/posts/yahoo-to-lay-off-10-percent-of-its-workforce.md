@@ -13,9 +13,9 @@ authors: ["setu"]
 <p>Here is the full email text:</p>
 
 <blockquote>
-<p>From: Jerry Yang [mailto:[email removed]]<br>
+<p>From: Jerry Yang [mailto:jerry@yahoo-inc.com]<br>
 Sent: Tuesday, October 21, 2008 2:20 PM<br>
-To: [email removed]<br>
+To: all-worldwide@yahoo-inc.com<br>
 Subject: update
 <p>yahoos,</p>
 <p>i feel it’s important for me to reach out to you after our earnings announcement, and before our all hands meeting tomorrow.</p>
