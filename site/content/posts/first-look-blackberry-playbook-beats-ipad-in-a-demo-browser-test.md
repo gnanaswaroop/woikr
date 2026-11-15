@@ -7,23 +7,23 @@ categories: ["First Look, iPad"]
 tags: []
 comments_count: 3
 ---
-<div style="clear: both;"></div>
+<div></div>
 
         
             
-            <div style="clear: both;"></div>
+            <div></div>
 
-            <ul id="sharebar" style="background:#;border-color:#000000;">
+            <ul id="sharebar">
 <li></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-count="vertical" data-via="woikr">Tweet</a></li><li>
 
 <g:plusone size="tall"></g:plusone></li><li></li></ul><ul id="sharebarx">
 <li></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="woikr">Tweet</a></li><li>
 
-<g:plusone size="medium"></g:plusone></li><li></li></ul><p style="text-align: justify;">In this new video released by BlackBerry, they compare the PlayBook browser to the iPad and well, the PlayBook performs comprehensively&nbsp;better!</p>
-<p style="text-align: justify;"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="560" height="340" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><param name="src" value="http://www.youtube.com/v/s72rGDUn2uo?fs=1&amp;hl=en_US&amp;rel=0"><param name="allowfullscreen" value="true"><embed type="application/x-shockwave-flash" width="560" height="340" src="http://www.youtube.com/v/s72rGDUn2uo?fs=1&amp;hl=en_US&amp;rel=0" allowscriptaccess="always" allowfullscreen="true"></object></p>
-<p style="text-align: justify;">Here are the key things to note:</p>
+<g:plusone size="medium"></g:plusone></li><li></li></ul><p>In this new video released by BlackBerry, they compare the PlayBook browser to the iPad and well, the PlayBook performs comprehensively&nbsp;better!</p>
+<p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="560" height="340" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><param name="src" value="http://www.youtube.com/v/s72rGDUn2uo?fs=1&amp;hl=en_US&amp;rel=0"><param name="allowfullscreen" value="true"><embed type="application/x-shockwave-flash" width="560" height="340" src="http://www.youtube.com/v/s72rGDUn2uo?fs=1&amp;hl=en_US&amp;rel=0" allowscriptaccess="always" allowfullscreen="true"></object></p>
+<p>Here are the key things to note:</p>
 <p><span id="more-4823"></span></p>
-<ul style="text-align: justify;">
+<ul>
 <li>The PlayBook browser loads and renders the websites faster than the iPad every single time.</li>
 <li>PlayBook loads flash convincingly. It’s not the choppy, sub par rendering you see on most mobile devices. I wonder why they didn’t show Flash video playback though.</li>
 <li>PlayBook scores 100/100 and renders perfectly on the <a href="http://acid3.acidtests.org/" target="_blank">Acid3 test</a>.&nbsp;iPad scores 100 too with a tiny imperfect pixel. On my Mac, Chrome scores 97 with really screwed up rendering, Firefox 4 Beta scores 97 with decent rendering and Safari scores 100 with perfect rendering.</li>
@@ -50,9 +50,9 @@ comments_count: 3
 
 <div id="fb-root"></div>
 
-<div id="fbComments" style="">
-	<p style="line-height: 30px; font-family: Trebuchet MS; font-size: 17px; font-weight: bold;">Comments</p>
+<div id="fbComments">
+	<p>Comments</p>
 
 	<fb:comments xid="D3r0bKBrWT986Sr_post4823" url="/first-look/blackberry-playbook-beats-ipad-in-a-demo-browser-test/" numposts="99" width="600" publish_feed="true" migrated="1"></fb:comments></div>
 
-<div style="clear: both;"></div>
+<div></div>

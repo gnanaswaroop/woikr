@@ -7,22 +7,22 @@ categories: ["Apple, Google, News"]
 tags: []
 comments_count: 0
 ---
-<div style="clear: both;"></div>
+<div></div>
 
         
             
-            <div style="clear: both;"></div>
+            <div></div>
 
-            <ul id="sharebar" style="background:#;border-color:#000000;">
+            <ul id="sharebar">
 <li></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-count="vertical" data-via="woikr">Tweet</a></li><li>
 
 <g:plusone size="tall"></g:plusone></li><li></li></ul><ul id="sharebarx">
 <li></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="woikr">Tweet</a></li><li>
 
-<g:plusone size="medium"></g:plusone></li><li></li></ul><p style="text-align: justify;"><img title="google-maps-ios-logo.png" alt="google maps for iOS" src="/wp-content/uploads/2012/12/google-maps-ios-logo.png" width="183" height="183" border="0"></p>
-<p style="text-align: justify;">Google has finally released its maps app for iOS giving relief to a lot of users around the world. After many embarrassing turn of events for Apple, it was inevitable for Google to work on and release an awesome app to users facing too much inconvenience. And they have delivered well.</p>
-<p style="text-align: justify;">The new app is beautifully designed and has all the elements one would need from a maps app. The app looks slick and minimalistic, however, it is feature packed with turn by turn voice navigation, transit directions, walking directions, live traffic view and reviews for restaurants in addition to some personalization features. I tried turn by turn voice navigation in India and found it to be pretty accurate. <del>However, the distance units are not in metric which is a bit inconvenient</del>. To make the &nbsp;distance units show up in metric system, go to Settings -&gt; General -&gt; International and change the Region format to India. Also, there seems to be lags here and there when the app speaks out directions. Even with all these quirks, the app is a welcome for anyone who was used to using the native Google maps apps before iOS 6. The app has already replaced the native Apple maps app on my home screen.</p>
-<p style="text-align: justify;">Download the new app from the app store:&nbsp;<a href="https://itunes.apple.com/us/app/google-maps/id585027354?mt=8">https://itunes.apple.com/us/app/google-maps/id585027354?mt=8</a></p>
+<g:plusone size="medium"></g:plusone></li><li></li></ul><p><img title="google-maps-ios-logo.png" alt="google maps for iOS" src="/wp-content/uploads/2012/12/google-maps-ios-logo.png" width="183" height="183"></p>
+<p>Google has finally released its maps app for iOS giving relief to a lot of users around the world. After many embarrassing turn of events for Apple, it was inevitable for Google to work on and release an awesome app to users facing too much inconvenience. And they have delivered well.</p>
+<p>The new app is beautifully designed and has all the elements one would need from a maps app. The app looks slick and minimalistic, however, it is feature packed with turn by turn voice navigation, transit directions, walking directions, live traffic view and reviews for restaurants in addition to some personalization features. I tried turn by turn voice navigation in India and found it to be pretty accurate. <del>However, the distance units are not in metric which is a bit inconvenient</del>. To make the &nbsp;distance units show up in metric system, go to Settings -&gt; General -&gt; International and change the Region format to India. Also, there seems to be lags here and there when the app speaks out directions. Even with all these quirks, the app is a welcome for anyone who was used to using the native Google maps apps before iOS 6. The app has already replaced the native Apple maps app on my home screen.</p>
+<p>Download the new app from the app store:&nbsp;<a href="https://itunes.apple.com/us/app/google-maps/id585027354?mt=8">https://itunes.apple.com/us/app/google-maps/id585027354?mt=8</a></p>
 
 		
 		<p>
@@ -41,9 +41,9 @@ comments_count: 0
 
 <div id="fb-root"></div>
 
-<div id="fbComments" style="">
-	<p style="line-height: 30px; font-family: Trebuchet MS; font-size: 17px; font-weight: bold;">Comments</p>
+<div id="fbComments">
+	<p>Comments</p>
 
 	<fb:comments xid="D3r0bKBrWT986Sr_post9409" url="/apple/google-maps-now-available-on-the-iphone/" numposts="99" width="600" publish_feed="true" migrated="1"></fb:comments></div>
 
-<div style="clear: both;"></div>
+<div></div>

@@ -7,24 +7,24 @@ categories: ["iPhone"]
 tags: []
 comments_count: 0
 ---
-<div style="clear: both;"></div>
+<div></div>
 
         
             
-            <div style="clear: both;"></div>
+            <div></div>
 
-            <ul id="sharebar" style="background:#;border-color:#000000;">
+            <ul id="sharebar">
 <li></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-count="vertical" data-via="woikr">Tweet</a></li><li>
 
 <g:plusone size="tall"></g:plusone></li><li></li></ul><ul id="sharebarx">
 <li></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="woikr">Tweet</a></li><li>
 
-<g:plusone size="medium"></g:plusone></li><li></li></ul><p style="text-align: justify;">You must have seen tens of iPhone lookalikes in that come from China and have infested your friendly&nbsp;neighborhood&nbsp;mobile phone stores. All of them have one thing in common, they SUCK. So when I saw an article titled “<a title="2010’s Best iPhone 4 Knockoff: The SoPhone" rel="bookmark" href="http://micgadget.com/10605/2010s-best-iphone-4-knockoff-the-sophone/" target="_blank">2010’s Best iPhone 4 Knockoff: The SoPhone</a>” I was least interested. But what I saw in the next 5 minutes, blew my mind.&nbsp;Don’t believe me? See the videos ahead. The first one shows an iPhone 4 compared to a SoPhone and the second is a review of the SoPhone.</p>
-<p style="text-align: justify;"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="580" height="460" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><param name="src" value="http://www.youtube.com/v/4Vo8Og2_by8?fs=1&amp;hl=en_US&amp;rel=0&amp;color1=0x3a3a3a&amp;color2=0x999999"><param name="allowfullscreen" value="true"><embed type="application/x-shockwave-flash" width="580" height="460" src="http://www.youtube.com/v/4Vo8Og2_by8?fs=1&amp;hl=en_US&amp;rel=0&amp;color1=0x3a3a3a&amp;color2=0x999999" allowscriptaccess="always" allowfullscreen="true"></object></p>
-<p style="text-align: justify;"><span id="more-5597"></span><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="580" height="460" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><param name="src" value="http://www.youtube.com/v/caspKPtyBNQ?fs=1&amp;hl=en_US&amp;rel=0&amp;color1=0x3a3a3a&amp;color2=0x999999"><param name="allowfullscreen" value="true"><embed type="application/x-shockwave-flash" width="580" height="460" src="http://www.youtube.com/v/caspKPtyBNQ?fs=1&amp;hl=en_US&amp;rel=0&amp;color1=0x3a3a3a&amp;color2=0x999999" allowscriptaccess="always" allowfullscreen="true"></object></p>
-<p style="text-align: justify;">I told you. Forget the fake chinese phones, it looks and seems to perform much better than most budget touchscreen phones these days! The touchscreen is pretty responsive and the apps run real smooth. And yeah, it duplicates the iPhone 4 look perfectly. The SoPhone has a old-iPhone like 3.5-inch (480 X 320) capacitive touchscreen, 4GB memory, front and rear cameras, Wi-Fi, Bluetooth and removable 1400mAh battery. Of course it doesn’t run iOS or any of the awesome apps but it can run Java apps so I’m guessing Opera Mini should work.</p>
-<p style="text-align: justify;">We can’t guarantee it won’t burst in your pants but for $209, it’s the closest you can get to iPhone 4.</p>
-<p style="text-align: justify;">[via <a href="http://micgadget.com/10605/2010s-best-iphone-4-knockoff-the-sophone/" target="_blank">MICGadget Blog</a>]</p>
+<g:plusone size="medium"></g:plusone></li><li></li></ul><p>You must have seen tens of iPhone lookalikes in that come from China and have infested your friendly&nbsp;neighborhood&nbsp;mobile phone stores. All of them have one thing in common, they SUCK. So when I saw an article titled “<a title="2010’s Best iPhone 4 Knockoff: The SoPhone" rel="bookmark" href="http://micgadget.com/10605/2010s-best-iphone-4-knockoff-the-sophone/" target="_blank">2010’s Best iPhone 4 Knockoff: The SoPhone</a>” I was least interested. But what I saw in the next 5 minutes, blew my mind.&nbsp;Don’t believe me? See the videos ahead. The first one shows an iPhone 4 compared to a SoPhone and the second is a review of the SoPhone.</p>
+<p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="580" height="460" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><param name="src" value="http://www.youtube.com/v/4Vo8Og2_by8?fs=1&amp;hl=en_US&amp;rel=0&amp;color1=0x3a3a3a&amp;color2=0x999999"><param name="allowfullscreen" value="true"><embed type="application/x-shockwave-flash" width="580" height="460" src="http://www.youtube.com/v/4Vo8Og2_by8?fs=1&amp;hl=en_US&amp;rel=0&amp;color1=0x3a3a3a&amp;color2=0x999999" allowscriptaccess="always" allowfullscreen="true"></object></p>
+<p><span id="more-5597"></span><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="580" height="460" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><param name="src" value="http://www.youtube.com/v/caspKPtyBNQ?fs=1&amp;hl=en_US&amp;rel=0&amp;color1=0x3a3a3a&amp;color2=0x999999"><param name="allowfullscreen" value="true"><embed type="application/x-shockwave-flash" width="580" height="460" src="http://www.youtube.com/v/caspKPtyBNQ?fs=1&amp;hl=en_US&amp;rel=0&amp;color1=0x3a3a3a&amp;color2=0x999999" allowscriptaccess="always" allowfullscreen="true"></object></p>
+<p>I told you. Forget the fake chinese phones, it looks and seems to perform much better than most budget touchscreen phones these days! The touchscreen is pretty responsive and the apps run real smooth. And yeah, it duplicates the iPhone 4 look perfectly. The SoPhone has a old-iPhone like 3.5-inch (480 X 320) capacitive touchscreen, 4GB memory, front and rear cameras, Wi-Fi, Bluetooth and removable 1400mAh battery. Of course it doesn’t run iOS or any of the awesome apps but it can run Java apps so I’m guessing Opera Mini should work.</p>
+<p>We can’t guarantee it won’t burst in your pants but for $209, it’s the closest you can get to iPhone 4.</p>
+<p>[via <a href="http://micgadget.com/10605/2010s-best-iphone-4-knockoff-the-sophone/" target="_blank">MICGadget Blog</a>]</p>
 
 		
 		<p>
@@ -43,9 +43,9 @@ comments_count: 0
 
 <div id="fb-root"></div>
 
-<div id="fbComments" style="">
-	<p style="line-height: 30px; font-family: Trebuchet MS; font-size: 17px; font-weight: bold;">Comments</p>
+<div id="fbComments">
+	<p>Comments</p>
 
 	<fb:comments xid="D3r0bKBrWT986Sr_post5597" url="/iphone/sophone-a-fake-iphone-that-blew-our-mind-knockoffs/" numposts="99" width="600" publish_feed="true" migrated="1"></fb:comments></div>
 
-<div style="clear: both;"></div>
+<div></div>

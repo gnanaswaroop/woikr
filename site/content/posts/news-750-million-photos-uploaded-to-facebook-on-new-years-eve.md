@@ -7,23 +7,23 @@ categories: ["News"]
 tags: []
 comments_count: 0
 ---
-<div style="clear: both;"></div>
+<div></div>
 
         
             
-            <div style="clear: both;"></div>
+            <div></div>
 
-            <ul id="sharebar" style="background:#;border-color:#000000;">
+            <ul id="sharebar">
 <li></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-count="vertical" data-via="woikr">Tweet</a></li><li>
 
 <g:plusone size="tall"></g:plusone></li><li></li></ul><ul id="sharebarx">
 <li></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="woikr">Tweet</a></li><li>
 
-<g:plusone size="medium"></g:plusone></li><li></li></ul><p style="text-align: justify;"><a href="/news/750-million-photos-uploaded-to-facebook-on-new-years-eve/attachment/facebook_580x218-shkl"></a><img title="facebook_580x218.shkl" src="/wp-content/uploads/2011/01/facebook_580x218.shkl_.jpg" alt="Facebook Logo" width="580" height="218"></p>
-<p style="text-align: justify;"><a href="http://en.wikipedia.org/wiki/Randi_Zuckerberg" target="_blank">Randi Zuckerberg</a>,&nbsp;Facebook’s marketing Director and <a href="/news/mark-zuckerberg-time-person-of-the-year-2010" target="_blank">Mark Zuckerberg</a>‘s sister, <a href="http://twitter.com/randizuckerberg/status/22187407218577408" target="_blank">tweeted</a> that users around the world uploaded a whopping 750 million photos to Facebook over the New Years’s Eve weekend! To give you a context, in July more than 100 million photos were uploaded every day, so the weekend was definitely higher than normal but not surprising.</p>
-<p style="text-align: justify;">In comparison, Flickr, a 6 year old popular image hosting service from Yahoo, completed 5 billion photos on September 2010. That’s like 6-7 good weekends for Facebook Photos.</p>
-<p style="text-align: justify;">Phew, this company is growing so big that it scares me.</p>
-<p style="text-align: justify;">[via <a href="http://techcrunch.com/2011/01/03/facebook-users-uploaded-a-record-750-million-photos-over-new-years/" target="_blank">TechCrunch</a>]</p>
+<g:plusone size="medium"></g:plusone></li><li></li></ul><p><a href="/news/750-million-photos-uploaded-to-facebook-on-new-years-eve/attachment/facebook_580x218-shkl"></a><img title="facebook_580x218.shkl" src="/wp-content/uploads/2011/01/facebook_580x218.shkl_.jpg" alt="Facebook Logo" width="580" height="218"></p>
+<p><a href="http://en.wikipedia.org/wiki/Randi_Zuckerberg" target="_blank">Randi Zuckerberg</a>,&nbsp;Facebook’s marketing Director and <a href="/news/mark-zuckerberg-time-person-of-the-year-2010" target="_blank">Mark Zuckerberg</a>‘s sister, <a href="http://twitter.com/randizuckerberg/status/22187407218577408" target="_blank">tweeted</a> that users around the world uploaded a whopping 750 million photos to Facebook over the New Years’s Eve weekend! To give you a context, in July more than 100 million photos were uploaded every day, so the weekend was definitely higher than normal but not surprising.</p>
+<p>In comparison, Flickr, a 6 year old popular image hosting service from Yahoo, completed 5 billion photos on September 2010. That’s like 6-7 good weekends for Facebook Photos.</p>
+<p>Phew, this company is growing so big that it scares me.</p>
+<p>[via <a href="http://techcrunch.com/2011/01/03/facebook-users-uploaded-a-record-750-million-photos-over-new-years/" target="_blank">TechCrunch</a>]</p>
 
 		
 		<p>
@@ -42,9 +42,9 @@ comments_count: 0
 
 <div id="fb-root"></div>
 
-<div id="fbComments" style="">
-	<p style="line-height: 30px; font-family: Trebuchet MS; font-size: 17px; font-weight: bold;">Comments</p>
+<div id="fbComments">
+	<p>Comments</p>
 
 	<fb:comments xid="D3r0bKBrWT986Sr_post5917" url="/news/750-million-photos-uploaded-to-facebook-on-new-years-eve/" numposts="99" width="600" publish_feed="true" migrated="1"></fb:comments></div>
 
-<div style="clear: both;"></div>
+<div></div>

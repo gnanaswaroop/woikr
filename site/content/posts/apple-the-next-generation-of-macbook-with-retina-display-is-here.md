@@ -7,32 +7,32 @@ categories: ["Apple, News"]
 tags: []
 comments_count: 0
 ---
-<div style="clear: both;"></div>
+<div></div>
 
         
             
-            <div style="clear: both;"></div>
+            <div></div>
 
-            <ul id="sharebar" style="background:#;border-color:#000000;">
+            <ul id="sharebar">
 <li></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-count="vertical" data-via="woikr">Tweet</a></li><li>
 
 <g:plusone size="tall"></g:plusone></li><li></li></ul><ul id="sharebarx">
 <li></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="woikr">Tweet</a></li><li>
 
-<g:plusone size="medium"></g:plusone></li><li></li></ul><p style="text-align: justify;"><img title="macbook-pro-retina-display.png" src="/wp-content/uploads/2012/06/macbook-pro-retina-display.png" alt="macbook pro retina display" width="300" height="160" border="0"></p>
-<p style="text-align: justify;">In addition to <a href="/apple/get-ready-for-ios-6/">announcing iOS 6</a> at yesterday’s WWDC keynote, Apple also revealed their <a href="http://www.apple.com/macbook-pro/">next generation of Macbook</a> featuring the awesome <a href="http://www.apple.com/macbook-pro/features/">retina display</a>. The machine is a powerhouse. Lets take a look at its features:</p>
+<g:plusone size="medium"></g:plusone></li><li></li></ul><p><img title="macbook-pro-retina-display.png" src="/wp-content/uploads/2012/06/macbook-pro-retina-display.png" alt="macbook pro retina display" width="300" height="160"></p>
+<p>In addition to <a href="/apple/get-ready-for-ios-6/">announcing iOS 6</a> at yesterday’s WWDC keynote, Apple also revealed their <a href="http://www.apple.com/macbook-pro/">next generation of Macbook</a> featuring the awesome <a href="http://www.apple.com/macbook-pro/features/">retina display</a>. The machine is a powerhouse. Lets take a look at its features:</p>
 <ul>
-<li style="text-align: justify;">15.4 inch retina display with a resolution of 2880 by 1800 pixies (thats 5 megapixels. Full HD is 2 megapixels)</li>
-<li style="text-align: justify;">Up to 2.7 Ghz quad core Intel Core i7</li>
-<li style="text-align: justify;">Up to 16GB hi speed 1600 Mhz RAM (comes with 8GB)</li>
-<li style="text-align: justify;">Upto 768 GB of SSD</li>
-<li style="text-align: justify;">Intel HD graphics 4000 &amp; NVidia GeForce GT650M with 1GB DDR3 RAM</li>
-<li style="text-align: justify;">720p HD FaceTime camera</li>
-<li style="text-align: justify;">Two thunderbolt ports, Two USB 3.0 ports, HDMI port, SDXC card slot</li>
-<li style="text-align: justify;">801.11n WiFi &amp; Bluetooth 4.0</li>
-<li style="text-align: justify;">7 hours battery backup with 30 days standby</li>
+<li>15.4 inch retina display with a resolution of 2880 by 1800 pixies (thats 5 megapixels. Full HD is 2 megapixels)</li>
+<li>Up to 2.7 Ghz quad core Intel Core i7</li>
+<li>Up to 16GB hi speed 1600 Mhz RAM (comes with 8GB)</li>
+<li>Upto 768 GB of SSD</li>
+<li>Intel HD graphics 4000 &amp; NVidia GeForce GT650M with 1GB DDR3 RAM</li>
+<li>720p HD FaceTime camera</li>
+<li>Two thunderbolt ports, Two USB 3.0 ports, HDMI port, SDXC card slot</li>
+<li>801.11n WiFi &amp; Bluetooth 4.0</li>
+<li>7 hours battery backup with 30 days standby</li>
 </ul>
-<p style="text-align: justify;">The prices start from $2199 and can go up to $3749 with the maximum configuration possible. In India, the price will range from INR 152,900 to INR 192,600 for off the shelf models and will increase depending on what configuration you choose.</p>
+<p>The prices start from $2199 and can go up to $3749 with the maximum configuration possible. In India, the price will range from INR 152,900 to INR 192,600 for off the shelf models and will increase depending on what configuration you choose.</p>
 
 		
 		<p>
@@ -51,9 +51,9 @@ comments_count: 0
 
 <div id="fb-root"></div>
 
-<div id="fbComments" style="">
-	<p style="line-height: 30px; font-family: Trebuchet MS; font-size: 17px; font-weight: bold;">Comments</p>
+<div id="fbComments">
+	<p>Comments</p>
 
 	<fb:comments xid="D3r0bKBrWT986Sr_post9227" url="/apple/the-next-generation-of-macbook-with-retina-display-is-here/" numposts="99" width="600" publish_feed="true" migrated="1"></fb:comments></div>
 
-<div style="clear: both;"></div>
+<div></div>

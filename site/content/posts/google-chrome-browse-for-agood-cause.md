@@ -7,22 +7,22 @@ categories: ["Google"]
 tags: []
 comments_count: 0
 ---
-<div style="clear: both;"></div>
+<div></div>
 
         
             
-            <div style="clear: both;"></div>
+            <div></div>
 
-            <ul id="sharebar" style="background:#;border-color:#000000;">
+            <ul id="sharebar">
 <li></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-count="vertical" data-via="woikr">Tweet</a></li><li>
 
 <g:plusone size="tall"></g:plusone></li><li></li></ul><ul id="sharebarx">
 <li></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="woikr">Tweet</a></li><li>
 
-<g:plusone size="medium"></g:plusone></li><li></li></ul><p style="text-align: justify;">Google is doing some charity work and they have invited you to be a part for free! Everytime you open a new tab on Google Chrome, they do something for a good cause from your side. They contribute to the following 5 good causes and you can choose to contribute to different ones on different days.</p>
+<g:plusone size="medium"></g:plusone></li><li></li></ul><p>Google is doing some charity work and they have invited you to be a part for free! Everytime you open a new tab on Google Chrome, they do something for a good cause from your side. They contribute to the following 5 good causes and you can choose to contribute to different ones on different days.</p>
 <ul>
 <li><strong><a href="http://www.nature.org/" target="_blank">The Nature Conservancy</a></strong> is a conservation organization working around the world to protect ecologically important lands and waters for nature and people.</li>
-<li><a style="font-weight: bold;" href="http://charitywater.org/" target="_blank">charity: water</a> is a non-profit organization bringing clean and safe drinking water to people in developing nations.</li>
+<li><a href="http://charitywater.org/" target="_blank">charity: water</a> is a non-profit organization bringing clean and safe drinking water to people in developing nations.</li>
 <li><strong><a href="http://www.doctorswithoutborders.org/" target="_blank">Doctors Without Borders</a> </strong>is an independent, international medical humanitarian organization that delivers emergency aid in nearly 70 countries to those most in need.<strong> </strong></li>
 <li><strong><a href="http://www.untecho.org/" target="_blank">Un Techo para mi País</a></strong> is working in 19 countries across the Americas to improve the quality of life of impoverished families through the construction of transitional housing</li>
 <li><strong><a href="http://www.roomtoread.org/" target="_blank">Room to Read</a> </strong>is a non-profit organization seeking to transform the lives of children in developing countries by focusing on literacy and gender equality in education.</li>
@@ -58,9 +58,9 @@ comments_count: 0
 
 <div id="fb-root"></div>
 
-<div id="fbComments" style="">
-	<p style="line-height: 30px; font-family: Trebuchet MS; font-size: 17px; font-weight: bold;">Comments</p>
+<div id="fbComments">
+	<p>Comments</p>
 
 	<fb:comments xid="D3r0bKBrWT986Sr_post4903" url="/google/chrome-browse-for-agood-cause/" numposts="99" width="600" publish_feed="true" migrated="1"></fb:comments></div>
 
-<div style="clear: both;"></div>
+<div></div>

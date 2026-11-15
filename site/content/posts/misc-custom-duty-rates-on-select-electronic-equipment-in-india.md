@@ -7,23 +7,23 @@ categories: ["Misc"]
 tags: []
 comments_count: 0
 ---
-<div style="clear: both;"></div>
+<div></div>
 
         
             
-            <div style="clear: both;"></div>
+            <div></div>
 
-            <ul id="sharebar" style="background:#;border-color:#000000;">
+            <ul id="sharebar">
 <li></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-count="vertical" data-via="woikr">Tweet</a></li><li>
 
 <g:plusone size="tall"></g:plusone></li><li></li></ul><ul id="sharebarx">
 <li></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="woikr">Tweet</a></li><li>
 
-<g:plusone size="medium"></g:plusone></li><li></li></ul><p style="text-align: justify;"><img title="customs-india.png" src="/wp-content/uploads/2012/05/customs-india.png" alt="customs india" width="100" height="120" border="0"></p>
-<p style="text-align: justify;">Have you ever wondered how much it might cost to get that gadget delivered from abroad to your address in India? I have tried to Google for custom duties levied on various stuff if I get them delivered in India, but could not find any definitive information. A few days ago, I got the following information from a company which offers services to buy stuff abroad and get it delivered to your address in India. The following list contains approximate custom duty rates for various gadgets and electronic items.</p>
-<p style="text-align: justify;">Please note that the list is for information only. We are not responsible for any error in the information.</p>
+<g:plusone size="medium"></g:plusone></li><li></li></ul><p><img title="customs-india.png" src="/wp-content/uploads/2012/05/customs-india.png" alt="customs india" width="100" height="120"></p>
+<p>Have you ever wondered how much it might cost to get that gadget delivered from abroad to your address in India? I have tried to Google for custom duties levied on various stuff if I get them delivered in India, but could not find any definitive information. A few days ago, I got the following information from a company which offers services to buy stuff abroad and get it delivered to your address in India. The following list contains approximate custom duty rates for various gadgets and electronic items.</p>
+<p>Please note that the list is for information only. We are not responsible for any error in the information.</p>
 <p><span id="more-9135"></span></p>
-<table border="1">
+<table>
 <tbody>
 <tr>
 <td><strong>Commodity</strong></td>
@@ -169,9 +169,9 @@ comments_count: 0
 
 <div id="fb-root"></div>
 
-<div id="fbComments" style="">
-	<p style="line-height: 30px; font-family: Trebuchet MS; font-size: 17px; font-weight: bold;">Comments</p>
+<div id="fbComments">
+	<p>Comments</p>
 
 	<fb:comments xid="D3r0bKBrWT986Sr_post9135" url="/misc/custom-duty-rates-on-select-electronic-equipment-in-india/" numposts="99" width="600" publish_feed="true" migrated="1"></fb:comments></div>
 
-<div style="clear: both;"></div>
+<div></div>

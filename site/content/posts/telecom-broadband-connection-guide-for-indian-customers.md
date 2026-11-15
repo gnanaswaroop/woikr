@@ -7,22 +7,22 @@ categories: ["Telecom"]
 tags: []
 comments_count: 9
 ---
-<div style="clear: both;"></div>
+<div></div>
 
         
             
-            <div style="clear: both;"></div>
+            <div></div>
 
-            <ul id="sharebar" style="background:#;border-color:#000000;">
+            <ul id="sharebar">
 <li></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-count="vertical" data-via="woikr">Tweet</a></li><li>
 
 <g:plusone size="tall"></g:plusone></li><li></li></ul><ul id="sharebarx">
 <li></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="woikr">Tweet</a></li><li>
 
-<g:plusone size="medium"></g:plusone></li><li></li></ul><p style="text-align: justify;"><a href="/wp-content/uploads/2008/12/broadband_top.png" rel="lightbox[1917]"><img class="alignnone size-full wp-image-1945" title="broadband_top" src="/wp-content/uploads/2008/12/broadband_top.png" alt="broadband_top" width="473" height="82" srcset="/wp/wp-content/uploads/2008/12/broadband_top.png 473w, /wp/wp-content/uploads/2008/12/broadband_top-300x52.png 300w" sizes="(max-width: 473px) 100vw, 473px"></a></p>
-<p style="text-align: justify;">With a plethora of ISPs now offering broadband services in India, it has become increasingly difficult for consumers to decide which one to go for. This guide takes into consideration the features offered by nationwide ISPs and their pros and cons to help you decide which one is right for you.</p>
-<p style="text-align: justify;">It will be easy if we get to know a few jargons first:</p>
-<blockquote style="text-align: justify;">
+<g:plusone size="medium"></g:plusone></li><li></li></ul><p><a href="/wp-content/uploads/2008/12/broadband_top.png" rel="lightbox[1917]"><img class="alignnone size-full wp-image-1945" title="broadband_top" src="/wp-content/uploads/2008/12/broadband_top.png" alt="broadband_top" width="473" height="82" srcset="/wp/wp-content/uploads/2008/12/broadband_top.png 473w, /wp/wp-content/uploads/2008/12/broadband_top-300x52.png 300w" sizes="(max-width: 473px) 100vw, 473px"></a></p>
+<p>With a plethora of ISPs now offering broadband services in India, it has become increasingly difficult for consumers to decide which one to go for. This guide takes into consideration the features offered by nationwide ISPs and their pros and cons to help you decide which one is right for you.</p>
+<p>It will be easy if we get to know a few jargons first:</p>
+<blockquote>
 <h4>Broadband</h4>
 <p>As per TRAI regulations, <a href="http://en.wikipedia.org/wiki/Broadband" target="_blank">broadband</a> is an always on dedicated internet connection with connection speed greater than or equal to 256 kbps. Anything lower is not to be classified as a broadband connection.</p>
 <h4>Speed</h4>
@@ -37,8 +37,8 @@ comments_count: 9
 <p>An alternate method of authentication where you have to login to the ISP’s website before you can start surfing the internet or download any files. This is not supported by DSL modems or wifi routers. This is not recommended as it is cumbersome to use it with wifi routers. Additionally, there are issues if you use devices like Xbox, PS3 and cellphones with wifi.</p>
 <h4>Uptime</h4>
 <p>The %age of time the broadband service is up without any disruptions. Most ISPs claim 99% uptime but are usually not able to deliver that.</p></blockquote>
-<p style="text-align: justify;">The different nationwide broadband ISPs:</p>
-<blockquote style="text-align: justify;"><p><a href="http://airtel.in/wps/wcm/connect/airtel.in/Airtel.In/Home/ForYou/Broadband+Internet/" target="_blank"><img class="alignnone size-full wp-image-1924" title="logo_airtel" src="/wp-content/uploads/2008/12/logo_airtel.gif" alt="logo_airtel" width="75" height="27"></a></p>
+<p>The different nationwide broadband ISPs:</p>
+<blockquote><p><a href="http://airtel.in/wps/wcm/connect/airtel.in/Airtel.In/Home/ForYou/Broadband+Internet/" target="_blank"><img class="alignnone size-full wp-image-1924" title="logo_airtel" src="/wp-content/uploads/2008/12/logo_airtel.gif" alt="logo_airtel" width="75" height="27"></a></p>
 <p>One of the oldest and arguably the best broadband service provider in India. Almost pan India reach. Offers unlimited data transfer plans upto 1 mbps. Limited data transfer plans upto 8 mbps.</p>
 <p><a href="http://bsnl.co.in/service/dataone.htm" target="_blank"><img class="alignnone size-full wp-image-1921" title="logo_bsnl" src="/wp-content/uploads/2008/12/logo_bsnl.jpg" alt="logo_bsnl" width="71" height="31"></a></p>
 <p>State owned broadband services provider. Pan India reach. Offers unlimited data transfer plans upto 512 kbps. Limited data transfer plans upto 8 mbps.</p>
@@ -46,8 +46,8 @@ comments_count: 9
 <p>The telecom arm of the ADAG. Trying to become a pan India provider. Offers unlimited data transfer plans upto 1 mbps. Limited data transfer plans upto 10 mbps.</p>
 <p><a href="http://www.tataindicombroadband.com/" target="_blank"><img class="alignnone size-full wp-image-1922" title="logo_tata" src="/wp-content/uploads/2008/12/logo_tata.gif" alt="logo_tata" width="56" height="40"></a></p>
 <p>Telecom arm of the Tata group. Trying to become a pan India provider, although has wider reach than Reliance. Offers unlimited data transfer plans upto 1 mbps. Limited data transfer plans upto 2 mbps.</p></blockquote>
-<p style="text-align: justify;">Here are the features provided by each of these:</p>
-<table style="text-align: justify;" border="2" cellspacing="0" cellpadding="5" width="100%">
+<p>Here are the features provided by each of these:</p>
+<table cellspacing="0" cellpadding="5" width="100%">
 <tbody>
 <tr>
 <td></td>
@@ -86,9 +86,9 @@ comments_count: 9
 </tr>
 </tbody>
 </table>
-<p style="text-align: justify;">In addition to wired DSL connections, Reliance and Tata Indicom provide wimax based broadband services in many places. <a href="http://en.wikipedia.org/wiki/WiMAX" target="_blank">Wimax</a> is a wifi like technology with range of a few kilometers compared to a few meters for wifi. In this setup, the ISP installs an antenna/dish equipment at your premises. This setup is fine as long as you get good signals.</p>
-<p style="text-align: justify;">Lets look at the pros and cons of each of the ISPs:</p>
-<table style="text-align: justify;" border="2" cellspacing="0" cellpadding="5" width="100%">
+<p>In addition to wired DSL connections, Reliance and Tata Indicom provide wimax based broadband services in many places. <a href="http://en.wikipedia.org/wiki/WiMAX" target="_blank">Wimax</a> is a wifi like technology with range of a few kilometers compared to a few meters for wifi. In this setup, the ISP installs an antenna/dish equipment at your premises. This setup is fine as long as you get good signals.</p>
+<p>Lets look at the pros and cons of each of the ISPs:</p>
+<table cellspacing="0" cellpadding="5" width="100%">
 <tbody>
 <tr>
 <td></td>
@@ -117,14 +117,14 @@ comments_count: 9
 </tr>
 </tbody>
 </table>
-<p style="text-align: justify;">As per the above two tables it is clear that <strong>Airtel</strong> is the best broadband service provider in India with awesome speed and excellent customer service. The only drawback we could find with it is that it is not available at a few locations even in big cities like Delhi &amp; NCR. <strong>BSNL</strong> comes next and scores with excellent speeds. Don’t expect anything from the customer support though. <strong>Tata Indicom</strong> comes 3rd offering great uptime and average speed and customer service. Their main drawback is that it’s not reliable in terms of speed and customer support. They will move up if they are a bit more consistent.</p>
-<p style="text-align: justify;">Clearly, <strong>Reliance</strong> sucks big time. With pathetic data transfer speeds coupled with old school browser based login, it is clearly the worst broadband service available. Many users have complained that most of the time Reliance’s servers are overloaded and unable to authenticate. Stay away from it.</p>
+<p>As per the above two tables it is clear that <strong>Airtel</strong> is the best broadband service provider in India with awesome speed and excellent customer service. The only drawback we could find with it is that it is not available at a few locations even in big cities like Delhi &amp; NCR. <strong>BSNL</strong> comes next and scores with excellent speeds. Don’t expect anything from the customer support though. <strong>Tata Indicom</strong> comes 3rd offering great uptime and average speed and customer service. Their main drawback is that it’s not reliable in terms of speed and customer support. They will move up if they are a bit more consistent.</p>
+<p>Clearly, <strong>Reliance</strong> sucks big time. With pathetic data transfer speeds coupled with old school browser based login, it is clearly the worst broadband service available. Many users have complained that most of the time Reliance’s servers are overloaded and unable to authenticate. Stay away from it.</p>
 <blockquote>
-<h4 style="text-align: justify;">Which one should I go for?</h4>
-<p style="text-align: justify;"><strong>Airtel</strong>. They have plans for all types of usage scenarios from casual surfers to heavy downloaders. You will have complete peace of mind once you get it installed.</p>
-<p style="text-align: justify;">Go for <strong>BSNL </strong>only if Airtel is not available in your area.</p>
-<p style="text-align: justify;"><strong>Tata Indicom</strong> should be chosen only when its not feasible to get Airtel or BSNL.</p>
-<p style="text-align: justify;">Many past <strong>Reliance </strong>users do not recommend it. They rather suggest getting a dial up/GPRS connection or no connection at all! We do not recommend Reliance either. However, if you do not have any of the other 3 options, you can go for it at your own risk.</p>
+<h4>Which one should I go for?</h4>
+<p><strong>Airtel</strong>. They have plans for all types of usage scenarios from casual surfers to heavy downloaders. You will have complete peace of mind once you get it installed.</p>
+<p>Go for <strong>BSNL </strong>only if Airtel is not available in your area.</p>
+<p><strong>Tata Indicom</strong> should be chosen only when its not feasible to get Airtel or BSNL.</p>
+<p>Many past <strong>Reliance </strong>users do not recommend it. They rather suggest getting a dial up/GPRS connection or no connection at all! We do not recommend Reliance either. However, if you do not have any of the other 3 options, you can go for it at your own risk.</p>
 </blockquote>
 
 		
@@ -144,9 +144,9 @@ comments_count: 9
 
 <div id="fb-root"></div>
 
-<div id="fbComments" style="">
-	<p style="line-height: 30px; font-family: Trebuchet MS; font-size: 17px; font-weight: bold;">Comments</p>
+<div id="fbComments">
+	<p>Comments</p>
 
 	<fb:comments xid="D3r0bKBrWT986Sr_post1917" url="/telecom/broadband-connection-guide-for-indian-customers/" numposts="99" width="600" publish_feed="true" migrated="1"></fb:comments></div>
 
-<div style="clear: both;"></div>
+<div></div>

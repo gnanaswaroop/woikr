@@ -7,30 +7,30 @@ categories: ["News"]
 tags: []
 comments_count: 9
 ---
-<div style="clear: both;"></div>
+<div></div>
 
         
             
-            <div style="clear: both;"></div>
+            <div></div>
 
-            <ul id="sharebar" style="background:#;border-color:#000000;">
+            <ul id="sharebar">
 <li></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-count="vertical" data-via="woikr">Tweet</a></li><li>
 
 <g:plusone size="tall"></g:plusone></li><li></li></ul><ul id="sharebarx">
 <li></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="woikr">Tweet</a></li><li>
 
-<g:plusone size="medium"></g:plusone></li><li></li></ul><p style="text-align: justify;"><a href="/wp-content/uploads/2008/11/iphone-repair.jpg" rel="lightbox[1602]"><img class="alignnone size-medium wp-image-1603" title="iphone-repair" src="/wp-content/uploads/2008/11/iphone-repair-300x292.jpg" alt="" width="300" height="292" srcset="/wp/wp-content/uploads/2008/11/iphone-repair-300x292.jpg 300w, /wp/wp-content/uploads/2008/11/iphone-repair.jpg 450w" sizes="(max-width: 300px) 100vw, 300px"></a></p>
-<p style="text-align: justify;"><span style="color: #808080;"><em>[This is NOT an advertisement]</em></span></p>
-<p style="text-align: justify;">We know that the <a href="/tag/iphone/" target="_blank">iPhone guides</a> here at woikr are so good that you guys are experts now and can solve any iPhone issue that is software related. But what about when your iPhone has a hardware issue? Chirag from woikr broke his iPhone 2G’s power button when it slipped out of his hands while he was playing iBaseball. He was in town for the festivals and wanted to get it repaired.</p>
-<p style="text-align: justify;">We called a few apple service centers but they all said that they do not repair iPhones. One of them was kind enough to give us a reference in Patel Nagar with whom we fixed an appointment.</p>
-<p style="text-align: justify;">However, we decided to try out in Noida first. After roaming here and there and being referred to <a href="http://wikimapia.org/1894349/gaffar-market-proper-chor-bazar" target="_blank">Gaffar&nbsp; Market </a>by almost everyone, just as we were about to lose hope, we landed at the following shop:</p>
-<p style="text-align: justify;"><strong>Sanchar World</strong><br>
+<g:plusone size="medium"></g:plusone></li><li></li></ul><p><a href="/wp-content/uploads/2008/11/iphone-repair.jpg" rel="lightbox[1602]"><img class="alignnone size-medium wp-image-1603" title="iphone-repair" src="/wp-content/uploads/2008/11/iphone-repair-300x292.jpg" alt="" width="300" height="292" srcset="/wp/wp-content/uploads/2008/11/iphone-repair-300x292.jpg 300w, /wp/wp-content/uploads/2008/11/iphone-repair.jpg 450w" sizes="(max-width: 300px) 100vw, 300px"></a></p>
+<p><span><em>[This is NOT an advertisement]</em></span></p>
+<p>We know that the <a href="/tag/iphone/" target="_blank">iPhone guides</a> here at woikr are so good that you guys are experts now and can solve any iPhone issue that is software related. But what about when your iPhone has a hardware issue? Chirag from woikr broke his iPhone 2G’s power button when it slipped out of his hands while he was playing iBaseball. He was in town for the festivals and wanted to get it repaired.</p>
+<p>We called a few apple service centers but they all said that they do not repair iPhones. One of them was kind enough to give us a reference in Patel Nagar with whom we fixed an appointment.</p>
+<p>However, we decided to try out in Noida first. After roaming here and there and being referred to <a href="http://wikimapia.org/1894349/gaffar-market-proper-chor-bazar" target="_blank">Gaffar&nbsp; Market </a>by almost everyone, just as we were about to lose hope, we landed at the following shop:</p>
+<p><strong>Sanchar World</strong><br>
 G 3 Ground Floor<br>
 Savitri Market<br>
 Sector 18 Noida</p>
-<p style="text-align: justify;"><strong>Contact:</strong> +91 9891475777, +91 9312384440 (Gaurav Gupta).</p>
-<p style="text-align: justify;">These people repair iPhones. You can also get your iPhone’s battery replaced for 1000 INR. We got the power button fixed for 1000 INR. They also said that they have done several other repairs including completly changing a broken touchscreen for 9500 INR. This might sound expensive, but trust me, it isn’t compared to what Apple might have charged if they were providing service in India.</p>
-<p style="text-align: justify;">Although we had a good experience with them, it does not mean that we are responsible in case they screw up your iPhone. We are in no way affiliated to these guys. This post is just a FYI for people who might be looking for an iPhone repair shop in and around Noida.</p>
+<p><strong>Contact:</strong> +91 9891475777, +91 9312384440 (Gaurav Gupta).</p>
+<p>These people repair iPhones. You can also get your iPhone’s battery replaced for 1000 INR. We got the power button fixed for 1000 INR. They also said that they have done several other repairs including completly changing a broken touchscreen for 9500 INR. This might sound expensive, but trust me, it isn’t compared to what Apple might have charged if they were providing service in India.</p>
+<p>Although we had a good experience with them, it does not mean that we are responsible in case they screw up your iPhone. We are in no way affiliated to these guys. This post is just a FYI for people who might be looking for an iPhone repair shop in and around Noida.</p>
 
 		
 		<p>
@@ -49,9 +49,9 @@ Sector 18 Noida</p>
 
 <div id="fb-root"></div>
 
-<div id="fbComments" style="">
-	<p style="line-height: 30px; font-family: Trebuchet MS; font-size: 17px; font-weight: bold;">Comments</p>
+<div id="fbComments">
+	<p>Comments</p>
 
 	<fb:comments xid="D3r0bKBrWT986Sr_post1602" url="/news/get-your-iphone-repaired-in-noida/" numposts="99" width="600" publish_feed="true" migrated="1"></fb:comments></div>
 
-<div style="clear: both;"></div>
+<div></div>

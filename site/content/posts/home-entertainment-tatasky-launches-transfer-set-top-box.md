@@ -7,13 +7,13 @@ categories: ["Home-Entertainment"]
 tags: []
 comments_count: 0
 ---
-<p><img decoding="async" title="tatasky-transfer.png" src="/wp-content/uploads/2015/09/tatasky-transfer.png" alt="tatasky transfer" width="263" height="200" border="0"></p>
-<p style="text-align: justify;">TataSky has launched a new <a href="http://www.tatasky.com/wps/portal/TataSky/product/tataskyplustransfer">DVR Set Top Box</a> which enables customers to transfer recorded content to their devices and to watch later anywhere. This technology is similar to what Comcast offers its customers in the US. Here is how it works:</p>
+<p><img decoding="async" title="tatasky-transfer.png" src="/wp-content/uploads/2015/09/tatasky-transfer.png" alt="tatasky transfer" width="263" height="200"></p>
+<p>TataSky has launched a new <a href="http://www.tatasky.com/wps/portal/TataSky/product/tataskyplustransfer">DVR Set Top Box</a> which enables customers to transfer recorded content to their devices and to watch later anywhere. This technology is similar to what Comcast offers its customers in the US. Here is how it works:</p>
 <ul>
-<li style="text-align: justify;">Record the content you want to watch later.</li>
-<li style="text-align: justify;">Transfer the recorded content to your device via the TataSky mobile app.</li>
-<li style="text-align: justify;">Watch the content anywhere, anytime you want.</li>
-<li style="text-align: justify;">You can also stream the recorded content to your device over WiFi in your home. This is useful in scenarios when someone else is watching something live on the TV.</li>
+<li>Record the content you want to watch later.</li>
+<li>Transfer the recorded content to your device via the TataSky mobile app.</li>
+<li>Watch the content anywhere, anytime you want.</li>
+<li>You can also stream the recorded content to your device over WiFi in your home. This is useful in scenarios when someone else is watching something live on the TV.</li>
 </ul>
-<p style="text-align: justify;">Note that you will have to subscribe to a Transfer Pack to avail this feature. The transfer pack can be added to a maximum of two devices per subscriber ID.</p>
-<p style="text-align: justify;">The new set top box with connection costs INR 9300 which is very steep in our opinion. TataSky should introduce contact based pricing plans to reduce this entry price.</p>
+<p>Note that you will have to subscribe to a Transfer Pack to avail this feature. The transfer pack can be added to a maximum of two devices per subscriber ID.</p>
+<p>The new set top box with connection costs INR 9300 which is very steep in our opinion. TataSky should introduce contact based pricing plans to reduce this entry price.</p>

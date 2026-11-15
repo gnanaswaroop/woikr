@@ -7,15 +7,15 @@ categories: ["Google"]
 tags: []
 comments_count: 0
 ---
-<p style="text-align: left;">After reading the <a href="http://googleblog.blogspot.com/2008/09/fresh-take-on-browser.html" target="_blank">morning news</a>, I have been anxiously waiting for Google Chrome. And finally, the not-so-long <a href="http://googleblog.blogspot.com/2008/09/google-chrome-now-live.html" target="_blank">wait</a> is over. You can download Google Chrome here:&nbsp;<a href="http://www.google.com/chrome/" target="_blank">http://www.google.com/chrome/</a></p>
-<p style="text-align: left;"><a href="http://gears.google.com/chrome/"></a>Sadly, there seems to be some issues with Google Chrome’s download page in Firefox and Chrome itself! In case you are unable to download, try downloading in IE.</p>
-<p style="text-align: left;">Here is my point by point first look / brief review.</p>
-<ul style="text-align: left;">
+<p>After reading the <a href="http://googleblog.blogspot.com/2008/09/fresh-take-on-browser.html" target="_blank">morning news</a>, I have been anxiously waiting for Google Chrome. And finally, the not-so-long <a href="http://googleblog.blogspot.com/2008/09/google-chrome-now-live.html" target="_blank">wait</a> is over. You can download Google Chrome here:&nbsp;<a href="http://www.google.com/chrome/" target="_blank">http://www.google.com/chrome/</a></p>
+<p><a href="http://gears.google.com/chrome/"></a>Sadly, there seems to be some issues with Google Chrome’s download page in Firefox and Chrome itself! In case you are unable to download, try downloading in IE.</p>
+<p>Here is my point by point first look / brief review.</p>
+<ul>
 <li>
 <div><strong>First of all</strong>, the download process sucks. I hate these Internet based installations, reminds me of the dreadful Kazaa days.</div>
 </li>
 <li>
-<div style="text-align: left;"><strong>Installation</strong><br>
+<div><strong>Installation</strong><br>
 Looks neat and self explanatory.</div>
 <p><img fetchpriority="high" decoding="async" src="/images/install_complete_chrome.jpg" alt="" width="456" height="252"></p>
 <div>
@@ -26,7 +26,7 @@ Looks neat and self explanatory.</div>
 <p><img decoding="async" src="/images/install_customize_chrome.jpg" alt="" width="458" height="292"></p>
 <p>Yay! The first warning. Is it me or 3 stacked windows look like clutter?<br>
 Anyway, I’ll close Firefox.</p>
-<p><a href="/wp-content/uploads/2008/09/install-close-ff1.jpg" rel="lightbox[823]"><img decoding="async" src="/wp-content/uploads/2008/09/install-close-ff-thumb1.jpg" border="0" alt="install_close_ff" width="455" height="289"></a></p>
+<p><a href="/wp-content/uploads/2008/09/install-close-ff1.jpg" rel="lightbox[823]"><img decoding="async" src="/wp-content/uploads/2008/09/install-close-ff-thumb1.jpg" alt="install_close_ff" width="455" height="289"></a></p>
 </div>
 </li>
 <li>
@@ -55,7 +55,7 @@ This also means that there is no separate Search Bar. Sucks!</p>
 </div>
 </li>
 </ul>
-<ul style="text-align: left;">
+<ul>
 <li>
 <div><strong>Browser features </strong></div>
 <p><strong>History:<br>
@@ -94,17 +94,17 @@ I love the status bar that appears only when required. The more screen estate, t
 Now this sure is a cool new feature. Open a new Incognito window and browser won’t any history for this particular window. So now you don’t need to clear the <em>you-know-what</em> history every time before someone uses your computer.</p>
 <p><a href="/wp-content/uploads/2008/09/incognito_chrome.png" rel="lightbox[823]"><img loading="lazy" decoding="async" class="alignnone size-full wp-image-913" title="Incognito mode" src="/wp-content/uploads/2008/09/incognito_chrome.png" alt="" width="455" height="420" srcset="/wp/wp-content/uploads/2008/09/incognito_chrome.png 455w, /wp/wp-content/uploads/2008/09/incognito_chrome-300x276.png 300w" sizes="(max-width: 455px) 100vw, 455px"></a></p></li>
 <li> <strong>Browser Options</strong>
-<p style="text-align: justify;">The option screen is very similar to Firefox 3, except some re-arrangements. I can see that they’ve done this to make it easier for the non-technical crowd. It works well too.<br>
+<p>The option screen is very similar to Firefox 3, except some re-arrangements. I can see that they’ve done this to make it easier for the non-technical crowd. It works well too.<br>
 But the geeky crowd will find this new arrangement clumsy.</p>
 <p><a href="/wp-content/uploads/2008/09/options-hood-chrome.png" rel="lightbox[823]"><img loading="lazy" decoding="async" src="/wp-content/uploads/2008/09/options-hood-chrome-thumb.png" alt="options_hood_chrome" width="455" height="481"></a></p></li>
 <li> <strong>Performance</strong>
-<p style="text-align: justify;">This is something which everyone hates about Firefox. The extreme memory footprint. And Google Chrome really trumps Firefox in this category. As expected from the new architecture, the sluggishness is non-existent. With as many as 10 tabs (including 3 long flickr pages full of images) Chrome works smooth. The only noticeable lag is in rendering, which seems to become slower as we open more tabs. This is expected due to the multiple processes running in parallel and is pretty reasonable.</p>
+<p>This is something which everyone hates about Firefox. The extreme memory footprint. And Google Chrome really trumps Firefox in this category. As expected from the new architecture, the sluggishness is non-existent. With as many as 10 tabs (including 3 long flickr pages full of images) Chrome works smooth. The only noticeable lag is in rendering, which seems to become slower as we open more tabs. This is expected due to the multiple processes running in parallel and is pretty reasonable.</p>
 <p>Also, either I am too sleepy or I can actually see the rendering process switching contexts between tabs. Please confirm if you feel that too (Only visible when lots of tabs are open).To top it all, Google Chrome consumes much lesser memory than Firefox with same no. of tabs (with same content) open. In my tests it’s almost 30% lesser with around 10 tabs open.</p>
 <p>And yes, it shows multiple process entries for each tab (as expected), so it can be a bit confusing. When, say you want to kill a certain process, but can’t because all processes are called “chrome.exe”.</p>
 <div><img loading="lazy" decoding="async" width="300" height="97" class="size-medium wp-image-902 alignnone" title="chrome-multi-tabs" src="/wp-content/uploads/2008/09/chrome-multi-tabs-300x97.png" alt="Multiple Tabs and Multiple=" srcset="/wp/wp-content/uploads/2008/09/chrome-multi-tabs-300x97.png 300w, /wp/wp-content/uploads/2008/09/chrome-multi-tabs.png 376w" sizes="(max-width: 300px) 100vw, 300px"></div>
 <div></div>
 </li>
 <li> <strong>Conclusion</strong>
-<p style="text-align: justify;">That covers everything I found interesting about the new Google Chrome. It sure has it’s issues and I won’t be switching from Firefox anytime soon. But all these issues are very fixable. Once Google irons them out, Chrome will undoubtedly jump ahead of the competitors. After all, it is built on an <a href="http://www.google.com/googlebooks/chrome/" target="_blank">amazing design</a> and <a href="http://webkit.org/" target="_blank">foundation</a>.</p>
+<p>That covers everything I found interesting about the new Google Chrome. It sure has it’s issues and I won’t be switching from Firefox anytime soon. But all these issues are very fixable. Once Google irons them out, Chrome will undoubtedly jump ahead of the competitors. After all, it is built on an <a href="http://www.google.com/googlebooks/chrome/" target="_blank">amazing design</a> and <a href="http://webkit.org/" target="_blank">foundation</a>.</p>
 <p>Without doubt this is Google’s best product announcement since a long time.</p></li>
 </ul>

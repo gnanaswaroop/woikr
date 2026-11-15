@@ -7,20 +7,20 @@ categories: ["Mobile Phones, News"]
 tags: []
 comments_count: 1
 ---
-<div style="clear: both;"></div>
+<div></div>
 
         
             
-            <div style="clear: both;"></div>
+            <div></div>
 
-            <ul id="sharebar" style="background:#;border-color:#000000;">
+            <ul id="sharebar">
 <li></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-count="vertical" data-via="woikr">Tweet</a></li><li>
 
 <g:plusone size="tall"></g:plusone></li><li></li></ul><ul id="sharebarx">
 <li></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="woikr">Tweet</a></li><li>
 
 <g:plusone size="medium"></g:plusone></li><li></li></ul><p>I’ve always appreciated how durable those plasticky Nokia phones are. I appreciated that even more when I <a href="/news/get-your-iphone-repaired-in-noida" target="_blank">broke my iPhone</a> while playing iBaseball 🙂</p>
-<div id="attachment_1786" style="width: 310px" class="wp-caption alignnone"><a href="/wp-content/uploads/2008/11/keypad_pressing_test.jpg" rel="lightbox[1785]"><img class="size-medium wp-image-1786" title="keypad_pressing_test" src="/wp-content/uploads/2008/11/keypad_pressing_test-300x199.jpg" alt="" width="300" height="199" srcset="/wp/wp-content/uploads/2008/11/keypad_pressing_test-300x199.jpg 300w, /wp/wp-content/uploads/2008/11/keypad_pressing_test.jpg 800w" sizes="(max-width: 300px) 100vw, 300px"></a><p class="wp-caption-text">Nokia Test Labs</p></div>
+<div id="attachment_1786" class="wp-caption alignnone"><a href="/wp-content/uploads/2008/11/keypad_pressing_test.jpg" rel="lightbox[1785]"><img class="size-medium wp-image-1786" title="keypad_pressing_test" src="/wp-content/uploads/2008/11/keypad_pressing_test-300x199.jpg" alt="" width="300" height="199" srcset="/wp/wp-content/uploads/2008/11/keypad_pressing_test-300x199.jpg 300w, /wp/wp-content/uploads/2008/11/keypad_pressing_test.jpg 800w" sizes="(max-width: 300px) 100vw, 300px"></a><p class="wp-caption-text">Nokia Test Labs</p></div>
 <p>Now after watching the <a href="http://video.google.com/videoplay?docid=1683931603521695595&amp;hl=en" target="_blank">Nokia Labs tour video</a> by <a href="http://www.allaboutsymbian.com/" target="_blank">AAS</a> guys, I’ve become even more of a fan of the build quality of Nokia’s phones.</p>
 <p>A few facts to get you interested:</p>
 <ul>
@@ -50,9 +50,9 @@ comments_count: 1
 
 <div id="fb-root"></div>
 
-<div id="fbComments" style="">
-	<p style="line-height: 30px; font-family: Trebuchet MS; font-size: 17px; font-weight: bold;">Comments</p>
+<div id="fbComments">
+	<p>Comments</p>
 
 	<fb:comments xid="D3r0bKBrWT986Sr_post1785" url="/news/nokia-test-labs/" numposts="99" width="600" publish_feed="true" migrated="1"></fb:comments></div>
 
-<div style="clear: both;"></div>
+<div></div>

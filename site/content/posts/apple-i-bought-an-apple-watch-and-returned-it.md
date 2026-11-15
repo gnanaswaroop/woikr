@@ -7,23 +7,23 @@ categories: ["Apple"]
 tags: []
 comments_count: 0
 ---
-<div style="clear: both;"></div>
+<div></div>
 
         
             
-            <div style="clear: both;"></div>
+            <div></div>
 
-            <ul id="sharebar" style="background:#;border-color:#000000;">
+            <ul id="sharebar">
 <li></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-count="vertical" data-via="woikr">Tweet</a></li><li>
 
 <g:plusone size="tall"></g:plusone></li><li></li></ul><ul id="sharebarx">
 <li></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="woikr">Tweet</a></li><li>
 
-<g:plusone size="medium"></g:plusone></li><li></li></ul><p><img title="apple watch logo.png" src="/wp-content/uploads/2014/09/apple-watch-logo.png" alt="apple watch logo" width="238" height="65" border="0"></p>
+<g:plusone size="medium"></g:plusone></li><li></li></ul><p><img title="apple watch logo.png" src="/wp-content/uploads/2014/09/apple-watch-logo.png" alt="apple watch logo" width="238" height="65"></p>
 <p>I was one of those people who pre-ordered the apple watch at 12 am on April 10 and still got the shipping estimate of June. I had bought the Space black stainless steel with link bracelet. It cost a whooping $1195 with taxes here in California and I was praying that it better be god damn good to justify that price. Sadly, it wasn’t. When I got it on June 2nd, after the usual adrenaline rush of unboxing an apple product subsided, and after using it for about a week, I came to the conclusion that this is a product that Steve Jobs would never have let to be launched in its current state. But then again, he let 1st generation iPad to be launched. So I am not sure. Surprisingly, battery is not the problem.</p>
 <h3>Looks</h3>
 <p>One of the first things that I noticed is that it does not look as good as Apple shows it in the ads and on apple.com. Those are enlarged and processed images with reflections that make it look like something from out of this world. Turns out, its not. Don’t get me wrong. It still looks awesome and way better than all other smartwatches out there. Just not as good as it looks in official photos. Having spent a huge sum of money based on these images alone (the exact model was not available in the store I went to try it on), I was disappointed.</p>
-<p><img title="apple-watch.png" src="/wp-content/uploads/2014/09/apple-watch.png" alt="apple watch" width="414" height="395" border="0"></p>
+<p><img title="apple-watch.png" src="/wp-content/uploads/2014/09/apple-watch.png" alt="apple watch" width="414" height="395"></p>
 <h3>Screen activation</h3>
 <p>The second thing that bothered me was that the screen won’t activate in a lot of highly probably real world scenarios. I understand that Apple needs to keep the screen off to preserve battery life and activate it when you tilt your wrist. But for me, it did not activate in a lot of scenarios:</p>
 <ul>
@@ -61,9 +61,9 @@ comments_count: 0
 
 <div id="fb-root"></div>
 
-<div id="fbComments" style="">
-	<p style="line-height: 30px; font-family: Trebuchet MS; font-size: 17px; font-weight: bold;">Comments</p>
+<div id="fbComments">
+	<p>Comments</p>
 
 	<fb:comments xid="D3r0bKBrWT986Sr_post9693" url="/apple/i-bought-an-apple-watch-and-returned-it/" numposts="99" width="600" publish_feed="true" migrated="1"></fb:comments></div>
 
-<div style="clear: both;"></div>
+<div></div>

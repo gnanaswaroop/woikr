@@ -7,23 +7,23 @@ categories: ["Misc, News"]
 tags: []
 comments_count: 0
 ---
-<div style="clear: both;"></div>
+<div></div>
 
         
             
-            <div style="clear: both;"></div>
+            <div></div>
 
-            <ul id="sharebar" style="background:#;border-color:#000000;">
+            <ul id="sharebar">
 <li></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-count="vertical" data-via="woikr">Tweet</a></li><li>
 
 <g:plusone size="tall"></g:plusone></li><li></li></ul><ul id="sharebarx">
 <li></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="woikr">Tweet</a></li><li>
 
-<g:plusone size="medium"></g:plusone></li><li></li></ul><p style="text-align: justify;">As much hyped, Facebook announced and showed how they believe next generation would want their social communication. So here’s our take on what it is and if we’d really use it.</p>
-<p style="text-align: justify;"><a href="/wp-content/uploads/2010/11/Facebookmessages.png" rel="lightbox[4809]"><img style="display: inline; border-width: 0px;" title="Facebook-messages" src="/wp-content/uploads/2010/11/Facebookmessages_thumb.png" border="0" alt="Facebook-messages" width="483" height="89"></a></p>
-<p style="text-align: justify;">The features were inline with what we’ve <a href="/apple/announcements-galore-itunes-facebook-mail-what-to-expect" target="_blank">predicted before the event</a>.<br>
+<g:plusone size="medium"></g:plusone></li><li></li></ul><p>As much hyped, Facebook announced and showed how they believe next generation would want their social communication. So here’s our take on what it is and if we’d really use it.</p>
+<p><a href="/wp-content/uploads/2010/11/Facebookmessages.png" rel="lightbox[4809]"><img title="Facebook-messages" src="/wp-content/uploads/2010/11/Facebookmessages_thumb.png" alt="Facebook-messages" width="483" height="89"></a></p>
+<p>The features were inline with what we’ve <a href="/apple/announcements-galore-itunes-facebook-mail-what-to-expect" target="_blank">predicted before the event</a>.<br>
 Here are some of the cool things it brings to Facebook ‘revamped’ messaging’</p>
-<ul style="text-align: justify;">
+<ul>
 <li>
 <div>A new email address. You’ll get a @FaceBook.com email address. And you can’t customize your handle, it’ll be your facebook username by default. Thanks facebook – I’ll now get a ton of spam (in case you don’t manage it well) as Facebook profile handle is public.<span id="more-4809"></span></div>
 </li>
@@ -40,16 +40,16 @@ Here are some of the cool things it brings to Facebook ‘revamped’ messaging�
 <div>Others – An awesome simple UI to do this. Although Joel Seligstein, The Engineering Manager for the Facebook’s new messages product claims that <a href="http://techcrunch.com/2010/11/15/inside-the-war-room-answering-the-questions-behind-facebook-messages/" target="_blank">it’ll take a while for every one to get used to</a> its awesome’ness (Do u think we’re dumb dude?).</div>
 </li>
 </ul>
-<p style="text-align: justify;">But we do agree with him that it’ll be the college folks that’ll adopt it first who wish to have immediate communication or a painless way to communicate. But we don’t think email is going away till this ‘next-gen email-ution’ continues. We of course <a href="/google/good-bye-google-wave" target="_blank">loved</a> Google Wave and still believe it’s how the over-lords would communicate.</p>
-<p style="text-align: justify;">Yes, thinking about an email subject really works up my brain &lt;/sarcasm&gt;. You should be using <a href="http://lifehacker.com/397008/yahoo-mail-offers-random-subject-lines-in-a-click" target="_blank">Yahoo’s subject generator here</a>.</p>
-<p style="text-align: justify;">Some screenshots (why were they blurred, can’t you create dummy users in your sandbox environment or something?)</p>
-<p style="text-align: justify;"><a href="/wp-content/uploads/2010/11/FacebookNewSignup.jpg" rel="lightbox[4809]"><img style="display: inline; border: 1pt none;" title="Facebook-New-Signup" src="/wp-content/uploads/2010/11/FacebookNewSignup_thumb.jpg" border="0" alt="Facebook-New-Signup" width="557" height="260"></a></p>
-<p><a href="/wp-content/uploads/2010/11/facebookunifiedinbox.jpg" rel="lightbox[4809]"><img style="display: inline; border: 1pt none;" title="facebook-unifiedinbox" src="/wp-content/uploads/2010/11/facebookunifiedinbox_thumb.jpg" border="0" alt="facebook-unifiedinbox" width="557" height="355"></a></p>
-<p style="text-align: justify;"><a href="/wp-content/uploads/2010/11/FacebookSMS.jpg" rel="lightbox[4809]"><img style="display: inline; border-width: 0px;" title="Facebook-Conversation" src="/wp-content/uploads/2010/11/FacebookConversation_thumb.jpg" border="0" alt="Facebook-Conversation" width="559" height="276"></a></p><a href="/wp-content/uploads/2010/11/FacebookSMS.jpg" rel="lightbox[4809]">
-</a><p><a href="/wp-content/uploads/2010/11/FacebookSMS.jpg" rel="lightbox[4809]"><img style="display: inline; border-width: 0px;" title="Facebook-SMS" src="/wp-content/uploads/2010/11/FacebookSMS_thumb.jpg" border="0" alt="Facebook-SMS" width="558" height="299"></a></p>
-<p style="text-align: justify;">Want an invitation? So do we. But go ahead and <a href="http://www.facebook.com/about/messages/" target="_blank">signup for an early invite</a>. Facebook’s going to ensure that they follow the ‘GMail and Google Wave’ release pattern by limiting the number of users who’re gonna get the invites (limited/exclusivity/closed). We’ll surely try to procure one for us and <a href="/contests" target="_blank">try to share it with woikr readers</a>.</p>
-<p style="text-align: justify;">Got more questions about this ‘next gen’ messaging system. Head over to <a href="http://www.facebook.com/help/?topic=new_messages" target="_blank">FB Messaging FAQ</a>.</p>
-<p style="text-align: justify;">[Screenshots – <a href="http://mashable.com/2010/11/15/facebook-messages-walkthrough-pics/" target="_blank">Mashable</a>]</p>
+<p>But we do agree with him that it’ll be the college folks that’ll adopt it first who wish to have immediate communication or a painless way to communicate. But we don’t think email is going away till this ‘next-gen email-ution’ continues. We of course <a href="/google/good-bye-google-wave" target="_blank">loved</a> Google Wave and still believe it’s how the over-lords would communicate.</p>
+<p>Yes, thinking about an email subject really works up my brain &lt;/sarcasm&gt;. You should be using <a href="http://lifehacker.com/397008/yahoo-mail-offers-random-subject-lines-in-a-click" target="_blank">Yahoo’s subject generator here</a>.</p>
+<p>Some screenshots (why were they blurred, can’t you create dummy users in your sandbox environment or something?)</p>
+<p><a href="/wp-content/uploads/2010/11/FacebookNewSignup.jpg" rel="lightbox[4809]"><img title="Facebook-New-Signup" src="/wp-content/uploads/2010/11/FacebookNewSignup_thumb.jpg" alt="Facebook-New-Signup" width="557" height="260"></a></p>
+<p><a href="/wp-content/uploads/2010/11/facebookunifiedinbox.jpg" rel="lightbox[4809]"><img title="facebook-unifiedinbox" src="/wp-content/uploads/2010/11/facebookunifiedinbox_thumb.jpg" alt="facebook-unifiedinbox" width="557" height="355"></a></p>
+<p><a href="/wp-content/uploads/2010/11/FacebookSMS.jpg" rel="lightbox[4809]"><img title="Facebook-Conversation" src="/wp-content/uploads/2010/11/FacebookConversation_thumb.jpg" alt="Facebook-Conversation" width="559" height="276"></a></p><a href="/wp-content/uploads/2010/11/FacebookSMS.jpg" rel="lightbox[4809]">
+</a><p><a href="/wp-content/uploads/2010/11/FacebookSMS.jpg" rel="lightbox[4809]"><img title="Facebook-SMS" src="/wp-content/uploads/2010/11/FacebookSMS_thumb.jpg" alt="Facebook-SMS" width="558" height="299"></a></p>
+<p>Want an invitation? So do we. But go ahead and <a href="http://www.facebook.com/about/messages/" target="_blank">signup for an early invite</a>. Facebook’s going to ensure that they follow the ‘GMail and Google Wave’ release pattern by limiting the number of users who’re gonna get the invites (limited/exclusivity/closed). We’ll surely try to procure one for us and <a href="/contests" target="_blank">try to share it with woikr readers</a>.</p>
+<p>Got more questions about this ‘next gen’ messaging system. Head over to <a href="http://www.facebook.com/help/?topic=new_messages" target="_blank">FB Messaging FAQ</a>.</p>
+<p>[Screenshots – <a href="http://mashable.com/2010/11/15/facebook-messages-walkthrough-pics/" target="_blank">Mashable</a>]</p>
 
 		
 		<p>
@@ -68,9 +68,9 @@ Here are some of the cool things it brings to Facebook ‘revamped’ messaging�
 
 <div id="fb-root"></div>
 
-<div id="fbComments" style="">
-	<p style="line-height: 30px; font-family: Trebuchet MS; font-size: 17px; font-weight: bold;">Comments</p>
+<div id="fbComments">
+	<p>Comments</p>
 
 	<fb:comments xid="D3r0bKBrWT986Sr_post4809" url="/news/facebook-announces-the-next-messaging-system-at-least-they-think-so/" numposts="99" width="600" publish_feed="true" migrated="1"></fb:comments></div>
 
-<div style="clear: both;"></div>
+<div></div>

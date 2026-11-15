@@ -31,6 +31,7 @@ def clean_html(h):
     h = h.replace('href="/wp/wp-content/', 'href="/wp-content/')
     h = re.sub(r"<(script|iframe|style)\b.*?</\1>", "", h, flags=re.S | re.I)
     h = re.sub(r"<!--.*?-->", "", h, flags=re.S)
+    h = re.sub(r'\s(?:style|border|align)="[^"]*"', "", h, flags=re.I)  # minimal theme: drop legacy inline styling
     h = re.sub(r"\n{3,}", "\n\n", h)
     return h.strip()
 

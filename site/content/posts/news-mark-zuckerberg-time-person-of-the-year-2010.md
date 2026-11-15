@@ -7,23 +7,23 @@ categories: ["News"]
 tags: []
 comments_count: 1
 ---
-<div style="clear: both;"></div>
+<div></div>
 
         
             
-            <div style="clear: both;"></div>
+            <div></div>
 
-            <ul id="sharebar" style="background:#;border-color:#000000;">
+            <ul id="sharebar">
 <li></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-count="vertical" data-via="woikr">Tweet</a></li><li>
 
 <g:plusone size="tall"></g:plusone></li><li></li></ul><ul id="sharebarx">
 <li></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="woikr">Tweet</a></li><li>
 
-<g:plusone size="medium"></g:plusone></li><li></li></ul><p style="text-align: justify;">After being in news for all the <a href="http://en.wikipedia.org/wiki/Mark_Zuckerberg#Legal_controversies" target="_blank">controversies</a>, <a href="http://en.wikipedia.org/wiki/Criticism_of_Facebook" target="_blank">criticism</a>, <a href="http://www.forbes.com/profile/mark-zuckerberg" target="_blank">success</a>, a much-hyped potential-Oscar-winner movie biography and other&nbsp;<a href="http://500millionfriends.com" target="_blank">half a billion</a> reasons, Mark Zuckerberg has been named <a href="http://www.time.com/time/specials/packages/0,28757,2036683,00.html" target="_blank">TIME Magazine’s Person of the Year for 2010</a>. The magazine wrote, “For connecting more than half a billion people and mapping the social relations among them; for creating a new system of exchanging information; and for changing how we all live our lives, Mark Elliot Zuckerberg is TIME’s 2010 Person of the Year.”</p>
-<p style="text-align: justify;"><img title="time_zuckerberg" src="/wp-content/uploads/2010/12/time_zuckerberg.jpg" alt="" width="307" height="409"></p>
-<p style="text-align: justify;">Zuckerberg joins the elite group of achievers including <a href="http://en.wikipedia.org/wiki/Mohandas_Karamchand_Gandhi" target="_blank">MK Gandhi</a>, <a href="http://en.wikipedia.org/wiki/Adolf_Hitler" target="_blank">Adolf Hitler</a>, <a href="http://en.wikipedia.org/wiki/Winston_Churchill" target="_blank">Winston Churchill</a> and&nbsp;<a href="http://en.wikipedia.org/wiki/Bill_Gates" target="_blank">Bill Gates</a>.</p>
-<p style="text-align: justify;">[via <a href="http://techcrunch.com/2010/12/15/mark-zuckerberg-time-magazine/" target="_blank">TechCrunch</a>]</p>
-<div style="text-align: justify;"></div>
+<g:plusone size="medium"></g:plusone></li><li></li></ul><p>After being in news for all the <a href="http://en.wikipedia.org/wiki/Mark_Zuckerberg#Legal_controversies" target="_blank">controversies</a>, <a href="http://en.wikipedia.org/wiki/Criticism_of_Facebook" target="_blank">criticism</a>, <a href="http://www.forbes.com/profile/mark-zuckerberg" target="_blank">success</a>, a much-hyped potential-Oscar-winner movie biography and other&nbsp;<a href="http://500millionfriends.com" target="_blank">half a billion</a> reasons, Mark Zuckerberg has been named <a href="http://www.time.com/time/specials/packages/0,28757,2036683,00.html" target="_blank">TIME Magazine’s Person of the Year for 2010</a>. The magazine wrote, “For connecting more than half a billion people and mapping the social relations among them; for creating a new system of exchanging information; and for changing how we all live our lives, Mark Elliot Zuckerberg is TIME’s 2010 Person of the Year.”</p>
+<p><img title="time_zuckerberg" src="/wp-content/uploads/2010/12/time_zuckerberg.jpg" alt="" width="307" height="409"></p>
+<p>Zuckerberg joins the elite group of achievers including <a href="http://en.wikipedia.org/wiki/Mohandas_Karamchand_Gandhi" target="_blank">MK Gandhi</a>, <a href="http://en.wikipedia.org/wiki/Adolf_Hitler" target="_blank">Adolf Hitler</a>, <a href="http://en.wikipedia.org/wiki/Winston_Churchill" target="_blank">Winston Churchill</a> and&nbsp;<a href="http://en.wikipedia.org/wiki/Bill_Gates" target="_blank">Bill Gates</a>.</p>
+<p>[via <a href="http://techcrunch.com/2010/12/15/mark-zuckerberg-time-magazine/" target="_blank">TechCrunch</a>]</p>
+<div></div>
 
 		
 		<p>
@@ -42,9 +42,9 @@ comments_count: 1
 
 <div id="fb-root"></div>
 
-<div id="fbComments" style="">
-	<p style="line-height: 30px; font-family: Trebuchet MS; font-size: 17px; font-weight: bold;">Comments</p>
+<div id="fbComments">
+	<p>Comments</p>
 
 	<fb:comments xid="D3r0bKBrWT986Sr_post4897" url="/news/mark-zuckerberg-time-person-of-the-year-2010/" numposts="99" width="600" publish_feed="true" migrated="1"></fb:comments></div>
 
-<div style="clear: both;"></div>
+<div></div>

@@ -7,23 +7,23 @@ categories: ["How Tos"]
 tags: []
 comments_count: 0
 ---
-<div style="clear: both;"></div>
+<div></div>
 
         
             
-            <div style="clear: both;"></div>
+            <div></div>
 
-            <ul id="sharebar" style="background:#;border-color:#000000;">
+            <ul id="sharebar">
 <li></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-count="vertical" data-via="woikr">Tweet</a></li><li>
 
 <g:plusone size="tall"></g:plusone></li><li></li></ul><ul id="sharebarx">
 <li></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="woikr">Tweet</a></li><li>
 
-<g:plusone size="medium"></g:plusone></li><li></li></ul><p style="text-align: justify;"><a href="/wp-content/uploads/2008/12/synergy_logo.png" rel="lightbox[1829]"><img class="alignnone size-full wp-image-1847" title="synergy_logo" src="/wp-content/uploads/2008/12/synergy_logo.png" alt="" width="212" height="61"></a></p>
-<p style="text-align: justify;">This article/tutorial is for those people who use more than one computer at their desk and have to juggle through the stack of mice and keyboards to find the correct one.</p>
-<p style="text-align: justify;">With Synergy, redirecting the mouse and keyboard is as simple as moving the mouse off the edge of your screen. Synergy also merges the clipboards of all the systems into one, allowing cut-and-paste between systems. Furthermore, it synchronizes screen savers so they all start and stop together and, if screen locking is enabled, only one screen requires a password to unlock them all.</p>
-<h3 style="text-align: justify;">System Requirements</h3>
-<ul style="text-align: justify;">
+<g:plusone size="medium"></g:plusone></li><li></li></ul><p><a href="/wp-content/uploads/2008/12/synergy_logo.png" rel="lightbox[1829]"><img class="alignnone size-full wp-image-1847" title="synergy_logo" src="/wp-content/uploads/2008/12/synergy_logo.png" alt="" width="212" height="61"></a></p>
+<p>This article/tutorial is for those people who use more than one computer at their desk and have to juggle through the stack of mice and keyboards to find the correct one.</p>
+<p>With Synergy, redirecting the mouse and keyboard is as simple as moving the mouse off the edge of your screen. Synergy also merges the clipboards of all the systems into one, allowing cut-and-paste between systems. Furthermore, it synchronizes screen savers so they all start and stop together and, if screen locking is enabled, only one screen requires a password to unlock them all.</p>
+<h3>System Requirements</h3>
+<ul>
 <li>Microsoft Windows 95, Windows 98, Windows Me (the Windows 95 family)</li>
 <li>Microsoft Windows NT, Windows 2000, Windows XP (the Windows NT family)</li>
 <li>Mac OS X 10.2 or higher</li>
@@ -34,15 +34,15 @@ comments_count: 0
 </ul>
 </li>
 </ul>
-<ul style="text-align: justify;">
+<ul>
 <li>All systems must support TCP/IP networking.</li>
 </ul>
-<h3 style="text-align: justify;">Setup</h3>
-<p style="text-align: justify;">It is recommended to share the keyboard and mouse of the system whose display is in the middle of all the displays on your desk. That way, it is easier to move your mouse pointer around different screens. In a 2 system setup, use the keyboard and mouse of the system on the left. If you have a lot of monitors, you can also go vertically.</p>
-<h3 style="text-align: justify;">Download</h3>
-<p style="text-align: justify;">Download Synergy from <a href="http://sourceforge.net/project/showfiles.php?group_id=59275&amp;package_id=58013&amp;release_id=406637" target="_blank">here</a> and install it on ALL the systems.</p>
-<h3 style="text-align: justify;">Configure Synergy</h3>
-<ol style="text-align: justify;">
+<h3>Setup</h3>
+<p>It is recommended to share the keyboard and mouse of the system whose display is in the middle of all the displays on your desk. That way, it is easier to move your mouse pointer around different screens. In a 2 system setup, use the keyboard and mouse of the system on the left. If you have a lot of monitors, you can also go vertically.</p>
+<h3>Download</h3>
+<p>Download Synergy from <a href="http://sourceforge.net/project/showfiles.php?group_id=59275&amp;package_id=58013&amp;release_id=406637" target="_blank">here</a> and install it on ALL the systems.</p>
+<h3>Configure Synergy</h3>
+<ol>
 <li>Start Synergy on the system whose mouse and keyboard you want to share.<br>
 <a href="/wp-content/uploads/2008/12/synergy_host_screen1.png" rel="lightbox[1829]"><img class="alignnone size-medium wp-image-1830" title="synergy_host_screen1" src="/wp-content/uploads/2008/12/synergy_host_screen1-300x225.png" alt="" width="300" height="225" srcset="/wp/wp-content/uploads/2008/12/synergy_host_screen1-300x225.png 300w, /wp/wp-content/uploads/2008/12/synergy_host_screen1.png 455w" sizes="(max-width: 300px) 100vw, 300px"></a></li>
 <li>Select “Share this computer’s keyboard and mouse (server)” and click “Configure”.<br>
@@ -66,7 +66,7 @@ comments_count: 0
 <li>You can configure Synergy to Auto Start during operating system. Click on Auto Start and choose to start it at windows logon or at system startup.<br>
 <a href="/wp-content/uploads/2008/12/synergy_auto_start.png" rel="lightbox[1829]"><img class="alignnone size-medium wp-image-1841" title="synergy_auto_start" src="/wp-content/uploads/2008/12/synergy_auto_start-270x300.png" alt="" width="270" height="300" srcset="/wp/wp-content/uploads/2008/12/synergy_auto_start-270x300.png 270w, /wp/wp-content/uploads/2008/12/synergy_auto_start.png 299w" sizes="(max-width: 270px) 100vw, 270px"></a></li>
 </ol>
-<p style="text-align: justify;">That’s it! You can now use a single keyboard and mouse across all the computers on your desk and get rid of all the cable clutter and juggling through the stack to find the right one.</p>
+<p>That’s it! You can now use a single keyboard and mouse across all the computers on your desk and get rid of all the cable clutter and juggling through the stack to find the right one.</p>
 
 		
 		<p>
@@ -85,9 +85,9 @@ comments_count: 0
 
 <div id="fb-root"></div>
 
-<div id="fbComments" style="">
-	<p style="line-height: 30px; font-family: Trebuchet MS; font-size: 17px; font-weight: bold;">Comments</p>
+<div id="fbComments">
+	<p>Comments</p>
 
 	<fb:comments xid="D3r0bKBrWT986Sr_post1829" url="/howto/synergy-share-a-single-mouse-and-keyboard-between-multiple-computers/" numposts="99" width="600" publish_feed="true" migrated="1"></fb:comments></div>
 
-<div style="clear: both;"></div>
+<div></div>

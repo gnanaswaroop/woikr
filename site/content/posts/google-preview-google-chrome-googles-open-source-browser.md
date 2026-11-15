@@ -7,11 +7,11 @@ categories: ["Google"]
 tags: []
 comments_count: 0
 ---
-<p style="text-align: justify;">Putting an end to the rumors floating all over the blogosphere for the last few months, Google announced their plan to release an open source browser named Google Chrome. And it is coming today. Yes, Tuesday, the 2nd of September 2008!</p>
-<p style="text-align: justify;">According to the <a href="http://googleblog.blogspot.com/2008/09/fresh-take-on-browser.html" target="_blank">Official Google Blog page</a>, Chrome will add value for users and, at the same time, help drive innovation on the web.</p>
-<p style="text-align: justify;">To help everyone understand the concept behind Chrome, Google teamed up with the legendary <a href="http://www.scottmccloud.com" target="_blank">Scott McCloud</a> to develop a cool comic. You can see it here: <a href="http://www.google.com/googlebooks/chrome" target="_blank">http://www.google.com/googlebooks/chrome</a></p>
+<p>Putting an end to the rumors floating all over the blogosphere for the last few months, Google announced their plan to release an open source browser named Google Chrome. And it is coming today. Yes, Tuesday, the 2nd of September 2008!</p>
+<p>According to the <a href="http://googleblog.blogspot.com/2008/09/fresh-take-on-browser.html" target="_blank">Official Google Blog page</a>, Chrome will add value for users and, at the same time, help drive innovation on the web.</p>
+<p>To help everyone understand the concept behind Chrome, Google teamed up with the legendary <a href="http://www.scottmccloud.com" target="_blank">Scott McCloud</a> to develop a cool comic. You can see it here: <a href="http://www.google.com/googlebooks/chrome" target="_blank">http://www.google.com/googlebooks/chrome</a></p>
 <h3>Some highlights</h3>
-<p style="padding-left: 30px; text-align: justify;">1. Chrome will include a JavaScript Virtual Machine called V8, which is built from scratch by a team in Denmark, and is open source.<br>
+<p>1. Chrome will include a JavaScript Virtual Machine called V8, which is built from scratch by a team in Denmark, and is open source.<br>
 2. The tabs will be placed above the address bar and not below.<br>
 3. The address bar has auto completion feature and is called “omnibox”.<br>
 4. The default homepage will be thumbnails of 9 recent/popular pages plus some personalized stuff on the right.<br>

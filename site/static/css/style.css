@@ -23,3 +23,8 @@ h1 { font-size:1.9rem; line-height:1.25; }
 ol { padding-left:0; }
 .site-footer { border-top:1px solid var(--line); padding:16px 0; color:var(--muted); font-size:.9rem; }
 .pagination { display:flex; gap:12px; margin-top:20px; }
+
+/* Header band: the logo is light-coloured artwork, so it needs a dark background. */
+.site-header { background:#2b2622; border-bottom:none; padding:16px 0; }
+.site-header nav a { color:#f3efe8; }
+.site-header nav a:hover { color:#e8a36b; }
