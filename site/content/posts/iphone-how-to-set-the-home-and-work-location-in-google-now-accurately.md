@@ -1,0 +1,94 @@
+---
+title: "How to set the Home and Work Location in Google Now Accurately."
+date: 2014-07-22
+url: /iphone/how-to-set-the-home-and-work-location-in-google-now-accurately/
+author: "Swaroop"
+categories: ["Android, Google, How Tos, iPad, iPhone"]
+tags: []
+comments_count: 0
+---
+<div style="clear: both;"></div>
+
+        
+            
+            <div style="clear: both;"></div>
+
+            <ul id="sharebar" style="background:#;border-color:#000000;">
+<li></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-count="vertical" data-via="woikr">Tweet</a></li><li>
+
+<g:plusone size="tall"></g:plusone></li><li></li></ul><ul id="sharebarx">
+<li></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="woikr">Tweet</a></li><li>
+
+<g:plusone size="medium"></g:plusone></li><li></li></ul><p>Google Maps allows us to select a Home and Work location for quick use to determine Directions and for use in Google Now too .</p>
+<p>Here’s how to set the location.</p>
+<ol>
+<li>
+<div>Open Google Maps on your Android or iOS device</div>
+</li>
+<li>
+<div>Click on the “Person” icon on the top right<br>
+<a href="/wp-content/uploads/2014/07/image.png" rel="lightbox[9621]"><img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="image" src="/wp-content/uploads/2014/07/image_thumb.png" alt="image" width="452" height="81" border="0"></a></div>
+</li>
+<li>
+<div>You’ll be displayed a screen to enter/edit the Home and Work address<br>
+<a href="/wp-content/uploads/2014/07/image1.png" rel="lightbox[9621]"><img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="image" src="/wp-content/uploads/2014/07/image_thumb1.png" alt="image" width="452" height="398" border="0"></a></div>
+</li>
+<li>
+<div>Long press the Home/Work fields to open the edit page and type in the building name or the complete address.</div>
+</li>
+<li>
+<div>Select the suggestion provided by Google and Voila! you have selected a Home address..</div>
+</li>
+</ol>
+<p><span id="more-9621"></span>Sometimes when you’re living in an apartment complex it wouldn’t let you select the individual block. Now here’s a quick hat tip to set this location accurately.</p>
+<ol>
+<li>
+<div>Open the <a href="http://maps.google.com" target="_blank">Google Maps</a> website on your desktop browser</div>
+</li>
+<li>
+<div>Search for the apartment complex. For example – “Serene County, Hyderabad”.</div>
+</li>
+<li>
+<div>Long press on the building name and you should see that it displays more details about the building including the geo latitude and longitude too.<br>
+<a href="/wp-content/uploads/2014/07/image2.png" rel="lightbox[9621]"><img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="image" src="/wp-content/uploads/2014/07/image_thumb2.png" alt="image" width="452" height="338" border="0"></a></div>
+</li>
+<li>
+<div>Now go back to the Google Maps app on your Android/iOS device</div>
+</li>
+<li>
+<div>Follow Steps #3 and #4 to open the Home/Work location edit page.</div>
+</li>
+<li>
+<div>Enter the latitude, longitude information from Step#2 into the input box and press done.<br>
+<a href="/wp-content/uploads/2014/07/image3.png" rel="lightbox[9621]"><img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="image" src="/wp-content/uploads/2014/07/image_thumb3.png" alt="image" width="452" height="94" border="0"></a></div>
+</li>
+<li>
+<div>You’ll be re-directed to the previous page again, this time the data will be populated with the selected address<br>
+<a href="/wp-content/uploads/2014/07/image4.png" rel="lightbox[9621]"><img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="image" src="/wp-content/uploads/2014/07/image_thumb4.png" alt="image" width="452" height="373" border="0"></a></div>
+</li>
+</ol>
+<p>There you go, you’ve just learnt how to setup the Google Home or Work location accurately.</p>
+
+		
+		<p>
+		<em>Liked this article? Like us on Facebook!</em>
+		<br>
+				
+
+		
+		</p>
+
+	    <hr id="before_comments_hr">
+
+		
+
+<a name="facebook-comments"></a>
+
+<div id="fb-root"></div>
+
+<div id="fbComments" style="">
+	<p style="line-height: 30px; font-family: Trebuchet MS; font-size: 17px; font-weight: bold;">Comments</p>
+
+	<fb:comments xid="D3r0bKBrWT986Sr_post9621" url="/iphone/how-to-set-the-home-and-work-location-in-google-now-accurately/" numposts="99" width="600" publish_feed="true" migrated="1"></fb:comments></div>
+
+<div style="clear: both;"></div>

@@ -1,0 +1,22 @@
+{{ define "main" }}
+<article class="post">
+  <h1>{{ .Title }}</h1>
+  <p class="meta">{{ with .Params.author }}By {{ . }} · {{ end }}{{ .Date.Format "January 2, 2006" }}{{ with .Params.categories }} · <a href="{{ (printf "categories/%s/" (index . 0 | urlize)) | relURL }}">{{ index . 0 }}</a>{{ end }}</p>
+  <div class="content">{{ .Content }}</div>
+  {{ $comments := index hugo.Data.comments .File.ContentBaseName }}
+  {{ with $comments }}
+  <section class="comments" aria-label="Comments (read-only archive)">
+    <h2>Comments ({{ len . }})</h2>
+    <p class="note">Archived from woikr.com. Comments are read-only.</p>
+    <ol>
+      {{ range . }}
+      <li class="comment">
+        <p class="comment-meta"><strong>{{ .author }}</strong>{{ with .date }} · {{ . }}{{ end }}</p>
+        <div class="comment-body">{{ .html | safeHTML }}</div>
+      </li>
+      {{ end }}
+    </ol>
+  </section>
+  {{ end }}
+</article>
+{{ end }}

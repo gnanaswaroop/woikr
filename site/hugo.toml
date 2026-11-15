@@ -1,0 +1,30 @@
+baseURL = "/"
+title = "woikr"
+disableKinds = ["sitemap"]
+enableRobotsTXT = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true   # archived post bodies are HTML and are rendered as-is
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[params]
+  description = "Gadgets, reviews, tricks and more. An archive of woikr.com."
+  logo = "/images/woikr-logo.png"
+
+[[menus.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+[[menus.main]]
+  name = "About"
+  url = "/about/"
+  weight = 2
+[[menus.main]]
+  name = "Advertise"
+  url = "/advertise/"
+  weight = 3

@@ -1,0 +1,51 @@
+---
+title: "Cleartrip Now Offers Passbook Support"
+date: 2013-01-19
+url: /news/cleartrip-now-offers-passbook-support-2/
+author: "Setu"
+categories: ["News"]
+tags: []
+comments_count: 0
+---
+<div style="clear: both;"></div>
+
+        
+            
+            <div style="clear: both;"></div>
+
+            <ul id="sharebar" style="background:#;border-color:#000000;">
+<li></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-count="vertical" data-via="woikr">Tweet</a></li><li>
+
+<g:plusone size="tall"></g:plusone></li><li></li></ul><ul id="sharebarx">
+<li></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="woikr">Tweet</a></li><li>
+
+<g:plusone size="medium"></g:plusone></li><li></li></ul><p style="text-align: justify;"><img title="cleartrip-logo.png" alt="cleartrip logo" src="/wp-content/uploads/2013/01/cleartrip-logo.png" width="175" height="43" border="0"></p>
+<p style="text-align: justify;"><a href="http://www.cleartrip.com/">Cleartrip</a> is famous for its neat and simple, yet amazingly powerful UI. Oh, and seamless ticket bookings as well :). When it comes to user experience, cleartrip clearly is one of the best case studies. They are always on their toes to keep innovating and setting new standards.</p>
+<p style="text-align: justify;">Keeping with the tradition, cleartrip is now supporting Apple’s passbook format for all your bookings. Users can now send their bookings to their iPhones &amp; iPod touches (with iOS 6 or above) and keep all the tickets, and passes handy. <a href="http://www.apple.com/ios/whats-new/#passbook">Apple’s passbook</a> is a nifty app that serves as a digital folder for all such things. Think of it as the digital equivalent of your document kit. Learn more about it <a href="http://www.apple.com/ios/whats-new/#passbook">here</a>.</p>
+<p style="text-align: justify;"><img title="cleartrip-passbook.png" alt="cleartrip passbook" src="/wp-content/uploads/2013/01/cleartrip-passbook.png" width="550" height="232" border="0"></p>
+<p style="text-align: justify;">Unfortunately, airports in India currently do not support paperless boarding passes. So you will need to collect one from a counter. However, the pass should work as a paperless ticket, which, apparently, the airports are beginning to accept now. Pretty good move by Cleartrip.</p>
+<p style="text-align: justify;">[via <a href="http://blog.cleartrip.com/2013/01/10/cleartrip-for-passbook/">Cleartrip blog</a>]</p>
+
+		
+		<p>
+		<em>Liked this article? Like us on Facebook!</em>
+		<br>
+				
+
+		
+		</p>
+
+	    <hr id="before_comments_hr">
+
+		
+
+<a name="facebook-comments"></a>
+
+<div id="fb-root"></div>
+
+<div id="fbComments" style="">
+	<p style="line-height: 30px; font-family: Trebuchet MS; font-size: 17px; font-weight: bold;">Comments</p>
+
+	<fb:comments xid="D3r0bKBrWT986Sr_post9425" url="/news/cleartrip-now-offers-passbook-support-2/" numposts="99" width="600" publish_feed="true" migrated="1"></fb:comments></div>
+
+<div style="clear: both;"></div>

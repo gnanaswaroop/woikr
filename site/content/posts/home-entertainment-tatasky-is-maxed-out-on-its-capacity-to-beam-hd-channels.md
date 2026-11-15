@@ -1,0 +1,54 @@
+---
+title: "TataSky is maxed out on its capacity to beam HD channels"
+date: 2011-07-25
+url: /home-entertainment/tatasky-is-maxed-out-on-its-capacity-to-beam-hd-channels/
+author: "Setu"
+categories: ["Home Entertainment"]
+tags: []
+comments_count: 0
+---
+<div style="clear: both;"></div>
+
+        
+            
+            <div style="clear: both;"></div>
+
+            <ul id="sharebar" style="background:#;border-color:#000000;">
+<li></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-count="vertical" data-via="woikr">Tweet</a></li><li>
+
+<g:plusone size="tall"></g:plusone></li><li></li></ul><ul id="sharebarx">
+<li></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="woikr">Tweet</a></li><li>
+
+<g:plusone size="medium"></g:plusone></li><li></li></ul><p style="text-align: justify;"><img title="tatasky-logo.png" src="/wp-content/uploads/2011/05/tatasky-logo.png" border="0" alt="tatasky logo" width="160" height="80"><img title="NewImage.png" src="/wp-content/uploads/2011/02/NewImage1.png" border="0" alt="NewImage" width="41" height="26"></p>
+<p style="text-align: justify;">It looks like TataSky’s HD subscribers are in for a big dissapointment in the near future. As TataSky launched in the initial stages of the DTH revolution in india, it uses old compression technology (<a href="http://en.wikipedia.org/wiki/MPEG-2">MPEG2</a>) as opposed to new compression technology (<a href="http://en.wikipedia.org/wiki/MPEG4">MPEG4</a>) used by its competitors like Airtel and Reliance which entered the market pretty late. Since the MPEG2 compression is not as efficient as MPEG4, channels occupy much more space on TataSky’s platform as compared to those which use MPEG4. Therefore, TataSky has a limitation on the number of channels it can beam on its platform. This number is much lesser than its competitors.</p>
+<p style="text-align: justify;">Even though the HD channels on TataSky’s platform use the newer and efficient MPEG4 compression, they do not have enough transponders to add any more HD channels than the <a href="/home-entertainment/tatasky-adds-3-new-hd-channels-to-its-bouquet/">7 they currently show</a>. This is the reason why they are only showing Star Cricket HD out of the ESPN &amp; Star Cricket HD bouquet even when both these channels launched on the same day and belong to the same company. In order to show more HD channels, they will either have to reduce their SD channels or, shift entirely on MPEG4 and replace STBs of all those subscribers who have old MPEG2 compatible boxes. Analysts estimate around 5 million of TataSky’s subscribers are on MPEG2 only boxes.</p>
+<p><span id="more-8210"></span></p>
+<p style="text-align: justify;">Both the above two options are going to be hard for TataSky to implement. They probably already have lowest number of channels in the private DTH space. Reducing them any further will only bring more heat from exiting customers. Swapping the STBs will need huge investement as most subscribers in India won’t be willing to pay for a new box.</p>
+<p style="text-align: justify;">A third &amp; more likely option is to rent more transponders. And they have been trying to do that since 2007. The Indian Space Research Organization (<a href="http://en.wikipedia.org/wiki/ISRO">ISRO</a>), which launches and operates all the satellites in space which house these transponders has agreed to rent more transponders to TataSky on its GSAT – 10 communications satellite. However, for some reason, ISRO has planned to launch the GSAT – 10 from&nbsp;Guiana Space Center, Europe’s Spaceport, in Kourou, French Guiana instead of launching it from Sriharikota in India. The launch is scheduled for late 2011 or the first quarter of 2012. The interesting thing to note here is that ISRO has already launched the <a href="http://www.isro.org/satellites/gsat-12.aspx">GSAT – 12 satellite</a>. According to the regulations in this field, a DTH operator is supposed to get transponders within 24 months of requesting them. However, it has been way more than that time and I believe folks at TataSky are still waiting for the allotment. I am not sure who to blame for the delay, but it looks like its not entirely TataSky’s fault here as they are the ones who are going to look like dumb assholes when Zee launches its 4 HD channels on 15th August and all other operators will have the capacity to carry them.</p>
+<p style="text-align: justify;">Although in my opinion, there is no way to compensate for the lack of content on one’s platform, TataSky has been doing so in a way by lowering the <a href="/home-entertainment/tatasky-launches-indias-cheapest-hd-set-top-box/#comments">entry cost for HD set top boxes</a>. Their <a href="/home-entertainment/tatasky-launches-indias-cheapest-hd-set-top-box/#comments">HD</a> and <a href="/category/home-entertainment/">HD+</a> boxes are superior to their competitors’ set top boxes and are much lower priced. Before TataSky <a href="/home-entertainment/tatasky-launches-indias-cheapest-hd-set-top-box/">launched its HD set top box at a price of INR 2599</a>, other operators were selling their HD set top boxes for as much as INR 10,000! Similar was the case with HD DVRs. TataSky’s pricing strategy&nbsp;<a href="/home-entertainment/dth-operators-unleash-hd-price-war-in-india/">introduced a price war in the HD DTH space in India</a>. However, this strategy might backfire on them as impatient customers will have less to loose if they decide to switch to another operator. TataSky also has much better customer service and lowest service charges, however, this is something that the other operators can learn to offer with time.</p>
+<p style="text-align: justify;">In any case, TataSky needs to overcome this technical limitation asap. And I hope that the TataSky leadership is having sleepless nights over this issue. In the highly competitive DTH market, they cannot afford to continue with old technology and expect subscribers to stick with them.</p>
+<p style="text-align: justify;">[via <a href="http://www.worldofdth.com/thread-Isro-constraints-weigh-heavily-on-Tata-Sky-future?pid=16853#pid16853">World of DTH</a>]</p>
+
+		
+		<p>
+		<em>Liked this article? Like us on Facebook!</em>
+		<br>
+				
+
+		
+		</p>
+
+	    <hr id="before_comments_hr">
+
+		
+
+<a name="facebook-comments"></a>
+
+<div id="fb-root"></div>
+
+<div id="fbComments" style="">
+	<p style="line-height: 30px; font-family: Trebuchet MS; font-size: 17px; font-weight: bold;">Comments</p>
+
+	<fb:comments xid="D3r0bKBrWT986Sr_post8210" url="/home-entertainment/tatasky-is-maxed-out-on-its-capacity-to-beam-hd-channels/" numposts="99" width="600" publish_feed="true" migrated="1"></fb:comments></div>
+
+<div style="clear: both;"></div>

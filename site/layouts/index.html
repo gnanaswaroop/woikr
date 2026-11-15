@@ -1,0 +1,13 @@
+{{ define "main" }}
+<section class="post-list">
+  {{ $posts := where site.RegularPages "Section" "posts" }}
+  {{ range (.Paginate ($posts.ByDate.Reverse)).Pages }}
+  <article class="teaser">
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    <p class="meta">{{ with .Params.author }}{{ . }} · {{ end }}{{ .Date.Format "January 2, 2006" }}{{ with .Params.categories }} · {{ index . 0 }}{{ end }}</p>
+    {{ with .Summary }}<p>{{ . }}</p>{{ end }}
+  </article>
+  {{ end }}
+</section>
+{{ template "_internal/pagination.html" . }}
+{{ end }}
