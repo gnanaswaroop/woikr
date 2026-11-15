@@ -57,6 +57,9 @@ def clean_body(h):
     h = COMMENT.sub("", h)
     h = ATTR_NOISE.sub("", h)
     h = SITE_HOST.sub("", h)  # root-relative; keeps /wp/wp-content/... paths
+    # Personal and press contact addresses quoted in article text are removed from the live site.
+    # Google's bot addresses are public service addresses and stay.
+    h = EMAIL.sub(lambda m: m.group(0) if m.group(0).endswith("bot.talk.google.com") else "[email removed]", h)
     return h.strip()
 
 

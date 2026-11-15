@@ -98,7 +98,7 @@ aliases: ["/home-entertainment/using-non-samsung-wi-fi-usb-adapter-with-samsung-
 <div>While in the same folder, open usb_main_dev.c file and add this code:</div>
 <div>MODULE_LICENSE("GPL”).<br>
 It should now look like this:</div>
-	MODULE_AUTHOR("Paul Lin &lt;paul_lin@ralinktech.com&gt;");<br>
+	MODULE_AUTHOR("Paul Lin &lt;[email removed]&gt;");<br>
 	MODULE_DESCRIPTION("RT2870 Wireless Lan Linux Driver");<br>
 	MODULE_LICENSE("GPL");<br>
 	#ifdef CONFIG_STA_SUPPORT<br>
