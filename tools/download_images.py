@@ -62,7 +62,7 @@ def download(url):
 def main():
     urls = json.load(open(os.path.join(ROOT, "raw", "img_urls.json"), encoding="utf-8"))
     results = []
-    with ThreadPoolExecutor(max_workers=24) as ex:
+    with ThreadPoolExecutor(max_workers=4) as ex:
         for res in ex.map(download, urls):
             results.append(res)
     json.dump(results, open(os.path.join(ROOT, "raw", "image_results.json"), "w", encoding="utf-8"), indent=1)

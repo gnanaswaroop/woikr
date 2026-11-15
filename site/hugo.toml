@@ -24,3 +24,12 @@ enableRobotsTXT = true
   name = "About"
   url = "/about/"
   weight = 2
+
+# WordPress-compatible taxonomy URLs (old site used /category/<slug>/ and /tag/<slug>/)
+[permalinks]
+  [permalinks.taxonomy]
+    categories = "/category/"
+    tags = "/tag/"
+  [permalinks.term]
+    categories = "/category/:slug/"
+    tags = "/tag/:slug/"
