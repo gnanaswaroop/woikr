@@ -105,7 +105,7 @@ def main():
                  "html": redact_comment(clean_html(c.get("html", "")))} for c in p["comments"]]
     # static pages
     for s in statics:
-        if s.get("slug") == "feedback/" or "error" in s or not s.get("html", "").strip():
+        if s.get("slug") in ("feedback/", "advertise/") or "error" in s or not s.get("html", "").strip():
             report.append(("static-skipped", s.get("slug")))
             continue
         name = s["slug"].strip("/")
