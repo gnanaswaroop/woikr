@@ -1,8 +1,12 @@
 baseURL = "https://woikr.com/"
 title = "woikr"
 
-disableKinds = ["sitemap"]
 enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
 
 [markup]
   [markup.goldmark]
