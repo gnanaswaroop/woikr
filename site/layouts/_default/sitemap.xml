@@ -1,0 +1,32 @@
+{{ "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+{{- /*
+  Lists only pages a visitor can reach by clicking:
+  home, About, every post, the category/author/tag archives that posts link to,
+  and the home pagination pages (/page/N/). Legacy pages with no links
+  (archives, contests, reviews, iphone, feedback, advertise) and the empty
+  taxonomy index pages are left out.
+  Keep PAGE_SIZE equal to the home page size (Hugo default 10).
+*/ -}}
+{{- $page_size := 10 -}}
+{{- $urls := slice (absURL "") (absURL "about/") -}}
+{{- range where site.RegularPages "Section" "posts" -}}
+  {{- $urls = $urls | append .Permalink -}}
+{{- end -}}
+{{- range $k, $v := site.Taxonomies.categories -}}
+  {{- with site.GetPage (printf "categories/%s" $k) -}}{{- $urls = $urls | append .Permalink -}}{{- end -}}
+{{- end -}}
+{{- range $k, $v := site.Taxonomies.authors -}}
+  {{- with site.GetPage (printf "authors/%s" $k) -}}{{- $urls = $urls | append .Permalink -}}{{- end -}}
+{{- end -}}
+{{- range $k, $v := site.Taxonomies.tags -}}
+  {{- with site.GetPage (printf "tags/%s" $k) -}}{{- $urls = $urls | append .Permalink -}}{{- end -}}
+{{- end -}}
+{{- $n := len (where site.RegularPages "Section" "posts") -}}
+{{- range seq 2 (div (add $n (sub $page_size 1)) $page_size) -}}
+  {{- $urls = $urls | append (absURL (printf "page/%d/" .)) -}}
+{{- end -}}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{{- range $urls }}
+  <url><loc>{{ . | htmlEscape }}</loc></url>
+{{- end }}
+</urlset>
