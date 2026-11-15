@@ -1,7 +1,7 @@
 {{ define "main" }}
 <article class="post">
   <h1>{{ .Title }}</h1>
-  <p class="meta">{{ with .Params.author }}By {{ . }} · {{ end }}{{ .Date.Format "January 2, 2006" }}{{ with .Params.categories }} · <a href="{{ (printf "category/%s/" (index . 0 | urlize)) | relURL }}">{{ index . 0 }}</a>{{ end }}</p>
+  <p class="meta">{{ with .Params.author }}By {{ with $.Params.authors }}<a href="{{ (printf "author/%s/" (index . 0 | urlize)) | relURL }}">{{ $.Params.author }}</a>{{ else }}{{ . }}{{ end }} · {{ end }}{{ .Date.Format "January 2, 2006" }}{{ with .Params.categories }} · <a href="{{ (printf "category/%s/" (index . 0 | urlize)) | relURL }}">{{ index . 0 }}</a>{{ end }}</p>
   <div class="content">{{ .Content }}</div>
   {{ $comments := index hugo.Data.comments .File.ContentBaseName }}
   {{ with $comments }}
