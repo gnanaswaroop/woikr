@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://woikr.com/"
 title = "woikr"
 disableKinds = ["sitemap"]
 enableRobotsTXT = true
