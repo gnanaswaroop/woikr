@@ -40,6 +40,6 @@ Nehru Place, New Delhi - 19.</blockquote>
 	<li>
 <div>Once all documents are received, we will verify and cross check all documents and then service engineer from Airtel will come and install the DTH box at your place. You don’t need to pay any charges to Airtel Service Engineer. You don't have to pay subscription and/or installation charges.</div></li>
 	<li>
-<div>In case of any query, Please call LG at 011-32904561 or mail at <a href="mailto:lgmonitortv@solutions-intg.com">lgmonitortv@solutions-intg.com</a> from Monday - Friday between 10.00 am - 5.00 pm.</div></li>
+<div>In case of any query, Please call LG at 011-32904561 or mail at <a href="mailto:[email removed]">[email removed]</a> from Monday - Friday between 10.00 am - 5.00 pm.</div></li>
 </ol>
 <p>[via <a href="http://www.in.lge.com/DTH3/main.htm" target="_blank">in.lge.com</a>]</p>
