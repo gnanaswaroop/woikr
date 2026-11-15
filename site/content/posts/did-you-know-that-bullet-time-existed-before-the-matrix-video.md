@@ -4,6 +4,8 @@ date: 2011-08-18T23:33:41
 url: /misc/did-you-know-that-bullet-time-existed-before-the-matrix-video/
 categories: ["Misc"]
 tags: ["The Matrix", "Bullet Time effect", "Original Bullet Time trick", "Michel Gondry Dodging Bullets", "Bullet time advertisement", "Bullet Time commercial", "Smirnoff Vodka advertisement", "Michel Gondry advertisement"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <a href="/wp/wp-content/uploads/2011/08/the-matrix-bullet-time.jpg"><img class="alignnone size-full wp-image-8287" title="the-matrix-bullet-time" src="/wp/wp-content/uploads/2011/08/the-matrix-bullet-time.jpg" alt="" width="400" height="300" /></a>
 

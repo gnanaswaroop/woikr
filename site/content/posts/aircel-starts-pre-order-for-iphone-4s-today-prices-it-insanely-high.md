@@ -4,6 +4,8 @@ date: 2011-11-18T15:44:40
 url: /apple/aircel-starts-pre-order-for-iphone-4s-today-prices-it-insanely-high/
 categories: ["Apple", "iPhone"]
 tags: ["Apple iPhone India", "iPhone 4S prices in India", "India Apple iPhone", "iPhone4S", "iPhone 4S India", "iPhone 4S 16GB price", "iPhone 4 8GB", "iPhone 2011", "Aircel iPhone 4S", "Aircel iPhone 4S pre order"]
+author: "Swaroop"
+authors: ["swaroop"]
 aliases: ["/apple/aircel-starts-pre-order-for-iphone-4s-today-prices-it-insanely-high"]
 ---
 <p>As promised, <a href="http://www.aircel.com/iPhone4S" target="_blank">Aircel</a> and <a href="http://www.airtel.in/iphone-files/learn-more.html" target="_blank">Airtel</a> have started pre-order for the iPhone 4S today – 18th November 2011. The prices come as a surprise/shock to all Apple Fans who were <a href="/apple/aircel-bringing-iphone4s-to-india-unlocked-iphones-available-for-pre-order-in-the-us/" target="_blank">expecting it</a> to be priced &lt;40,000 INR.</p>

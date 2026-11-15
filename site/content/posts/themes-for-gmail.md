@@ -4,6 +4,8 @@ date: 2008-11-20T19:08:20
 url: /news/themes-for-gmail/
 categories: ["News"]
 tags: ["gmail", "gmail themes", "customize gmail", "gmail colors", "gmail new feature"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><a href="/wp/wp-content/uploads/2008/11/gmail_logo.png"><img class="alignnone size-full wp-image-1701" title="gmail_logo" src="/wp/wp-content/uploads/2008/11/gmail_logo.png" alt="" width="147" height="68" /></a></p>
 <p>Gmail is getting better and better. This one is gonna blow you away - Themes. There were a few unofficial scripts available which let you do the same, but this is totally official and super cool. Plus the initial collection is awesome. Check it out:</p>

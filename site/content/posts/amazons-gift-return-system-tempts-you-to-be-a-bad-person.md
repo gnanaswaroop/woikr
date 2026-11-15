@@ -4,6 +4,8 @@ date: 2010-12-29T22:39:59
 url: /misc/amazons-gift-return-system-tempts-you-to-be-a-bad-person/
 categories: ["Misc"]
 tags: ["amazon", "amazon gifts", "holiday gifts", "return policy", "amazon gifts return", "gift amaon", "return gifts"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>Amazon has <a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PALL&amp;p=1&amp;u=/netahtml/PTO/srchnum.htm&amp;r=1&amp;f=G&amp;l=50&amp;s1=7831439.PN.&amp;OS=PN/7831439&amp;RS=PN/7831439" target="_blank">patented</a> a gift return system for their website that really makes it easy for you to be a bad person and return the gift your loving aunt (with no taste in clothes) bought for you. Basically, the system notifies the receiver that they have received a gift and allows them to return the gift in lieu of something else more attractive.</p>
 <p>Amazon says, "As in other gift-giving situations, it sometimes occurs that gifts purchased online do not meet the needs or tastes of the gift recipient. In such situations, the recipient may wish to convert the gift to something else, for example, by exchanging the gift for another item or by obtaining a redemption coupon, gift card, or other gift certificate to be redeemed later."</p>

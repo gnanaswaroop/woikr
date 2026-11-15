@@ -4,6 +4,8 @@ date: 2011-01-19T23:59:37
 url: /ipad/the-ipad-that-runs-windows-7-it-happens-only-in-china/
 categories: ["iPad"]
 tags: ["Fake iPad", "Chinese iPad", "Goog Chinese iPad Knockoff", "iPad Chinese Replica", "iPad Windows 7"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <a href="/wp/wp-content/uploads/2011/01/iPad_win7_1.jpg"><img title="iPad_win7_1" src="/wp/wp-content/uploads/2011/01/iPad_win7_1-300x210.jpg" alt="" width="300" height="210" /></a>
 <p>This is without doubt the best iPad clone I've seen. Not only it looks almost as good as the iPad, it also packs solid hardware inside. If it works as good as <a href="/iphone/sophone-a-fake-iphone-that-blew-our-mind-knockoffs" target="_blank">SoPhone</a>, I'll have to seriously consider buying one of these excellent knockoffs!</p>

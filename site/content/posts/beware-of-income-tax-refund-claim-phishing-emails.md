@@ -4,6 +4,8 @@ date: 2010-12-22T12:32:18
 url: /misc/beware-of-income-tax-refund-claim-phishing-emails/
 categories: ["Misc"]
 tags: ["phishing emails", "income tax", "tax refund", "phishing", "beware"]
+author: "Swaroop"
+authors: ["swaroop"]
 ---
 <p>I've just got a phishing email claiming that I’ve got a lot of money in tax refund and I should click on the link for them to process it.</p>
 <p>Damn, Google – Why couldn’t you filter out this spam? It landed right in the inbox. Here’s the email content.</p>

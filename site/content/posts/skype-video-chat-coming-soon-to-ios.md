@@ -4,6 +4,8 @@ date: 2010-12-25T01:18:45
 url: /ipad/skype-video-chat-coming-soon-to-ios/
 categories: ["iPad", "News", "iPhone"]
 tags: ["skype", "skype for iphone", "skype for ipad", "skype for ipod touch", "skype for iOS", "skype video chat over 3G", "skype video chat iphone", "video chat 3G", "skype features"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img class="alignnone size-full wp-image-5211" title="skypeFAQ" src="/wp/wp-content/uploads/2010/12/skypeFAQ.jpg" alt="" width="300" height="156" /></p>
 <p>WooHoo! It looks like Skype is all set to release an update to their <a href="http://www.skype.com/intl/en/get-skype/on-your-mobile/download/iphone-for-skype/" target="_blank">iOS app</a>. An update which will let you video chat over WiFi or 3G.with other Skype users around the world!</p>

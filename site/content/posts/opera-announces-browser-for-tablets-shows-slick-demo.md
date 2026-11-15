@@ -4,6 +4,8 @@ date: 2011-01-04T22:36:21
 url: /android/opera-announces-browser-for-tablets-shows-slick-demo/
 categories: ["Android"]
 tags: ["Opera for Tablets", "Opera Browser", "Opera Android", "Google Android", "Opera Mini"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>I am loving all the browser demos on different Android devices showing up today. This is one area where I find Android to be lacking seriously. No matter what you say, Chrome Mobile is nowhere near the experience and convenience of Mobile Safari. And don't you dare name alternatives. I hate all of them too. No hard feelings but Dolphin especially feels like browsing on Internet Explorer 6 stuffed with plug-ins on a Windows Vista based computer.</p>
 <p>Just in time for CES (and a million Android tablets), Opera has announced a proper Opera browser for Tablets. They haven't mentioned any details but the demo shows Opera on a Samsung Galaxy Tab. It looks very smooth and very <em>real</em> browser like.</p>

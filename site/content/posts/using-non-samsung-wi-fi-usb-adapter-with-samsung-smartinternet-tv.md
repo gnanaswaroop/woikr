@@ -4,6 +4,8 @@ date: 2012-03-14T09:00:23
 url: /howto/using-non-samsung-wi-fi-usb-adapter-with-samsung-smartinternet-tv/
 categories: ["How Tos", "Home Entertainment"]
 tags: ["samsung", "samsung TV", "samsung internet TV"]
+author: "Setu"
+authors: ["setu"]
 aliases: ["/home-entertainment/using-non-samsung-wi-fi-usb-adapter-with-samsung-smartinternet-tv/"]
 ---
 <p><img title="samsung smart tv logo.png" src="/wp/wp-content/uploads/2012/03/samsung-smart-tv-logo.png" alt="samsung smart tv logo" width="499" height="92" /></p>

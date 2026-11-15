@@ -4,6 +4,8 @@ date: 2011-04-21T01:10:36
 url: /apple/how-green-is-the-iphone-anyway/
 categories: ["Apple", "iPhone"]
 tags: ["Eco-friendly iPhone", "How green is the iPhone", "iPhone environmental friendly", "Gadgets Should be recycled", "iPhone parts come from", "iPhone is manufactured in", "iPhone power consumption", "iPhone battery backup", "iPhone low radiation risk", "China Phones high radation", "iPhones percentage recycled"]
+author: "Swaroop"
+authors: ["swaroop"]
 ---
 <p>So the big question is, how green are the gadgets that you use/used? When we're talking about green/eco-friendly, what we're looking for is</p>
 

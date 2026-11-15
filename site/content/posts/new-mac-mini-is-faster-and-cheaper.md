@@ -4,6 +4,8 @@ date: 2011-07-20T20:17:11
 url: /apple/new-mac-mini-is-faster-and-cheaper/
 categories: ["Apple"]
 tags: ["mac mini", "mac mini config", "mac mini specs", "mac mini price", "Apple", "new mac mini"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="mac-mini-2011.png" src="/wp/wp-content/uploads/2011/07/mac-mini-2011.png" alt="Mac mini 2011" width="126" height="122" /></p>
 <p>In addition to <a href="/apple/mac-os-x-lion-now-available-on-the-mac-app-store/">launching OS X Lion</a> &amp; updating their <a href="/apple/new-macbook-airs-arrive/">Macbook air line of notebooks</a>, Apple also updated their <a href="http://www.apple.com/macmini/">Mac Mini</a> line of desktops. The best part is that they are cheaper now. Here is what the new minis pack in them:</p>

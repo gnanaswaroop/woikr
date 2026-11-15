@@ -4,6 +4,8 @@ date: 2012-04-23T19:48:48
 url: /news/reliance-infotel-plans-to-install-100000-towers-for-4g-lte-operations-across-india/
 categories: ["News"]
 tags: ["4G india", "LTE india", "wireless broadband", "wireless india"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="reliance logo.png" src="/wp/wp-content/uploads/2012/04/reliance-logo.png" alt="reliance logo" width="277" height="182" /></p>
 <p>Now that the non compete agreement between the two Ambani brothers is terminated, Mukesh Ambani is planning to revolutionize wireless broadband in the same way he revolutionized mobile voice communication. His company, Reliance Infotel is planning to install 100,000 cell towers across India in the next 3 years to offer high speed 4G LTE wireless broadband services. Rumors say that the company plans to offer wireless broadband at a very sensible (<a href="/telecom/airtel-launched-its-4g-network-in-kolkata-offers-super-absurd-plans/">as opposed to absurd</a>) pricing of INR 10 per GB. This means that a 100GB plan with 5 - 6 times speed will cost you just INR 1000 which is just 1/5th of what it costs today.</p>

@@ -4,6 +4,8 @@ date: 2011-09-10T23:50:00
 url: /gaming/what-happens-when-mario-hooks-up-with-a-portal-gun-video/
 categories: ["Gaming"]
 tags: ["mario with a portal gun", "Portal gun", "Portal", "Super Mario Bros", "Mario Bros", "Mario cheats", "Cheat with Portal Gun"]
+author: "Swaroop"
+authors: ["swaroop"]
 ---
 <p> A portal gun is so fricking fun than having a GOD mode in Mario, I just can't wait to play this.</p>
 <p><img class="alignnone size-full wp-image-8565" title="mario-portal-title" src="/wp/wp-content/uploads/2011/09/mario-portal-title.png" alt="Mario with a Portal Gun" width="356" height="200" /></p>

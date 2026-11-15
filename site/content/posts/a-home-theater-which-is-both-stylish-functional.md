@@ -4,6 +4,8 @@ date: 2012-01-10T23:30:35
 url: /home-entertainment/a-home-theater-which-is-both-stylish-functional/
 categories: ["Home Entertainment"]
 tags: ["home theater", "home theater connections", "home theater setup", "home decoration"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="UNITY-top.png" src="/wp/wp-content/uploads/2012/01/UNITY-top.png" alt="UNITY by Engage" width="232" height="300" /></p>
 <p>There are very few companies other than Apple which make beautiful products which are just as functional. <a href="http://www.in2technologies.com/engageunity/unity/">Unity by Engage</a> is one such product. It combines a powerful Home Theater and a beautiful media center (TV stand really) in a stylish package.</p>

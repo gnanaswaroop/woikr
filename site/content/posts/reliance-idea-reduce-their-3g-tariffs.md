@@ -4,6 +4,8 @@ date: 2012-05-25T20:26:34
 url: /telecom/reliance-idea-reduce-their-3g-tariffs/
 categories: ["Telecom", "News"]
 tags: ["3g india", "3G tariff india", "Airtel", "reliance", "idea", "idea 3g"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="reliance-mobile-logo.png" src="/wp/wp-content/uploads/2012/05/reliance-mobile-logo.png" alt="reliance mobile logo" width="109" height="58" /><img title="idea-logo.png" src="/wp/wp-content/uploads/2011/07/idea-logo.png" alt="idea logo" width="118" height="72" /></p>
 <p><a href="/telecom/airtel-slashes-its-3g-data-tariffs/">Following Airtel's move</a>, both Reliance &amp; Idea have reduced their 3G tariffs by 70%. As always, in the Indian market, one player has to buckle up and do something competitive and everyone follows. The revised tariffs from both the providers rival that from Airtel.</p>

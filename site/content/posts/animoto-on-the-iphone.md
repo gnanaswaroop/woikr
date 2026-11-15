@@ -4,6 +4,8 @@ date: 2008-12-24T13:21:19
 url: /iphone/animoto-on-the-iphone/
 categories: ["iPhone"]
 tags: ["iPhone", "animoto", "animoto for iphone", "iphone video", "iphone slideshow", "create video on iphone", "musical slideshows"]
+author: "Setu"
+authors: ["setu"]
 ---
 <img class="alignnone size-full wp-image-1876" title="animoto_logo" src="/wp/wp-content/uploads/2008/12/animoto_logo.png" alt="animoto_logo" width="299" height="91" />
 <p><a href="http://www.animoto.com" target="_blank">Animoto</a> is an online video creation service where you can upload your images and create cool videos out of them. They have developed an <a href="http://iphone.animoto.com/" target="_blank">app for the iPhone</a>. The app lets you choose photos from your photo library and/or camera roll, select a track from a limited set of music tracks available with them and then creates a super cool video out of it using various image transitions.</p>

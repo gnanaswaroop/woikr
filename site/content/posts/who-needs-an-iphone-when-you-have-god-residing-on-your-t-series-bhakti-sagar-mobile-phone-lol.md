@@ -4,6 +4,8 @@ date: 2011-05-26T20:01:06
 url: /lol/who-needs-an-iphone-when-you-have-god-residing-on-your-t-series-bhakti-sagar-mobile-phone-lol/
 categories: ["LOL", "News", "Mobile Phones"]
 tags: ["t series", "bhakti phone"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="bhakti-sagar-phone-t-series.jpg" src="/wp/wp-content/uploads/2011/05/bhakti-sagar-phone-t-series.jpg" alt="Bhakti sagar phone t series" width="381" height="425" /></p>
 <p>T-Series has launched a divine mobile phone in India. Called the Bhakti Sagar phone, this handset comes loaded with all kinds of bhakti apps that can literally kep you in bhakti mode 24x7. Isn't that the ultimate mecca? The key features of the dual sim phone include:</p><ul>

@@ -4,6 +4,8 @@ date: 2011-01-11T10:12:35
 url: /news/group-video-calling-now-available-in-skype/
 categories: ["News"]
 tags: ["skype", "group calling", "skype group calling"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="image6.png" src="/wp/wp-content/uploads/2011/01/image6.png" alt="image6.png" /></p>
 <p>Skype has finally introduced the group calling feature in its latest Mac beta. Using this feature, you can make group video calls to multiple people simultaneously. You know, like the way they show people in sci fi movies having a video conference with others around the globe (or solar system or galaxy or universe).</p>

@@ -4,6 +4,8 @@ date: 2009-03-16T13:56:58
 url: /rumors/apple-rumor-roundup/
 categories: ["Rumors"]
 tags: ["iphone copy paste", "iphone 3", "premium app store", "iphone virus", "malware iphone"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p>Here are the current Apple rumors floating around the web:</p>
 

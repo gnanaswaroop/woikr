@@ -4,6 +4,8 @@ date: 2011-01-13T22:35:56
 url: /gaming/sonys-psp2-as-powerful-as-ps3-arrives-q4-2011-rumor/
 categories: ["Gaming", "Rumors"]
 tags: ["Playstation Portable 2", "PSP 2", "ps3"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p><a href="/wp/wp-content/uploads/2011/01/psp2.jpg"><img title="Playstation Portable 2" src="/wp/wp-content/uploads/2011/01/psp2-300x271.jpg" alt="Playstation Portable 2" width="300" height="271" /></a></p>
 <p>Sony has been <a href="http://www.mcvuk.com/news/42499/PSP2-as-powerful-as-PS3-set-for-Q4-launch" target="_blank">reportedly</a> telling the licensed game developers that they need to come up with high quality content for PSP2 since it will be as powerful as their PS3. Clearly, they plan to keep a line between the multiple Android, iOS and other mobile devices that run casual games. The same casual games that are much more popular these days in comparison to PSP games.</p>

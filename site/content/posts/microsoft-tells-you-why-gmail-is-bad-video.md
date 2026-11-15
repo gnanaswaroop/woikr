@@ -4,6 +4,8 @@ date: 2011-07-29T09:30:30
 url: /google/microsoft-tells-you-why-gmail-is-bad-video/
 categories: ["Google", "Microsoft"]
 tags: ["Microsoft", "Office 365", "gmail", "Google", "google ads", "Gmail Ads", "Google reading your email", "Gmail Man"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>People have always had wondered whether letting Google read your personal email so they can show ads based on the content is a good idea. If you have had similar doubts Microsoft is hoping to escalate them to new levels using their new Office 365 campaign.</p>
 <p>The catch phrase is kinda true, "Your email is your business. Google makes it theirs."</p>

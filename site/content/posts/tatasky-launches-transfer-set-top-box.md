@@ -4,6 +4,8 @@ date: 2015-09-17T08:17:07
 url: /news/tatasky-launches-transfer-set-top-box/
 categories: ["News", "Home Entertainment"]
 tags: ["tatasky plus", "tatasky HD", "tatasky streaming"]
+author: "Setu"
+authors: ["setu"]
 aliases: ["/home-entertainment/tatasky-launches-transfer-set-top-box/"]
 ---
 <p><img title="tatasky-transfer.png" src="/wp/wp-content/uploads/2015/09/tatasky-transfer.png" alt="tatasky transfer" width="263" height="200" /></p>

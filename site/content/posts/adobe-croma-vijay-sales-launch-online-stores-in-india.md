@@ -4,6 +4,8 @@ date: 2012-04-25T00:21:22
 url: /news/adobe-croma-vijay-sales-launch-online-stores-in-india/
 categories: ["News"]
 tags: ["ecommerce india", "adobe online store india", "adobe india", "croma online", "vijay sales online"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="adobe-logo.png" src="/wp/wp-content/uploads/2012/04/adobe-logo.png" alt="adobe logo" width="28" height="35" /></p>
 <p>Adobe India has launched its online store at <a href="http://shop.adobe.com/in">shop.adobe.com/in</a> where users can buy Adobe software. The titles are available as digital downloads and payments can me made in Indian currency. Most Adobe software are available as full copy or upgrades if you have a previous version. The Adobe Creative Suite 6 (CS6) is also available for pre order on the store. Adobe plans to launch sale of physical products (software on CD, DVD etc.) in the near future as downloads can be pretty heavy for many users in india owing to low internet speeds.</p>

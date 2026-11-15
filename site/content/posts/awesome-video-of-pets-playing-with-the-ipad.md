@@ -4,6 +4,8 @@ date: 2012-01-24T22:01:43
 url: /ipad/awesome-video-of-pets-playing-with-the-ipad/
 categories: ["iPad"]
 tags: ["ipad pets", "animals ipad"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p>Here is another use for the iPad (entertaining your pets):</p>
 <p>httpv://www.youtube.com/watch?v=XPynuuTMKTo</p>

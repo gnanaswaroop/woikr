@@ -4,6 +4,8 @@ date: 2009-01-25T08:52:48
 url: /lol/how-not-to-hold-your-iphone/
 categories: ["LOL", "WTF?"]
 tags: ["30 Rock", "Tina Fey iPhone", "Liz Lemon iPhone", "30 Rock iPhone", "iPhone upside down"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <div class="mceTemp">
 

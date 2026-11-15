@@ -4,6 +4,8 @@ date: 2010-12-21T01:27:43
 url: /ipad/turn-your-ipad-into-a-laptop-with-clamcase/
 categories: ["iPad"]
 tags: ["iPad", "ipad case", "ipad laptop case", "clamcase"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p>Clamcase is a hard shell case for iPad with built in bluetooth keyboard. In addition to offering superior protection for your iPad (and in turn turning it fat), it can also act as a stand for the iDevice. All for <a href="http://clamcase.com/bluetooth-ipad-keyboard-case/clamcase.html" target="_blank">$120 here</a>.</p>
 <p>Here is a video:</p>

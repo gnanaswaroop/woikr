@@ -4,6 +4,8 @@ date: 2011-06-12T02:21:13
 url: /apple/magician-preaches-the-truth-about-lies-using-ipods-video/
 categories: ["Apple"]
 tags: ["iPod Magic Video", "Marco Tempest Magic", "iPod Truth and Lies"]
+author: "Swaroop"
+authors: ["swaroop"]
 aliases: ["/apple/magician-preaches-the-truth-about-lies-using-ipods-video"]
 ---
 <p>We're seeing a lot of <a href="/ipad/the-ipad-2-magic-video/" target="_blank">magic tricks</a> involving technology. Here's another one and *ahem* and this time you'll learn a thing or two about lies in this one.</p>

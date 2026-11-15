@@ -4,6 +4,8 @@ date: 2010-12-16T22:32:27
 url: /science/scientists-grow-hair-follicles-from-stem-cells-cure-for-baldness/
 categories: ["Science"]
 tags: ["hair follicle from stem cell", "cure for baldness", "baldness stem cell research", "transplant hair follicles", "stem cell research"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>All these years, men have struggled with their receding hairlines. I've seen people try a million treatments which kinda sorta fix it. But I never imagined serious scientists were working on it! Scientists in Germany have successfully grown hair follicles from the stem cells of animals. This apparently can result in a possible cure for baldness.</p>
 <p>Let me provide some basic information about Stem cells. According to <a href="http://en.wikipedia.org/wiki/Stem_cell" target="_blank">Wikipedia</a>:</p>

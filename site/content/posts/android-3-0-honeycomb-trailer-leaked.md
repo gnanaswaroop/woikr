@@ -4,6 +4,8 @@ date: 2011-01-06T05:58:58
 url: /android/android-3-0-honeycomb-trailer-leaked/
 categories: ["Android"]
 tags: ["android", "honeycomb", "android tablet", "motorola tablet"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p>We all saw the video from Motorola about their <a href="/misc/the-motorola-android-tablet-teaser-video">upcoming tablet running Honeycomb</a> - The next version of Android designed specifically for tablets.</p>
 <p>It looks like another video intended to demonstrate the upcoming mobile OS's capabilities have been leaked on to the web. And it looks pretty amazing:</p>

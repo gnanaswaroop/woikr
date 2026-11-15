@@ -4,6 +4,8 @@ date: 2011-01-21T11:52:54
 url: /iphone/verizon-iphone-ad-video/
 categories: ["iPhone"]
 tags: ["Verizon iPhone", "Verizon iPhone Ad", "Advertisement videos", "iPhone Ads", "iPhone Advertisement"]
+author: "Swaroop"
+authors: ["swaroop"]
 aliases: ["/iphone/verizon-iphone-ad-video"]
 ---
 Verizon released an advertisement conveying thanks to all the customers who believed the Verizon iPhone would be possible eventually. Here's the video.

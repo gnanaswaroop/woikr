@@ -4,6 +4,8 @@ date: 2012-08-30T21:03:16
 url: /news/recharge-your-delhi-gurgaon-expressway-smart-tag-via-paytm/
 categories: ["News"]
 tags: ["recharge toll cards online", "toll card online india"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="paytm-logo.png" src="/wp/wp-content/uploads/2012/08/paytm-logo.png" alt="paytm logo" width="133" height="47" /></p>
 <p>Online recharge website <a href="https://www.paytm.com">paytm</a> is now offering online recharging facility for Delhi - Gurgaon expressway smart tags. All you have to go is enter your smart tag number and select a recharge amount in line with your plan and you can instantly recharge your smart tag online.</p>

@@ -4,6 +4,8 @@ date: 2008-11-11T16:15:49
 url: /news/iphone-3g-best-selling-handset-in-the-us-worst-sales-in-india/
 categories: ["News"]
 tags: ["iphone 3G sales", "iphone 3G", "iPhone", "iphone 3g price", "iphone 3G india", "iphone 3g US"]
+author: "Setu"
+authors: ["setu"]
 ---
 <a href="/wp/wp-content/uploads/2008/11/iphone_sales.png"><img class="alignnone size-medium wp-image-1691" title="iphone_sales" src="/wp/wp-content/uploads/2008/11/iphone_sales-300x251.png" alt="" width="300" height="251" /></a>
 <p>Apple iPhone 3G has surpassed Motorola's Razr to become the best selling mobile handset in the US. Approx 7 million iPhones were sold in the last quarter surpassing Motorola Razr as well as the BlackBerry Curve.</p>

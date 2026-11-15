@@ -4,6 +4,8 @@ date: 2010-12-28T10:32:43
 url: /android/android-to-get-a-revamped-music-player/
 categories: ["Android"]
 tags: ["android media", "android music player", "music player", "honeycomb", "android 3.0", "android mp3 player", "video player"]
+author: "Swaroop"
+authors: ["swaroop"]
 ---
 <p>With hardware companies getting into the “Android Media player” gadgets like <a href="/android/samsung-announces-yet-another-ipod-touch-killer-to-be" target="_blank">this</a>, and screen sizes on mobile phones and tablets growing bigger it’s time Android get serious about the phone being used as a complete media player.</p>
 <p>A leaked video surfaced which supposedly shows a revamped music player experience in the upcoming Android version (3.0 – honey comb) to be a head-on competition to the music dominator Apple’s iPod.</p>

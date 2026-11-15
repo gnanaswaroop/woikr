@@ -4,6 +4,8 @@ date: 2010-12-29T23:24:50
 url: /android/t-mobile-g2-comes-to-india-as-htc-desire-z-selling-for-25799/
 categories: ["Android", "Mobile Phones"]
 tags: ["HTC Desire Z", "htc desire india", "T-Mobile G2", "T-Mobile G2 price", "T-Mobile G2 India", "HTC Desire Z price"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p><a href="http://en.wikipedia.org/wiki/HTC_Dream" target="_blank">T-Mobile G1</a> was the phone which started <a href="http://www.android.com/" target="_blank">it all</a>. It was bashed by the media, butchered by iPhone fanboys but secretly loved by early adopters. It was an iconic phone but it never came to India. The next version called T-Mobile G2 and also knows as HTC Desire Z, has however landed here. For Rs. 25799 the price isn't bad either!</p>
 

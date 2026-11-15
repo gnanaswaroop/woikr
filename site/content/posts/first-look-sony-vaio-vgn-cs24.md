@@ -4,6 +4,8 @@ date: 2009-05-14T23:46:24
 url: /first-look/first-look-sony-vaio-vgn-cs24/
 categories: ["First Look", "Laptops"]
 tags: ["sony", "sony vaio", "sony vaio CS series", "vaio cs 24 review", "vgn cs24 configuration specs price"]
+author: "Setu"
+authors: ["setu"]
 ---
 <a href="/wp/wp-content/uploads/2009/05/vaio-cs-logo.png"><img title="vaio_cs_logo" src="/wp/wp-content/uploads/2009/05/vaio-cs-logo-thumb.png" alt="vaio_cs_logo" width="240" height="94" /></a>
 <p><a href="/tag/sony">Sony</a> India launched its CS series of laptop in India some time back. The CS series has been doing pretty well in the US and Sony has added a lot of laptops to this range in India. Today we look at the <a href="http://www.sony.co.in/microsite/vaio/products/vaio_cs/vgn_cs24g/index.html" target="_blank">VGN-CS24</a>.</p>

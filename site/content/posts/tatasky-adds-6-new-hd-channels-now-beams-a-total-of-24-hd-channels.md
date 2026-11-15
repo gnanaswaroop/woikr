@@ -4,6 +4,8 @@ date: 2014-02-04T14:42:00
 url: /home-entertainment/tatasky-adds-6-new-hd-channels-now-beams-a-total-of-24-hd-channels/
 categories: ["Home Entertainment"]
 tags: ["tatasky", "tatasky hd capacity", "tatasky hd india", "HD India", "hd channels india", "hd dth india"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="tatasky-hd-logo.png" src="/wp/wp-content/uploads/2012/02/tatasky-hd-logo.png" alt="tatasky hd logo" width="284" height="177" /></p>
 <p>In a surprising move, TataSky has added 6 HD channels on its DTH platform taking the total HD channel count on the platform to 24. The new channels are Life OK HD, ZStudio HD, CNBC TV Prime HD, Sun HD, Gemini TV HD and Sony Six HD on channel numbers 108, 348, 512, 703, 749 and 420.</p>

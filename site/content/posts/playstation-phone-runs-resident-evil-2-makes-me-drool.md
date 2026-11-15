@@ -4,6 +4,8 @@ date: 2011-01-10T23:00:49
 url: /gaming/playstation-phone-runs-resident-evil-2-makes-me-drool/
 categories: ["Gaming", "Android", "Rumors", "Mobile Phones"]
 tags: ["Sony Xperia Play", "Sony Playstation Phone", "Android Playstation", "Playstation Phone Video", "Playstation Phone runs PSP games", "Resident Evil 2 on Phone", "Resident Evil Playstation Phone"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>I recently posted some leaked images, specs and videos of Xperia Play, the PlayStation Phone, and mentioned that if it runs Playstation One/PSX and PSP games I'll be buying it the first day. Seems like my dream is coming true. The Playstation phone can actually run old Playstation games! The titles have to be loaded through some emulator called ROM Buddy but it works.</p>
 <p>Here is a video of some lucky guy playing Resident Evil 2 and Rage Racer on the Playstation Phone. I so hope it's not a fake video. Watch it. I'll go and grab a tissue.</p>

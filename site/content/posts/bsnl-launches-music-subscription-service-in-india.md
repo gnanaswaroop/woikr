@@ -4,6 +4,8 @@ date: 2009-03-30T11:40:56
 url: /news/bsnl-launches-music-subscription-service-in-india/
 categories: ["News"]
 tags: ["Music download India", "Bollywood music download service", "legal music downloads india", "BSNL Hungama", "Indian music subscription"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <a href="/wp/wp-content/uploads/2009/03/hungama.png"><img class="alignnone size-medium wp-image-2377" title="hungama" src="/wp/wp-content/uploads/2009/03/hungama-300x116.png" alt="hungama" width="300" height="116" /></a>
 

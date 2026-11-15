@@ -4,6 +4,8 @@ date: 2013-09-13T01:09:32
 url: /news/the-iphone-5c-and-5s-are-here/
 categories: ["News", "Apple", "iPhone"]
 tags: ["iphone 2013", "iphone 5s", "new iphone", "iphone 5c"]
+author: "Setu"
+authors: ["setu"]
 aliases: ["/apple/the-iphone-5c-and-5s-are-here/", "/apple/the-iphone-5c-and-5s-are-here"]
 ---
 <p><img title="apple-sept-2013-event-pic.png" src="/wp/wp-content/uploads/2013/09/apple-sept-2013-event-pic.png" alt="apple sept 2013 event pic" width="320" height="240" /></p>

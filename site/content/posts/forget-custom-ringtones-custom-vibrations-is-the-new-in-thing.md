@@ -4,6 +4,8 @@ date: 2011-06-10T12:25:26
 url: /iphone/forget-custom-ringtones-custom-vibrations-is-the-new-in-thing/
 categories: ["iPhone"]
 tags: ["custom vibrations", "accessibility iOS", "iOS 5 new features", "iPhone"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="iOS-5-logo.png" src="/wp/wp-content/uploads/2011/06/iOS-5-logo.png" alt="iOS-5-logo" width="60" height="60" /></p>
 <p>Another new feature that we are hearing about in <a href="/apple/all-about-apples-new-software-products-announced-at-wwdc-2011/">iOS 5</a> is custom vibrations. This is basically an accessibility feature, but can be deployed in many useful ways. Once you enable custom vibrations from Settings -&gt; General -&gt; Accessibility, you can create a custom vibrations for each contact in your contact list. This way, your phone will vibrate in different patterns when different people call. And creating a vibration patter is as easy as tapping on the screen in the rhythm you want your iPhone to vibrate. In addition to this, you can also set the LED flash on the iPhone 4 to flash when someone calls you.</p>

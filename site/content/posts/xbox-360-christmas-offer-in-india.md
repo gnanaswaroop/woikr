@@ -4,6 +4,8 @@ date: 2008-12-17T15:50:33
 url: /news/xbox-360-christmas-offer-in-india/
 categories: ["News"]
 tags: ["xbox", "Xbox 360", "xbox india", "xbox 360 india", "XBox Diwali offer", "xbox christmas offer", "xbox offer india", "xbox core combo"]
+author: "Setu"
+authors: ["setu"]
 ---
 <a href="/wp/wp-content/uploads/2008/12/xbox360logo.jpg"><img class="alignnone size-medium wp-image-1814" title="xbox360logo" src="/wp/wp-content/uploads/2008/12/xbox360logo-300x195.jpg" alt="" width="300" height="195" /></a>
 

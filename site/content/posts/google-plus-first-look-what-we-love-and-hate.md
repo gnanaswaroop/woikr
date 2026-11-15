@@ -4,6 +4,8 @@ date: 2011-06-30T15:18:41
 url: /google/google-plus-first-look-what-we-love-and-hate/
 categories: ["Google"]
 tags: ["Google Plus", "Google Plus Vs Facebook", "Google Plus pros and cons", "Google Plus and Facebook advantages", "How to Group Video chat"]
+author: "Swaroop"
+authors: ["swaroop"]
 ---
 <a href="/wp/wp-content/uploads/2011/06/GooglePlus.png"><img title="GooglePlus" src="/wp/wp-content/uploads/2011/06/GooglePlus_thumb.png" alt="GooglePlus" width="156" height="49" /></a>
 

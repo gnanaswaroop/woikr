@@ -4,6 +4,8 @@ date: 2010-12-30T11:19:08
 url: /ipad/skype-video-calling-now-available-for-ios-iphoneipad/
 categories: ["iPad", "iPhone"]
 tags: ["skype video calls", "video calls", "skype facetime", "video facetime", "facetime", "iPhone facetime", "facetime vs skype", "skype iPhone"]
+author: "Swaroop"
+authors: ["swaroop"]
 ---
 <p>Last week’s <a href="http://blogs.skype.com/en/2010/12/cio_update.html" target="_blank">Skype outage</a> brought a lot of things to perspective,People who use it for business (read serious stuff) were screaming at Skype for dropped calls and the service being down for a freaking 24 hours!!, I was there too when it happened. Thankfully this happened when the meeting was almost ending.</p>
 <p>The Skype Video calling for iPhone is happening sooner than <a href="/iphone/skype-video-chat-coming-soon-to-ios" target="_blank">earlier expected</a> (CES 2011).</p>

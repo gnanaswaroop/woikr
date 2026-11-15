@@ -4,6 +4,8 @@ date: 2014-09-10T07:55:46
 url: /news/this-is-the-apple-watch/
 categories: ["News", "Apple"]
 tags: ["apple watch", "iwatch"]
+author: "Setu"
+authors: ["setu"]
 aliases: ["/apple/this-is-the-apple-watch/", "/apple/this-is-the-apple-watch"]
 ---
 <p><img title="apple watch logo.png" src="/wp/wp-content/uploads/2014/09/apple-watch-logo.png" alt="apple watch logo" width="238" height="65" /></p>

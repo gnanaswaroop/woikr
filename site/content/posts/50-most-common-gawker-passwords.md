@@ -4,6 +4,8 @@ date: 2010-12-16T23:21:18
 url: /misc/50-most-common-gawker-passwords/
 categories: ["Misc"]
 tags: ["50 most common passwords", "gawker media passwords", "password security"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p><a href="http://blogs.wsj.com/digits/2010/12/13/the-top-50-gawker-media-passwords/" target="_blank">WSJ Blog Digits</a> made a list of the 50 most common passwords from the <a href="/misc/gawker-media-lifehacker-gizmodo-passwords-hacked" target="_blank">list recently leaked from Gawker's database</a>. Most of the passwords are expectedly simple to guess including the top 3 ("123456", "password" and "12345678"). Some are related to one of Gawker Media websites like "lifehack" and "gizmodo" and some are popular keywords like "starwars" and "nintendo" . But some passwords are downright surprising. The ones I found most unexpected were - "monkey", "0", "michelle" and "pepper". I'm sure people have their logic behind it though. Or maybe I just didn't know that monkeys were so popular and Michelle was such a popular name (Jennifer, I understand).</p>
 <p>Here is the list of Top 50 passwords. The good folks at WSJ have highlighted the ones that belong to Gawker Media websites.</p>

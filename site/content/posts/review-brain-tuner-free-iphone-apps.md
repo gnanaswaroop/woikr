@@ -4,6 +4,8 @@ date: 2008-09-16T10:19:22
 url: /gaming/review-brain-tuner-free-iphone-apps/
 categories: ["Gaming", "Apple", "iPhone", "Reviews"]
 tags: ["brain tuner", "iphone apps", "brain exercise", "iphone brain", "iphone brain game", "iphone game"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img class="alignnone" src="/wp/wp-content/uploads/2008/09/brain_tuner_lead.png" alt="" width="593" height="225" /></p>
 <p>Brain Tuner (Lite) is a free app available for the iPhone and iPod Touch [<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=287360582&amp;mt=8" target="_blank">iTunes store URL</a>]. It is a very simple and intuitive app to get some exercise for your brain.</p>

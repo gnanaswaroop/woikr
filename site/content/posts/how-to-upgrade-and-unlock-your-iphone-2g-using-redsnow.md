@@ -4,6 +4,8 @@ date: 2009-06-21T10:51:58
 url: /iphone/how-to-upgrade-and-unlock-your-iphone-2g-using-redsnow/
 categories: ["iPhone"]
 tags: ["iphone 3.0", "iPhone", "3.0 firmware unlock", "iphone 2G unlock", "iphone 3G jailbreak", "iPod touch jainbreak", "redsn0w", "redsnow", "dev team unlock"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p>The iPhone’s latest 3.0 firmware is here. And as promised, it brings tons of new features (most importantly cut, copy &amp; paste) to the iPhone. This is a guide to upgrade and unlock your iPhone 2G to firmware 3.0 using redsn0w. redsn0w is developed by the <a href="http://blog.iphone-dev.org/" target="_blank">iPhone dev team</a> and succeeds the good old <a href="/iphone/how-to-upgrade-and-unlock-your-iphone-2g-using-quickpwn" target="_blank">QuickPwn</a>. This guide can also be used to jailbreak your iPod touch and iPhone 3G. No support for iPhone 3G S yet.</p>
 <p>The current version of redsn0w has known issues with mac OS X on power PC based systems. Use it on an intel based mac until the dev team addresses them.</p>

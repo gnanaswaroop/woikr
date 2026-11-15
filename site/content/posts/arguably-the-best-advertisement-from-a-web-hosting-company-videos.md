@@ -4,6 +4,8 @@ date: 2011-02-08T23:39:55
 url: /lol/arguably-the-best-advertisement-from-a-web-hosting-company-videos/
 categories: ["LOL"]
 tags: ["Web Hosting", "Domain Registration", "BigRock", "BigRock Domains", "Savitri Bai", "Funny Videos", "Funny Advertisements"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>There are so many reasons this ad deserves a look. One, it's a TV advertisement by a Indian Web Hosting/Domain Registration company. Two, not only is it funny, the acting and direction are surprisingly good. Three, it is catchy enough to make you open the website and look what BigRock is.</p>
 <strong>Savitri Bai BigRock TV Commercial</strong>

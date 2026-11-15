@@ -4,6 +4,8 @@ date: 2010-11-07T14:31:52
 url: /android/twitter-facebook-release-updated-apps-on-android/
 categories: ["Android"]
 tags: ["twitter android", "facebook android"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>Both Facebook and Twitter release proper apps on Android recently. While marked as minor version upgrades, both have a great new feature list which makes them much closer to the respective iPhone apps.</p>
 <p><strong>Facebook for Android</strong></p>

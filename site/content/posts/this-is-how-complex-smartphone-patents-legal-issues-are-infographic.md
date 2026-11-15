@@ -4,6 +4,8 @@ date: 2011-08-21T11:51:41
 url: /mobile-phones/this-is-how-complex-smartphone-patents-legal-issues-are-infographic/
 categories: ["Mobile Phones"]
 tags: ["Smartphone Patent Suits", "Smartphone patent issues", "Who is suing whom for mobile phones", "Motorola Google deal"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 Everyone who follows tech news knows that smartphone manufactures are neck deep in legal issues related to patents. It seems like everyone is suing everyone for one reason or the other. In fact recently, Google bought Motorola Mobility for $12.5 billions and according to pundits the primary reason is the vast amount of patents the latter have in their kitty.
 

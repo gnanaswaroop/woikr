@@ -4,6 +4,8 @@ date: 2008-10-27T17:00:38
 url: /news/create-an-itunes-store-account-without-a-credit-card/
 categories: ["News", "Apple"]
 tags: ["itunes store account", "itunes credit card", "itunes without credit card", "buy from itunes", "itunes account without credit card", "app store credit card", "download free apps from itunes", "app store without credit card", "app store india", "iPhone", "free itunes account", "itunes account without redemption code"]
+author: "Setu"
+authors: ["setu"]
 ---
 <a href="/wp/wp-content/uploads/2008/10/itunes.jpg"><img class="alignnone size-full wp-image-1551" title="itunes" src="/wp/wp-content/uploads/2008/10/itunes.jpg" alt="" width="500" height="192" /></a>
 <p><strong>UPDATE</strong>: Apparently, there is an alternative method available for this purpose which does not involve hunting for a coupon code. Its actually pretty simple. Here is the link: <a href="http://justinciappara.wordpress.com/2008/10/06/free-itunes-account-without-redemption-code/" target="_blank">http://justinciappara.wordpress.com/2008/10/06/free-itunes-account-without-redemption-code/</a></p>

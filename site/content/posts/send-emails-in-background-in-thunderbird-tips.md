@@ -4,6 +4,8 @@ date: 2009-10-05T00:17:49
 url: /howto/send-emails-in-background-in-thunderbird-tips/
 categories: ["How Tos"]
 tags: ["thunderbird", "outbox", "background sending", "send in background", "outbox for thunderbird", "blunderdelay", "mozilla"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="image" src="/wp/wp-content/uploads/2009/10/image_thumb7.png" alt="image" width="320" height="91" /></p>
 <p><a href="http://en.wikipedia.org/wiki/Mozilla_Thunderbird" target="_blank">Thunderbird</a> is an awesome open source email client. People switching from Outlook to Thunderbird find it annoying that it <span>does not have an Outbox folder and</span> opens a new dialog box (for a few seconds) while it sends emails.</p>

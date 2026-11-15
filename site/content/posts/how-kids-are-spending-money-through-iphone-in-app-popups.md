@@ -4,6 +4,8 @@ date: 2011-01-06T08:45:16
 url: /misc/how-kids-are-spending-money-through-iphone-in-app-popups/
 categories: ["Misc", "Apple", "iPhone"]
 tags: ["In App Purchases", "In App Purchases Kids", "Kids Spending Money", "In-App Popups"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 Some time back Apple announced the innovative way to buy accessories and add-on game content from right inside the Apps on your iPhone. This means that a downloaded game/app can show you a pop-up that allows you to buy, say additional weapons, for some price. The problem is that nowadays a lot of kids are playing games on these devices. And they make mistakes.
 

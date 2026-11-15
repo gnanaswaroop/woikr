@@ -4,6 +4,8 @@ date: 2009-02-27T12:12:41
 url: /news/bsnl-launches-3g-service-in-india/
 categories: ["News"]
 tags: ["bsnl", "bsnl 3g", "3g india", "iphone 3G", "3g broadband", "mobile broadband"]
+author: "Setu"
+authors: ["setu"]
 ---
 <a href="/wp/wp-content/uploads/2009/02/3ghome.jpg"><img class="alignnone size-full wp-image-2189" title="3ghome" src="/wp/wp-content/uploads/2009/02/3ghome.jpg" alt="3ghome" width="196" height="210" /></a>
 <p>Following the launch of  <a href="/3g/mtnl-launches-3g-telecom-service-in-india/" target="_blank">"Jadoo" by MTNL</a>, state owned Bharat Sanchar Nigam Ltd. (<a href="http://www.bsnl.co.in" target="_blank">BSNL</a>) has launched 3G cellular services in India.</p>

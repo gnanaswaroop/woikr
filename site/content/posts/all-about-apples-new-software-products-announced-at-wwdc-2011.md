@@ -4,6 +4,8 @@ date: 2011-06-10T11:41:29
 url: /apple/all-about-apples-new-software-products-announced-at-wwdc-2011/
 categories: ["Apple"]
 tags: ["wwdc", "WWDC 2011", "iOS 5", "iCloud", "lion", "Mac OS X Lion"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="lion-mac.png" src="/wp/wp-content/uploads/2011/06/lion-mac.png" alt="lion mac" width="60" height="60" /><img title="iOS-5-logo.png" src="/wp/wp-content/uploads/2011/06/iOS-5-logo.png" alt="iOS-5-logo" width="60" height="60" /> <img title="icloud-logo.png" src="/wp/wp-content/uploads/2011/06/icloud-logo.png" alt="icloud logo" width="60" height="60" /></p>
 <p>Apple recently concluded a keynote presentation at their <a href="http://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference">World Wide Developer Conference</a> (WWDC) in San Francisco. Though we did not get to see any new Apple hardware, Steve Jobs and group did announce a couple of super awesome software products in the line. This post will talk about each of them. So buckle up, this is going to be a long one.</p>

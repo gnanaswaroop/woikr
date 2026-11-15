@@ -4,6 +4,8 @@ date: 2011-02-13T00:04:29
 url: /android/android-2-4-will-also-be-called-gingerbread-rumor/
 categories: ["Android", "Rumors"]
 tags: ["Nexus S 2.4", "android", "Android Gingerbread", "Android 2.4", "android 2.3", "ViewSonic ViewPad 4"]
+author: "Chirag"
+authors: ["chirag"]
 aliases: ["/rumors/android-2-4-will-also-be-called-gingerbread-rumor/"]
 ---
 <p>I guess this is the third time we are talking about Android 2.4. First, we thought <a href="/android/is-honeycomb-android-3-or-2-4">it was Honeycomb</a>. Since H follows G and Gingerbread was Android 2.3, it seemed like the obvious name. But turned out Honeycomb was destined for bigger things. Then we heard a rumor saying <a href="/android/next-android-release-will-be-called-ice-cream-sandwich">2.4 was actually supposed to be called Ice Cream Sandwich</a>. Not Ice Cream because it looks similar to Frozen Yoghurt but Android 2.2 vs 2.4 don't. Yeah lame explanation I know.</p>

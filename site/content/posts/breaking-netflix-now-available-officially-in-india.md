@@ -4,6 +4,8 @@ date: 2016-01-07T01:47:32
 url: /news/breaking-netflix-now-available-officially-in-india/
 categories: ["News"]
 tags: ["netflix india", "netflix outside usa"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="netflix-logo.png" src="/wp/wp-content/uploads/2016/01/netflix-logo.png" alt="netflix logo" width="300" height="150" /></p>
 

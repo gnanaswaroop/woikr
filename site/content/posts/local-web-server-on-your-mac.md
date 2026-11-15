@@ -4,6 +4,8 @@ date: 2010-09-23T19:09:44
 url: /mac/local-web-server-on-your-mac/
 categories: ["Mac"]
 tags: ["Mac Apache Web Server", "Snow Leopard PHP", "Mac PHP", "Snow leopard web server"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>On Windows I've always used <a href="http://www.apachefriends.org/en/xampp.html" target="_blank">XAMPP</a> for all the small PHP scripts I used to write. I was about to download it's Mac version today but I thought, "Snow Leopard is basically *nix. I'm sure they have some PHP!". I was right.  The procedure to setup a basic web server with PHP support is something that Apple may not be proud of but it's fairly simple for someone who knows his way around a terminal. Read ahead for the steps.
 

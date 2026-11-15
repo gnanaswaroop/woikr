@@ -4,6 +4,8 @@ date: 2010-12-14T10:30:01
 url: /misc/gawker-media-lifehacker-gizmodo-passwords-hacked/
 categories: ["Misc"]
 tags: ["Gizmodo password hacked", "Lifehacker account hacked", "Gawker password hacked", "Gawker account compromise check"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>Gawker Media has <a href="http://lifehacker.com/5712785/faq-compromised-commenting-accounts-on-gawker-media" target="_blank">reported</a> that their servers have been compromised and the commenting user account's passwords have possibly leaked. If you ever commented on any of the Gawker Media websites (<a href="http://lifehacker.com" target="_blank">Lifehacker</a>, <a href="http://gizmodo.com" target="_blank">Gizmodo</a>, <a href="http://gawker.com" target="_blank">Gawker</a>, <a href="http://jezebel.com" target="_blank">Jezebel</a>, <a href="http://io9.com" target="_blank">io9</a>, <a href="http://jalopnik.com" target="_blank">Jalopnik</a>, <a href="http://kotaku.com" target="_blank">Kotaku</a>, <a href="http://deadspin.com" target="_blank">Deadspin</a> and <a href="http://fleshbot.com" target="_blank">Fleshbot</a>) you should be worried.</p>
 <p>Here is what you need to do:</p>

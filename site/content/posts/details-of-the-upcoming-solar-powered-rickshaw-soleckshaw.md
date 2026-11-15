@@ -4,6 +4,8 @@ date: 2010-04-25T10:00:00
 url: /news/details-of-the-upcoming-solar-powered-rickshaw-soleckshaw/
 categories: ["News"]
 tags: ["soleckshaw", "solar powered rickshaw", "rickshaw in india", "green initiative india", "csir"]
+author: "Setu"
+authors: ["setu"]
 ---
 <img title="image" src="/wp/wp-content/uploads/2010/04/image26.png" alt="image" width="448" height="336" />
 <p>The Council of Scientific and Industrial Research (<a href="http://www.csir.res.in/" target="_blank">CSIR</a>), New Delhi (don’t bother clicking through, their site sucks) have come up with an eco friendly solar powered rickshaw for India.</p>

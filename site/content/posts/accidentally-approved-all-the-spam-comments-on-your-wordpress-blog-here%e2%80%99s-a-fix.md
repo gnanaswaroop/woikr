@@ -4,6 +4,8 @@ date: 2011-02-08T00:11:35
 url: /howto/accidentally-approved-all-the-spam-comments-on-your-wordpress-blog-here%e2%80%99s-a-fix/
 categories: ["How Tos", "Blogging"]
 tags: ["wordpress tricks", "wordpress akismet fix", "how to re-check spam comments", "wordpress akismet approved comments", "wordpress akismet tables"]
+author: "Swaroop"
+authors: ["swaroop"]
 aliases: ["/howto/accidentally-approved-all-the-spam-comments-on-your-wordpress-blog-here%e2%80%99s-a-fix"]
 ---
 We recently had a mishap while trying out <a href="http://intensedebate.com/">IntenseDebate</a> integration on woikr.com. While importing all our existing comments, it marked all spam comments as approved. It left us with over 6000 comments out of which over 50% were spam and we had no way to separate them from the legitimate ones. It was a disaster.

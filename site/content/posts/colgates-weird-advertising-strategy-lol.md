@@ -4,6 +4,8 @@ date: 2009-09-17T14:31:38
 url: /lol/colgates-weird-advertising-strategy-lol/
 categories: ["LOL"]
 tags: ["colgate", "ice cream"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p>Colgate has taken up a weird advertising campaign in Bangkok. Take a look at it for yourself. It is kind of intelligent and foolish at the same time:</p>
 

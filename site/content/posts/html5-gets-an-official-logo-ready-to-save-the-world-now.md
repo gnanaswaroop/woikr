@@ -4,6 +4,8 @@ date: 2011-01-18T18:39:12
 url: /news/html5-gets-an-official-logo-ready-to-save-the-world-now/
 categories: ["News"]
 tags: ["HTML5", "HTML5 Logo", "HTML5 W3C", "HTML5 T-shirts"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <img class="alignnone size-medium wp-image-6325" title="HTML5_Logo_512" src="/wp/wp-content/uploads/2011/01/HTML5_Logo_512-300x300.png" alt="HTML5 Logo" width="300" height="300" />
 <p>W3C has <a href="http://www.w3.org/html/logo/" target="_blank">announced </a>a shiny new official logo for HTML 5. The logo is featured on a swanky website and contains some fancy and bold statements from W3C.</p>

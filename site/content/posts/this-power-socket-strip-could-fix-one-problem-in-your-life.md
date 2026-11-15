@@ -4,6 +4,8 @@ date: 2010-12-25T21:57:13
 url: /misc/this-power-socket-strip-could-fix-one-problem-in-your-life/
 categories: ["Misc"]
 tags: ["Power Strip Design", "Power Socket Problems"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <a href="/wp/wp-content/uploads/2010/12/power_strip_design_1.jpg"></a>
 <div>If anyone tells me they haven't had issues with the Power Socket strips, I'd refuse to believe them. None of the chargers/plugs look alike. Some bulge to left, some to right and some are wide enough to cover up the left and right both.</div>

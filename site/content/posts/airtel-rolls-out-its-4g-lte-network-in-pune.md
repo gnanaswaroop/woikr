@@ -4,6 +4,8 @@ date: 2012-10-18T19:48:05
 url: /telecom/airtel-rolls-out-its-4g-lte-network-in-pune/
 categories: ["Telecom"]
 tags: ["Airtel", "airtel 4G", "4G LTE india"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="airtel 4G LTE.png" src="/wp/wp-content/uploads/2012/04/airtel-4G-LTE.png" alt="airtel 4G LTE" width="240" height="30" /></p>
 <p>After successful roll out in Bangalore and Kolkata, airtel has launched it 4G LTE network in Pune. Currently, the services are only available for postpaid consumers, however, prepaid plans should follow soon.</p>

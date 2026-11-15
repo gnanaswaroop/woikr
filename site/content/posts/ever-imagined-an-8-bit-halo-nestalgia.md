@@ -4,6 +4,8 @@ date: 2011-01-24T00:05:09
 url: /gaming/ever-imagined-an-8-bit-halo-nestalgia/
 categories: ["Gaming"]
 tags: ["NES", "Nintendo Entertainment System", "8-Bit Video Games", "8-Bit Halo", "Halo Free Download", "8-Bit Halo for PC", "NES Games on PC"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>While it's no Super Mario Bros, Halo is arguably one of the most popular games of all time. Did you ever wonder how it would look if it was launched on the 8-Bit NES consoles (Nintendo Entertainment System) along with likes of Mario, Zelda and Contra? The guys at Pixel Force have done exactly that. Video and official description ahead.</p>
 <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="599" height="362" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/VW5IMmfDvmQ?fs=1&amp;hl=en_US&amp;rel=0" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="599" height="362" src="http://www.youtube.com/v/VW5IMmfDvmQ?fs=1&amp;hl=en_US&amp;rel=0" allowfullscreen="true" allowscriptaccess="always"></embed></object><br>

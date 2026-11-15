@@ -4,6 +4,8 @@ date: 2012-05-29T20:37:49
 url: /howto/how-to-access-blocked-torrents-sites-on-airtel-broadband/
 categories: ["How Tos", "Telecom"]
 tags: ["torrent", "torrents", "airtel broadband", "airtel torrents"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="" src="/wp/wp-content/uploads/2011/01/NewImage62.jpg" alt="" width="" height="" /></p>
 <p>I recently shifted back to Airtel broadband partly due to incompetence of BSNL engineers to fix the frequent disconnection issue with my connection, and partly because <a href="/telecom/airtel-launches-affordable-high-speed-8-mbps-and-16-mbps-broadband-plans/">Airtel is now offering much cheaper high speed 8 Mbps and 16 Mbps plans</a>.</p>

@@ -4,6 +4,8 @@ date: 2011-02-19T12:03:32
 url: /misc/how-computers-evolved-from-1939-to-2010-infographic/
 categories: ["Misc"]
 tags: ["Infographic", "HP Complex Number Calculator", "Computers Timeline", "History Of Computers"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>Here is an detailed infographic that shows all the major computing devices released in the last 71 years. The list starts from 1939 when HP released the HP200A Audio Oscillator that was used as a sound effects generator in the Disney Movie "Fantasia" and ends at the iPad in 2010.</p>
 <p>Grab a cup of coffee and read on.</p>

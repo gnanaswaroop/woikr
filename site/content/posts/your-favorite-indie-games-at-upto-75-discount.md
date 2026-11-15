@@ -4,6 +4,8 @@ date: 2009-08-09T13:16:33
 url: /gaming/your-favorite-indie-games-at-upto-75-discount/
 categories: ["Gaming"]
 tags: ["games on discount", "indie games", "75% discount games", "steam games on discount", "Braid PC", "The Path discount", "World of Goo discount", "Steam weekend discount"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <a href="/wp/wp-content/uploads/2009/08/steam_weekend_deal.jpg"><img class="alignnone" title="steam_weekend_deal" src="/wp/wp-content/uploads/2009/08/steam_weekend_deal-300x139.jpg" alt="steam_weekend_deal" width="300" height="139" /></a>
 

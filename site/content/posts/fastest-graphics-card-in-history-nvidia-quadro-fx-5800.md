@@ -4,6 +4,8 @@ date: 2008-11-10T22:18:46
 url: /gaming/fastest-graphics-card-in-history-nvidia-quadro-fx-5800/
 categories: ["Gaming", "News"]
 tags: ["gpu", "graphicscard", "graphics card", "nvidia quadro", "fastest gpu", "quadro fx 5800"]
+author: "Swaroop"
+authors: ["swaroop"]
 ---
 <p>A powerful graphic's card is any gamer's best wish, of course coupled with the right games to stress it to the extreme. NVIDIA took a huge leap in this race to create the most powerful graphics card in history with this release of NVIDIA Quadro FX 5800 (I am optimistic to see more before I get <a href="http://en.wikipedia.org/wiki/Pwn" target="_blank">pwned</a>).</p>
 <p><a href="/wp/wp-content/uploads/2008/11/quadro_fx5800_med_3qtr.png"><img class="alignnone size-full wp-image-1663" title="quadro_fx5800_med_3qtr" src="/wp/wp-content/uploads/2008/11/quadro_fx5800_med_3qtr.png" alt="" width="435" height="272" /></a></p>

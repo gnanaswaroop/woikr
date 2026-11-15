@@ -4,6 +4,8 @@ date: 2008-08-26T18:55:55
 url: /gaming/review-logitech-z-5500-digital-51-speaker-system/
 categories: ["Gaming", "Reviews", "Home Entertainment"]
 tags: ["logitech 5.1 speakers", "5500", "z 5500", "5500 digital", "logitech 5500", "5.1 gaming speakers"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img class="alignnone" src="/images/logitech_5500_lead.jpg" alt="" width="593" height="225" /></p>
 <p>The Logitech Z - 5500 Digital is currently one of the preferred 5.1 speaker systems in the market. This THX certified speaker system is primarily aimed at gaming enthusiasts and movie buffs. I got a chance to try out this beast at one of the electronics mega store in Noida. Here is a review:</p>

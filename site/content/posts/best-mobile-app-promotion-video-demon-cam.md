@@ -4,6 +4,8 @@ date: 2011-08-23T08:59:11
 url: /misc/best-mobile-app-promotion-video-demon-cam/
 categories: ["Misc"]
 tags: ["Demon Cam", "Demon Cam making video", "iPhone app video", "Hollywood Special Effects making", "Special Effects creation", "Best app promotion video"]
+author: "Chirag"
+authors: ["chirag"]
 aliases: ["/misc/this-arguably-is-best-mobile-app-promotion-video-you-will-ever-see-making-included/"]
 ---
 <p>Special Effects guru Andrew Kramer came up with an idea for a simple iPhone app called Demon Cam and went on to make an extravagant promotion video as the backstory as well as tutorial for it.</p>

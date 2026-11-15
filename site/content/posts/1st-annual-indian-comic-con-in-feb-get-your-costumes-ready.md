@@ -4,6 +4,8 @@ date: 2011-01-06T18:27:10
 url: /news/1st-annual-indian-comic-con-in-feb-get-your-costumes-ready/
 categories: ["News"]
 tags: ["Indian Comic Con", "First Indian Comic Con"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>The <a href="http://en.wikipedia.org/wiki/San_Diego_Comic-Con_International" target="_blank">San Diego Comic Con</a> is one of the most loved conventions for geeky people worldwide. It gives them the chance to talk with their favorite comic creators, buy exclusive merchandise and collectibles and get sneak previews of the upcoming movies based on their favorite comic book characters. I've always wondered why we never had something of that sort in India. Seems like the folks at this startup called <a href="http://www.twentyonwardsmedia.com/" target="_blank">Twenty Onwards Media</a>, synonymous with successful TV shows like <a href="http://www.channelv.in/shows/dare2date2/" target="_blank">Dare 2 Date</a>, thought the same. They are organizing the First <a href="http://www.comicconindia.com/" target="_blank">Indian Comic Con</a> in Delhi from February 19-21, 2011.</p>
 <p><img title="first_comic_con_india" src="/wp/wp-content/uploads/2011/01/first_comic_con_india.jpg" alt="First Indian Comic Con" width="502" height="296" /></p>

@@ -4,6 +4,8 @@ date: 2011-02-28T23:29:41
 url: /misc/which-programming-language-makes-you-curse-more/
 categories: ["Misc", "Dev"]
 tags: ["Best Programming Language", "Worst Programming Language", "C++ worst", "Python is a Zen language", "Programming makes me curse"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>If you have done some amount of serious programming, you can't deny that you've cursed the language. No matter how good a programming language is, there are situations where all a programmer can do is just curse out loud. But not once did I ever think someone will actually map some stats and come up with an actual figure showing which language is the best at making you curse!</p>
 <p>Andrew Vos did the same as a weekend project. He took the same number of commit messages from 8 popular programming languages from GitHub. Then he scanned them for the <a title="Seven dirty words - Wikipedia" href="http://en.wikipedia.org/wiki/Seven_dirty_words#The_words" target="_blank">7 dirty words</a> of English language and mapped them into a bar chart. Since he took the same number of check-ins from each language, the popularity of language does not count. The results are shown ahead.</p>

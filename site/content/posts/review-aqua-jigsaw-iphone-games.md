@@ -4,6 +4,8 @@ date: 2009-05-03T22:29:49
 url: /gaming/review-aqua-jigsaw-iphone-games/
 categories: ["Gaming", "Reviews"]
 tags: ["99games", "iPhone Jigsaw", "iPhone games", "iPhone games review", "Aqua Jigsaw", "iphone apps"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 I was introduced to the concept of jigsaw puzzles when my aunt gifted a <em>“kitten-in-a-basket”</em> puzzle to me long back. It was a great new experience for me. A game that was fun, mentally challenging and above all helped me prove to my friends, how stupid they were. So, when I downloaded my review copy of Aqua Jigsaw I was expecting a similar experience.
 

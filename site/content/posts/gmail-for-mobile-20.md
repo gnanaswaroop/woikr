@@ -4,6 +4,8 @@ date: 2008-10-24T19:57:08
 url: /google/gmail-for-mobile-20/
 categories: ["Google", "News"]
 tags: ["gmail mobile", "gmail for mobile version 2.0", "gmail j2me", "gmail blackberry", "gmail"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p>Google launched a new version of Gmail for mobile for J2ME supported and Blackberry phones. The new version is faster and more reliable in low signal areas and supports basic offline access on phones like the Nokia N95, Sony Ericsson W910i, and BlackBerry Curve in addition to allowing access to multiple Gmail or Google Apps email accounts from the same application.</p>
 

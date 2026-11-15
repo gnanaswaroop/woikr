@@ -4,6 +4,8 @@ date: 2010-12-28T22:48:22
 url: /home-entertainment/lg-72-inch-3d-led-tv/
 categories: ["Home Entertainment"]
 tags: ["World's Largest TV", "72 inch LED TV", "LG 72\" TV", "LG 3D LED TV"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p><img class="alignnone size-full wp-image-5448" title="lg-lz9700-small" src="/wp/wp-content/uploads/2010/12/lg-lz9700-small.jpg" alt="" width="535" height="465" /></p>
 <p>CES is just over a week away. There will be gazillion drool worthy gadgets on display. But I have a hunch that LG's TV section will be one of the most drooled over one. All because of the mega sized 72" 3D LED TV that they are launching. I'd be leaving you with the official press release now because I am too busy imagining the sheer size of this damned thing and won't be back to senses for an hour or so.</p>

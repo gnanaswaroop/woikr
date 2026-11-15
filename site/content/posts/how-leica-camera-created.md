@@ -4,6 +4,8 @@ date: 2010-12-28T09:08:27
 url: /photography/how-leica-camera-created/
 categories: ["Photo Gear"]
 tags: ["Leica Cameras", "Leica Factory", "Leica M9", "Leica M9 titanium Price"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>Ever heard of Leica? You have if you ever read seriously about Photography. They are every Photographer's dream. Here are some videos from Leica factory that shows them being assembled by hand.</p>
 <p>If you haven't heard of Leica, look at the recently launched <a href="http://en.leica-camera.com/photography/special_editions/m9_titan/" target="_blank">Leica M9 Titanium</a> first. Just FYI, it costs around $30,000.</p>

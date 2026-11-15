@@ -4,6 +4,8 @@ date: 2011-02-15T00:43:45
 url: /iphone/apple-working-on-a-revamped-notification-system-for-ios-rumor/
 categories: ["iPhone"]
 tags: ["Apple Notification System", "Android Notification bar", "WebOS Notification Banner", "iOS Notifications", "Boxcar", "Apple buying Boxcar", "Rich Dellinger"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>The one thing where iPhone clearly lags behind Android (and Windows Phone 7 and WebOS) is the Notification system. No matter how big an Apple fanboy you are, you have to agree that the Notification system is one of the biggest problems of using an iPhone. The system was never designed to display multiple notifications. If you get multiple messages, a reminder and 2 emails, you need to individually go into the apps to even see what they are about. In Android, on the other hand, you can just drag the Notification bar down and it gives you a (configurable) brief of each notification. WebOS too has a notification banner and a dashboard to view all the notifications. Compared to them iPhone's modal popup sounds really primitive.</p>
 <p>The good news is that Apple apparently knows it and is already working on a fix. They have re-hired Rich Dellinger, the guy who built WebOS's innovative banner notification system. If Dellinger will be responsible for the next iOS's notification systems we know we can expect something amazing.</p>

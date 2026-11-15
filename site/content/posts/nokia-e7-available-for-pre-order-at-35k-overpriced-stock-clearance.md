@@ -4,6 +4,8 @@ date: 2011-03-09T00:00:35
 url: /mobile-phones/nokia-e7-available-for-pre-order-at-35k-overpriced-stock-clearance/
 categories: ["Mobile Phones"]
 tags: ["Nokia E7", "Nokia E7 Launch Date", "Nokia E7 price", "Nokia E7 India price", "Nokia E7 India release", "Nokia Windows Phone 7"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p><img class="alignnone size-medium wp-image-6416" title="nokia_e7_communicator" src="/wp/wp-content/uploads/2011/01/nokia_e7_communicator-300x258.jpg" alt="Nokia E7 Communicator" width="300" height="258" /></p>
 <p>According to my <a title="Nokia E7 Available for Pre-Order in Finland; May Come To India By Q1 End" href="/rumors/nokia-e7-available-for-pre-order-in-finland-may-come-to-india-by-q1-end">expectations</a>, Nokia's E7 was supposed to launch in India by Q1-end for 32k INR. It's coming by Q1 end for sure but to my disappointment, Nokia has priced the device higher than my expectations. The phone is available for pre-order but you have login to the website and pay an advance of 3000 INR. While Nokia hasn't mentioned anything clearly, it may take up-to a month for the phone to actually reach you.</p>

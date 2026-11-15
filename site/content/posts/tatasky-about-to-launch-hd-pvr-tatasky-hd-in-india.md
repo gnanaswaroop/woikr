@@ -4,6 +4,8 @@ date: 2011-01-29T23:21:11
 url: /home-entertainment/tatasky-about-to-launch-hd-pvr-tatasky-hd-in-india/
 categories: ["Home Entertainment"]
 tags: ["tatasky", "tatasky plus", "tatasky HD", "tata sky HD", "tatasky HD PVR", "hd pvr india"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="tataskyplus-featured.png" src="/wp/wp-content/uploads/2008/10/tataskyplus-featured.png" alt="tataskyplus-featured.png" /></p>
 <p>TataSky+ is a <a href="/home-entertainment/tata-sky-next-gen-dth-services-in-india">premium set top box (STB)</a> from TataSky which enables users to record live TV and then watch it whenever they want. You can also fast forward commercials and those irritating emotional drama sequences in your favorite reality show.</p>

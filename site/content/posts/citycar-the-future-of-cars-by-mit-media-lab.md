@@ -4,6 +4,8 @@ date: 2011-08-28T22:39:14
 url: /misc/citycar-the-future-of-cars-by-mit-media-lab/
 categories: ["Misc"]
 tags: ["2 seater electric car", "future of cars", "MIT CityCar", "CityCar Media Lab", "Car to fix parking woes", "Car from the future"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p><a href="/wp/wp-content/uploads/2011/08/citycar.jpg"><img title="Media Lab CityCar" src="/wp/wp-content/uploads/2011/08/citycar-300x237.jpg" alt="" width="300" height="237" /></a></p>
 <p>Worried about the increasing cars and diminishing parking spots in your city? Here is a possible solution, seemingly from the future. CityCar by MIT Media Lab is a car that looks like it was designed keeping parking woes in mind. This 2-seater, electric car folds to a square shaped vehicle of the width of a usual car and allows smart maneuvers like rotating on it's axis for making parking even easier.</p>

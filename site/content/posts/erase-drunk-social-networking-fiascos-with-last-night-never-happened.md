@@ -4,6 +4,8 @@ date: 2011-03-27T21:16:53
 url: /iphone/erase-drunk-social-networking-fiascos-with-last-night-never-happened/
 categories: ["iPhone"]
 tags: ["facebook", "twitter", "delete social networking posts"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="NewImage.png" src="/wp/wp-content/uploads/2011/03/NewImage24.png" alt="NewImage" width="200" height="300" /></p>
 <p>Ever been drunk and posted something embarrassing on Facebook or twitter that you regretted later and wished you could undo it? Well, there is an app for that!</p>

@@ -4,6 +4,8 @@ date: 2010-08-29T20:26:34
 url: /android/root-your-samsung-galaxy-spica-i5700/
 categories: ["Android", "Mobile Phones"]
 tags: ["Root Android", "root spica", "root samsung galaxy i5700", "samsung galaxy spica apps to sd", "samsung galaxy spica wifi tethering"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>So you've been hearing that you need to root your Android phone for making the most out of it. In our opinion it depends on your usage and Phone model. If you have a Nexus One running the latest Froyo, there aren't as many benefits you get out of rooting. But for most other models you can get alternate firmwares which remove the bloatware loaded by Manufacturer/Carrier and provide lots of extra features.</p>
 <p>Take Spica for example, without root it's an above average budget Android phone. But root it and it turns into an excellent Android phone. The amazing developers at <a href="http://forum.samdroid.net/" target="_blank">Samdroid</a> especially <a href="http://twitter.com/leshak" target="_blank">Leshak</a>, <a href="http://forum.samdroid.net/f9/samdroid-turbo-1301/" target="_blank">antibyte</a> and <a href="http://www.youtube.com/watch?v=RPyRhBtKIRk" target="_blank">Gabriel-LG</a> are totally pushing it's capabilities beyond limits.</p>

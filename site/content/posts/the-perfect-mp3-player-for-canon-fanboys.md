@@ -4,6 +4,8 @@ date: 2010-12-30T14:33:51
 url: /photography/the-perfect-mp3-player-for-canon-fanboys/
 categories: ["Photo Gear"]
 tags: ["Canon DSLR", "Canon DSLR Replica", "Canon MP3 Player"]
+author: "Chirag"
+authors: ["chirag"]
 aliases: ["/photography/the-perfect-mp3-player-for-canon-fanboys"]
 ---
 <p>This might look like the most ridiculous piece of gadget to a normal person. But for a Canon fanboy, this is a dream come true! A 1:1 replica of a Canon DSLR along with a &gt;$1000 <a href="http://www.amazon.com/Canon-24-105mm-USM-Lens-Cameras/dp/B000AZ57M6" target="_blank">L Series glass</a> that actually is a fully working MP3 player and speaker. The device can accepts input music from your PC, USB Devices or SD/MMC Cards and plays them through the built-in speaker or a standard 3.5mm headphone connector.</p>

@@ -4,6 +4,8 @@ date: 2010-11-16T17:02:09
 url: /telecom/airtel-rebranding-new-logo/
 categories: ["Telecom", "News"]
 tags: ["airtel new logo", "airtel rebranding"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>Bharti is is all set to re-brand itself. They have put in 300 crores for a makeover all over the world. The re-branding was done by <a href="http://en.wikipedia.org/wiki/JWT" target="_blank">JWT</a> and is believed to be launched next week.</p>
 <p><img title="Airtel-New-Logo" src="/wp/wp-content/uploads/2010/11/Airtel-New-Logo.jpg" alt="" width="131" height="132" /></p>

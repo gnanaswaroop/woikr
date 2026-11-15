@@ -4,6 +4,8 @@ date: 2011-03-22T22:24:22
 url: /howto/how-not-to-quit-google-chrome-by-accident-on-mac/
 categories: ["How Tos", "Google", "Mac"]
 tags: ["google chrome", "Google Chrome Quit by accident", "Google Chrome Command Q", "Google Chrome Hold Quitting", "Chrome Confirm before quitting"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p><img class="alignnone size-full wp-image-7622" title="chrome_quit" src="/wp/wp-content/uploads/2011/03/chrome_quit.jpg" alt="Prevent Google Chrome Quit by Accident" width="372" height="97" /></p>
 <p>I have always had a pet peeve against Google Chrome on Mac. If I press Command + Q, it just quits without warning. In many cases this makes me lose application state or text that I typed.</p>

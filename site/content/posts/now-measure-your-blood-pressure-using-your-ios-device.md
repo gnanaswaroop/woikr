@@ -4,6 +4,8 @@ date: 2011-01-06T07:25:35
 url: /ipad/now-measure-your-blood-pressure-using-your-ios-device/
 categories: ["iPad", "News", "iPhone"]
 tags: ["iphone health", "iPhone", "iPad", "ipod touch", "blood pressure instrument iphone"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="NewImage.jpg" src="/wp/wp-content/uploads/2011/01/NewImage47.jpg" alt="NewImage.jpg" width="400" height="276" /></p>
 <p>Well, when an <a href="/iphone/the-iphone-heart-monitor">iPhone can take an ECG</a>, it can surely measure your blood pressure!</p>

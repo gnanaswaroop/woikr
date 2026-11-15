@@ -4,6 +4,8 @@ date: 2008-12-10T17:10:04
 url: /lol/suv-owner-tows-away-the-tow-truck/
 categories: ["LOL"]
 tags: ["LOL", "suv tow truck", "suv tows truck", "china suv tow"]
+author: "Setu"
+authors: ["setu"]
 ---
 This is fucking hilarious. Watch the following video and you will LYAO:
 

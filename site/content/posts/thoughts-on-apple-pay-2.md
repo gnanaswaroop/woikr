@@ -4,6 +4,8 @@ date: 2015-02-04T07:23:13
 url: /apple/thoughts-on-apple-pay-2/
 categories: ["Apple"]
 tags: ["apple pay", "nfc iphone", "iphone 6"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><a href="/wp/wp-content/uploads/2015/02/Apple-Pay-icon.jpg"><img class="alignnone size-full wp-image-9658" src="/wp/wp-content/uploads/2015/02/Apple-Pay-icon.jpg" alt="Apple-Pay-icon" width="200" height="150" /></a></p>
 <p>Apple Pay is a revolutionary payment system. I have used it a couple of times since it has launched and just love the way it has been implemented. It works just as it was shown in the keynote. You basically bring your iPhone close to the payment terminal which is waiting for payment and your cards stored in the passbook will automagically appear on your screen. If you have your finger already on the Touch ID, it would just go ahead and authorize the payment with your default card. The little chime and a subtle vibration in addition to the short animation on the screen let you know that the payment was authorized.</p>

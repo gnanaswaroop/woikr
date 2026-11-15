@@ -4,6 +4,8 @@ date: 2009-02-06T16:15:59
 url: /news/mtnl-launches-3g-telecom-service-in-india/
 categories: ["News"]
 tags: ["jadoo", "3G", "3g india", "mtnl", "iphone 3G"]
+author: "Setu"
+authors: ["setu"]
 ---
 <a href="/wp/wp-content/uploads/2009/02/news_3g.jpg"><img class="alignnone size-full wp-image-2132" title="mtnl_3g" src="/wp/wp-content/uploads/2009/02/news_3g.jpg" alt="mtnl_3g" width="286" height="244" /></a>
 <p>State owned <a href="http://mtnl.in" target="_blank">Mahanagar Telephone Nigan Limited</a> has launched it 3G services in Delhi under the brand 'Jadoo'. The services are available starting today to MTNL subscribers in the NDMC (New Delhi Municipal Corporation) area, and will soon be expanded to the entire Delhi and NCR region.</p>

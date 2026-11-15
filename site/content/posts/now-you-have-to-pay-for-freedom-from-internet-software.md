@@ -4,6 +4,8 @@ date: 2011-01-10T22:34:44
 url: /wtf/now-you-have-to-pay-for-freedom-from-internet-software/
 categories: ["WTF?", "Mac"]
 tags: ["Freedom from Internet", "Freedom Productivity software", "Freedom for Windows", "Freedom for Mac"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>Remember the good old dial-up days, when you used to have Internet only few hours a day?</p>
 <p>If you let out a sigh of relief and thanked heaven for broadband, you can stop reading right now. But, if you replied saying, "Those were the days!", this is something that will interest you!</p>

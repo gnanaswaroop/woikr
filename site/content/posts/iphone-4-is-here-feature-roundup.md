@@ -4,6 +4,8 @@ date: 2010-06-08T17:26:11
 url: /news/iphone-4-is-here-feature-roundup/
 categories: ["News", "iPhone"]
 tags: ["iphone4", "iPhone", "iphone 4G", "iphone 4.0", "firmware 4.0", "firmware 4", "iphone firmware", "iphone wwdc", "iphone 2010", "iphone latest", "wwdc 2010", "wwdc", "apple iphone", "iphone features", "iOS", "iOS4", "iphone OS 4", "iPhone OS", "iDevice", "Apple", "apple wwdc", "wwdc2010", "iphone upgrade", "apple hardware", "iphone a4", "multitasking", "videochat"]
+author: "Swaroop"
+authors: ["swaroop"]
 ---
 <p>The iPhone 4 and iOS4 got announced on June 7th, 2010. It’s pretty close (read as “same”)    to the <a href="/apple/iphone-4g-leaked" target="_blank">leaked iPhone prototype</a> that Gizmodo “found in a bar”.</p>
 <p><a href="/wp/wp-content/uploads/2010/06/iPhone4Pic1.jpg"><img title="iPhone4-Pic1" src="/wp/wp-content/uploads/2010/06/iPhone4Pic1_thumb.jpg" alt="iPhone4-Pic1" width="516" height="328" /></a></p>

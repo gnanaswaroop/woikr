@@ -4,6 +4,8 @@ date: 2011-03-15T22:27:53
 url: /home-entertainment/apples-airplay-is-the-future-of-personal-entertainment/
 categories: ["Home Entertainment"]
 tags: ["Apple", "airplay", "airplay speakers", "airplay apple tv", "airplay apps", "future of entertainment", "personal entertainment", "airplay future", "apple gaming", "iOS gaming"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="NewImage.png" src="/wp/wp-content/uploads/2011/03/NewImage20.png" alt="NewImage" width="216" height="157" /></p>
 <p>Apple released <a href="http://www.apple.com/ios/">iOS 4.3</a> for iPhone, iPad and iPod touch recently. Of all the new features in the release, one stands tall as the stepping stone for the future of personal entertainment - Airplay support for third party apps.</p>

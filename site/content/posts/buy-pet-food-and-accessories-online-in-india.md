@@ -4,6 +4,8 @@ date: 2013-09-07T19:15:50
 url: /news/buy-pet-food-and-accessories-online-in-india/
 categories: ["News"]
 tags: ["pet foor online", "online pets", "pet accessories online india"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="dogspot.in.png" src="/wp/wp-content/uploads/2013/09/dogspot.in_.png" alt="dogspot.in" width="197" height="83" /> <img title="fishspot.in.png" src="/wp/wp-content/uploads/2013/09/fishspot.in_.png" alt="fishspot.in" width="197" height="83" /></p>
 <p>If you have pets and you are unable to find quality accessories and food for them in your neighborhood market, log on to dogspot.in and fishspot.in to find almost everything you may need for your pets.</p>

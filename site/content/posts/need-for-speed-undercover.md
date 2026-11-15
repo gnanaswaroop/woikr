@@ -4,6 +4,8 @@ date: 2008-08-16T11:06:09
 url: /gaming/need-for-speed-undercover/
 categories: ["Gaming"]
 tags: ["Gaming", "need for speed", "nfs", "Racing", "cars"]
+author: "Swaroop"
+authors: ["swaroop"]
 aliases: ["/need-for-speed-undercover/"]
 ---
 <p><strong>Need for Speed, the history<br>

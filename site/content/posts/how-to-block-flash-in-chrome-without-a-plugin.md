@@ -4,6 +4,8 @@ date: 2011-01-18T23:16:27
 url: /howto/how-to-block-flash-in-chrome-without-a-plugin/
 categories: ["How Tos"]
 tags: ["google chrome", "Google Chrome browser", "Google Chrome Flash", "Block Flash in Chrome", "Block plug-ins in Chrome"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>You may have a million reasons to block Flash from Google's Chrome browser. Maybe it makes your <a href="http://twitter.com/#!/chiraggupta/status/4607435637522432" target="_blank">browser crash all the time</a>, maybe you hate when those videos/ads play in background tabs, or maybe you just plain hate Adobe and/or Flash. Whatever the reason, apparently Google makes it pretty easy to do so on Chrome without requiring an external plug-in like FlashBlock.</p>
 <p>Here's what you need to do:</p>

@@ -4,6 +4,8 @@ date: 2011-01-19T00:03:46
 url: /howto/10-mozilla-thunderbird-extensions-to-boost-your-productivity/
 categories: ["How Tos"]
 tags: ["mozilla thunderbird", "mozilla extensions", "mozilla plugins", "Mozilla thunderbird extensions", "mail tweaks features", "best thunderbird plugins", "how to boost Thunderbird", "Thunderbird features", "thunderbird signature switch", "thunderbird signature off", "thunderbird signature change", "send email in background", "backgrounding thunderbird", "thunderbird background email", "thunderbird outbox", "thunderbird signatures", "signature switch", "Thunderbird email code", "email source code formatting", "source code formatting", "Thunderbird java format", "source code formatter", "thunderbird tables copy", "table2Clipboard", "Thunderbird to excel", "Thunderbird to word", "tables copy", "thunderbird calendar", "thunderbird lightning", "mozilla thunderbird lightning", "lightning calendar tweaks", "tweak lightning", "lightning extra features", "Outlook Vs Thunderbird", "Thunderbird calendar like outlook", "Thunderbird Lightning button", "Thunderbird calendar tweaks", "Keyword Highlight", "Mark all emails as read", "Thunderbird mark as read", "Filters export", "filters import", "email filters", "client side filters", "Thunderbird send to tray", "minimize to tray", "close to tray", "10 plugins"]
+author: "Swaroop"
+authors: ["swaroop"]
 ---
 Many of us use <a href="http://www.mozillamessaging.com/en-US/thunderbird/" target="_blank">Mozilla Thunderbird</a> at work/home to check email. It’s got a great feature to extend functionality through 3rd party extensions or <a href="http://www-archive.mozilla.org/projects/thunderbird/specs/extensions.html" target="_blank">plug-ins</a>.
 

@@ -4,6 +4,8 @@ date: 2011-05-25T11:44:37
 url: /iphone/iphone-4-price-announced-in-india/
 categories: ["iPhone"]
 tags: ["iphone 4", "iPhone India", "iphone 4 india price"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="iPhone4Pic4_thumb.jpg" src="/wp/wp-content/uploads/2010/06/iPhone4Pic4_thumb.jpg" alt="iPhone4Pic4_thumb.jpg" width="286" height="182" /></p>
 <p>At last it is finally here. The iPhone 4 will be launched factory unlocked in India on May 27 at a price tag of INR 35k for 16GB and INR 41k for 32GB. However, there is a fine deal in there for heavy users. Apparently, Aircel and Airtel have introduced reverse subsidy model in which consumers can get 50% to 100% of their money back over a period of 2 years in form of discount on their monthly bills. This is exactly the kind of model that can succeed with Indian consumers.</p>

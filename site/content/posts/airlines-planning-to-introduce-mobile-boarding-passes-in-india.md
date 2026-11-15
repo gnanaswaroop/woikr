@@ -4,6 +4,8 @@ date: 2011-10-04T06:51:18
 url: /telecom/airlines-planning-to-introduce-mobile-boarding-passes-in-india/
 categories: ["Telecom", "News"]
 tags: ["mobile boarding", "mobile boarding pass", "airlines india", "internet india", "3g india"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="Mobile-boarding-pass.jpg" src="/wp/wp-content/uploads/2011/10/Mobile-boarding-pass.jpg" alt="Mobile boarding pass" width="154" height="300" /></p>
 <p>Despite advancements in the telecommunication arena with the launch of 3G, India is still far behind other countries in terms of mobile enablement of services. We reported a few weeks back that <a href="/news/indian-railways-irctc-now-allow-paperless-soft-copies-of-tickets-on-trains-go-green/">Indian Railways is now allowing paperless tickets on trains</a> (although, some of our readers were fined because they were not carrying a paper ticket). Now its airlines' turn.</p>

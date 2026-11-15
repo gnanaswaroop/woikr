@@ -4,6 +4,8 @@ date: 2009-10-05T16:00:03
 url: /news/sony-develops-wireless-power-transfer-system/
 categories: ["News"]
 tags: ["wireless power", "sony", "wireless power system prototype", "wireless TV"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="image" src="/wp/wp-content/uploads/2009/10/image12.png" alt="image" width="240" height="55" /></p>
 <p>Now this is cool. Sony has issued a press release claiming that it has successfully tested a prototype system to transmit power without any wires. The prototype setup like this:</p>

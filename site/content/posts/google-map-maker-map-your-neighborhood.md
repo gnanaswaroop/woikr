@@ -4,6 +4,8 @@ date: 2008-09-16T23:06:45
 url: /google/google-map-maker-map-your-neighborhood/
 categories: ["Google"]
 tags: ["google map maker", "mapmaker", "map maker tips", "map maker how to", "map maker guide"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><a href="http://www.google.com/mapmaker" target="_blank"><img class="alignnone" src="/wp/wp-content/uploads/2008/09/mapmaker_lead.png" alt="" width="593" height="225" /></a></p>
 <p><a href="http://www.google.com/mapmaker" target="_blank">Google Map Maker</a> is a free online tool to mark places you are familiar with on Google Maps. The places you mark are moderated by someone else and once approved, they are published (on Google Map Maker, not on Google Maps). Google launched Map Maker in India a few days back. This will really help Google maps generate more usage in India. They are not so widely used here because there is nothing much available on them right now.</p>

@@ -4,6 +4,8 @@ date: 2011-01-26T16:50:14
 url: /android/print-from-your-iphone-and-android-using-google-cloud-print/
 categories: ["Android", "Google", "iPhone"]
 tags: ["apple airprint", "apple printing", "iOS printing", "cloud printing", "airprint printers", "cloud enabled printing", "google cloud print", "printing iPhone", "printing images from iPhone", "printing documents from iPhone", "print from iPad", "CloudPrint API", "Integrate Cloud Print API", "CloudPrint"]
+author: "Swaroop"
+authors: ["swaroop"]
 ---
 Apple’s <a href="http://www.apple.com/ipad/features/airprint.html" target="_blank">AirPrint</a> solved printing problems for Apple iOS (iOS4.2+) devices only like the iPhone, iPad and iPod Touch. It took a lot of criticism as it requires <a href="http://www.macworld.com/reviews/collection/5806/airprint.html" target="_blank">AirPrint enabled printers</a> (a <a href="http://jaxov.com/2010/11/how-to-enable-airprint-service-on-windows/" target="_blank">hack</a> for Non-AirPrint Printers) and wouldn’t work with older iPhone/iPod touch (stuck with older iOS firmware).
 

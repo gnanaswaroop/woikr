@@ -4,6 +4,8 @@ date: 2009-05-11T13:31:08
 url: /contests/worddigest-iphone-dictionary-promo-code-giveaway-contest/
 categories: ["Giveaways"]
 tags: ["contest", "worddigest", "iphone Dictionary", "free iphone dictionary", "iphone promocodes", "iphone apps"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p>We have 3 promo codes <strong></strong>for WordDigest English Dictionary, Thesaurus &amp; Spell Checker which we want to give away to you. The app is pretty good and earned 4 out of 5 stars in <a href="/reviews/review-worddigest-english-dictionary-thesaurus-spell-checker-iphone-apps/" target="_blank">our detailed review</a>.</p>
 

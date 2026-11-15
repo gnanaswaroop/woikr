@@ -4,6 +4,8 @@ date: 2009-10-12T01:05:20
 url: /iphone/do-not-upgrade-your-unlocked-iphone-to-3-1-2/
 categories: ["iPhone"]
 tags: ["iPhone 3.1.2 unlock", "iPhone Blackra1n", "iPhone geohot", "iPhone Jailbreak"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>Although it's been in <a href="http://www.winandmac.com/news/geohot-jailbreak-all-iphone-ipod-firmware-3-1-2/" target="_blank">news</a> the whole day, do NOT upgrade your iPhone to 3.1.2 if it's unlocked and you want it to stay that way.</p>
 <p>It's clear from the warning below that the release by GeoHot called Blackra1n will only <a href="http://www.iclarified.com/entry/index.php?enid=5527" target="_blank">jailbreak your iPhone on OS 3.1.2</a>.</p>

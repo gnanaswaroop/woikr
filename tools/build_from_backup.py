@@ -84,6 +84,7 @@ def main():
         os.remove(os.path.join(SITE, "content", "posts", f))
     keep_pages = {"about", "archives", "contests", "reviews", "iphone", "advertise"}
 
+    users = {u["ID"]: u for u in load("wp_users")}  # ID, user_nicename, display_name only
     published = [x for x in posts_all if x["post_type"] == "post" and x["post_status"] == "publish"]
     url_of = {}
     post_fm = {}
@@ -98,6 +99,7 @@ def main():
             "cats": [terms[c["term_id"]]["name"] for c in cats] or ["Uncategorized"],
             "tags": [terms[t["term_id"]]["name"] for t in term_list(x["ID"], "post_tag")],
             "aliases": [],
+            "author": users.get(x["post_author"], {}),
         }
 
     # redirection rules -> aliases on the target post
@@ -157,6 +159,10 @@ def main():
                  f"url: {fm['url']}",
                  f"categories: [{', '.join(yq(text(c)) for c in fm['cats'])}]",
                  f"tags: [{', '.join(yq(text(t)) for t in fm['tags'])}]"]
+        au = fm["author"]
+        if au.get("user_nicename"):
+            lines.append(f"author: {yq(text(au.get('display_name') or au['user_nicename']))}")
+            lines.append(f"authors: [{yq(au['user_nicename'])}]")  # /author/<nicename>/ archive
         if fm["aliases"]:
             lines.append("aliases: [" + ", ".join(yq(a) for a in fm["aliases"]) + "]")
         lines += ["---", ""]

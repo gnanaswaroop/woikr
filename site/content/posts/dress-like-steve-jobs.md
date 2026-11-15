@@ -4,6 +4,8 @@ date: 2010-10-14T23:48:31
 url: /apple/dress-like-steve-jobs/
 categories: ["Apple"]
 tags: ["dress like steve jobs", "steve jobs jeans", "steve jobs turtleneck", "chinese guy steve jobs", "steve jobs presenation"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <a href="http://www.stevesoutfit.com/" target="_blank">Here</a> is a website that tells you what exactly Steve Jobs wears. And since he seems to wear the same everytime, it's not hard to keep up.
 

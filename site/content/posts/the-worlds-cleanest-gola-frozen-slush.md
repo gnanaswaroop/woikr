@@ -4,6 +4,8 @@ date: 2008-10-20T15:20:30
 url: /lol/the-worlds-cleanest-gola-frozen-slush/
 categories: ["LOL"]
 tags: ["gogola", "chuski", "frozen slush"]
+author: "Setu"
+authors: ["setu"]
 ---
 The <a href="http://www.labnol.org" target="_blank">digital inspiration</a> blog has a really interesting article about this new upcoming refreshing ice golas [Frozen Slush] in Mumbai. They seem to be the descendants of the <a href="http://www.google.com/googlegulp/" target="_blank">Google Gulp</a>! Check out the stall:
 

@@ -4,6 +4,8 @@ date: 2011-07-24T01:36:08
 url: /apple/the-new-os-x-lion-dictionary-tips/
 categories: ["Apple", "Mac"]
 tags: ["Mac OS dictionary", "OS X Lion dictionary keyboard shortcut", "three finger tap dictionary", "OS X dictionary shortcut"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 Amongst the <a href="http://www.apple.com/in/macosx/whats-new/" target="_blank">over 250</a> new features in Mac OS X Lion, one that I may end up using a lot is the new system-wide dictionary. So while Snow Leopard had a dictionary that could be called anytime anywhere but it was not really apparent. The shortcut was mostly unknown and sorta obscure and it just didn't work flawlessly everywhere.
 

@@ -4,6 +4,8 @@ date: 2009-04-08T20:35:42
 url: /google/new-version-of-gmail-for-iphone/
 categories: ["Google", "News"]
 tags: ["new gmail mobile", "gmail", "Google", "iPhone", "android-os", "fast gmail"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img class="alignnone" title="Gmail Logo" src="/wp/wp-content/uploads/2008/11/gmail_logo.png" alt="" width="147" height="68" /></p>
 <p>Google has launched a new version of Gmail for the iPhone. This new more Ajaxy version utilizes the HTML5 library in the latest Safari browser in 2.2.1 firmware. The new features are:</p>

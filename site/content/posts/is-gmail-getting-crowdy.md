@@ -4,6 +4,8 @@ date: 2009-03-21T15:41:34
 url: /google/is-gmail-getting-crowdy/
 categories: ["Google"]
 tags: ["gmail header", "gmail crowdy", "gmail menu", "gmail", "gmail labs"]
+author: "Swaroop"
+authors: ["swaroop"]
 ---
 Thanks to the new exciting features  being added almost to Google Labs frequently like <a href="/google/gmail-labs-undo-send/" target="_self">this</a> &amp; <a href="http://mail.google.com/mail/help/about_whatsnew.html" target="_blank">these</a>, the Gmail header menu got too over crowded.
 

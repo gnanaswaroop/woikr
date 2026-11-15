@@ -4,6 +4,8 @@ date: 2010-12-15T10:03:10
 url: /android/facebook-for-android-adds-chat-for-all-push-for-froyo/
 categories: ["Android"]
 tags: ["facebook android", "facebook chat android"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>Facebook's native Android app got updated to 1.5 today. The official changelog includes the following new features:</p>
 

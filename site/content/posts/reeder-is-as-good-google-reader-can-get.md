@@ -4,6 +4,8 @@ date: 2011-08-06T15:45:25
 url: /mac/reeder-is-as-good-google-reader-can-get/
 categories: ["Mac"]
 tags: ["reeder", "reeder for mac", "reeder app"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="reeder-app-osx.png" src="/wp/wp-content/uploads/2011/08/reeder-app-osx.png" alt="reeder for mac" width="175" height="175" /></p>
 <p>Apple should totally hire <a href="http://www.silviorizzi.com">Silvio Rizzi</a>. The guy knows UI in and out. As is evident from his super simple yet awesome <a href="http://www.silviorizzi.com/">website</a>, he pays a lot of attention to detail. I have been using <a href="http://reederapp.com/ipad/">reeder for iPad</a> since the last few months now. Its arguably one of the best ways to access Google reader on your iPad. I recently bought the mac <a href="http://reederapp.com/mac/">OS X reeder app</a> optimized for Lion and have totally fallen in love with it.</p>

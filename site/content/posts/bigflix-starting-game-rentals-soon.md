@@ -4,6 +4,8 @@ date: 2008-12-17T15:19:30
 url: /rumors/bigflix-starting-game-rentals-soon/
 categories: ["Rumors"]
 tags: ["bigflix", "bigflix games", "game rentals india"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img class="alignnone size-full wp-image-1819" title="bigflix_logo" src="/wp/wp-content/uploads/2008/12/bigflix_logo.jpg" alt="" width="153" height="63" /></p>
 <p>There are rumors floating around that the ADAG owned <a href="http://www.bigflix.com/" target="_blank">BigFlix</a> movie rental service in India is going to start game rentals soon.</p>

@@ -4,6 +4,8 @@ date: 2010-12-17T13:14:08
 url: /iphone/word-lens-mixes-ocr-and-translation-to-create-magic-iphone/
 categories: ["iPhone"]
 tags: ["OCR iPhone", "Word Lens iPhone", "Awesome iPhone apps"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>You have seen an <a href="http://en.wikipedia.org/wiki/Optical_character_recognition" target="_blank">OCR</a> working when you scan a newspaper article and get editable text from, or when you use <a href="http://www.google.com/mobile/goggles/#text" target="_blank">Google Goggles</a> to take a picture and and recognizes the text in it. But you probably never found it more than <em>ahh-that-was-convenient</em> , unless you were an Image Processing student.</p>
 <p>You have definitely seen Word Translation in dictionaries, or <a href="http://translate.google.com/" target="_blank">Google Translate</a>. And I'm sure you always found it cool but never magical.</p>

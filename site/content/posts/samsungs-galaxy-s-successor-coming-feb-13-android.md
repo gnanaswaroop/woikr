@@ -4,6 +4,8 @@ date: 2011-01-20T11:15:47
 url: /android/samsungs-galaxy-s-successor-coming-feb-13-android/
 categories: ["Android", "Mobile Phones"]
 tags: ["Samsung Galaxy", "Samsung Galaxy S successor", "Samsung Galaxy MWC", "MWC Barcelona", "Samsung Galaxy February"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <a href="/wp/wp-content/uploads/2011/01/galaxy_s_mwc.jpg"><img class="alignnone size-medium wp-image-6464" title="galaxy_s_mwc" src="/wp/wp-content/uploads/2011/01/galaxy_s_mwc-300x162.jpg" alt="Samsung Galaxy S successor to be announced in MWC Barcelona " width="300" height="162" /></a>
 <p>We've been <a href="/rumors/successor-to-samsung-galaxy-s-coming-soon" target="_blank">hearing</a> <a href="/rumors/samsung-galaxy-s2-image-leaked-rumor" target="_blank">rumors</a> about the Galaxy S successor and now Samsung has officially announced it's coming on February 13. The phone will be displayed on the Samsung Stall at Mobile World Congress in Barcelona. They say they'll launch another teaser (probably with more info) on February 13.</p>

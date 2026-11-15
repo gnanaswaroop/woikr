@@ -4,6 +4,8 @@ date: 2011-05-04T23:38:16
 url: /ipad/a-cat-and-her-ipad-video/
 categories: ["iPad"]
 tags: ["Cat", "iPad", "iPad 2", "iPad 2 games", "iPad 2 for cats", "Paint for Cats iPad 2"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 So is your cat jealous of you because you got an iPad 2? Here is a how to share the fun - Go to the App Store and download Paint for Cats for iPad.
 

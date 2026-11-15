@@ -4,6 +4,8 @@ date: 2009-02-27T11:41:43
 url: /news/mobile-mes-push-service-officially-re-launched/
 categories: ["News"]
 tags: ["mobile me", "Apple", "iPhone", "push", "mobile me push", "iphone push", "iphone sync"]
+author: "Setu"
+authors: ["setu"]
 ---
 <a href="/wp/wp-content/uploads/2009/02/mobileme.jpg"><img class="alignnone size-medium wp-image-2179" title="mobileme" src="/wp/wp-content/uploads/2009/02/mobileme-300x107.jpg" alt="mobileme" width="300" height="107" /></a>
 <p>The much awaited mobile me feature - Push, has been officially re-launched by Apple. It was announced in an email to all the mobile me subscribers.</p>

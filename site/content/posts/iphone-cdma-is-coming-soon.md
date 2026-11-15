@@ -4,6 +4,8 @@ date: 2010-12-30T10:53:23
 url: /iphone/iphone-cdma-is-coming-soon/
 categories: ["iPhone"]
 tags: ["iphone4", "iPhone5", "iPhone CDMA", "CDMA", "iPhone Verizon", "iPhone AT&T", "Verizon", "AT&T", "iPhone India", "iphone release"]
+author: "Swaroop"
+authors: ["swaroop"]
 ---
 Apple is rumored to announce the iPhone CDMA on Verizon networks as soon as February 2011, In the world of technology I’d say 2 months is a long period – with new phones with great hardware and software churning out every day and it’s a pain in the neck for technology bloggers as the inflow of gadgets is more than one can keep a track off.
 

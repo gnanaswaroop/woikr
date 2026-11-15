@@ -4,6 +4,8 @@ date: 2016-02-23T11:52:33
 url: /reviews/review-zus-smart-usb-car-charger-and-car-locator/
 categories: ["Reviews"]
 tags: ["zus charger", "smart usb car charger", "parking locator", "car parking locator"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="zus-logo.png" src="/wp/wp-content/uploads/2016/02/zus-logo.png" alt="zus logo" width="127" height="64" /></p>
 <p>There are many in-car USB charges available to juice up your devices while on the move. While you may not have paid attention to the modest little charger plugged in your car’s 12V accessory socket, there are a plethora of innovations going on in the segment to make you consider upgrading the device.</p>

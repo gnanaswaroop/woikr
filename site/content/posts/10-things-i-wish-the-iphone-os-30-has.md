@@ -4,6 +4,8 @@ date: 2009-05-12T22:48:43
 url: /iphone/10-things-i-wish-the-iphone-os-30-has/
 categories: ["iPhone"]
 tags: ["iPhone", "next gen iphone", "iphone wishlist", "iphone 3.0 wishlist", "iphone firmware 3.0"]
+author: "Setu"
+authors: ["setu"]
 ---
 <a href="/wp/wp-content/uploads/2009/03/iphone_30_firmware_lead_image.jpg"><img class="alignnone size-full wp-image-2238" title="iphone_30_firmware_lead_image" src="/wp/wp-content/uploads/2009/03/iphone_30_firmware_lead_image.jpg" alt="iphone_30_firmware_lead_image" width="269" height="178" /></a>
 <p>The iPhone firmware upgrade 3.0 coming in June does promise most of the features people have been asking for, but here are 10 things that I long for:</p>

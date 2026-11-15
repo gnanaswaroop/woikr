@@ -4,6 +4,8 @@ date: 2011-01-14T12:46:10
 url: /mobile-phones/nokia-n9-knockoffs-look-like-tiny-macbooks-cost-only-105/
 categories: ["Mobile Phones"]
 tags: ["Nokia N9", "Nokia N9 replica", "Nokia N9 Chinese knockoff", "Chinese replica phones"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p><img class="alignnone size-full wp-image-6286" title="n9_1" src="/wp/wp-content/uploads/2011/01/n9_1.jpg" alt="Nokia N9 Replica" width="500" height="375" /></p>
 <p>We talked about Nokia N9 before in context of the Nokia and Microsoft partnership. That probably isn't going to happen. And we are not sure when Nokia is planning to launch N9 too. Till then, you can always get the Chinese replicas!</p>

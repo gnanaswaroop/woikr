@@ -4,6 +4,8 @@ date: 2011-08-24T17:35:17
 url: /gaming/lara-croft-is-back-looks-better-than-ever-trailer/
 categories: ["Gaming"]
 tags: ["Tomb Raider survivor", "Tomb Raider trailer", "Lara Croft"]
+author: "Chirag"
+authors: ["chirag"]
 aliases: ["/gaming/lara-croft-is-back-looks-better-than-ever-trailer"]
 ---
 If you are a Tomb Raider fan, watch this.

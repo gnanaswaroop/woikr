@@ -4,6 +4,8 @@ date: 2009-06-06T17:17:38
 url: /google/faster-picasa-web-albums/
 categories: ["Google", "News"]
 tags: ["picasa", "Google", "fast web albums", "fast picasa"]
+author: "Setu"
+authors: ["setu"]
 ---
 <img title="picasa web logo" src="/wp/wp-content/uploads/2009/06/image1.png" alt="picasa web logo" width="204" height="37" />
 <p><a href="/tag/google">Google</a> has tuned up its Picasa web albums service to make it faster. This is great as I always get frustrated when an image takes forever to load from a web based album. That is why I usually keep my photos on my desktop. However, this nifty upgrade has changed things.</p>

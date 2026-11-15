@@ -4,6 +4,8 @@ date: 2011-05-26T19:34:05
 url: /news/zee-turner-star-den-to-forn-a-distribution-joint-venture-more-aslihd-channels-for-tatasky-dishtv-customers/
 categories: ["News", "Home Entertainment"]
 tags: ["AsliHD", "asli HD", "zee india", "star india", "dth india", "hd dth india", "hd channels india"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="star-den-logo.png" src="/wp/wp-content/uploads/2011/05/star-den-logo.png" alt="Star Den Logo" width="160" height="128" /><img title="plus.png" src="/wp/wp-content/uploads/2011/05/plus.png" alt="plus" width="70" height="100" /><img title="Zee-Turner-logo.png" src="/wp/wp-content/uploads/2011/05/Zee-Turner-logo.png" alt="Zee Turner Logo" width="120" height="120" /></p>
 <p><a href="http://www.financialexpress.com/news/Star-Zee-JV-to-hawk-75-TV-channels/795408/">Reports</a> are coming in that <a href="http://www.zeeturner.com/">Zee Turner</a> &amp; <a href="http://www.starden.in/">Star Den</a> are planning a distribution joint venture to distribute their respective channels in India. This means that the new company will be able to distribute a combined bouquet of their channels in India. Currently, Star backs TataSky &amp; Zee backs (duh) DishTV resulting in one's exclusive channels not being available to the rival DTH operator. This is a loss for subscribers as they are unable to enjoy all the channels on their DTH boxes. For instance, Star's <a href="/home-entertainment/tatasky-adds-3-new-hd-channels-to-its-bouquet/">AsliHD</a> channels are currently only available to TataSky subscribers &amp; Zee's HD channels are available to DishTV subscribers.</p>

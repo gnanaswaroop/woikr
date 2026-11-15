@@ -4,6 +4,8 @@ date: 2011-08-25T09:00:19
 url: /news/breaking-steve-jobs-resigns-as-apples-ceo/
 categories: ["News", "Apple"]
 tags: ["steve jobs", "Apple", "steve jobs resigns", "apple new ceo"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="steve-jobs.png" src="/wp/wp-content/uploads/2011/08/steve-jobs.png" alt="steve jobs" width="300" height="376" /></p>
 <p>Steve Jobs has resigned from his position of Apple CEO today. In a letter that he wrote to Apple's board of directors and Apple community, Steve mentions the reason to be his inability to effectively meet the expectations of the  role of CEO. He also requests to be appointed as the chairman of the board (which has been honored). Tim Cook, COO of Apple has been promoted to CEO to assume Jobs' role.</p><p>Here is the <a href="http://www.apple.com/pr/library/2011/08/24Letter-from-Steve-Jobs.html">full text of Steve's lette</a>r:</p>

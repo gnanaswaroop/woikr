@@ -4,6 +4,8 @@ date: 2011-02-07T17:21:02
 url: /apple/the-white-iphone-is-coming-soon-from-best-buy-for-599/
 categories: ["Apple", "iPhone"]
 tags: ["iPhone white", "white iPhone 4", "iphone 4", "best buy", "white iPhone spotted", "gadget leaks", "apple product leak", "iPhone4 prices", "White iPhone 4 price", "white iPhone price"]
+author: "Swaroop"
+authors: ["swaroop"]
 ---
 Some one spotted the white iPhone at the Best Buy in Houston and snapped a picture of it.
 

@@ -4,6 +4,8 @@ date: 2011-02-10T10:09:09
 url: /home-entertainment/tatasky-hd-launched-in-india-at-a-price-of-inr-3990/
 categories: ["Home Entertainment"]
 tags: ["tatasky", "tatasky HD", "tatasky HD PVR", "tatasky plus", "hd pvr india", "hd pvr", "HD India", "dth india", "hd dth india"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="NewImage.png" src="/wp/wp-content/uploads/2011/02/NewImage.png" alt="NewImage" width="161" height="47" /> <img title="NewImage.png" src="/wp/wp-content/uploads/2011/02/NewImage1.png" alt="NewImage" width="41" height="26" /></p>
 <p><a href="/home-entertainment/tatasky-about-to-launch-hd-pvr-tatasky-hd-in-india">We told you a few days back</a> that TataSky was all set to launch their HD PVR set top box in India. Today, TataSky has launched their advanced HD PVR set top box at a competitive price of INR 3999 in India. The price is <a href="http://tatasky.hungamatech.com/2010/plushd/cost.html">inclusive of installation charges</a>. Here is how it looks like:</p>

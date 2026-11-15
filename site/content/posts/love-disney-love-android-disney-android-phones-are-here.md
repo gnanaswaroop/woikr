@@ -4,6 +4,8 @@ date: 2011-01-19T09:49:26
 url: /android/love-disney-love-android-disney-android-phones-are-here/
 categories: ["Android", "Mobile Phones"]
 tags: ["Disney Phones", "Disney Mobile Phones", "Disney Android Phones", "Sharp Galapagos Disney", "Sharp Galapagos", "Disney Smartphone"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p><a href="/wp/wp-content/uploads/2011/01/disney_android.jpg"><img class="alignnone size-medium wp-image-6395" title="disney_android" src="/wp/wp-content/uploads/2011/01/disney_android-300x300.jpg" alt="Disney Android Phones" width="300" height="300" /></a></p>
 <p>Did you know that Disney has a mobile phone division in Japan? Apparently they are quiet successful too. Now to tap the smartphone market Disney is <a href="http://disneymobile.jp/news/disney/20110114" target="_blank">coming up</a> with Android based smartphones. The phones will basically have Disney themes both internally and externally.</p>

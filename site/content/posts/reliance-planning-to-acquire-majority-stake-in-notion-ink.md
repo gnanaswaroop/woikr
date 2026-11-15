@@ -4,6 +4,8 @@ date: 2010-07-23T12:34:05
 url: /android/reliance-planning-to-acquire-majority-stake-in-notion-ink/
 categories: ["Android", "News"]
 tags: []
+author: "Setu"
+authors: ["setu"]
 ---
 <a href="/wp/wp-content/uploads/2010/07/image10.png"><img title="image" src="/wp/wp-content/uploads/2010/07/image_thumb6.png" alt="image" width="240" height="120" /></a>
 

@@ -4,6 +4,8 @@ date: 2009-05-14T23:26:57
 url: /lol/free-laptop-sure-send-us-too-lol/
 categories: ["LOL"]
 tags: ["sony ericsson laptops", "laptop scam"]
+author: "Swaroop"
+authors: ["swaroop"]
 ---
 Can't believe what kind of so-called-geeks believe that forwarding an email can get them free laptops or even a share of Microsoft's property giveaway.
 

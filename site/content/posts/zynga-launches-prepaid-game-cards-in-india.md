@@ -4,6 +4,8 @@ date: 2011-03-01T23:46:40
 url: /gaming/zynga-launches-prepaid-game-cards-in-india/
 categories: ["Gaming"]
 tags: ["Mafia Wars", "FarmVille", "CityVille", "Zynga India", "Zynga Game cards", "Zynga points India"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <a href="/wp/wp-content/uploads/2011/01/zynga.jpg"></a><a href="/wp/wp-content/uploads/2011/01/zynga.jpg"><img title="zynga" src="/wp/wp-content/uploads/2011/01/zynga-300x174.jpg" alt="Zynga India" width="300" height="174" /></a>
 <p>We <a title="Zynga Targets 1 Billion Indians; Explores New Payment Options" href="/gaming/zynga-targets-1-billion-indians-explores-new-payment-options" target="_blank">heard before</a> that Zynga is all set to target the 1 billion (and increasing) Indian population and is exploring new payment options. Looks like they have finally settled on one. <a href="http://www.pluggd.in/zynga-launches-game-cards-in-india-297/" target="_blank">Reportedly</a>, Zynga's Game cards will start selling in 6 countries across Asia namely, India, Malaysia, Singapore, Indonesia, Thailand and Philippines.</p>

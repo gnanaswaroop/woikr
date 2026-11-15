@@ -11,6 +11,7 @@ enableRobotsTXT = true
 [taxonomies]
   category = "categories"
   tag = "tags"
+  author = "authors"
 
 [params]
   description = "Gadgets, reviews, tricks and more. An archive of woikr.com."
@@ -33,3 +34,4 @@ enableRobotsTXT = true
   [permalinks.term]
     categories = "/category/:slug/"
     tags = "/tag/:slug/"
+    authors = "/author/:slug/"

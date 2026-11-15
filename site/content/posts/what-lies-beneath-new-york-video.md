@@ -4,6 +4,8 @@ date: 2011-01-08T09:52:41
 url: /misc/what-lies-beneath-new-york-video/
 categories: ["Misc"]
 tags: ["New York Undercity", "What lies beneath New York", "Under New York City"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>Ever wondered what lies beneath us? No, not that deep. Just a level deep under the surface and roads. Steven Duncan and Andrew Wonder took it upon themselves to check under New York. And what they found was surprisingly good! They shot it on a Canon 5D Mark II. So you Canon fanobiys have another reason to watch.</p>
 <p>This video has been pretty popular for the last few days but  I never got time to watch it. I saw it today and it's good! Up ahead is the video and the official description.</p>

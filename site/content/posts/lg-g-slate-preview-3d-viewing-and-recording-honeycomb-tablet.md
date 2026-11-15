@@ -4,6 +4,8 @@ date: 2011-02-09T00:43:28
 url: /android/lg-g-slate-preview-3d-viewing-and-recording-honeycomb-tablet/
 categories: ["Android"]
 tags: ["LG Tablet", "Android Tablets", "android 3.0", "honeycomb", "LG Optimus", "LG Optimus Pad", "LG G-Slate", "GSlate", "G-slate", "3D video recording", "HDMI Output", "Honeycomb Tablets", "Android Honeycomb", "android 3", "3D Tablets", "3D viewing"]
+author: "Swaroop"
+authors: ["swaroop"]
 ---
 <p>LG didn't plunge into the Android Tablet race early like it's competitor Samsung. The company earlier announced that Android 2.2 wasn't <a href="http://www.engadget.com/2010/10/04/lg-scraps-plans-for-froyo-tablet-will-wait-for-next-android-ver/" target="_blank">mature enough</a> for tablets and that it would wait for Android 3.0. It's recent products, <a href="/reviews/lg-optimus-one-p500-hands-on-and-review-with-pics" target="_blank">LG Optimus One</a> and <a href="/android/lg-unveils-worlds-first-dual-core-phone" target="_blank">LG Optimus 2x</a> are noteworthy.</p>
 <p>LG G-Slate is a LG Optimus series tablet running Android 3.0 Honeycomb operating system also known as the LG Optimus PAD.</p>

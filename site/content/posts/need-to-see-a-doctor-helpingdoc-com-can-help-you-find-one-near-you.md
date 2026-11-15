@@ -4,6 +4,8 @@ date: 2012-06-04T19:59:27
 url: /misc/need-to-see-a-doctor-helpingdoc-com-can-help-you-find-one-near-you/
 categories: ["Misc"]
 tags: ["doctor online india", "helping doc india", "book doctor appointment online india"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="helping-doc-logo.png" src="/wp/wp-content/uploads/2012/06/helping-doc-logo.png" alt="helping doc logo" width="242" height="111" /></p>
 <p><a href="http://www.helpingdoc.com/">HelpingDoc.com</a> is a new service operating in Delhi/NCR enabling users to find and book appointments with doctors in their area. The site has tie ups with most doctors in Delhi/NCR and offers a comprehensive list of doctors available in an area with their schedule, consultation fee and detailed profile. A quick search on the site will tell you there are a lot more doctors in your area than you ever thought!</p>

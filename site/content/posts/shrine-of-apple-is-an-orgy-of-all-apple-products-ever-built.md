@@ -4,6 +4,8 @@ date: 2011-08-30T20:23:46
 url: /apple/shrine-of-apple-is-an-orgy-of-all-apple-products-ever-built/
 categories: ["Apple"]
 tags: ["Apple", "apple product", "apple products", "shrine of apple", "apple product timelines", "all apple products"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="shrine-of-apple.png" src="/wp/wp-content/uploads/2011/08/shrine-of-apple.png" alt="shrine of apple" width="230" height="65" /></p>
 <p>If you are a die hard Apple fan like me, you will, from time to time like to know more about present and past apple products and how they have evolved. The activity, which might not make sense to many non geeks, actually helps you rejuvenate and relax in addition to planning you next iPurchase.</p>

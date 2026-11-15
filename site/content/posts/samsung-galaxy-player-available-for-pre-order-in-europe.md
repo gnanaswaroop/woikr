@@ -4,6 +4,8 @@ date: 2011-01-03T09:50:09
 url: /android/samsung-galaxy-player-available-for-pre-order-in-europe/
 categories: ["Android"]
 tags: ["Samsung Galaxy Player", "android music player", "android mp3 player", "Samsung Galaxy Player price"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p><img src="/wp/wp-content/uploads/2011/01/samsung_galaxy_player_580x580.shkl_.jpg" alt="" /></p>
 <p>Remember Samsung's iPod-Touch-Killer-To-Be Galaxy Player we <a href="/android/samsung-announces-yet-another-ipod-touch-killer-to-be" target="_blank">told you</a> about a few days back? It's already out for pre-order in Europe. It's available on <a href="http://www.amazon.co.uk/Samsung-8GB-Galaxy-Player-White/dp/B004EHYTSE/ref=sr_1_1?ie=UTF8&amp;qid=1294027239&amp;sr=8-1" target="_blank">Amazon for £149.99</a> (approx $233) for the 8 GB version. So the price is almost same as the iPod Touch 8GB. The 16 GB version is for £149.99 (approx $280) which is high since we know the iPod Touch is available for $299 for a 32 GB version.<br>

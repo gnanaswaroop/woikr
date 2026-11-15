@@ -4,6 +4,8 @@ date: 2011-01-22T22:05:39
 url: /android/samsung-galaxy-tab-2-leaked-specs-are-delicious-tablets/
 categories: ["Android", "Rumors"]
 tags: ["Samsung Galaxy Tab", "Samsung Galaxy Tab 2", "Galaxy Tab Successor", "Android Tablets", "nvidia Tegra 2 Tablets", "Samsung Android Tablet", "Samsung Galaxy"]
+author: "Chirag"
+authors: ["chirag"]
 aliases: ["/rumors/samsung-galaxy-tab-2-leaked-specs-are-delicious-tablets/", "/rumors/samsung-galaxy-tab-2-leaked-specs-are-delicious-tablets"]
 ---
 <p>While it's popular as the best Android Tablet launched yet, Samsung Galaxy Tab never impressed me much. I have always looked at it as Galaxy S phone with a <em>much</em> larger screen. But if these leaked specs turn out to be true it will be an excellent option for someone looking for a 7" tablet. Here are the leaked specs with my thoughts.</p>

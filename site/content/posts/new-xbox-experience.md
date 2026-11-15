@@ -4,6 +4,8 @@ date: 2008-11-21T03:38:11
 url: /gaming/new-xbox-experience/
 categories: ["Gaming"]
 tags: ["Xbox 360", "Microsoft Xbox", "New Xbox Experience", "New Xbox guide", "Xbox 360 software upgrade", "Xbox NXE update"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>If there's one product that Microsoft has done right, it's the Xbox 360. Despite the teething (and heating) troubles Microsoft has managed to make it one of the best choices in the console gaming market. And yesterday they did the unthinkable, they upgraded the perfectly fine Xbox software and made it even better!</p>
 <p>Here's my take on the new experience.</p>

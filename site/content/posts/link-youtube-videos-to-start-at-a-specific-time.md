@@ -4,6 +4,8 @@ date: 2008-10-27T17:12:33
 url: /news/link-youtube-videos-to-start-at-a-specific-time/
 categories: ["News"]
 tags: ["youtube", "youtube deep linking", "youtube starting point", "youtube specify time", "youtube scroll ahead", "start YouTube at a specific time"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><a href="/wp/wp-content/uploads/2008/10/youtube-logo.jpg"><img class="alignnone size-medium wp-image-1558" title="youtube-logo" src="/wp/wp-content/uploads/2008/10/youtube-logo-300x212.jpg" alt="" width="300" height="212" /></a></p>
 <p>YouTube now supports deep linking of videos. This means that you can specify where the video will start when a person clicks on the link. This is helpful if you want to show a specific scene from a long video to someone.</p>

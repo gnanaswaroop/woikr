@@ -4,6 +4,8 @@ date: 2012-06-04T21:46:29
 url: /howto/buy-legal-music-for-cheap-from-flipkarts-flyte-digital-store/
 categories: ["How Tos", "Apple"]
 tags: ["cheap music", "legal cheap music", "iTunes songs cheaper", "mp3 downloads cheap"]
+author: "Setu"
+authors: ["setu"]
 aliases: ["/apple/buy-legal-music-for-cheap-from-flipkarts-flyte-digital-store/", "/apple/buy-legal-music-for-cheap-from-flipkarts-flyte-digital-store"]
 ---
 <p><img title="flyte-mp3-logo.png" src="/wp/wp-content/uploads/2012/04/flyte-mp3-logo.png" alt="flyte mp3 logo" width="79" height="80" /></p>

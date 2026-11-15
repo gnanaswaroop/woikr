@@ -4,6 +4,8 @@ date: 2008-10-19T22:36:34
 url: /wtf/yahoo-charging-insane-amount-for-domain-renewals/
 categories: ["WTF?"]
 tags: ["yahoo domains renewals", "yahoo ups domain renewals fee"]
+author: "Setu"
+authors: ["setu"]
 ---
 <div class="entry">
 <p>Just got my credit card statement containg a 35$ charge from Yahoo! domains for renewal of my domain setugarg.com ! WTF? I thought that the regular renewal rate was 9.95$. Why the fuck should I pay 4 times the amount?</p>

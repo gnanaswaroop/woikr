@@ -4,6 +4,8 @@ date: 2010-12-14T22:38:43
 url: /mac/google-tasks-on-your-mac-menubar/
 categories: ["Mac"]
 tags: ["Google Tasks on Mac", "Gmail Task Mac"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <a href="/wp/wp-content/uploads/2010/12/fluid_google_tasks_mac_menu.jpg"></a>If you love the <a href="http://en.wikipedia.org/wiki/Apple_menu" target="_blank">Mac Menubar</a> like me, I'm sure you're always looking for ways to access pretty much everything you use directly from your Menubar. Here is a way to access all your Google Tasks from you Mac's Menu, organize your activities and fix your life forever. Potentially.
 <ul>

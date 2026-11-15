@@ -4,6 +4,8 @@ date: 2011-04-24T22:31:16
 url: /howto/use-itunes-home-sharing-to-play-music-from-your-computer-on-your-ios-4-3-device/
 categories: ["How Tos", "iPad", "Apple", "iPhone", "Home Entertainment"]
 tags: ["itunes", "itunes home sharing", "iOS itunes", "iOS home sharing", "play music from computer on iPhone"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="iTunes-home-sharing.png" src="/wp/wp-content/uploads/2011/04/iTunes-home-sharing.png" alt="iTune Home Sharing" width="256" height="58" /></p>
 <p>A little know feature that <a href="http://www.apple.com/ios/">iOS 4.3</a> brought with it was the ability to play media on your computer's iTunes library on your iOS device. This is different from the popular remote feature which lets you control iTunes within your home share &amp; the ability to transfer files between computers via iTunes within the home share.</p>

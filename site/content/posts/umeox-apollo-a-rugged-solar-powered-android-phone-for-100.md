@@ -4,6 +4,8 @@ date: 2011-03-05T00:35:17
 url: /android/umeox-apollo-a-rugged-solar-powered-android-phone-for-100/
 categories: ["Android", "Mobile Phones"]
 tags: ["Solar powered mobile phone", "Solar phone", "Solar cellphone", "Solar Powered Android Phone", "Solar Android", "Rugged Android phone", "Android 2.2", "Froyo", "Umeox", "Intivation", "Umeox Apollo", "Sturdy Android Phone"]
+author: "Chirag"
+authors: ["chirag"]
 aliases: ["/mobile-phones/umeox-apollo-a-rugged-solar-powered-android-phone-for-100/", "/mobile-phones/umeox-apollo-a-rugged-solar-powered-android-phone-for-100"]
 ---
 <p>While the Mobile World Congress in Barcelona was studded with mobile phone announcements from Samsung, HTC, Sony and LG, there was a tiny company which not many took notice of. While browsing my old archives I stumbled upon this gem of a phone that doesn't seem to have a single reason due to which you wouldn't purchase it.</p>

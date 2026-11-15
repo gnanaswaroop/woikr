@@ -4,6 +4,8 @@ date: 2009-11-24T08:00:00
 url: /android/tata-docomo-launches-first-android-powered-handset-in-india/
 categories: ["Android", "News", "Mobile Phones"]
 tags: ["samsung galaxy I7500", "android-os", "androind phone in India", "tata docomo"]
+author: "Setu"
+authors: ["setu"]
 ---
 <a href="/wp/wp-content/uploads/2009/11/image11.png"><img title="image" src="/wp/wp-content/uploads/2009/11/image_thumb8.png" alt="image" width="192" height="456" /></a>
 

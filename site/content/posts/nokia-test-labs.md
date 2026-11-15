@@ -4,6 +4,8 @@ date: 2008-11-21T17:09:31
 url: /news/nokia-test-labs/
 categories: ["News", "Mobile Phones"]
 tags: ["Nokia durability tests", "Nokia Test Labs", "Nokia Damage test labs", "Nokia Mobile phones", "Mobile phone durability tests"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 I've always appreciated how durable those plasticky Nokia phones are. I appreciated that even more when I <a href="/news/get-your-iphone-repaired-in-noida" target="_blank">broke my iPhone</a> while playing iBaseball :)
 

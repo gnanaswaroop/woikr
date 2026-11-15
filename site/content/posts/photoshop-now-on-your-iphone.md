@@ -4,6 +4,8 @@ date: 2009-10-13T01:16:39
 url: /iphone/photoshop-now-on-your-iphone/
 categories: ["iPhone"]
 tags: ["Adobe Photoshop mobile", "Photoshop.com mobile", "Photoshop iPhone", "iphone apps"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <img class="alignnone size-full wp-image-3348" title="Picture 3_400x201.shkl" src="/wp/wp-content/uploads/2009/10/Picture-3_400x201.shkl.png" alt="Picture 3_400x201.shkl" width="400" height="201" />
 <p>The iPhone (and iPod Touch ofcourse) truly have become a major computing platform. Everyone these days seems to be launching the iPhone version of their popular dekstop/mobile apps.</p>

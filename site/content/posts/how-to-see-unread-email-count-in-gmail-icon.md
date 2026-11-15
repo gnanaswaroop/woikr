@@ -4,6 +4,8 @@ date: 2011-01-28T09:42:51
 url: /howto/how-to-see-unread-email-count-in-gmail-icon/
 categories: ["How Tos", "Google"]
 tags: ["Gmail unread icon", "Google Labs", "gmail labs", "Check Unread Email in Gmail"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>If you use Google Chrome and keep the Gmail tab pinned all the time, this is the perfect feature for you. I've always hated the fact that when I pin Gmail tabs I can't see how many unread emails I have. Turns out Manu C from Google had a similar issue and he came up with a Gmail Lab feature that allows you to display the unread email count right on the Gmail icon.</p>
 <p><img class="alignnone size-full wp-image-6591" title="gmail_unread_email_icon" src="/wp/wp-content/uploads/2011/01/gmail_unread_email_icon.jpg" alt="Gmail Unread Email Icon" width="190" height="116" /></p>

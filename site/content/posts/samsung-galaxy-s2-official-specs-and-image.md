@@ -4,6 +4,8 @@ date: 2011-02-13T18:23:14
 url: /android/samsung-galaxy-s2-official-specs-and-image/
 categories: ["Android", "Mobile Phones"]
 tags: ["Samsung Galaxy", "Samsung Galaxy S2", "Samsung Galaxy S2 Official", "Android Gingerbread"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <a href="/wp/wp-content/uploads/2011/02/galaxy_s2_300x533.jpg"><img title="galaxy_s2_300x533" src="/wp/wp-content/uploads/2011/02/galaxy_s2_300x533-168x300.jpg" alt="Samsung Galaxy S2" width="168" height="300" /></a>
 <p>After <a href="/rumors/samsung-galaxy-s2-image-leaked-rumor" target="_blank">all the rumors</a> all these days, Samsung has finally officially released the Samsung Galaxy S2. This one looks like the bigger brother of Galaxy S and doesn't match with the image we saw earlier but the specs (see ahead) look pretty much the same.</p>

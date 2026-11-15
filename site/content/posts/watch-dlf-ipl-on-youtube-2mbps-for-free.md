@@ -4,6 +4,8 @@ date: 2010-03-12T11:30:00
 url: /news/watch-dlf-ipl-on-youtube-2mbps-for-free/
 categories: ["News"]
 tags: ["youtube", "dlf ipl live", "ipl youtube", "airtel ipl speed boost"]
+author: "Setu"
+authors: ["setu"]
 ---
 <img src="/wp/wp-content/uploads/2008/10/youtube-logo-300x212.jpg" alt="" width="300" height="212" /><img title="image" src="/wp/wp-content/uploads/2010/03/image_thumb6.png" alt="image" width="240" height="198" />
 <p><a href="http://en.wikipedia.org/wiki/Indian_Premier_League" target="_blank">DLF IPL</a> will be available live on YouTube from 12-March-2010 to 25-April 2010. This means you can watch all IPL matches from your desk in office. No more running to the cafeteria to catch the score.</p>

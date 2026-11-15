@@ -4,6 +4,8 @@ date: 2009-10-13T11:19:30
 url: /howto/post-an-email-address-on-your-website-without-the-fear-of-spam/
 categories: ["How Tos", "Blogging", "Dev"]
 tags: ["Prevent Spam", "conceal email address on website", "hide email address", "The Enkoder"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>It's a known fact that posting your email address on your website is bound to get you loads of Spam. And unless you are interested in amazing free gifts, Nigerian treasures or *ahem* larger stuff, it's a big nuisance.</p>
 <p>But you do want to post your email address on your website don't you? And you do want to get emails from people who won't take pains to change the <em>[at]</em> to @ from your cleverly concealed email address. Well, we have a solution. Actually, <a title="Dan Benjamin" href="http://hivelogic.com/about" target="_blank">Dan Benjamin</a> developed it, but remember, we are the ones who told you ;-)</p>

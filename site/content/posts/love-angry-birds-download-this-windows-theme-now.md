@@ -4,6 +4,8 @@ date: 2011-07-09T13:57:07
 url: /gaming/love-angry-birds-download-this-windows-theme-now/
 categories: ["Gaming", "Misc"]
 tags: ["angry birds", "angry birds theme", "windows themes"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p>If you are a fan of angry birds, you will love this <a href="http://windows.microsoft.com/en-US/windows/downloads/angry-birds-theme">Windows 7 theme</a>:</p>
 <p><img title="angry-birds-windows-theme.jpg" src="/wp/wp-content/uploads/2011/07/angry-birds-windows-theme.jpg" alt="Angry birds windows theme" width="500" height="346" /></p>

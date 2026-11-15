@@ -4,6 +4,8 @@ date: 2008-08-16T23:57:41
 url: /reviews/review-compaq-presario-v3780tu-notebook/
 categories: ["Reviews", "Laptops"]
 tags: ["v3780TU", "compaq presario v3780tu", "presario v3000", "presario v3780", "v3780", "compaq v3780", "compaq v3780tu", "compaq", "presario", "compaq 3780", "presario 3780"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img class="alignnone" src="/images/compaq-v3780tu-lead.jpg" alt="" width="593" height="225" /></p>
 <p>The Compaq Presario V3780TU Notebook is a well balanced mid range laptop aimed at home users and students. The configuration is more than enough for basic home usage and most students needs. Here is the detailed configuration:</p>

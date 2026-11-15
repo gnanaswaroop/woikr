@@ -4,6 +4,8 @@ date: 2011-09-21T10:57:00
 url: /misc/awesome-san-francisco-time-lapse-video/
 categories: ["Misc"]
 tags: ["san francisco", "time lapse", "Photo Gear"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p>We love <a href="http://en.wikipedia.org/wiki/Time-lapse">time lapse videos</a>. And this one (which is a work in progress, BTW) is awesomely cool (watch it in HD):</p>
 <p></p>

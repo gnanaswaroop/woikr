@@ -4,6 +4,8 @@ date: 2010-11-16T12:46:08
 url: /apple/steve-jobs-home-office-pictures/
 categories: ["Apple"]
 tags: ["steve jobs home", "steve jobs pictures", "steve jobs office"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>Did you think Steve Jobs' home/office will be no less than Iron Man? Looking at these pictures taken in 2004, it's nothing like that. In fact, it is really simple.</p>
 <p>You could argue that 6 years back Apple wasn't this big but they were <a href="http://everythingapple.blogspot.com/2004/10/apple-2004-q4-financials-posted.html" target="_blank">making good money</a> then too. And it's not like Steve Jobs used to <a href="/apple/dress-like-steve-jobs">dress any different</a>.</p>

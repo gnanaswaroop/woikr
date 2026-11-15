@@ -4,6 +4,8 @@ date: 2011-01-14T11:17:50
 url: /telecom/dot-approves-3g-video-calling-3g-is-coming/
 categories: ["Telecom", "News"]
 tags: ["3g india", "3G"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="3G_india_lead.png" src="/images/3G_india_lead.png" alt="3G_india_lead.png" /></p>
 <p>3G is coming. As per the latest news, the Department of Telecommunications (DoT) has given a go ahead the operators to launch 3G video calling services in India with an undertaking from every operator that they will provide necessary options to the government to intercept 3G video calls.</p>

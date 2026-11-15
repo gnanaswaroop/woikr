@@ -4,6 +4,8 @@ date: 2015-03-09T09:54:41
 url: /reviews/review-nomads-portable-charging-products/
 categories: ["Reviews"]
 tags: ["nomad", "chargekey", "carabiner charger"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="nomad-logo-new.png" src="/wp/wp-content/uploads/2015/03/nomad-logo-new.png" alt="nomad-logo-new" width="386" height="138" /></p>
 <p>We earlier <a href="/apple/review-nomad-chargekey-for-lightning-devices/">reviewed Nomad’s Chargekey</a> - a key shaped USB lightning charger you can put in your keyring to always have a charger handy. The company - <a href="http://www.hellonomad.com">Nomad</a>, has rebranded itself and have come up with an updated version of the Chargekey (now called NomadKey) and 2 new products which they claim are tools meant for the modern nomad. Essentially targeting the segment of customers who are mostly on the go. They sent us a review kit with all 3 of their latest products. I have been using them for the past few weeks and so far, they have proved to be delivering on their promise. Lets look at each one of them.</p>

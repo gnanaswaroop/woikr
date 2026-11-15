@@ -4,6 +4,8 @@ date: 2009-04-10T13:28:00
 url: /news/insert-inline-images-in-gmail/
 categories: ["News"]
 tags: ["gmail", "Google", "gmail insert images", "insert inline images", "display images in email", "gmail labs"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img class="alignnone size-full wp-image-1701" title="gmail_logo" src="/wp/wp-content/uploads/2008/11/gmail_logo.png" alt="gmail_logo" width="147" height="68" /></p>
 <p>This is perhaps an extremely useful feature for almost everyone. Remember the time you wanted to show an image in your email inlined with the text but could not figure out how to do it? Maybe if you are a little techie/geeky, you know that you can drag n drop images or paste stuff off MS Word. But its clumsy &amp; doesn't seem to work all the time.</p>

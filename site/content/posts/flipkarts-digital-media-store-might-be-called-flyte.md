@@ -4,6 +4,8 @@ date: 2012-02-14T23:09:40
 url: /news/flipkarts-digital-media-store-might-be-called-flyte/
 categories: ["News"]
 tags: ["flipkart", "music store india", "digital music india"]
+author: "Setu"
+authors: ["setu"]
 aliases: ["/news/flipkarts-digital-media-store-might-be-called-flyout/"]
 ---
 <p><img title="flipkart_india1.png" src="/wp/wp-content/uploads/2011/10/flipkart_india1.png" alt="flipkart_india1.png" /></p>

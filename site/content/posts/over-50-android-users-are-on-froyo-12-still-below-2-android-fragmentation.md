@@ -4,6 +4,8 @@ date: 2011-01-20T00:20:37
 url: /android/over-50-android-users-are-on-froyo-12-still-below-2-android-fragmentation/
 categories: ["Android"]
 tags: ["Android Fragmenta", "Google Android", "Android Froyo"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>According to usage statistics collected by Google (shown ahead) over the period of 2 weeks ending this January 4, over 50% of Android users worldwide have upgraded to Android 2.2 Froyo. Since Gingerbread is available only on 1 device (Google's Nexus S) yet, Froyo can be considered the popular latest version. It's actually not bad considering the fact that major companies like Samsung and Sony have been reluctant at upgrading their latest hardware to Froyo.</p>
 <p><img class="size-full wp-image-6448 aligncenter" title="android_usage_chart" src="/wp/wp-content/uploads/2011/01/android_usage_chart.png" alt="Android Usage Chart" width="460" height="250" /></p>

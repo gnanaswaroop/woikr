@@ -4,6 +4,8 @@ date: 2008-09-18T00:44:55
 url: /first-look/sony-vaio-fw13-first-full-hd-laptop/
 categories: ["First Look", "Laptops"]
 tags: ["vaio", "FW 13", "fw 13 GU", "fw13 GU/H", "vaio 13", "vaio india", "sony fw13 laptop", "blue ray laptop", "sony HD laptop"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img class="alignnone" src="/wp/wp-content/uploads/2008/09/vaio_fw_13_lead.png" alt="" width="593" height="225" /></p>
 <p>Sony launched the FW13 GU/H laptop in the Indian market recently. The laptop boasts of features like Full HD and Blue Ray drive along with a powerful processor. Is it really worth the juice? Lets find out.</p>

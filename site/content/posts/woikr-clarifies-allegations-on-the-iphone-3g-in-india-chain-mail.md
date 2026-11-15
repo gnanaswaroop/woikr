@@ -4,6 +4,8 @@ date: 2008-08-22T16:53:34
 url: /apple/woikr-clarifies-allegations-on-the-iphone-3g-in-india-chain-mail/
 categories: ["Apple", "iPhone"]
 tags: ["iPhone", "iphone chain mail", "allegations iphone 3G india", "iphone 3G india", "iphone 3G", "iphone 3G features", "iphone camera"]
+author: "Team Woikr"
+authors: ["woikr"]
 ---
 <p><img class="alignnone" src="/images/iphone_chainmail_lead.png" alt="" width="593" height="225" /></p>
 <p>A chain mail has been doing some rounds in every one's mailbox here in India. There are a lot of allegations on the new iPhone 3G available now through Vodafone and Bharti Airtel. Some true some false; woikr clarifies these allegations for you.</p>

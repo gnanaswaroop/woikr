@@ -4,6 +4,8 @@ date: 2009-10-28T20:16:06
 url: /android/android-2-0-is-here-and-its-good/
 categories: ["Android", "Google", "Mobile Phones"]
 tags: ["Android 2.0", "Smartphones", "Droid Does"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>Google has <a href="http://android-developers.blogspot.com/2009/10/announcing-android-20-support-in-sdk.html" target="_blank">revealed</a> the new Android 2.0 API and the video below is not only a great introduction, but it actually looks very good. Now if <a href="http://www.youtube.com/watch?v=dPYM-XTqcec" target="_blank">Droid does</a> what all it says, I'm leaving the Apple camp.</p>
 

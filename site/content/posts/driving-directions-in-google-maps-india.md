@@ -4,6 +4,8 @@ date: 2009-03-30T16:46:37
 url: /google/driving-directions-in-google-maps-india/
 categories: ["Google", "News"]
 tags: ["Google", "google maps", "google maps india", "iPhone", "iphone driving directions", "driving directions india"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><a href="http://maps.google.co.in" target="_blank">Google Maps India </a>can now give you driving directions. The feature which defines the very purpose of online maps is thankfully now available for Indian users:</p>
 

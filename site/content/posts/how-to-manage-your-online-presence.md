@@ -4,6 +4,8 @@ date: 2010-09-25T22:51:49
 url: /misc/how-to-manage-your-online-presence/
 categories: ["Misc"]
 tags: ["social networking", "how to", "use twitter", "orkut", "digg", "linkedin", "twitter", "facebook", "india social", "social online", "social networking in india", "online presence", "purchase websites", "how to be online", "social life online", "online social"]
+author: "Swaroop"
+authors: ["swaroop"]
 ---
 With the <a href="/misc/internet-until-now" target="_blank">ever growing social websites</a> and gaming portals – a part of our personal life has gone to the <a href="http://en.wikipedia.org/wiki/Cloud_computing" target="_blank">cloud</a>, some of it public. This post is targeted for people who’re new to the online world – i.e believing that there is a something on the internet apart from reading emails.
 

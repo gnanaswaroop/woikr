@@ -4,6 +4,8 @@ date: 2012-12-04T19:20:53
 url: /android/mahindra-launches-android-app-to-connect-with-your-xuv-500/
 categories: ["Android", "News"]
 tags: ["mahindra", "xuv", "xuv 500", "mahindra android app", "xuv android app"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="mahindra-logo.png" src="/wp/wp-content/uploads/2012/12/mahindra-logo.png" alt="mahindra logo" width="178" height="106" /></p>
 <p>The XUV 500 is the flagship car from Mahindra. People are mad about it and rightfully so. It looks great, performs well and is priced competitively. The only issue is that you have to wait months before you can get one.</p>

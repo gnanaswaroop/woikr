@@ -4,6 +4,8 @@ date: 2011-03-19T14:06:05
 url: /gaming/first-person-super-mario-bros-will-satisfy-you-fragaholics-video/
 categories: ["Gaming"]
 tags: ["FPS Gamers", "Fragaholics", "Super Mario Bros", "Super Mario Bros FPS", "Mario First-person shooter"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 Super Mario Bros...Check.<br>
 FPS...Check!<br>

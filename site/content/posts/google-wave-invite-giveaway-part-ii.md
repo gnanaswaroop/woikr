@@ -4,6 +4,8 @@ date: 2009-10-20T12:05:36
 url: /contests/google-wave-invite-giveaway-part-ii/
 categories: ["Giveaways"]
 tags: ["google wave invite giveaway", "google wave invite", "google wave", "Google", "google wave invite contest"]
+author: "Setu"
+authors: ["setu"]
 ---
 <img src="/wp/wp-content/uploads/2009/10/image_thumb13.png" alt="" />
 <p><a href="/contests/winners-of-google-wave-invite-giveaway-announced/" target="_blank">As promised</a>, here is part II of the Google Wave invite giveaway. We have 5 invites with us which we would like to give away to our readers.</p>

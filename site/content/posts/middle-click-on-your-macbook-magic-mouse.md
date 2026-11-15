@@ -4,6 +4,8 @@ date: 2010-08-21T21:06:41
 url: /mac/middle-click-on-your-macbook-magic-mouse/
 categories: ["Mac"]
 tags: ["middle click macbook", "middle click mac", "middle click magic mouse"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <img src="/wp/wp-content/uploads/2010/08/no_middleclick.jpg" alt="" />
 <div>

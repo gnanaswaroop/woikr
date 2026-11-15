@@ -4,6 +4,8 @@ date: 2008-09-12T13:21:58
 url: /telecom/3g-mobile-service-the-next-chapter-in-indias-telecom-growth-story/
 categories: ["Telecom"]
 tags: ["3G", "3g india", "trai", "3g auction india", "3g service in India", "3G vs. wimax", "wimax", "3g technology", "mobile 3g technology", "3g mobile", "what is 3g", "3g in india"]
+author: "Dhruv"
+authors: ["dhruv"]
 ---
 <p><img class="alignnone" src="/images/3G_india_lead.png" alt="" width="593" height="225" /></p>
 <p><strong>"Network not available"</strong>: anyone who has tried to make a call over a mobile phone in Metros (Mumbai, Delhi, or Bangalore) dreads those chilling words. As India's mobile market has exploded in recent years to more than 170 million users, and as seven mobile operators compete for that growing customer base, spectrum space has gotten tighter and quality of service has diminished.</p>

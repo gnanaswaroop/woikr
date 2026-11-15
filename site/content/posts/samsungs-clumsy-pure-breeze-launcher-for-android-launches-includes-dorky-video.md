@@ -4,6 +4,8 @@ date: 2011-09-03T10:30:47
 url: /android/samsungs-clumsy-pure-breeze-launcher-for-android-launches-includes-dorky-video/
 categories: ["Android"]
 tags: ["Android launchers", "LauncherPro", "ADW launcher", "Zeam Launcher", "Samsung Android Launcher", "Samsung Pure Breeze launcher", "Pure Breeze launcher for Android"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>If you are one of those 3 people who like Samsung's Android customizations but have an HTC phone, here is something for you. Samsung has launched their <em>next gen</em> launcher called "Clumsy Pure Breeze Launcher" in the Android Market. Ok, I added clumsy.</p>
 <p>The only thing worse than the name is the dorky promotion video.</p>

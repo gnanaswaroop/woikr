@@ -4,6 +4,8 @@ date: 2013-03-12T22:30:06
 url: /misc/exclusivelane-com-offers-handicrafts-products-online/
 categories: ["Misc", "Internet"]
 tags: ["indian handicraft online", "buy handicrafts online"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="exclusivelane-logo.png" alt="exclusivelane.com logo" src="/wp/wp-content/uploads/2013/03/exclusivelane-logo.png" width="146" height="108" /></p>
 <p><a href="http://www.exclusivelane.com">Exclusivelane.com</a> is a Noida based startup which offers authentic handicrafts for sale online. The site is one of a kind in India and aims to provide quality products with fantastic customer service.</p>

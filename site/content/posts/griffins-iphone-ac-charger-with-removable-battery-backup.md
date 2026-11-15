@@ -4,6 +4,8 @@ date: 2009-05-15T10:42:56
 url: /news/griffins-iphone-ac-charger-with-removable-battery-backup/
 categories: ["News"]
 tags: ["griffin", "iPhone", "iPod", "iphone charger", "powerjolt", "powerblock reserve", "mp3 charger"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p>There are designs. And there are intelligent designs. The griffin’s latest iPhone/iPod charger is the latter:</p>
 

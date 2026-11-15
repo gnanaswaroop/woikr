@@ -4,6 +4,8 @@ date: 2011-01-12T13:05:37
 url: /misc/the-chase-film-intels-awesome-new-mashup-video/
 categories: ["Misc"]
 tags: ["Intel Core i5 Advertisement"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>This is one of the most innovative mashup videos I've ever seen. Kudos Intel! Official description and the video follow.</p>
 

@@ -4,6 +4,8 @@ date: 2009-07-08T00:55:28
 url: /google/gmail-is-finally-out-of-beta/
 categories: ["Google", "News"]
 tags: ["gmail", "Google", "beta", "out of beta", "google apps", "back to beta"]
+author: "Setu"
+authors: ["setu"]
 ---
 <a href="/wp/wp-content/uploads/2009/07/image.png"><img title="image" src="/wp/wp-content/uploads/2009/07/image_thumb.png" alt="image" width="320" height="168" /></a>
 <p>In what can be called as a very radical move, <a href="/tag/google" target="_blank">Google</a> announced today that its pulling off the “beta” label from its Google Apps products including <a href="/tag/gmail" target="_blank">Gmail</a>.</p>

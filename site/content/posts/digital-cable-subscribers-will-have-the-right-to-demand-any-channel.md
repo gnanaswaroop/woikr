@@ -4,6 +4,8 @@ date: 2012-03-13T22:05:17
 url: /news/digital-cable-subscribers-will-have-the-right-to-demand-any-channel/
 categories: ["News", "Home Entertainment"]
 tags: ["HD broadcast India", "digital cable india", "digital tv"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="digital-cable.png" src="/wp/wp-content/uploads/2012/03/digital-cable.png" alt="digital cable" width="274" height="184" /></p>
 <p>With the government regulation requiring all the Cable service providers in metro cities (Delhi, Mumbai, Chennai &amp; Kolkata) to go digital by June 2012, subscribers of digital cable will soon have the right to demand any channel available in India.</p>

@@ -4,6 +4,8 @@ date: 2011-01-04T09:49:12
 url: /android/android-2-3-tips-tricks-from-google/
 categories: ["Android"]
 tags: ["android", "android 2.3", "gingerbread", "android tips", "Google", "nexus s"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="NewImage.jpg" src="/wp/wp-content/uploads/2011/01/NewImage13.jpg" alt="NewImage.jpg" width="202" height="250" /></p>
 <p>Google released the <a href="/google/google-and-samsung-debut-the-nexus-s">Nexus S smartphone</a> a few weeks back which redefined the android smartphone space and is the first phone to carry pure <a href="http://developer.android.com/sdk/android-2.3-highlights.html">Android 2.3</a> Gingerbread.</p>

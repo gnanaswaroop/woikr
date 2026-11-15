@@ -4,6 +4,8 @@ date: 2012-03-11T21:31:00
 url: /gaming/quantic-dreams-new-demo-will-change-your-perception-of-games/
 categories: ["Gaming"]
 tags: ["Motion Capture", "Kara by Quantic Dream", "Heavy Rain", "Indigo Prophecy"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 I have always been a fan of <a href="http://en.wikipedia.org/wiki/Quantic_Dream" target="_blank">Quantic Dream</a>. They take video games as close to art as possible.
 

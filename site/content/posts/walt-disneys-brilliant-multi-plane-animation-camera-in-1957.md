@@ -4,6 +4,8 @@ date: 2011-06-15T22:59:05
 url: /misc/walt-disneys-brilliant-multi-plane-animation-camera-in-1957/
 categories: ["Misc"]
 tags: ["Walt Disney", "Early Animation", "Disney Animation Techniques", "Multi Plane Camera"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 This is abso-frickin-lutely amazing. Walt Disney shows how they invented a new multi plane camera for layered animation to provide that sense of realism.
 

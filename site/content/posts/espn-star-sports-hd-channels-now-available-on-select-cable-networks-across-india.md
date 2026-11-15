@@ -4,6 +4,8 @@ date: 2012-01-08T15:18:54
 url: /telecom/espn-star-sports-hd-channels-now-available-on-select-cable-networks-across-india/
 categories: ["Telecom", "News", "Home Entertainment"]
 tags: ["espn hd india", "start sports HD", "HD India", "hd cable", "hd channels india", "hdtv india"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="hd.png" src="/wp/wp-content/uploads/2011/10/hd.png" alt="hd.png" /></p>
 <p><a href="http://en.wikipedia.org/wiki/ESPN_Star_Sports">ESPN Star Sports</a>, the body which owns the two first 24x7 sports HD channels in India (ESPN HD &amp; Star Cricket HD) have signed a deal to allow select cable operators in India to show their HD channels. The channels are available to 3 cable networks - Incable, 7Star in Mumbai &amp; UCN in Central India. Subscribers of these digital cable operators can now enjoy these HD channels by upgrading to a HD set top box.</p>

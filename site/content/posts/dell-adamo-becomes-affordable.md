@@ -4,6 +4,8 @@ date: 2010-12-26T07:55:06
 url: /laptops/dell-adamo-becomes-affordable/
 categories: ["Laptops"]
 tags: ["Dell Adamo", "Adamo Onyx", "Dell Adamo Price", "Dell Adamo Affordable"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>Remember we <a href="/laptops/dell-unveils-worlds-thinnest-notebooks" target="_blank">told you about</a> the sleek Adamo series that Dell launched to compete with Macbook Air? The only issue we ever had with it (apart from it running Windows) was the price. It was ridiculously expensive. But now Dell has gotten back to it's senses and lowered the prices to make the notebook really worth a look.</p>
 <p><a href="/wp/wp-content/uploads/2010/12/adamo-onyx.jpg"></a><img title="adamo-onyx" src="/wp/wp-content/uploads/2010/12/adamo-onyx.jpg" alt="" width="532" height="390" /></p>

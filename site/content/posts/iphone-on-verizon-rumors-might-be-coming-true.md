@@ -4,6 +4,8 @@ date: 2011-01-02T09:24:15
 url: /rumors/iphone-on-verizon-rumors-might-be-coming-true/
 categories: ["Rumors", "iPhone"]
 tags: ["iPhone 4 Verizon", "Verizon iPhone", "iPhone Reliance", "iPhone CDMA"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>The iPhone CDMA rumors <a href="/iphone/iphone-cdma-is-coming-soon" target="_blank">we talked about</a> seem to be coming true. There were two new developments that seem to make it more clear that iPhone is coming on Verizon soon.</p>
 <p>One, Verizon has registered the domain name iphoneonverizon.com according to the whois page as discovered by <a href="http://pocketnow.com/iphone/verizon-buying-up-iphone-related-domains" target="_blank">pocketnow</a>. Two, Offwire a retail website has already got an iPhone 4 Verizon category of accessories. We believe this is pretty good evidence that the rumors are coming true soon.</p>

@@ -4,6 +4,8 @@ date: 2009-04-27T19:19:14
 url: /contests/prarthana-apps-promo-code-giveaway-contest/
 categories: ["Giveaways"]
 tags: ["iphone app give away", "app promocodes", "puja on iphone", "iphone prarthana apps", "vishnu durga app", "promo codes iphone", "iPhone"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p>We have 3 promo codes <strong>each</strong> for Shri Durga &amp; Shri Vishnu Prarthana apps which we want to give away to you. The apps are simply awesome, as you might have read in <a href="/reviews/review-shri-durga-shri-vishnu-prarthana-apps/" target="_blank">our detailed review</a>.</p>
 

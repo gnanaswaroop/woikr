@@ -4,6 +4,8 @@ date: 2009-10-08T23:38:59
 url: /misc/piano-stairs-to-keep-you-healthy/
 categories: ["Misc"]
 tags: ["Musical stairs", "Piano Stairs"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <div>People hate to take the stairs. Some people hate it so much that they will take an elevator to go down a single floor! Clearly good health is under-rated.</div>
 <p><a href="http://www.rolighetsteorin.se/" target="_blank">Some guys</a> in Sweden created these Piano stairs to lure such people into taking stairs by making it more fun. Apparently, it worked too. 66% more people chose to take the Piano stairs over boring, non-musical elevators.</p>

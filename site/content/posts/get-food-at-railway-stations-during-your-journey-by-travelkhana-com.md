@@ -4,6 +4,8 @@ date: 2013-07-30T19:34:04
 url: /news/get-food-at-railway-stations-during-your-journey-by-travelkhana-com/
 categories: ["News"]
 tags: ["travelkhana", "tdelivery on train", "delivery to railway station", "railway food"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="travelkhana-logo.png" src="/wp/wp-content/uploads/2013/07/travelkhana-logo.png" alt="travelkhana logo" width="133" height="112" /></p>
 <p>Do you hate the food served on Indian Railways? You are not alone. Majority of people do not like the food served in Indian Railways for a variety of reasons: Lack of options, bad taste or just simple hygiene. Whatever be your reason(s), you now have a choice. <a href="http://www.travelkhana.com">Travelkhana.com</a> provides delivery service from local hotels and restaurants in the cities on your way to your seat when you train stops at the railway station.</p>

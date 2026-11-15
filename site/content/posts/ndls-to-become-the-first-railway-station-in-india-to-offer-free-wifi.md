@@ -4,6 +4,8 @@ date: 2013-09-07T19:06:03
 url: /news/ndls-to-become-the-first-railway-station-in-india-to-offer-free-wifi/
 categories: ["News"]
 tags: ["wifi india train", "wifi india", "railways wifi", "new delhi wifi", "free wifi india"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="ndls.png" src="/wp/wp-content/uploads/2013/09/ndls.png" alt="ndls" width="300" height="225" /></p>
 <p>After running <a href="/news/indian-railways-to-offer-free-wifi-on-trains-starting-today-2/">pilot project to make trains WiFi enabled</a>, Indian Railways in planning a pilot project to offer free WiFi at the New Delhi railway Station - the busiest railway station in the country.</p>

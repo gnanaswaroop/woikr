@@ -4,6 +4,8 @@ date: 2010-07-23T13:33:35
 url: /android/olive-telecom-launches-indias-first-3g-tablet/
 categories: ["Android", "Telecom", "News"]
 tags: ["olive telecom", "olivepad", "tablet computer india", "3G tablet india"]
+author: "Setu"
+authors: ["setu"]
 ---
 <a href="/wp/wp-content/uploads/2010/07/image13.png"><img title="image" src="/wp/wp-content/uploads/2010/07/image_thumb9.png" alt="image" width="240" height="193" /></a>
 

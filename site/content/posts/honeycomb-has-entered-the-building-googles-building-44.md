@@ -4,6 +4,8 @@ date: 2011-03-01T11:09:46
 url: /android/honeycomb-has-entered-the-building-googles-building-44/
 categories: ["Android"]
 tags: ["Google Building 44", "Google Android Figures", "Android Dessert Statues", "Android Desserts", "Google Android Naming", "honeycomb", "gingerbread"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>Every Android release comes with 2 things. First is a sweet name based on a dessert, and second is a statue/figure based on that name in the Android team's building (Building 44 at Google).</p>
 <p>While, it's a bit late, Honeycomb has finally arrived.</p>

@@ -4,6 +4,8 @@ date: 2009-10-13T23:37:30
 url: /contests/google-wave-invite-giveaway/
 categories: ["Giveaways"]
 tags: ["google wave invite", "wave", "Google", "google wave", "google wave invite contest", "google wave giveaway"]
+author: "Setu"
+authors: ["setu"]
 ---
 <a href="/wp/wp-content/uploads/2009/10/image16.png"><img title="image" src="/wp/wp-content/uploads/2009/10/image_thumb13.png" alt="image" width="150" height="150" /></a>
 <p><strong>UPDATE</strong>: This contest in now closed. See the list of winners <a href="/contests/winners-of-google-wave-invite-giveaway-announced/" target="_self">here</a>.</p>

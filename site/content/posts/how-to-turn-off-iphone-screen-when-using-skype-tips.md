@@ -4,6 +4,8 @@ date: 2009-10-15T02:00:45
 url: /howto/how-to-turn-off-iphone-screen-when-using-skype-tips/
 categories: ["How Tos", "iPhone"]
 tags: ["iphone skype", "iphone screen", "screen turn off", "skype screen", "skype features", "skype lacks", "skype bugs", "skype application", "iphone application", "backlight off", "skype backlight", "skype locked screen", "skype switchoff", "backlight switchoff", "skype", "skype howto", "iphone howto", "iphone how to", "skype how to"]
+author: "Swaroop"
+authors: ["swaroop"]
 ---
 This is one of those posts that a few of you might think -  "<em>I already knew this</em>" or "<em>Does this really deserve a post?</em>". But I am gonna post it anyway, because its one hell of a useful tip if you're a regular user of this iPhone application and didn't figure this out before.
 

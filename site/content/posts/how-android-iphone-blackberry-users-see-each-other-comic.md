@@ -4,6 +4,8 @@ date: 2010-11-05T10:09:23
 url: /android/how-android-iphone-blackberry-users-see-each-other-comic/
 categories: ["Android", "LOL", "Mobile Phones", "iPhone"]
 tags: ["android fanboys", "iphone fanboys", "blackberry fanboys", "smartphone comic"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 We all know that all the smartphone fanboys look down upon the other. This comic is pretty accurate in describing the real feelings.
 

@@ -4,6 +4,8 @@ date: 2010-12-27T08:41:54
 url: /photography/nikon-dslr-lens-electronic-zoom/
 categories: ["Photo Gear"]
 tags: []
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>According to a patent application filed by Nikon, they are working on a lens that has both manual and electronic zooming capabilities.</p>
 <p>If you asked why do we need electronic zooming on DSLRs, then the answer is that this feature is primarily for the new cameras that also support video recording. Apparently handling a heavy DSLR and zooming the lens manually causes the body to shake beyond the control of the Vibration Control system of the lens. This along with constant auto-focusing causes really blurry video. And if you are trying to manually focus, don't even think about handling two dials on your beefy camera in parallel. Having electronic zooming abilities will mean simple Point and Shoot like buttons on the camera body (or lens?) which will be easier to operate while you try to keep your camera steady.</p>

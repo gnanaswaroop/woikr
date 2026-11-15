@@ -4,6 +4,8 @@ date: 2011-12-18T12:42:07
 url: /home-entertainment/upgrading-your-tatasky-set-top-box-beware-of-their-absurd-warranty-policy/
 categories: ["Home Entertainment"]
 tags: ["tatasky", "tatasky HD", "tatasky warranty"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="tatasky-logo.png" src="/wp/wp-content/uploads/2011/05/tatasky-logo.png" alt="tatasky logo" width="160" height="80" /></p>
 <p>if you are planning to, or have upgraded your TataSky set top box, you should note that TataSky has an absurd warranty policy on up gradation. Instead of starting a new warranty on the new set top box you have purchased, they just continue the old box's warranty on the new set top box as well. This means that if your old box's warranty is expired, you will NOT get any warranty on the new box and TataSky will charge you for any repairs. However, if you are a new subscriber, you get 1 year warranty. This is totally absurd as you pay the same price as a new customer.</p>

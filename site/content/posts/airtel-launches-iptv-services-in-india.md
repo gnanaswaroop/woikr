@@ -4,6 +4,8 @@ date: 2009-01-20T00:18:36
 url: /news/airtel-launches-iptv-services-in-india/
 categories: ["News"]
 tags: ["Airtel", "iptv", "iptv india", "airtel digital TV", "digital TV interactive", "airtel set top box", "airtel broadband", "airtel TV", "reliance", "mtnl", "video on demand india", "HD India", "high definition in India", "triple play india"]
+author: "Setu"
+authors: ["setu"]
 ---
 <a href="/wp/wp-content/uploads/2009/01/iptv.jpg"><img class="alignnone size-full wp-image-2019" title="iptv" src="/wp/wp-content/uploads/2009/01/iptv.jpg" alt="iptv" width="180" height="240" /></a>
 <p>Airtel has launched their IPTV services today in India under the banner of "<a href="http://airtel.in/interactive/index.html" target="_blank">digital TV Interactive</a>". Note that this service is different from the DTH service under the "<a href="http://www.airtel.in/digitaltv" target="_blank">digital TV</a>" banner.</p>

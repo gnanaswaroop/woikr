@@ -4,6 +4,8 @@ date: 2012-12-02T13:32:00
 url: /news/bank-in-hindi-using-hdfc-banks-hindi-mobile-banking-android-app/
 categories: ["News"]
 tags: ["HDFC Bank", "Hindi mobile banking"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="hdfc-bank-logo.png" src="/wp/wp-content/uploads/2012/12/hdfc-bank-logo.png" alt="hdfc bank logo" width="124" height="124" /></p>
 <p>HDFC bank has become the first bank in India to launch a mobile banking app in Hindi. The app is available on the <a href="https://play.google.com/store/apps/details?id=com.snapwork.hdfc.hindi&amp;hl=en">Google Play store</a> and can be used by HDFC bank customers to bank in Hindi and perform various other banking operations like payment of utility bills, credit card payments, funds transfer and more.</p>

@@ -4,6 +4,8 @@ date: 2009-01-09T21:47:05
 url: /news/nokia-xpressmusic-5800-officially-launched-in-india/
 categories: ["News"]
 tags: ["nokia 5800", "xpressmusic", "xpress music", "nokia tube", "nokia iphone killer", "nokia touchscreen", "touch screen nokia", "nokia 3G wi-fi"]
+author: "Setu"
+authors: ["setu"]
 ---
 <a href="/wp/wp-content/uploads/2008/12/nokia_5800_india.png"><img class="alignnone size-full wp-image-1913" title="nokia_5800_india" src="/wp/wp-content/uploads/2008/12/nokia_5800_india.png" alt="nokia_5800_india" width="137" height="295" /></a>
 <p>The much anticipated touchscreen phone from Nokia - <a href="http://WWW.xpressmusic.in/" target="_blank">XpressMusic 5800</a> aka '<em>Tube</em>' has been officially launched in India today (9-Jan-2009). The phone was launched in Mumbai by none other than the brand ambassador of Nokia - Priyanka Chopra. Nokia was <a href="/news/nokia-5800-xpressmusic-aka-tube-pre-bookings-now-open-in-india/" target="_blank">accepting pre bookings for the phone</a> since the last few days in India at  <a href="http://www.nokiaprebook.com/">http://www.nokiaprebook.com/</a>.</p>

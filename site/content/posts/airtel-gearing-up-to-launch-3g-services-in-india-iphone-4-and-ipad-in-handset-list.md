@@ -4,6 +4,8 @@ date: 2010-10-20T00:08:23
 url: /telecom/airtel-gearing-up-to-launch-3g-services-in-india-iphone-4-and-ipad-in-handset-list/
 categories: ["Telecom", "News"]
 tags: ["Airtel", "airtel 3g", "3g india", "3g in india"]
+author: "Setu"
+authors: ["setu"]
 ---
 <img title="airtellogo1[1]" src="/wp/wp-content/uploads/2010/10/airtellogo11.jpg" alt="airtellogo1[1]" width="240" height="123" />
 

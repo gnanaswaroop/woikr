@@ -4,6 +4,8 @@ date: 2011-08-23T21:21:25
 url: /home-entertainment/dish-tv-launches-indias-first-conditional-access-module-cam-device-to-enable-consumers-to-switch-dth-operator-without-changing-their-hardware/
 categories: ["Home Entertainment"]
 tags: ["cam", "customer access module", "cam dth", "dth india", "change dth operator india", "dish tv", "dish freedom"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="Direct-to-home.png" src="/wp/wp-content/uploads/2011/08/Direct-to-home.png" alt="direct to home" width="300" height="300" /></p>
 <p>Have you ever wondered why there is a big slot just above your subscriber card slot on your DTH set top box? Most of us might not have noticed the slot, but it is very well there on all set top boxes. The slot is meant to be used with a Customer Access Module (CAM) device, a PCMCIA type card which goes into your set top box and can enable it to be used with any DTH operator of your choice. According to <a href="http://en.wikipedia.org/wiki/Telecom_Regulatory_Authority_of_India">TRAI</a>'s regulations, all set-top boxes sold by DTH service providers should be CAM-compliant.</p>

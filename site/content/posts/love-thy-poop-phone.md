@@ -4,6 +4,8 @@ date: 2010-12-23T09:03:22
 url: /lol/love-thy-poop-phone/
 categories: ["LOL"]
 tags: ["Poop Phone", "Weird Japanese Phone"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 Worst Mobile Phone Name Ever. Or maybe it's some kinda Japanese <em>ahem</em> thing.
 

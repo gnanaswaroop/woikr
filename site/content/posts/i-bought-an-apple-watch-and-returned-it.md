@@ -4,6 +4,8 @@ date: 2015-06-14T05:04:03
 url: /apple/i-bought-an-apple-watch-and-returned-it/
 categories: ["Apple"]
 tags: ["Apple", "apple watch", "smartwatch"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="apple watch logo.png" src="/wp/wp-content/uploads/2014/09/apple-watch-logo.png" alt="apple watch logo" width="238" height="65" /></p>
 <p>I was one of those people who pre-ordered the apple watch at 12 am on April 10 and still got the shipping estimate of June. I had bought the Space black stainless steel with link bracelet. It cost a whooping $1195 with taxes here in California and I was praying that it better be god damn good to justify that price. Sadly, it wasn’t. When I got it on June 2nd, after the usual adrenaline rush of unboxing an apple product subsided, and after using it for about a week, I came to the conclusion that this is a product that Steve Jobs would never have let to be launched in its current state. But then again, he let 1st generation iPad to be launched. So I am not sure. Surprisingly, battery is not the problem.</p>

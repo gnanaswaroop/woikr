@@ -4,6 +4,8 @@ date: 2009-05-26T23:41:08
 url: /laptops/the-new-dell-studio-15-laptops-notebooks/
 categories: ["Laptops"]
 tags: ["dell", "studio 15", "dell notebook laptop"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><a href="/wp/wp-content/uploads/2009/05/dell-studio-15-lead.png"><img title="dell_studio_15_lead" src="/wp/wp-content/uploads/2009/05/dell-studio-15-lead-thumb.png" alt="dell_studio_15_lead" width="244" height="163" /></a></p>
 <p>Dell recently updated its <a href="http://www1.ap.dell.com/content/products/productdetails.aspx/laptop-studio-1555?c=in&amp;cs=indhs1&amp;l=en&amp;s=dhs&amp;~ck=mn&amp;ST=Laptop%20reviews&amp;dgc=ST&amp;cid=33221&amp;lid=783243&amp;acd=10599679472341416" target="_blank">Studio 15</a> range of notebook computers in India. The updated range boasts of high amount of RAM and solid graphics cards coupled with the latest processors. Let’s take a look at what’s inside the hood:</p>

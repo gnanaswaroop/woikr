@@ -4,6 +4,8 @@ date: 2012-06-14T08:51:00
 url: /internet/the-world-without-internet-infographic/
 categories: ["Internet"]
 tags: ["World without Internet"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 Ever wondered how the world would've been without? No email, no websites, no twitter, no facebook, no live scores anywhere, heck most likely not even the job you're doing right now.
 

@@ -4,6 +4,8 @@ date: 2012-12-04T09:59:55
 url: /news/breaking-apple-launches-itunes-music-and-movies-store-in-india/
 categories: ["News", "Apple", "Home Entertainment"]
 tags: ["itunes", "itunes store india", "online music india", "buy music india", "itunes india"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="itunes-india-flag.png" src="/wp/wp-content/uploads/2012/12/itunes-india-flag.png" alt="itunes india flag" width="22" height="22" />  <img title="itunes-logo.png" src="/wp/wp-content/uploads/2012/12/itunes-logo.png" alt="itunes logo" width="80" height="23" /></p>
 <p>This is huge. Epic. Apple has launched its iTunes music and movies store in India. Customers in India can now buy legal high quality music and HD movies from iTunes at a very reasonable price. They can also rent movies in HD on their iPad, iPhone, IPod touch or Apple TV. The music collection seems to be huge, however, the movie collection is limited to few Bollywood movies and a handful of Hollywood movies.</p>

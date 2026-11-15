@@ -4,6 +4,8 @@ date: 2012-02-02T20:27:52
 url: /internet/facebook-files-for-us-5-billion-ipo/
 categories: ["Internet", "News"]
 tags: ["facebook", "facebook IPO"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="facebook-logo.png" src="/wp/wp-content/uploads/2011/08/facebook-logo.png" alt="facebook-logo" width="366" height="137" /></p>
 <p>Facebook has filed for an IPO of US$ 5 billion. The whole process is expected to make many Facebook employees millionaires.</p>

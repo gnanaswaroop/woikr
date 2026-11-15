@@ -4,6 +4,8 @@ date: 2010-11-06T14:55:54
 url: /misc/how-the-web-browser-works-comic/
 categories: ["Misc"]
 tags: ["how web browser works", "comic"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 All these days you when you Google how to lose weight, post the latest witty thought you had on twitter, comment on your friend's cheesy new profile pic on Facebook or watch that latest Youtube sensation; you barely care about the humble web browser (Not talking about you IE, you still make people struggle and weep).
 

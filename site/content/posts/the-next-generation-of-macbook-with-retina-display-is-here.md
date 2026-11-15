@@ -4,6 +4,8 @@ date: 2012-06-12T22:57:20
 url: /news/the-next-generation-of-macbook-with-retina-display-is-here/
 categories: ["News", "Apple"]
 tags: ["macbook", "retina macbook"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="macbook-pro-retina-display.png" src="/wp/wp-content/uploads/2012/06/macbook-pro-retina-display.png" alt="macbook pro retina display" width="300" height="160" /></p>
 <p>In addition to <a href="/apple/get-ready-for-ios-6/">announcing iOS 6</a> at yesterday's WWDC keynote, Apple also revealed their <a href="http://www.apple.com/macbook-pro/">next generation of Macbook</a> featuring the awesome <a href="http://www.apple.com/macbook-pro/features/">retina display</a>. The machine is a powerhouse. Lets take a look at its features:</p>

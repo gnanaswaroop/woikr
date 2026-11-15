@@ -4,6 +4,8 @@ date: 2009-07-08T11:36:03
 url: /google/google-chrome-os-announced-first-thoughts/
 categories: ["Google", "News"]
 tags: ["google chrome", "google chrome os", "google os", "google windows 7", "google os windows"]
+author: "Swaroop"
+authors: ["swaroop"]
 ---
 Now that Google has publicly <a href="http://googleblog.blogspot.com/2009/07/introducing-google-chrome-os.html" target="_blank">announced</a> the development of a <a href="http://en.wikipedia.org/wiki/Web_operating_system" target="_blank">Web OS</a>, so that all the folks with really old icky hardware and the very sleek net books would benefit out of this.
 

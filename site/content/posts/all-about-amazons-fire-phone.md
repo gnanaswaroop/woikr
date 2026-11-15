@@ -4,6 +4,8 @@ date: 2014-07-03T09:16:13
 url: /news/all-about-amazons-fire-phone/
 categories: ["News", "Mobile Phones"]
 tags: ["amazon fire phone", "amazon phone"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="amazon-fire-phone.png" src="/wp/wp-content/uploads/2014/07/amazon-fire-phone.png" alt="amazon fire phone" width="292" height="172" /></p>
 <div>Amazon has announced the much rumored <a href="http://www.amazon.com/dp/B00EOE0WKQ">fire phone</a> in the US. It will be available at a price of USD 199 with an at&amp;t service plan for 2 years. The unlocked version of the phone is priced at USD 649. Note that these prices are for the 32 GB variants of the phone. This pricing is part of amazon’s aggressive campaign to drive sales of the phone. In addition to the above pricing, amazon is also offering a full year of amazon prime membership when you purchase the phone (existing prime users get their membership extended by one year).</div>

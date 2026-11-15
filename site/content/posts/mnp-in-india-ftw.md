@@ -4,6 +4,8 @@ date: 2011-03-12T02:03:11
 url: /howto/mnp-in-india-ftw/
 categories: ["How Tos", "Telecom"]
 tags: ["MNP", "mobile number portability india", "mnp india", "mnp process india", "number portability india process", "mobile number portability"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="NewImage.png" src="/wp/wp-content/uploads/2011/03/NewImage7.png" alt="NewImage" width="251" height="246" /></p>
 <p>I just got my number ported from MTNL to Airtel. The process is smoother than one can expect given the situation of customer service in mobile space in India. I must say that I am extremely happy with the process and can confidently say that this is the result of extensive thought process coupled with a great design and excellent implementation.</p>

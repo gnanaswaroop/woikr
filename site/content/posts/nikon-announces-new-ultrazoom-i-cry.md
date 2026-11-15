@@ -4,6 +4,8 @@ date: 2009-02-04T19:23:05
 url: /news/nikon-announces-new-ultrazoom-i-cry/
 categories: ["News", "Photo Gear"]
 tags: ["Nikon P90", "Nikon L100", "Nikon ultrazoom", "Olympus ultrazoom", "Olympus 26x", "Nikon 24x", "24x digital camera"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <a href="/wp/wp-content/uploads/2009/02/nikon_p90_flash.jpg"><img class="size-medium wp-image-2121" title="nikon_p90_flash" src="/wp/wp-content/uploads/2009/02/nikon_p90_flash-300x219.jpg" alt="Nikon P90" width="300" height="219" /></a>
 

@@ -4,6 +4,8 @@ date: 2012-01-11T21:25:05
 url: /google/google-offering-free-wifi-to-access-google-in-india-desperation/
 categories: ["Google"]
 tags: ["Google", "Google Plus", "google india", "google free wifi"]
+author: "Setu"
+authors: ["setu"]
 aliases: ["/google/google-offering-free-wifi-to-access-google-in-india-desperation"]
 ---
 <p><img title="GooglePlus_thumb.png" src="/wp/wp-content/uploads/2011/06/GooglePlus_thumb.png" alt="GooglePlus_thumb.png" /></p>

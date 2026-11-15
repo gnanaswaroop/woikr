@@ -4,6 +4,8 @@ date: 2009-06-10T21:55:18
 url: /news/meet-the-new-macbooks/
 categories: ["News"]
 tags: ["macbook", "macbook pro", "wwdc 2009", "new macbooks"]
+author: "Setu"
+authors: ["setu"]
 ---
 <a href="/wp/wp-content/uploads/2009/06/image5.png"><img title="image" src="/wp/wp-content/uploads/2009/06/image-thumb4.png" alt="image" width="500" height="156" /></a>
 <p>Apple unveiled the new Macbooks at WWDC making them faster and cheaper. With addition of things like better screen and SD card slot, this is probably the best macbook update after unibody. Here is a quick look at the config:</p>

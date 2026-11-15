@@ -4,6 +4,8 @@ date: 2010-07-07T23:25:58
 url: /home-entertainment/dth-operators-unleash-hd-price-war-in-india/
 categories: ["Home Entertainment"]
 tags: ["HD", "hd dth india", "HD India", "HD transmission india", "HDTV", "tata sky dth", "dish tv", "big tv", "sun direct", "airtel digital TV", "hd dth india price comparision"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><a href="/wp/wp-content/uploads/2010/07/image.png"><img title="image" src="/wp/wp-content/uploads/2010/07/image_thumb.png" alt="image" width="554" height="312" /></a></p>
 <p>DTH operators in India had <a href="/home-entertainment/dth-companies-planning-to-launch-hd-set-top-boxes-this-year" target="_blank">planned to start HD transmissions</a> ahead of the 2010 Commonwealth games. However, in order to milk the FIFA fever, they launched their HD services in a hurry. As a result, the pricing and plans are not made clear to the customer. We will try our best to simplify things.</p>

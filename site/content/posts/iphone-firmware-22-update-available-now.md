@@ -4,6 +4,8 @@ date: 2008-11-21T12:56:25
 url: /news/iphone-firmware-22-update-available-now/
 categories: ["News"]
 tags: ["iPhone", "iphone update", "iphone update 2.2", "apple update", "iphone firmware", "iphone firmware 2.2", "iphone 2.2"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><a href="/wp/wp-content/uploads/2008/11/iphone-logo.jpg"><img class="alignnone size-full wp-image-1781" title="iphone-logo" src="/wp/wp-content/uploads/2008/11/iphone-logo.jpg" alt="" width="175" height="60" /></a></p>
 <p>The latest iPhone firmware update 2.2 is out now. Its a 246 MB download and if you have the latest iTunes installed, it should prompt you to download and install it the next time you tether your iPhone.</p>

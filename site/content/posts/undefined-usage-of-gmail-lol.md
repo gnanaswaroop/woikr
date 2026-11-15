@@ -4,6 +4,8 @@ date: 2009-05-04T11:32:49
 url: /lol/undefined-usage-of-gmail-lol/
 categories: ["LOL"]
 tags: ["gmail", "gmail bug", "undefined usage", "undefined MB", "undefined%", "gmail undefined"]
+author: "Swaroop"
+authors: ["swaroop"]
 ---
 <p>Google thinks I am at an "undefined" usage of Gmail.</p>
 <p><a href="/wp/wp-content/uploads/2009/05/gmail-undefined-usage.jpg"><img class="alignnone size-full wp-image-2642" title="gmail-undefined-usage" src="/wp/wp-content/uploads/2009/05/gmail-undefined-usage.jpg" alt="gmail-undefined-usage" width="505" height="44" /></a></p>

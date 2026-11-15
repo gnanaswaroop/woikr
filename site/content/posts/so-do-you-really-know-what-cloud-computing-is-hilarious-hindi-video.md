@@ -4,6 +4,8 @@ date: 2011-08-22T22:20:13
 url: /lol/so-do-you-really-know-what-cloud-computing-is-hilarious-hindi-video/
 categories: ["LOL"]
 tags: ["Cloud Computing in Hindi", "Hilarious view on Cloud Computing", "Cloud Computing LOL Video"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>Remember how Microsoft Windows used to come in CDs? Have you seen Google Search CD?<br>
 Of course, you haven't. That's because it's a Cloud CD. Watch this video for a detailed explanation.</p>

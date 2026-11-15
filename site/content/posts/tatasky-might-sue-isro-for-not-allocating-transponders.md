@@ -4,6 +4,8 @@ date: 2013-06-25T21:07:24
 url: /news/tatasky-might-sue-isro-for-not-allocating-transponders/
 categories: ["News", "Home Entertainment"]
 tags: ["tatasky", "tatasky hd capacity", "tatasky HD", "hd channels india", "hd dth india", "dth india"]
+author: "Setu"
+authors: ["setu"]
 aliases: ["/home-entertainment/tatasky-might-sue-isro-for-not-allocating-transponders/"]
 ---
 <p><img title="tatasky-logo.png" src="/wp/wp-content/uploads/2011/05/tatasky-logo.png" alt="tatasky logo" width="160" height="80" /></p>

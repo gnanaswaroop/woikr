@@ -4,6 +4,8 @@ date: 2009-04-15T14:12:48
 url: /news/indian-deity-on-the-iphone/
 categories: ["News"]
 tags: ["iPhone", "india iphone", "indian god iphone", "godess durga iphone", "lord vishnu iphone", "puja on iphone", "aarti on iphone"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><a href="/wp/wp-content/uploads/2009/04/available_on_app_store.png"><img class="alignnone size-full wp-image-2419" title="available_on_app_store" src="/wp/wp-content/uploads/2009/04/available_on_app_store.png" alt="available_on_app_store" width="135" height="44" /></a></p>
 <p>There are 2 new apps available on the iPhone which let you offer prayers to <a href="http://en.wikipedia.org/wiki/Durga" target="_blank">Godess Durga</a> and <a href="http://en.wikipedia.org/wiki/Vishnu" target="_blank">Lord Vishnu</a>.</p>

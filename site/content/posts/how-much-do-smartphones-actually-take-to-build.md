@@ -4,6 +4,8 @@ date: 2010-12-19T21:52:26
 url: /mobile-phones/how-much-do-smartphones-actually-take-to-build/
 categories: ["Mobile Phones"]
 tags: ["iPhone cost", "iPhone parts cost", "iPhone manufacturing cost", "Blackberry Torch cost", "Nokia N8 manufacturing cost", "Nexus One manufacturing cost"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <a href="http://www.tableausoftware.com/">Tableau</a> has release this interesting infographic that shows the cost of hardware parts used on 3 common smartphones - iPhone 4, Blackberry Torch, Google Nexus One and Nokia N8. Pretty much everything costs around $190 to make. Ofcourse this doesn't include the cost of research and software development.
 

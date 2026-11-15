@@ -4,6 +4,8 @@ date: 2011-05-26T17:40:09
 url: /news/airtel-announces-its-iphone-4-plans/
 categories: ["News", "iPhone"]
 tags: ["Airtel", "iphone 4", "iphone 4 airtel 3g", "iphone 4 india", "reverse subsidy"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="iphone-4-airtel.jpg" src="/wp/wp-content/uploads/2011/05/iphone-4-airtel.jpg" alt="Iphone 4 airtel" width="102" height="190" /></p>
 <p><img title="NewImage62.jpg" src="/wp/wp-content/uploads/2011/01/NewImage62.jpg" alt="NewImage62.jpg" /></p>

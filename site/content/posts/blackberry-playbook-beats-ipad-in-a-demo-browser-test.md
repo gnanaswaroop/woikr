@@ -4,6 +4,8 @@ date: 2010-11-16T21:22:34
 url: /ipad/blackberry-playbook-beats-ipad-in-a-demo-browser-test/
 categories: ["iPad", "First Look"]
 tags: ["Blackberry Playbook", "Blackberry Playbook vs iPad", "Blackberry tablet flash", "PlayBook Acid3 test"]
+author: "Chirag"
+authors: ["chirag"]
 aliases: ["/first-look/blackberry-playbook-beats-ipad-in-a-demo-browser-test/"]
 ---
 <p>In this new video released by BlackBerry, they compare the PlayBook browser to the iPad and well, the PlayBook performs comprehensively better!</p>

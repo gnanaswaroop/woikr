@@ -4,6 +4,8 @@ date: 2010-10-18T23:33:08
 url: /iphone/how-to-boost-your-iphone-speaker-volume/
 categories: ["iPhone"]
 tags: ["iphone speaker", "iPhone volume", "iPhone external speaker", "iPhone speaker volume", "increase speaker volume", "increase iPhone volume", "xmini 1.1", "xmini external speaker", "xmini capsule speaker", "iPhone Jailbreak", "iPhone volume increase", "iPhone tips and tricks"]
+author: "Swaroop"
+authors: ["swaroop"]
 ---
 Do you love your iPhone, but occasionally worry that it doesn’t match up to your friend’s phone speaker volume? If you do, then here is a non-jailbreak approach that will help you listen to your iPhone ringing or watch movies or catch internet radio the way its intended to be.
 

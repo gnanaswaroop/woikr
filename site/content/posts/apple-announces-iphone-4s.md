@@ -4,6 +4,8 @@ date: 2011-10-05T10:27:07
 url: /iphone/apple-announces-iphone-4s/
 categories: ["iPhone"]
 tags: ["iphone 4s", "new iphone", "iphone 4 upgrade"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p> </p>
 <p><img title="iphone-4s-white.png" src="/wp/wp-content/uploads/2011/10/iphone-4s-white.png" alt="iphone 4s white" width="136" height="228" /></p>

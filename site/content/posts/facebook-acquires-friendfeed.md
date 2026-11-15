@@ -4,6 +4,8 @@ date: 2009-08-11T21:31:47
 url: /news/facebook-acquires-friendfeed/
 categories: ["News"]
 tags: ["facebook", "friendfeed"]
+author: "Setu"
+authors: ["setu"]
 ---
 <a href="/wp/wp-content/uploads/2009/08/image.png"><img title="image" src="/wp/wp-content/uploads/2009/08/image_thumb.png" alt="image" width="240" height="93" /></a>
 <p>This is breaking news. The social networking company <a href="http://www.facebook.com" target="_blank">facebook</a> has acquired the innovative online sharing service <a href="http://www.friendfeed.com" target="_blank">friendfeed</a>.  The company paid roughly $15 million in cash, with the rest in Facebook stock that vests over several years and would be worth roughly $32.5 million. However, as part of the agreement, all FriendFeed employees will join Facebook and FriendFeed’s four founders will hold senior roles on Facebook’s engineering and product teams.</p>

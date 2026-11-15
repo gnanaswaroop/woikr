@@ -4,6 +4,8 @@ date: 2010-12-16T09:27:56
 url: /google/chrome-browse-for-agood-cause/
 categories: ["Google"]
 tags: ["chrome for cause", "chrome extesion", "google chrome"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>Google is doing some charity work and they have invited you to be a part for free! Everytime you open a new tab on Google Chrome, they do something for a good cause from your side. They contribute to the following 5 good causes and you can choose to contribute to different ones on different days.</p>
 

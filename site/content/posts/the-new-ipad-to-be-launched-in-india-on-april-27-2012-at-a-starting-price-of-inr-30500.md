@@ -4,6 +4,8 @@ date: 2012-04-16T22:23:55
 url: /ipad/the-new-ipad-to-be-launched-in-india-on-april-27-2012-at-a-starting-price-of-inr-30500/
 categories: ["iPad", "News"]
 tags: ["new iPad", "new ipad india", "iPad India", "ipad price in india"]
+author: "Setu"
+authors: ["setu"]
 aliases: ["/news/the-new-ipad-to-be-launched-in-india-on-april-27-2012-at-a-starting-price-of-inr-30500/"]
 ---
 <p><img title="ipad-Logo.png" src="/wp/wp-content/uploads/2012/03/ipad-Logo.png" alt="ipad Logo" width="57" height="26" /></p>

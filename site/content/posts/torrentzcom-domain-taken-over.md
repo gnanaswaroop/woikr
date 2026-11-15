@@ -4,6 +4,8 @@ date: 2008-11-15T10:58:51
 url: /news/torrentzcom-domain-taken-over/
 categories: ["News"]
 tags: ["torrentz.com hacked", "torrentz", "torrentz.com", "torrentz.eu", "torrentz.com domain", "torrentz domain hacked", "torrentz domain taken over"]
+author: "Setu"
+authors: ["setu"]
 ---
 <a href="/wp/wp-content/uploads/2008/11/torrentz_logo.png"><img class="alignnone size-full wp-image-1722" title="torrentz_logo" src="/wp/wp-content/uploads/2008/11/torrentz_logo.png" alt="" width="183" height="43" /></a>
 <p>The popular torrents search engine <a href="http://www.torrentz.com" target="_blank">www.torrentz.com</a> domain has been taken over by some warez guys. If you try to open <a href="http://www.torrentz.com" target="_blank">torrentz.com</a> now, you will be taken to the following hacked page (from warez2share.com):</p>

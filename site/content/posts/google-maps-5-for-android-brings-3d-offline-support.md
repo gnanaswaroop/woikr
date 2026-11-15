@@ -4,6 +4,8 @@ date: 2010-12-17T12:45:05
 url: /android/google-maps-5-for-android-brings-3d-offline-support/
 categories: ["Android", "Google"]
 tags: ["google maps 5", "google maps", "google maps android"]
+author: "Chirag"
+authors: ["chirag"]
 aliases: ["/google/google-maps-5-for-android-brings-3d-offline-support/"]
 ---
 <p>Google has released 5.0 version of their Maps application for Android devices. This is the most feature rich update to Google Maps since long.</p>

@@ -4,6 +4,8 @@ date: 2009-04-13T14:08:12
 url: /gaming/braid-now-on-pc/
 categories: ["Gaming"]
 tags: ["Braid", "Braid Xbox", "Braid PC", "Braid xbox live arcade game", "best puzzle game for PC"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <a href="/wp/wp-content/uploads/2009/04/braid_title-pc.jpg"><img class="alignnone size-full wp-image-2458" title="braid_title-pc" src="/wp/wp-content/uploads/2009/04/braid_title-pc.jpg" alt="braid_title-pc" width="400" height="225" /></a>
 <p>Great news for all you PC gamers. Braid, earlier an Xbox Live exclusive, is now available on PC (Windows only).</p>

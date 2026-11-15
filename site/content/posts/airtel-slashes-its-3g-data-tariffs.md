@@ -4,6 +4,8 @@ date: 2012-05-18T20:44:18
 url: /telecom/airtel-slashes-its-3g-data-tariffs/
 categories: ["Telecom", "News"]
 tags: ["airtel 3G india", "3g india", "3G tariff india"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="NewImage.jpg" src="/wp/wp-content/uploads/2011/01/NewImage62.jpg" alt="NewImage.jpg" width="105" height="38" /></p>
 <p>In an unprecedented move, Airtel has slashed it 3G data tariffs across India. The new plans look much more economical than the predecessors and Airtel is also offering its Smartbytes solution on its 3G network now. Smartbytes solution allows users to buy additional data quota if they run out of the free quota in a bill period. The new 3G plans are as follows:</p>

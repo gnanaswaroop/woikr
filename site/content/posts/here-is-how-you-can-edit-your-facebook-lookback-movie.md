@@ -4,6 +4,8 @@ date: 2014-02-11T13:15:09
 url: /internet/here-is-how-you-can-edit-your-facebook-lookback-movie/
 categories: ["Internet"]
 tags: ["facebook", "lookback movie edit", "facebook lookback"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="facebook-logo.png" src="/wp/wp-content/uploads/2011/08/facebook-logo.png" alt="facebook-logo" width="366" height="137" /></p>
 <p>So you loved your facebook lookback movie? But are there some photos or posts in there which you would rather replace with something else? Now you can. Facebook is letting you edit your lookback movie in a few clicks. And you don’t need to have any video editing skills in order to do that.</p>

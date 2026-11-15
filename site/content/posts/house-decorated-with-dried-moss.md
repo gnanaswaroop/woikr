@@ -4,6 +4,8 @@ date: 2009-10-01T11:42:33
 url: /misc/house-decorated-with-dried-moss/
 categories: ["Misc"]
 tags: ["moss", "interiors", "decoration", "wallpaper"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p>We all know the Japanese are pure geniuses. This ultra awesome and innovative idea to decorate white walls with dried up moss speaks for itself:</p>
 

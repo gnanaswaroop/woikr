@@ -4,6 +4,8 @@ date: 2011-03-31T19:25:57
 url: /news/samsung-debuts-super-cool-see-thru-lcd-panels/
 categories: ["News"]
 tags: ["see thru lcd", "transparent lcd", "samsung lcd"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="NewImage.png" src="/wp/wp-content/uploads/2011/03/NewImage42.png" alt="NewImage" width="240" height="109" /></p>
 <p>Samsung electronics has done what no electronics company has done before. Mass produce transparent LCD panels. Just have a look at this:</p>

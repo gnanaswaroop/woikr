@@ -4,6 +4,8 @@ date: 2009-10-16T19:30:21
 url: /news/in-app-purchase-paves-way-for-unlockable-demo-apps-iphone/
 categories: ["News", "iPhone"]
 tags: ["iPhone", "free apps", "in app purchase"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><a href="/wp/wp-content/uploads/2009/10/image17.png"><img title="image" src="/wp/wp-content/uploads/2009/10/image_thumb14.png" alt="image" width="240" height="99" /></a></p>
 <p>Apple introduced <a href="http://developer.apple.com/iphone/program/sdk/inapppurchase.html" target="_blank">in app purchases</a> with the iPhone 3.0 OS. Until now, this feature was available in paid apps only. A recent email from Apple to developers reveals that it is now available for free apps as well.</p>

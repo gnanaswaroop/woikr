@@ -4,6 +4,8 @@ date: 2009-03-09T16:56:53
 url: /news/the-new-mac-mini/
 categories: ["News", "Apple"]
 tags: ["mac mini", "Apple", "Mac", "mac mini india", "new mac mini", "mac mini price", "mac mini config", "mac mini specs"]
+author: "Setu"
+authors: ["setu"]
 ---
 <a href="/wp/wp-content/uploads/2009/03/new_mac_mini_top.png"><img class="alignnone size-medium wp-image-2212" title="new_mac_mini_top" src="/wp/wp-content/uploads/2009/03/new_mac_mini_top-300x262.png" alt="new_mac_mini_top" width="300" height="262" /></a>
 <p>Apple launched the new Mac Mini last week. <a href="http://i.gizmodo.com/5163158/is-this-the-new-mac-mini-packaging" target="_blank">Rumors</a> have been floating around that this was inevitable. Some blogs even <a href="http://i.gizmodo.com/5156823/supposed-mac-mini-2009-spy-shot-shows-so-many-usb-ports" target="_blank">carried images</a> of the device.</p>

@@ -4,6 +4,8 @@ date: 2010-12-22T21:52:34
 url: /mobile-phones/a-mobile-phone-with-customizable-form-factor-and-keypad/
 categories: ["Mobile Phones"]
 tags: ["Samsung Zeal", "Customizable form factor", "Flip both sides", "E-Ink display", "E-Ink keyboard", "E-Ink keypad", "E-Ink mobile phone"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>Samsung's Zeal is a phone that aspires to join <a href="http://en.wikipedia.org/wiki/Transformers_(toy_line)" target="_blank">The Transformers</a> some day. Unlike normal (read lesser) flip phones, it flips both ways - horizontal and vertical! It doesn't just stop there, it features a smart keypad where every gel-like key is a tiny <a href="http://en.wikipedia.org/wiki/E_Ink" target="_blank">E-Ink</a> display that changes the keys as required. For e.g. if the phone is flipped open horizontally, the keypad shows a full QWERTY keyboard where as if thee phone is flipped open vertically, the keypad shows a standard layout along with arrow keys. The keypad display also changes according to the application context. It's basically like a small version of the awesome <a href="http://en.wikipedia.org/wiki/Optimus_Maximus_keyboard" target="_blank">Optimus Maximus keyboard</a>. The only difference is that this technology is apparently much cheaper since it's a &lt; $100 phone with contract and Optimus Maximus was around $1500. It'd be great to see some notebooks using the technology in the future.</p>
 

@@ -4,6 +4,8 @@ date: 2013-10-09T12:43:28
 url: /news/tatasky-gearing-up-to-launch-live-mobile-tv-streaming/
 categories: ["News", "Home Entertainment"]
 tags: ["tatasky", "tatasky mobile", "mobile tv", "mobile tv india", "mobile dth"]
+author: "Setu"
+authors: ["setu"]
 aliases: ["/home-entertainment/tatasky-gearing-up-to-launch-live-mobile-tv-streaming/"]
 ---
 <p><img title="tatasky-mobile-app-logo.png" src="/wp/wp-content/uploads/2013/10/tatasky-mobile-app-logo.png" alt="tatasky mobile app logo" width="181" height="183" /></p>

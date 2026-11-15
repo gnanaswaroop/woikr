@@ -4,6 +4,8 @@ date: 2011-04-05T13:13:18
 url: /news/buy-amazon-kindle-in-indian-rupees-from-indiaplaza/
 categories: ["News"]
 tags: ["kindle", "kindle india", "amazon kindle india", "buy kindle india"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="NewImage.png" src="/wp/wp-content/uploads/2011/04/NewImage.png" alt="NewImage" width="180" height="200" /></p>
 <p>Good news for people who want to buy Amazon kindle here in India. Popular eCommerce site <a href="http://www.indiaplaza.in/kindle-electronics-4.htm">Indiaplaza.in</a> is selling Amazon Kindle in Indian rupees! And their prices are by far the cheapest you can get anywhere on the web!</p>

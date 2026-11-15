@@ -4,6 +4,8 @@ date: 2012-07-16T19:40:05
 url: /mobile-phones/micromax-x259-affordable-solar-phone/
 categories: ["Mobile Phones"]
 tags: ["micromax", "solar phone india", "solar power", "solar mobile"]
+author: "Setu"
+authors: ["setu"]
 aliases: ["/mobile-phones/micromax-x259-affordable-solar-phone"]
 ---
 <p><img title="micromax-x259-solar-phone.png" src="/wp/wp-content/uploads/2012/07/micromax-x259-solar-phone.png" alt="Micromax X259 Solar Phone" width="600" height="315" /></p>

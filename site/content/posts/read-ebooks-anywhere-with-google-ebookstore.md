@@ -4,6 +4,8 @@ date: 2011-01-03T02:13:47
 url: /google/read-ebooks-anywhere-with-google-ebookstore/
 categories: ["Google"]
 tags: ["Google", "google ebooks", "ebooks", "online books"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="NewImage.jpg" src="/wp/wp-content/uploads/2011/01/NewImage.jpg" alt="NewImage.jpg" width="240" height="40" /></p>
 <p><a href="http://books.google.com/ebooks">Google's ebookstore</a> lets you buy and read ebooks virtually on any device you want. The service stores your purchases on the cloud (as opposed to downloading locally on your device), so you have access to millions of book anywhere. Your reading status is synced to all the devices, so, say if you were on page 153 of a book when you were reading it on your iPad, you can continue from the same page when you open it up on your iPhone.</p><p><img title="NewImage.jpg" src="/wp/wp-content/uploads/2011/01/NewImage1.jpg" alt="NewImage.jpg" width="500" height="324" /></p>

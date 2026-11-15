@@ -4,6 +4,8 @@ date: 2011-08-28T20:47:34
 url: /blogging/how-our-alexa-rank-jumped-from-400000-to-100000-in-2-months/
 categories: ["Blogging"]
 tags: ["Alexa rank tricks", "our alexa rank experience", "personal alexa experience", "simple SEO tips", "SEO tricks", "how we improved our alexa rank"]
+author: "Chirag"
+authors: ["chirag"]
 aliases: ["/blogging/how-our-alexa-rank-jumped-from-400000-to-100000-in-2-months"]
 ---
 <p>We don't post articles about SEO. The main reason is that we don't know how to do SEO. All we have done in 3 years is write articles about things we like and present them well without too many ugly ads.</p>

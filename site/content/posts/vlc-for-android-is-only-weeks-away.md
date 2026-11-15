@@ -4,6 +4,8 @@ date: 2010-12-27T22:35:13
 url: /android/vlc-for-android-is-only-weeks-away/
 categories: ["Android"]
 tags: ["android apps", "Android NDK", "Android VLC"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p><img title="vlc_logo" src="/wp/wp-content/uploads/2010/12/vlc_logo1.jpg" alt="" width="200" height="200" /></p>
 <p>My favorite video player on Windows and Mac will be out on Android soon, in fact it's just "a matter of weeks" according to Lead VLC developer Jean-Baptiste Kempf. That means the ability to watch any video on your Android device without converting it on the computer first. The people to benefit most from it will be Galaxy Tab (and other tablet) owners.</p>

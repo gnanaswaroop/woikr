@@ -4,6 +4,8 @@ date: 2011-03-22T16:36:38
 url: /internet/firefox-4-final-available-for-download-now/
 categories: ["Internet"]
 tags: ["Firefox 4", "Firefox latest", "Firefox 4.0", "html5 browsers", "HTML5"]
+author: "Swaroop"
+authors: ["swaroop"]
 ---
 The most awaited browser release of 2011 is here (No M$ fans, I wasn't waiting for IE9)
 

@@ -4,6 +4,8 @@ date: 2008-10-11T21:03:47
 url: /misc/a-day-out-to-barcamp8-at-hyderabad-india-meetups/
 categories: ["Misc", "Blogging"]
 tags: ["barcamp8", "tech meetups", "barcamp isb", "barcamp hyderabad"]
+author: "Swaroop"
+authors: ["swaroop"]
 ---
 <p><img class="alignnone" src="/images/Barcamp_lead.png" alt="" width="593" height="225" /></p>
 <p>We've tried to 'live blog' this from the ISB campus, sadly the wifi connection wasn't cooperating and was not open for public usage.</p>

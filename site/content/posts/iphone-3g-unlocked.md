@@ -4,6 +4,8 @@ date: 2008-12-17T13:27:27
 url: /news/iphone-3g-unlocked/
 categories: ["News"]
 tags: ["iPhone", "iphone 3G", "3G", "iphone 3g unlock", "iphone-dev", "3g unlock", "iphone 3G india"]
+author: "Setu"
+authors: ["setu"]
 ---
 <a href="/wp/wp-content/uploads/2008/12/iphone_unlock.png"><img class="alignnone size-full wp-image-1809" title="iphone_unlock" src="/wp/wp-content/uploads/2008/12/iphone_unlock.png" alt="" width="350" height="350" /></a>
 <p>Its finally here. iphone-dev folks have cracked the iPhone 3G baseband. This means that we can now unlock iPhone 3G and use them with any network in the world.  Of course this will void your warranty and will also be considered illegal in some countries where you bought the phone under contract.</p>

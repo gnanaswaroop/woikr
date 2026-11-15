@@ -4,6 +4,8 @@ date: 2012-02-02T21:27:22
 url: /news/dishtv-does-it-right-upgrades-its-stb-software-to-let-users-record-tv-on-a-usb-hard-disk-drive/
 categories: ["News", "Home Entertainment"]
 tags: ["dish tv", "dish truHD", "HD DVR india", "HD DVR", "USB HDD DVR"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="dish-truhd-logo.png" src="/wp/wp-content/uploads/2012/02/dish-truhd-logo.png" alt="dish truhd" width="213" height="126" /></p>
 <p>After coming up with <a href="/home-entertainment/dish-tv-launches-indias-first-conditional-access-module-cam-device-to-enable-consumers-to-switch-dth-operator-without-changing-their-hardware/">India's first Conditional Access Module cards</a> to let any DTH user to migrate to DishTV whilst keeping their set top box from another operator, reports are coming in that DishTV is launching Dish trueHD+, an innovative way to enable all their existing subscribers to upgrade to DVR (Digital Video Recorder). Instead of launching another set top box with DVR features which their customers would have been needed to purchase, DishTV has released a software update for their existing HD set top box which lets users plug in their USB HDD (hard disk drive)/flash drive and record live TV on that.</p>

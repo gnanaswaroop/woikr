@@ -4,6 +4,8 @@ date: 2008-08-15T11:06:35
 url: /home-entertainment/woikr-explains-full-hd-and-hd-ready-tvs/
 categories: ["Home Entertainment"]
 tags: ["HDTV", "Full HD vs. HD Ready", "HDTV jargon", "HD India", "LCD TV", "Progressive vs. Interlaced"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><a href="/images/HDTV_Lead.jpg"><img class="alignnone" src="/images/HDTV_Lead.jpg" alt="" width="593" height="225" /></a></p>
 <p>If you are in the market for a new flat panel TV, you will be overwhelmed with a lot of brands and models. Finding the right one to fit your needs can be a tough task. The dilemma that Indian customers face is whether to go for Full HD or just HD Ready TV. Since the price difference is substantial, it is important to make an informed decision.</p>

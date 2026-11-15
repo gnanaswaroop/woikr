@@ -4,6 +4,8 @@ date: 2011-09-04T19:00:50
 url: /first-look/an-awesome-compilation-of-bollywood-covers-of-popular-western-songs/
 categories: ["First Look", "Internet"]
 tags: ["Bollywood Cover Songs", "Bollywood stealing popular songs", "Bollywood songs inspired by foreign songs", "copied hindi songs", "Hotel California bollywood version"]
+author: "Chirag"
+authors: ["chirag"]
 aliases: ["/first-look/here-is-a-awesome-compilation-bollywood-covers-of-popular-western-songs/"]
 ---
 <a href="http://bollywoodcoversongs.com/"><img title="bollywood_covers" src="/wp/wp-content/uploads/2011/09/bollywood_covers.jpg" alt="" width="397" height="75" /></a>

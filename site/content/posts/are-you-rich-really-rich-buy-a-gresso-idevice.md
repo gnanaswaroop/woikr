@@ -4,6 +4,8 @@ date: 2010-12-29T09:20:07
 url: /apple/are-you-rich-really-rich-buy-a-gresso-idevice/
 categories: ["Apple"]
 tags: ["Gresso iPad", "Gresso iPod", "Gresso Apple", "iPhone for Rich", "iPad for Rich", "Most expensive iPad", "Most expensive iPhone"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>We've seen all the expensive diamond studded and what not iPhones but this is the one that we like the most. The Gresso modded iPhones look really classsy and well, expensive. They have 3 models of iPhones - for the Lady, for the Man; and a special model called the Black Diamond. They cost $5000, $4500 and $10000 respectively.</p>
 <p><img class="alignnone size-full wp-image-5455" title="gresso_iPhones" src="/wp/wp-content/uploads/2010/12/gresso_iPhones.jpg" alt="Gresso iPhones" width="531" height="330" /></p>

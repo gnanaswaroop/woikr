@@ -4,6 +4,8 @@ date: 2011-02-17T10:25:09
 url: /gaming/ea-kills-mirrors-edge/
 categories: ["Gaming"]
 tags: ["Mirror's Edge", "Mirror's Edge 2", "Mirror's Edge Cancelled", "Mirror's Edge Dead", "Mirror's Edge 2 Killed"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p><img class="alignnone size-full wp-image-7112" title="Mirror's_Edge" src="/wp/wp-content/uploads/2011/02/Mirrors_Edge.jpg" alt="Mirror's Edge" width="256" height="321" /></p>
 <p>In a sad sad news, EA has announced that Mirror's Edge 2 has been cancelled. EA said that the game's in-development prototype wasn't upto the mark and anyway the original didn't have sales or reviews good enough to make sure a sequel will happen.</p>

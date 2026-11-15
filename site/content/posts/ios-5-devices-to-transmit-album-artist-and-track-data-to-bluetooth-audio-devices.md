@@ -4,6 +4,8 @@ date: 2011-06-10T12:56:20
 url: /iphone/ios-5-devices-to-transmit-album-artist-and-track-data-to-bluetooth-audio-devices/
 categories: ["iPhone"]
 tags: ["iOS 5", "iOS new features", "iOS bluetooth", "iphone bluetooth"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="iOS-5-logo.png" src="/wp/wp-content/uploads/2011/06/iOS-5-logo.png" alt="iOS-5-logo" width="60" height="60" /> <img title="bluetooth-logo.png" src="/wp/wp-content/uploads/2011/06/bluetooth-logo.png" alt="bluetooth logo" width="53" height="60" /></p>
 <p>I use my iPhone 4 to listen to songs on my car's bluetooth enabled music system. Its super convenient to be able to wirelessly transmit songs from the phone to the car's audio system without the need for a cable. Also, it doubles up as a handsfree device when I get a call while I am driving.</p>

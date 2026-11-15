@@ -4,6 +4,8 @@ date: 2011-01-27T22:59:01
 url: /first-look/want-a-sturdy-weather-proof-phone-motorola-defy-is-here-android/
 categories: ["First Look", "Android", "Mobile Phones"]
 tags: ["Motorola Defy India", "Motorola Defy Water Resistant", "Motorola Defy Review", "Motorola Defy India Price", "Motorola Defy Performance", "Sturdy Smartphone", "Sturdy Android Phone", "Waterproof Phone", "Sturdy Mobile Phone"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p><a href="/wp/wp-content/uploads/2011/01/motorola-defy.jpg"><img class="alignnone size-medium wp-image-6573" title="motorola-defy" src="/wp/wp-content/uploads/2011/01/motorola-defy-150x300.jpg" alt="Motorola Defy" width="150" height="300" /></a></p>
 <p>Remember when Mobile Phones were a luxury? Remember how you used to care about them and got panicked when they fell down 2 feet? Those days have gone  past.Nowadays, I drop my phone pretty much once a week. If that's not enough, the phone has to go through smudges and scratches and splashes of water and dust every frickin day. Every time that happens I wonder why no one is making sturdier phones anymore. On the contrary, manufacturers like Samsung are famous for making phones whose parts come apart and fly off the moment they hit the ground. Apparently Motorola, with it's somewhat solid and sturdy image, is coming up with a phone that may well start the trend. Don't quote me on this, but it's arguably the first smartphone (definitely the first Android-based one) that is made to, well, last.</p>

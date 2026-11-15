@@ -4,6 +4,8 @@ date: 2008-12-26T11:31:01
 url: /news/icontrolpad-for-jailbroken-iphones/
 categories: ["News"]
 tags: ["iPhone", "iphone cames", "iphone control pad", "iphone games controller", "icontrolpad", "iphone controller"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p>Tired of using touch screen controls for games? Missing the buttons to control the character in yoru favourite iPhone game? Check out <a href="http://www.icontrolpad.com/" target="_blank">iControlPad</a>.</p>
 <p><a href="/wp/wp-content/uploads/2008/12/icontrolpad1.jpg"><img class="alignnone size-full wp-image-1897" title="icontrolpad1" src="/wp/wp-content/uploads/2008/12/icontrolpad1.jpg" alt="icontrolpad1" width="320" height="241" /></a></p>

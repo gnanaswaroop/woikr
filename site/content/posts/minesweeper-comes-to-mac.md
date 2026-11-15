@@ -4,6 +4,8 @@ date: 2011-01-09T22:16:58
 url: /gaming/minesweeper-comes-to-mac/
 categories: ["Gaming", "Mac"]
 tags: ["Minesweeper", "Minesweeper Mac", "Casual Games Mac"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <img title="minesweeper_mac" src="/wp/wp-content/uploads/2011/01/minesweeper_mac.jpg" alt="Minesweeper Mac" width="355" height="409" />
 <p>If you've ever spent considerable time on a Windows computer, chances are you've played Minesweeper. Along with Solitaire it was arguably the most commonly played game and the best way to waste time in pre-Internet era. I've never been much of a fan of Minesweeper on Windows. Maybe I always had something better to waste time on. But I always appreciated the smart gameplay.</p>

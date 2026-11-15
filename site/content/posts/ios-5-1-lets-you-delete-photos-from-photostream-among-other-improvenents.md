@@ -4,6 +4,8 @@ date: 2012-03-08T11:20:13
 url: /apple/ios-5-1-lets-you-delete-photos-from-photostream-among-other-improvenents/
 categories: ["Apple"]
 tags: ["iOS", "iOS 5.1"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="iOS-Logo.png" src="/wp/wp-content/uploads/2012/03/iOS-Logo.png" alt="iOS Logo" width="255" height="174" /></p>
 <p>Apple released the latest version of the mobile operating system, iOS 5.1 yesterday after their iPad event. Among a long list of bug fixes, improvements and enhancements, lies a tiny little feature which everyone has been wanting since the day apple announced Photostream - the ability to delete photos from photostream on your iOS device. Many a times, we take multiple pictures of a subject in order to get it right. If you enable Photostream on your iOS device, it will automatically push all the photos you take from the camera to your Photostream. Thereby pushing all the non perfect shots you might have taken. And there was no way to delete them from your Photostream on your iOS device. In iOS 5.1, you can delete individual photos from the Photostream, so that you just have the perfect shots in there. Photostream is synced on all your iOS devices and your Apple TV as well.</p>

@@ -4,6 +4,8 @@ date: 2011-09-07T10:38:59
 url: /misc/retro-print-ads-for-your-favorite-social-networks/
 categories: ["Misc"]
 tags: ["Retro social ads", "Facebook retro ad", "Twitter retro ad", "Skype retro ad", "Youtube retro ad", "Print Ads", "Print advertisments from 1960s"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <img title="Facebook Retro Header" src="/wp/wp-content/uploads/2011/09/facebook_retro_header.jpg" alt="" width="393" height="161" />
 

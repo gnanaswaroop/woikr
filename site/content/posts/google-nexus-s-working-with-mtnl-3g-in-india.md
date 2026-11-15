@@ -4,6 +4,8 @@ date: 2011-01-26T02:20:55
 url: /android/google-nexus-s-working-with-mtnl-3g-in-india/
 categories: ["Android", "News", "Mobile Phones"]
 tags: ["nexus s", "nexus", "mtnl 3g", "nexus india", "Nexus S India", "nexus s 3g", "mtnl 3g apn"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="NewImage.jpg" src="/wp/wp-content/uploads/2011/01/NewImage63.jpg" alt="NewImage.jpg" width="175" height="41" /></p>
 <p>You probably know by now that <a href="http://www.google.com/nexus">Nexus S</a> is currently the best Android phone you can buy. It was launched on <a href="/google/google-and-samsung-debut-the-nexus-s">16th December 2010</a> in the US through Best Buy. The phone is currently available in the US <strong><span>unlocked</span></strong> or locked with T mobile. The unlocked one retails for $530 plus taxes which comes close to 26k in INR. Not bad. But does it work properly in India? Will you be able to utilize all its features here in India if you happen to get yourself an unlocked one from the US?</p>

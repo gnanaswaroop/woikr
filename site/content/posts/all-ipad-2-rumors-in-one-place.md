@@ -4,6 +4,8 @@ date: 2010-12-29T09:40:07
 url: /ipad/all-ipad-2-rumors-in-one-place/
 categories: ["iPad"]
 tags: ["iPad Rumors", "iPad Retina Display", "iPad Gyroscope", "iPad Processor Upgrade", "iPad USB Ports", "iPad FaceTime", "iPad Video Calling", "iPad 2"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <a href="/wp/wp-content/uploads/2010/12/apple_ipad.jpg"><img class="alignnone size-medium wp-image-5461" title="apple_ipad" src="/wp/wp-content/uploads/2010/12/apple_ipad-204x300.jpg" alt="" width="204" height="300" /></a>
 <p>If you've been thinking of buying an iPad since a few months, your biggest problem has to be the iPad 2. Everyone knows that sometimes Apple offers insane upgrades between two versions and this time it's more than expected. iPhone 4 is already out with a much higher resolution screen and so many new features and obviously these features are supposed to trickle down to the next release of iPad as well.</p>

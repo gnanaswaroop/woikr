@@ -4,6 +4,8 @@ date: 2008-11-16T14:32:52
 url: /news/googles-new-york-city-office/
 categories: ["News"]
 tags: ["Google", "google nyc", "googleplex", "google ney york city", "google office"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p>Google recently opened a new office in NYC - Googleplex, 76 9th Ave, New York, NY 10011. As all other Google offices, this one also features a lot of chill out spaces and buttload of food. Check out the video:</p>
 

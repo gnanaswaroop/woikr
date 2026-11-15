@@ -4,6 +4,8 @@ date: 2010-01-29T01:12:24
 url: /ipad/its-a-laptop-its-a-netbook-its-a-phone-its-ipad/
 categories: ["iPad", "Apple"]
 tags: ["apple ipad", "Apple", "iPad"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><a href="/wp/wp-content/uploads/2010/01/image3.png"><img title="image" src="/wp/wp-content/uploads/2010/01/image_thumb3.png" alt="image" width="186" height="244" /></a></p>
 <p>Ever since Steve Jobs revealed Apple’s latest marvel to the world, I have been in love with the device. And to be honest, I <a href="http://twitter.com/setugarg/status/8324329622" target="_blank">haven’t been</a> discreet about it.</p>

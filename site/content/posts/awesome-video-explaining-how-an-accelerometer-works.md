@@ -4,6 +4,8 @@ date: 2012-05-30T18:50:58
 url: /misc/awesome-video-explaining-how-an-accelerometer-works/
 categories: ["Misc", "Mobile Phones"]
 tags: ["accelerometer"]
+author: "Setu"
+authors: ["setu"]
 aliases: ["/mobile-phones/awesome-video-explaining-how-an-accelerometer-works/"]
 ---
 <p>Check out this amazing video explaining how an accelerometer helps a smartphone know up from down:</p>

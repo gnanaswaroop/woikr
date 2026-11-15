@@ -4,6 +4,8 @@ date: 2008-12-30T00:58:15
 url: /telecom/broadband-connection-guide-for-indian-customers/
 categories: ["Telecom"]
 tags: ["Airtel", "broadband", "Internet", "india broadband", "airtel broadband", "bsnl broadband", "dataone", "reliance", "tata indicom", "wifi broadband", "wimax", "dsl", "best broadband in India", "value for money broadband connection in India", "pppoe", "kbps", "mbps", "broadband connection with fast download speeds"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><a href="/wp/wp-content/uploads/2008/12/broadband_top.png"><img class="alignnone size-full wp-image-1945" title="broadband_top" src="/wp/wp-content/uploads/2008/12/broadband_top.png" alt="broadband_top" width="473" height="82" /></a></p>
 <p>With a plethora of ISPs now offering broadband services in India, it has become increasingly difficult for consumers to decide which one to go for. This guide takes into consideration the features offered by nationwide ISPs and their pros and cons to help you decide which one is right for you.</p>

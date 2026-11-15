@@ -4,6 +4,8 @@ date: 2010-12-21T22:58:15
 url: /android/nvidia-tegra-2-reference-design-for-android-3/
 categories: ["Android", "Rumors"]
 tags: ["nVidia Tegra", "nVidia Tegra Honeycomb reference design", "nVidia tegra Android 3.0", "Samsung Galaxy Tab 2"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p><a href="/wp/wp-content/uploads/2010/12/Tegra_3D_large.jpg"></a><img title="Tegra_3D_large" src="/wp/wp-content/uploads/2010/12/Tegra_3D_large-300x289.jpg" alt="" width="300" height="289" /></p>
 <p>Seems like nVidia is getting back in the game. While Apple <a href="http://blog.laptopmag.com/apple-ditching-nvidia-graphics-in-future-macbooks-for-intel-and-amd" target="_blank">might be deciding to dump</a> them for the next gen of Macbooks, nVidia might have found success in the smartphone and tablet market. The Tegra chipset, which they claim to be the world's most advanced mobile processor, has found lots of friends in the Android community.</p>

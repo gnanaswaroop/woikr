@@ -4,6 +4,8 @@ date: 2008-08-31T12:31:41
 url: /misc/internet-until-now/
 categories: ["Misc"]
 tags: ["Internet", "Web 2.0", "History of Web 2.0", "Impact of Web 2.0", "Evolution of Internet"]
+author: "Ravi"
+authors: ["ravi"]
 ---
 <p><img class="alignnone" src="/wp/wp-content/uploads/2008/08/woikr-web20-lead.png" alt="" width="593" height="225" /></p>
 <p>Back in 1989, when <a href="http://en.wikipedia.org/wiki/Tim_Berners-Lee" target="_blank">Tim Berners-Lee</a> invented the world wide web, he wouldn't have imagined his invention would scale the heights we see today. The internet is one of the most popular and widespread technological blessing which achieved the highest penetration into human life in a very short span of time. Internet is now used by almost everybody everywhere and is a part of our routine! It is one of the biggest blessings upon mankind by the information technology revolution.</p>

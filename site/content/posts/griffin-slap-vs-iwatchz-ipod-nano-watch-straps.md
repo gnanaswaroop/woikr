@@ -4,6 +4,8 @@ date: 2010-12-23T12:52:10
 url: /apple/griffin-slap-vs-iwatchz-ipod-nano-watch-straps/
 categories: ["Apple", "Reviews"]
 tags: ["iPod", "ipod nano", "new ipod nano", "ipod watch", "ipod nano watch", "iwatchz", "griffin slap", "nano watch", "ipod wristband"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img class="alignnone size-medium wp-image-5189" title="slap-nano6-1" src="/wp/wp-content/uploads/2010/12/slap-nano6-1-300x218.jpg" alt="" width="300" height="218" /><img class="alignnone size-medium wp-image-5188" title="Q_black_silver_r1" src="/wp/wp-content/uploads/2010/12/Q_black_silver_r1-300x293.jpg" alt="" width="216" height="211" /></p>
 <p>When Steve Jobs introduced the <a href="http://www.apple.com/ipodnano/" target="_blank">6th generation iPod nano</a> in his keynote, he mentioned that one of the Apple'e executive is planning to wear them as watch on his wrist. I am sure it was that statement that probably inspired case designers to come up with the iPod nano watch straps. There are a couple of them in the market now. We are going to look at two - <a href="http://www.griffintechnology.com/products/slap" target="_blank">Griffin Slap</a> and the <a href="http://iwatchz.com" target="_blank">iWatchz</a>.</p>

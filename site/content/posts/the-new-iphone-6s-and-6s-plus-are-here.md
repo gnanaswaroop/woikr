@@ -4,6 +4,8 @@ date: 2015-09-12T21:27:12
 url: /apple/the-new-iphone-6s-and-6s-plus-are-here/
 categories: ["Apple", "iPhone"]
 tags: ["iphone 6S", "iPhone 6s plus"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="NewImage.png" src="/wp/wp-content/uploads/2015/09/NewImage.png" alt="NewImage" width="159" height="224" /></p>
 <p>Apple announced the latest iPhones at its press event on September 9th. The new iPhone are now available for pre-order and will be available in stores on September 25th. Keeping with the tradition of the ’S’ series, they look strikingly similar to their predecessor. Apple says that everything about them have changed. Here are the specs of the new ones:</p>

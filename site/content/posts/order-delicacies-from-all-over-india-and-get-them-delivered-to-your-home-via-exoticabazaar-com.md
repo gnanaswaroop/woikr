@@ -4,6 +4,8 @@ date: 2013-03-14T22:49:36
 url: /misc/order-delicacies-from-all-over-india-and-get-them-delivered-to-your-home-via-exoticabazaar-com/
 categories: ["Misc"]
 tags: ["delicacies india", "order food online india", "thaggu ke laddoo", "bhakarwadi online india"]
+author: "Setu"
+authors: ["setu"]
 aliases: ["/uncategorized/order-delicacies-from-all-over-india-and-get-them-delivered-to-your-home-via-exoticabazaar-com/"]
 ---
 <p><img title="exoticabazaar-logo.png" alt="exoticabazaar logo" src="/wp/wp-content/uploads/2013/03/exoticabazaar-logo.png" width="302" height="57" /></p>

@@ -4,6 +4,8 @@ date: 2008-10-20T18:18:46
 url: /first-look/samsung-nv9-102-mp-multi-media-camera-digital-cameras/
 categories: ["First Look"]
 tags: ["samsung nv9", "samsung multi media camera", "samsung nv series review", "samsung nv", "samsung 10 MP"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p>Samsung India recently launched the NV9 to the Indian market, a 10.2 MP digital camera touted as one's all in one traveling companion. It is actually a digital camera which doubles up as a personal media player, with MP3 playback and text viewing facilities. Now I understand MP3 playback, but text viewing? Seriously, where are we? 2001?</p>
 <p><a href="/wp/wp-content/uploads/2008/10/features.jpg"><img class="alignnone size-medium wp-image-1363" title="features" src="/wp/wp-content/uploads/2008/10/features-300x255.jpg" alt="" width="300" height="255" /></a></p>

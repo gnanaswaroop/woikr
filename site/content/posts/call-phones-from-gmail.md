@@ -4,6 +4,8 @@ date: 2010-08-26T13:53:13
 url: /google/call-phones-from-gmail/
 categories: ["Google", "News"]
 tags: ["gmail", "gmail chat features", "gmail chat new features", "gmail phone", "call phone from gmail", "google voice", "cheap phone call gmail"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><a href="/wp/wp-content/uploads/2010/08/image55.png"><img title="image" src="/wp/wp-content/uploads/2010/08/image_thumb31.png" alt="image" width="240" height="99" /></a></p>
 <p>Gmail has the most advanced webmail chat client. It supports <a href="http://www.google.com/chat/video" target="_blank">voice and video chat</a> with other Gmail chat users if both parties have mic and webcam.</p>

@@ -4,6 +4,8 @@ date: 2009-10-04T01:14:05
 url: /blogging/a-fresh-new-look-for-woikr/
 categories: ["Blogging", "News"]
 tags: []
+author: "Setu"
+authors: ["setu"]
 ---
 <p>As you might have noticed, woikr has a fresh new look. We believe this new look will enhance your reading experience in several ways. The home page now shows the latest 15 posts. The side bar has been enhanced and now allows easy access to the subscription options from every page.</p>
 <p><a href="/wp/wp-content/uploads/2009/10/woikr_oct2009_theme.jpg"><img class="aligncenter size-medium wp-image-3224" title="woikr_oct2009_theme" src="/wp/wp-content/uploads/2009/10/woikr_oct2009_theme-291x300.jpg" alt="woikr_oct2009_theme" width="291" height="300" /></a></p>

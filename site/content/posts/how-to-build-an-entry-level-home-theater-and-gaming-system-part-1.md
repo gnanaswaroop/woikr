@@ -4,6 +4,8 @@ date: 2009-10-25T03:08:54
 url: /howto/how-to-build-an-entry-level-home-theater-and-gaming-system-part-1/
 categories: ["How Tos"]
 tags: ["home theater", "gaming system", "home theater setup", "entry level home theater india", "LCD TV India"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><a href="/wp/wp-content/uploads/2009/10/image23.png"><img title="image" src="/wp/wp-content/uploads/2009/10/image_thumb20.png" alt="image" width="244" height="184" /></a></p>
 <p>This guide is for people who would like to enjoy watching movies and playing games in <a href="http://en.wikipedia.org/wiki/1080p" target="_blank">Full HD</a> and <a href="http://en.wikipedia.org/wiki/Dolby_Digital" target="_blank">Dolby 5.1</a> without wanting to spend a lot of money on the gear. The setup which we are gonna propose can be bought at one go, or incrementally, depending on your budget.</p>

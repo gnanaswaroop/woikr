@@ -4,6 +4,8 @@ date: 2011-07-15T18:51:43
 url: /home-entertainment/tatasky-says-the-hdmi-dolby-issue-on-their-hd-stbs-will-be-fixed-soon/
 categories: ["Home Entertainment"]
 tags: ["tatasky", "tatasky HD", "tatasky HD PVR", "tatasky hdmi issue", "tatasky hdmi dolby issue"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="tatasky-logo.png" src="/wp/wp-content/uploads/2011/05/tatasky-logo.png" alt="tatasky logo" width="160" height="80" /><img title="NewImage1.png" src="/wp/wp-content/uploads/2011/02/NewImage1.png" alt="NewImage1.png" /></p>
 <p>By now, almost all <a href="/home-entertainment/tatasky-launches-indias-cheapest-hd-set-top-box/">TataSky HD</a> &amp; <a href="/home-entertainment/tatasky-hd-review-and-unboxing/">HD+</a> users with a home theater system know that the last software update that happened in April 2011 <a href="/home-entertainment/tatasky-installs-buggy-software-on-all-tatasky-hd-boxes/">introduced a major bug in their set top boxes</a>. The bug stopped sending Dolby 5.1 surround sound audio signals over the HDMI cable. If the subscribers had connected the HDMI cable to their home theater systems, they could no longer enjoy the Dolby 5.1 (or 7.1) audio as advertised in the media. Instead, the users get a scaled down 2 channel stereo audio experience.</p>

@@ -4,6 +4,8 @@ date: 2011-03-12T12:07:54
 url: /telecom/airtel-3g-offering-amazing-speed-in-delhincr/
 categories: ["Telecom"]
 tags: ["Airtel", "airtel 3g", "airtel 3g delhi", "airtel 3g speed", "airtel 3g delhi speed", "3g india", "3G", "3g speed india", "mobile broadband india"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="NewImage8.png" src="/wp/wp-content/uploads/2011/03/NewImage8.png" alt="NewImage8.png" /></p>
 <p>Ever since I got my <a href="/telecom/mnp-in-india-ftw">number ported to Airtel</a> and got <a href="/iphone/iphone-4-with-ios-4-3-working-with-airtel-3g-in-india">3G activated for my iPhone 4</a>, I have been trying to measure speed that I can get over the network. Some of my initial analysis can be found in <a href="/iphone/iphone-4-with-ios-4-3-working-with-airtel-3g-in-india">this article</a>. Here, I am going to post some more results at other times of the day &amp; night.</p><p>I downloaded the <a href="http://itunes.apple.com/us/app/speedtest-net-mobile-speed/id300704847?mt=8">speedtest.net's app for iPhone</a> and checked out the speed at around 3:15 am. This is what I got:</p>

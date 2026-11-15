@@ -4,6 +4,8 @@ date: 2012-05-23T20:00:29
 url: /telecom/airtel-launches-affordable-high-speed-8-mbps-and-16-mbps-broadband-plans/
 categories: ["Telecom"]
 tags: ["airtel broadband", "airtel india", "broadband", "broadband connection with fast download speeds", "broadband india"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="" src="/wp/wp-content/uploads/2011/01/NewImage62.jpg" alt="" width="" height="" /></p>
 <p>After <a href="/telecom/airtel-slashes-its-3g-data-tariffs/">reducing 3G tariffs</a>, Airtel has launched new affordable high speed 8Mbps and 16Mbps plans in areas where such plans are available (owing to some network infrastructure requirement, these plans are not available in all localities in all cities - call airtel's customer care to find out if they are available in your area). The new plans are as follows:</p>

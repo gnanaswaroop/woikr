@@ -4,6 +4,8 @@ date: 2008-10-19T23:46:49
 url: /blogging/woikr-in-a-newer-and-better-design/
 categories: ["Blogging", "News"]
 tags: ["woikr.com", "woikr redesign", "mimbo theme"]
+author: "Team Woikr"
+authors: ["woikr"]
 aliases: ["/news/woikr-in-a-newer-and-better-design/"]
 ---
 <p>We're glad to announce that, we have moved to a new theme, which is immediately live at <a href="" target="_blank">woikr.com</a>.</p>

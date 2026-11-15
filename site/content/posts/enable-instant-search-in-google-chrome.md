@@ -4,6 +4,8 @@ date: 2011-02-13T17:00:30
 url: /howto/enable-instant-search-in-google-chrome/
 categories: ["How Tos", "Google"]
 tags: []
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>Starting from version 9, Google is offering Instant Search capabilities like their website in the Chrome Browser. This means that just like on their website, when you type text in the Address Bar (also called OmniBox), Chrome will open up the Google Instant Search page using the text as query. As you modify the text in the Address bar the search results below will update automagically.</p>
 <p>What you need to do is first make sure you are on Chrome 9+ version. Type "about:version" in the address bar to confirm. If not, update to the latest version. Now Goto Chrome Preferences by pressing “Command + ,” on Mac (Wrench Menu-&gt;Options on Windows) and in the  Basics tab, check "Enable Instant for faster searching and browsing, OmniBox input maybe logged". It will show a warning, read it and accept it if you are ok with it.</p>

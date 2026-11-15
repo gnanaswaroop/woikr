@@ -4,6 +4,8 @@ date: 2009-04-15T13:14:18
 url: /news/downgrade-iphone-3g-baseband-from-023003-to-022800/
 categories: ["News"]
 tags: ["iPhone", "iPhone Unlock", "unlock 2.2.1", "unlock 02.30.03", "downgrade iphone 3g firmware"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><a href="/wp/wp-content/uploads/2009/03/iphone_unlocked.jpg"><img class="alignnone size-medium wp-image-2366" title="iphone_unlocked" src="/wp/wp-content/uploads/2009/03/iphone_unlocked-244x300.jpg" alt="iphone_unlocked" width="244" height="300" /></a></p>
 <p>This is good news for people who accidentally upgraded their iPhone 3Gs to 2.2.1 and in turn bricked them. The 2.2.1 firmware for iPhone 3G upgraded the baseband from 02.28.00 to 02.30.03 in turn locking the phone making it unlockable by yellosnOw.</p>

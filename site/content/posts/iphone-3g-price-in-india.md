@@ -4,6 +4,8 @@ date: 2008-08-20T03:37:48
 url: /apple/iphone-3g-price-in-india/
 categories: ["Apple", "iPhone"]
 tags: ["iPhone India Price", "iPhone price", "iPhone India", "iPhone"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 Ever since the international announcement of iPhone 3G, people in India have been anticipating an extremely low price here.
 

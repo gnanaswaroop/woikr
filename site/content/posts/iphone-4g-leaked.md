@@ -4,6 +4,8 @@ date: 2010-04-20T09:34:51
 url: /rumors/iphone-4g-leaked/
 categories: ["Rumors", "Apple", "iPhone"]
 tags: ["apple leak", "apple iphone", "iPhone", "iphone 4G", "iphone 4", "iphone new", "apple camera", "iphone camera", "latest iphone", "steve jobs", "steve angry", "apple lawyers", "gray powell", "apple engineer", "apple mistake", "apple rumor", "iphone rumor", "iphone upgrade", "new iphone", "iphone release", "iphone 2010", "iphone bar", "iphone lost", "iphone gizmodo", "gizmodo leak", "gizmodo steve jobs"]
+author: "Swaroop"
+authors: ["swaroop"]
 ---
 <p>So, it just happened to be a regular day when an Apple Employee (I hope still) <a href="http://www.flickr.com/photos/graypowell" target="_blank">Gray Powell</a> had too much to drink and left behind a well confiscated iPhone next generation phone (or its near production prototype) in a bar.</p>
 <p><a href="/wp/wp-content/uploads/2010/04/iPhone4g-rumor.png"><img class="alignnone size-full wp-image-3871" title="iPhone4g-rumor" src="/wp/wp-content/uploads/2010/04/iPhone4g-rumor.png" alt="" width="500" height="256" /></a></p>

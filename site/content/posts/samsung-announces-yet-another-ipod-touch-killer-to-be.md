@@ -4,6 +4,8 @@ date: 2010-12-28T09:28:14
 url: /android/samsung-announces-yet-another-ipod-touch-killer-to-be/
 categories: ["Android"]
 tags: ["Samsung Galaxy Player", "Samsung MP3 Player", "Samsung Media Player", "Android Media Player"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>I've been waiting for this for so long now. Android is popular. <em>Very</em> popular. It was about time someone puts it in a Media Player and tries to compete with the iPod Touch. Samsung is doing exactly the same.</p>
 <p>&nbsp;</p>

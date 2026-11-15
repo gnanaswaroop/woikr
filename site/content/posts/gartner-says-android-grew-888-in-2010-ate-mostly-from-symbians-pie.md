@@ -4,6 +4,8 @@ date: 2011-02-10T00:38:54
 url: /news/gartner-says-android-grew-888-in-2010-ate-mostly-from-symbians-pie/
 categories: ["News", "Mobile Phones"]
 tags: ["android-os", "Android market share", "Nokia falling share", "Nokia Market Share", "Apple market Share"]
+author: "Chirag"
+authors: ["chirag"]
 aliases: ["/news/gartner-says-android-grew-888-in-2010-ate-mostly-from-symbians-pie"]
 ---
 According to the latest report by Gartner, Android OS grew 888% last year to gain the second position with 22.7% share in Smartphone Operating Systems. Nokia's Symbian went down from 46.9% market share to 37.6% but still stayed on top.

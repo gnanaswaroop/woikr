@@ -4,6 +4,8 @@ date: 2009-10-08T00:35:22
 url: /deals/ipods-at-lowest-prices-in-india-deals/
 categories: ["Deals"]
 tags: ["buy iPods in India", "ipods on discount", "discounts on ipod in india"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>A friend just informed me that <a href="http://eBay.in" target="_blank">eBay</a> is having amazing discounts on iPods this week. So if you are looking to buy/gift one this Diwali, you should definitely check them out. Since the friend has been pestering me to find him a deal on iPod Touch for almost a month now, I can assure you the prices are the best in the market and almost comparable to what you get in the US. Especially when you utilize the special Diwali offer.</p>
 

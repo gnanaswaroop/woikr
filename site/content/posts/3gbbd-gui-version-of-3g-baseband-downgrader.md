@@ -4,6 +4,8 @@ date: 2009-04-28T19:36:56
 url: /news/3gbbd-gui-version-of-3g-baseband-downgrader/
 categories: ["News"]
 tags: ["iPhone", "iphone 3G", "iPhone Unlock", "iphone 3g baseband downgrade", "downgrade iphone 3g firmware", "unlock 02.30.03", "unlock 2.2.1", "unlock iphone 3G 2.2.1"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img class="alignnone" title="iPhone_3G_Unlock" src="/wp/wp-content/uploads/2009/03/iphone_unlocked-244x300.jpg" alt="" width="244" height="300" /></p>
 <p>Remember the <a href="/news/downgrade-iphone-3g-baseband-from-023003-to-022800/" target="_blank">3G baseband downgrade process</a> we told you about a few days back? The process let you downgrade your iPhone 3G baseband from 02.30.03 to 02.28.00for firmware 2.2.1.</p>

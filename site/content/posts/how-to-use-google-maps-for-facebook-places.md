@@ -4,6 +4,8 @@ date: 2011-02-24T15:50:32
 url: /howto/how-to-use-google-maps-for-facebook-places/
 categories: ["How Tos", "Internet"]
 tags: ["facebook places", "Bing Maps india", "Bing Maps Vs Google Maps", "Bing Vs Google", "Google Maps in Facebook Places", "Greasemonkey scripts", "userscript", "Facebook places Mozilla", "Bing Maps ugly", "Faecbook Places Chrome", "what are facebook places"]
+author: "Swaroop"
+authors: ["swaroop"]
 ---
 Have you been Facebook places religiously, then you probably also hate that Facebook.com uses Bing Maps to show you the check-in(s). This article tells you how to configure your browser to show Google Maps instead of Bing Maps.
 

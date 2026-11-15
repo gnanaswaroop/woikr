@@ -4,6 +4,8 @@ date: 2011-08-21T17:52:22
 url: /tablets/forget-hp-touchpad-get-this-android-tablet-for-99-inr-4500/
 categories: ["Tablets"]
 tags: ["android", "android tablet", "cheapest tablet", "cheapest android tablet"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="magnum-pepper-android-tablet-india.png" src="/wp/wp-content/uploads/2011/08/magnum-pepper-android-tablet-india.png" alt="magnum pepper android tablet india" width="250" height="210" /></p>
 <p>Think before you buy that HP TouchPad for $99. <a href="http://lacs.co.in">Lakshmi Access Communications Systems Pvt. Ltd.</a>, a Delhi based firm has launched <a href="http://lacs.co.in/products/pepper-m74v.php">Magnum Pepper</a> - a INR 4500 (~$99) Android tablet in india. This might probably be the cheapest Android tablet in the world! The specs include:</p>

@@ -4,6 +4,8 @@ date: 2008-10-03T19:34:18
 url: /apple/how-to-convert-videos-for-ipod-and-iphone-guides/
 categories: ["Apple", "iPhone"]
 tags: ["convert video for ipod", "ipod video encoder", "convert video ipod", "how to add videos to ipod", "iphone video converter", "ipod video converter", "videora", "iPod", "iPhone", "ipod video guide", "iphone video guide", "ipod video conversion guide", "iphone video conversion guide"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img class="alignnone" src="/wp/wp-content/uploads/2008/10/videora_lead.png" alt="" width="593" height="225" /></p>
 <p>iTunes is a clumsy app. In all the hoopla of iPhone App Store and video rentals, Apple has apparently lost focus on one of the core jobs of iTunes - Convert &amp; Sync content to iPods and iPhone. Try converting a video to iPod foirmat in iTunes and you will know what I am saying. This is where 3rd party software come handy.</p>

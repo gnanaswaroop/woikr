@@ -4,6 +4,8 @@ date: 2010-12-29T22:15:24
 url: /misc/carbons-domino-clock-is-a-work-of-art/
 categories: ["Misc"]
 tags: ["carbon design", "domino clock", "rolling dice clock"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>Carbon's Domino Clock is the best looking clock I've seen in a long long time. It's like looking at time on rolling dice. Except that the dice are hanging on your wall.</p>
 <p><img title="domino_clock_2_580x304.shkl" src="/wp/wp-content/uploads/2010/12/domino_clock_2_580x304.shkl_.jpg" alt="" width="580" height="304" /></p>

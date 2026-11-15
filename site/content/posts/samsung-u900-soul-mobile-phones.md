@@ -4,6 +4,8 @@ date: 2008-10-21T08:45:21
 url: /first-look/samsung-u900-soul-mobile-phones/
 categories: ["First Look", "Mobile Phones"]
 tags: ["Samsung U900 Soul", "Samsung 5 Megapixel Cameraphone", "Samsung U900 preview"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 Since a last few months Samsung has been trying really hard to capture the  fancy of Indian mobile market. From making Aamir Khan a brand ambassador to  launching some really sleek phones, they have been clear like anything  that they want a lion's share in the world's 2nd largest mobile market.
 

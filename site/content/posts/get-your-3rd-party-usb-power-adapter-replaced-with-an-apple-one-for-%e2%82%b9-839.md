@@ -4,6 +4,8 @@ date: 2013-10-09T12:58:33
 url: /news/get-your-3rd-party-usb-power-adapter-replaced-with-an-apple-one-for-%e2%82%b9-839/
 categories: ["News", "Apple"]
 tags: ["apple usb adapter", "usb power adapter india"]
+author: "Setu"
+authors: ["setu"]
 aliases: ["/apple/get-your-3rd-party-usb-power-adapter-replaced-with-an-apple-one-for-%e2%82%b9-839/"]
 ---
 <p><img title="apple-usb-adapter.png" src="/wp/wp-content/uploads/2013/10/apple-usb-adapter.png" alt="apple usb adapter" width="170" height="174" /></p>

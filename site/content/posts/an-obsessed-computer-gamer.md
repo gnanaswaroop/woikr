@@ -4,6 +4,8 @@ date: 2008-08-16T11:12:12
 url: /gaming/an-obsessed-computer-gamer/
 categories: ["Gaming"]
 tags: ["computer gaming"]
+author: "Swaroop"
+authors: ["swaroop"]
 ---
 <p>In most parts of the world people have bad views regarding gaming.</p>
 <p>This is a post to explain why we still game and stay thrilled.</p>

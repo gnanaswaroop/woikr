@@ -4,6 +4,8 @@ date: 2010-08-19T11:52:38
 url: /ipad/facebooks-iphone-app-updated-with-places/
 categories: ["iPad", "News", "iPhone"]
 tags: ["facebook", "facebook places", "facebook for iphone ipad", "location on iphone ipad", "social networking"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><a href="/wp/wp-content/uploads/2010/08/image47.png"><img title="image" src="/wp/wp-content/uploads/2010/08/image_thumb23.png" alt="image" width="128" height="161" /></a></p>
 <p>Facebook totally wants to get in the location game with Places. Facebook Places is a Foursquare like feature in which you can check in a place on Facebook if you are physically present at that place. For example, if you are in your neighborhood comic book store, you can check in to it on Facebook so that your friends can know where you are. You can also tag your friends if they are present there.</p>

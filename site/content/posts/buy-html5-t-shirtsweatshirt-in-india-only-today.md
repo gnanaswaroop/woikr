@@ -4,6 +4,8 @@ date: 2011-01-20T10:44:47
 url: /deals/buy-html5-t-shirtsweatshirt-in-india-only-today/
 categories: ["Deals"]
 tags: ["24hoursloot", "Woot India", "HTML5 Goodies", "HTML5 T-shirts", "HTML5 Jacket", "HTML5 Hoodie", "HTML5 Sweatshirt"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 24HoursLoot, <a href="/news/24hoursloot-is-indias-woot" target="_blank">India's own version of woot</a>,&nbsp;is running an awesome deal today. They have t-shirts with the newly launched HTML5 logo.
 

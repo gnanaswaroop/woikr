@@ -4,6 +4,8 @@ date: 2011-01-11T19:23:44
 url: /misc/the-evolution-of-the-batmobile-holy-infographics-batman/
 categories: ["Misc"]
 tags: ["Batmobile", "History of Batmobiles", "Evolution of Batmobiles"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 CarInsurance.org made this awesome looking info graphic that shows the evolution of Batmobiles. Right from 1941. It's the best thing I've seen, well, today.
 

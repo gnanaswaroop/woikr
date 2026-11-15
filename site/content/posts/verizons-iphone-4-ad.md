@@ -4,6 +4,8 @@ date: 2011-02-04T14:09:26
 url: /iphone/verizons-iphone-4-ad/
 categories: ["iPhone"]
 tags: ["Verizon", "iphone 4", "iPhone", "Verizon iPhone", "verizon ad", "ads"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="NewImage.jpg" src="/wp/wp-content/uploads/2011/02/NewImage4.jpg" alt="NewImage.jpg" width="277" height="182" /></p>
 <p>We all know by now that the iPhone 4 is now available with Verizon. The Verizon version is a CDMA avatar of the iPhone 4 with a f<a href="/apple/iphone4-now-available-on-verizon">ew fixes to the antenna</a>.</p>

@@ -4,6 +4,8 @@ date: 2009-10-06T03:13:54
 url: /iphone/review-wisen-up-iphone-apps/
 categories: ["iPhone", "Reviews"]
 tags: ["Wisen Up", "GlobalDelight", "iPhone Medical app", "iPhone medical jokes", "iphone apps"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p><img class="alignnone size-full wp-image-3270" title="wisen_up_1" src="/wp/wp-content/uploads/2009/10/wisen_up_11.png" alt="wisen_up_1" width="113" height="167" /><br>
 When Apple says, "There's an app for just about anything", they really mean it. Consider <a href="http://www.globaldelight.com/iPhone/wisenup/index.html" target="_blank">Wisen Up</a>, an app best described as a collection of facts, trivia, myths and quizzes about medical science and human body. Now what use could this be to anyone? Well, it's a pretty cheap way to pass time when you can't beat that level and have no Internet to update your Twitter status.

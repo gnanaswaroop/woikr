@@ -4,6 +4,8 @@ date: 2011-01-28T09:18:28
 url: /google/google-on-the-way-to-block-piracy/
 categories: ["Google"]
 tags: ["Google Blocking Piracy", "Google Does Not Suggest Torrents", "Google Pirate Search", "Google Blocking Torrents"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>Remember how a few days back Google removed support for H.264 from Chrome and made us wonder <a href="/google/does-google-dropping-h-264-from-chrome-mean-they-are-evil" target="_blank">they are turning evil</a>? Here is something that may add to the debate. According to the <a href="http://tech2.in.com/india/news/websites-internet/google-starts-censoring-rapidshare-torrents-and-more/189112/0" target="_blank">reports</a> Google has started blocking piracy related keywords from their "Instant Search".</p>
 <a href="/wp/wp-content/uploads/2011/01/google_pirate_search.jpg"><img title="google_pirate_search" src="/wp/wp-content/uploads/2011/01/google_pirate_search-300x153.jpg" alt="Google Does Not Like Pirates Any More!" width="300" height="153" /></a>

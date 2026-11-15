@@ -4,6 +4,8 @@ date: 2011-06-09T23:48:07
 url: /howto/how-to-extend-your-wifi-routers-signal-coverage-area/
 categories: ["How Tos"]
 tags: ["wifi", "wifi routers", "wifi signal strength"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="wifi-signals.png" src="/wp/wp-content/uploads/2011/06/wifi-signals.png" alt="wifi signals" width="134" height="100" /></p>
 <p>A common problem faced in households with WiFi is that the signal strength is not strong enough to cover the whole house. The problem is much more annoying when you live in a multi storied home. There are a few solutions to fix this issue:</p>

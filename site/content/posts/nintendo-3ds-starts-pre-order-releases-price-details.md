@@ -4,6 +4,8 @@ date: 2011-01-21T11:13:40
 url: /gaming/nintendo-3ds-starts-pre-order-releases-price-details/
 categories: ["Gaming"]
 tags: ["nintendo 3DS", "nintendo gaming", "nintendo DS", "nintendo DSi", "3D camera", "Gaming consoles", "handheld games"]
+author: "Swaroop"
+authors: ["swaroop"]
 ---
 <p>The next version of Nintendo DS, the 3DS which offers glasses free 3D gaming has started <a href="http://www.nintendo.com/3ds/buy" target="_blank">pre-order</a> and will set you back by USD 249.99. Will be available in the US on March 27th 2011 and in Europe on March 25th 2011.</p>
 <p><a href="/wp/wp-content/uploads/2011/01/Nintendo3DS.png"><img title="Nintendo 3DS" src="/wp/wp-content/uploads/2011/01/Nintendo3DS_thumb.png" alt="Nintendo 3DS" width="297" height="272" /></a></p>

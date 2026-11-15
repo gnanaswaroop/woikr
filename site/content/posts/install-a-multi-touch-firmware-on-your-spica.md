@@ -4,6 +4,8 @@ date: 2011-01-31T10:22:20
 url: /howto/install-a-multi-touch-firmware-on-your-spica/
 categories: ["How Tos", "Android"]
 tags: ["Samsung Galaxy Spica", "Samsung Galaxy i5700", "Samsung Galaxy Spica Root", "Samsung Galaxy Spica Multitouch", "Samdroid Kitchen", "SamdroidMod Kitchen", "Custom Firmware on Spica", "Spica Multitouch", "Spica Root"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>You <a href="/mobile-phones/root-your-samsung-galaxy-spica-i5700" target="_blank">successfully rooted your Samsung Galaxy Spica</a>. Now what? How to install a new custom firmware? How to enable Multi-touch? How to do that kitchen thingy? Here is the answer. This tutorial will make all these things clear so you can use your Spica like a pro!</p>
 

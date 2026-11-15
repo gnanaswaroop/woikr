@@ -4,6 +4,8 @@ date: 2011-08-27T23:58:33
 url: /iphone/the-best-video-recording-app-on-iphone-capture/
 categories: ["iPhone", "Reviews"]
 tags: ["video recording iphone", "best iphone video recorder", "iOS video recorder", "Best video recording app", "capture iphone", "capture for ipod", "capture.app", "one click video recording iphone"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p><img title="capture.app" src="/wp/wp-content/uploads/2011/08/capture.app_.jpg" alt="" width="291" height="283" /></p>
 <p>I've always been a big fan of one-touch mobile apps done right. They fix one problem, fix it well and fix it without making you fiddle through complex UIs. This is the only reason I like widgets on Android. They provide a great one-click interface for doing basic things. Not many apps on iPhone are like that and the ones that exist, are  not famous enough to be used widely. Today I'll tell you about one of them - Capture.</p>

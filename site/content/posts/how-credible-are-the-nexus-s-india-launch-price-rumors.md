@@ -4,6 +4,8 @@ date: 2010-12-28T21:53:44
 url: /mobile-phones/how-credible-are-the-nexus-s-india-launch-price-rumors/
 categories: ["Mobile Phones"]
 tags: ["Nexus S India", "Nexus S price", "Nexus S India price", "Nexus S India launch", "Nexus S Infibeam"]
+author: "Chirag"
+authors: ["chirag"]
 aliases: ["/mobile-phones/how-credible-are-the-nexus-s-india-launch-price-rumors"]
 ---
 <p><a href="http://www.mobilegyaan.com/google-nexus-s-india-price" target="_blank">Many</a> <a href="http://www.fonearena.com/blog/28177/nexus-s-to-be-available-soon-at-infibeam-for-just-rs-24000.html" target="_blank">blogs</a> have reported over the last couple of days that Nexus S is coming to India soon for Rs 24,000. The source in all the cases is <a href="http://www.infibeam.com/Mobiles/i-Samsung-Nexus-S-Android-Smartphone/P-E-M-Samsung-Nexus-S.html" target="_blank">Infibeam's product page</a> where they are displaying that Nexus S will be "Coming Soon" for the 24k in India.</p>

@@ -4,6 +4,8 @@ date: 2009-07-09T17:32:33
 url: /iphone/how-to-make-push-notifications-work-on-your-iphone-2g/
 categories: ["iPhone"]
 tags: ["iphone 2G", "iphone 3.0", "iphone push", "iPhone Push Notifi"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <strong>What is Push Notification?</strong>
 

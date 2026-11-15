@@ -4,6 +4,8 @@ date: 2008-11-20T13:08:29
 url: /lol/husband-blames-iphone-for-raunchy-pic-that-upset-his-wife/
 categories: ["LOL"]
 tags: ["marriage fiasco iphone", "raunchy pic iphone", "iphone email glitch"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p>Apparently, a couple's marriage is in jeopardy and the husband blames his iPhone. Here is a brief story:</p>
 

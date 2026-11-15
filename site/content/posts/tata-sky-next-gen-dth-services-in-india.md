@@ -4,6 +4,8 @@ date: 2008-10-25T17:29:54
 url: /telecom/tata-sky-next-gen-dth-services-in-india/
 categories: ["Telecom", "News", "Home Entertainment"]
 tags: ["tata sky", "tata sky plus", "tata sky dth", "dth india", "hd dth india", "dvr india", "big tv", "digital tv", "tata sky vs. reliance vs. airtel", "best dth service in india", "tatasky"]
+author: "Setu"
+authors: ["setu"]
 ---
 <a href="/wp/wp-content/uploads/2008/10/tataskyplus-featured.png"><img class="alignnone size-full wp-image-1536" title="tataskyplus-featured" src="/wp/wp-content/uploads/2008/10/tataskyplus-featured.png" alt="" width="255" height="88" /></a>
 <p>The TATA Group in a joint venture with STAR launched the Tata Sky DTH services in India on 8th August, 2006. Taking a majority of market share from DishTV, they have more of less monopolized the market until a few days back. With the launch of Reliance's <a href="http://www.bigtv.co.in" target="_blank">Big TV</a> and Airtel's <a href="http://www.airtel.in/digitaltv" target="_blank">Digital TV</a> (and all the hype created with the ad campaign wars), Tata Sky might loose a chunk of its market share to these guys.</p>

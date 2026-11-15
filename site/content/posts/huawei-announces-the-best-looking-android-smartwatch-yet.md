@@ -4,6 +4,8 @@ date: 2015-03-02T05:52:19
 url: /android/huawei-announces-the-best-looking-android-smartwatch-yet/
 categories: ["Android", "News"]
 tags: []
+author: "Setu"
+authors: ["setu"]
 aliases: ["/news/huawei-announces-the-best-looking-android-smartwatch-yet/"]
 ---
 Huawei has announced its Android smartwatch at the Mobile World Congress and it is the best looking android a yet. Huawei claims that they surveyed various potential customers and based on their feedbck of the current smartwatch options in the market, they have come up with one that looks like a luxury watch and caters to what people are looking for in a smartwatch.

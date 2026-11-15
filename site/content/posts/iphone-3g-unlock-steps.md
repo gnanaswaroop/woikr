@@ -4,6 +4,8 @@ date: 2009-01-03T14:33:27
 url: /news/iphone-3g-unlock-steps/
 categories: ["News"]
 tags: ["iPhone", "iphone 3G", "iphone 3g unlock", "yellowsnow", "iphone dev team", "quickpwn", "3g unlock", "how to unlock iphone 3g", "iphone 3g unlock steps"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><a href="/wp/wp-content/uploads/2008/12/iphone_unlock.png"><img class="alignnone size-full wp-image-1809" title="iphone_3G_unlock" src="/wp/wp-content/uploads/2008/12/iphone_unlock.png" alt="iphone_3G_unlock" width="350" height="350" /></a></p>
 <p>The <a href="http://blog.iphone-dev.org/" target="_blank">iPhone dev team</a> released the iPhone 3G unlock aka <a href="http://www.yellowsnow.com" target="_blank">YellowSnOw</a> on the new year. The initial version had a few hiccups for some users. However, they have released a new version which seems to be working fine for most users. The steps are broadly classified as:</p>

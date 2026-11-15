@@ -4,6 +4,8 @@ date: 2009-04-08T21:05:57
 url: /news/week-in-iphone-apps/
 categories: ["News"]
 tags: ["iPhone", "Apple", "iphone apps", "yahoo messenger", "skype", "voip", "iphone wifi calls"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img class="alignnone size-full wp-image-2419" title="available_on_app_store" src="/wp/wp-content/uploads/2009/04/available_on_app_store.png" alt="available_on_app_store" width="135" height="44" /></p>
 <p>The week saw 2 major app launches in the iPhone App Store:</p>

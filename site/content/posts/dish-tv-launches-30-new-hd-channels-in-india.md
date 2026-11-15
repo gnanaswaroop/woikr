@@ -4,6 +4,8 @@ date: 2011-02-23T15:23:25
 url: /home-entertainment/dish-tv-launches-30-new-hd-channels-in-india/
 categories: ["Home Entertainment"]
 tags: ["dish tv", "hd dth india", "hd channels india", "HD India"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="NewImage.png" src="/wp/wp-content/uploads/2011/02/NewImage3.png" alt="NewImage" width="170" height="100" /></p>
 <p>How many HD channels does your DTH provider offer you? Well, if you are a subscriber of Dish TV, you can put an evil smile on your face and bitch about the other DTH providers at this time.</p>

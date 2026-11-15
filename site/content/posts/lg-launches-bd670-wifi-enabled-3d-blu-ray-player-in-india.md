@@ -4,6 +4,8 @@ date: 2011-06-21T15:33:58
 url: /home-entertainment/lg-launches-bd670-wifi-enabled-3d-blu-ray-player-in-india/
 categories: ["Home Entertainment"]
 tags: ["LG blu ray player india", "3f blu ray india", "wifi blu ray player", "lg blu ray india"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="lg-logo.png" src="/wp/wp-content/uploads/2011/06/lg-logo.png" alt="lg logo" width="200" height="94" /></p>
 <p><img title="LG-BD670-3D-Blu-ray-player.jpg" src="/wp/wp-content/uploads/2011/06/LG-BD670-3D-Blu-ray-player.jpg" alt="LG BD670 3D Blu ray player" width="550" height="186" /></p>

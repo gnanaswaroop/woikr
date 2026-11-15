@@ -4,6 +4,8 @@ date: 2008-08-16T11:06:09
 url: /apple/i-hate-my-iphone/
 categories: ["Apple", "iPhone"]
 tags: ["iPhone", "Apple", "i hate", "i hate iphone", "iPhone India"]
+author: "Chirag"
+authors: ["chirag"]
 aliases: ["/i-hate-my-iphone/"]
 ---
 <div class="mceTemp mceIEcenter">

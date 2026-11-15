@@ -4,6 +4,8 @@ date: 2008-08-29T03:14:18
 url: /photography/whats-wrong-with-canon/
 categories: ["Photo Gear"]
 tags: ["Canon A2000 IS", "Canon SX110 IS", "Canon E1", "Canon A1000 IS", "Upcoming cameras", "Canon Announcement", "Olympus Stylus 1040", "Nikon P60", "Nikon S7c", "Panasonic TZ5", "Wide angle vs Normal", "28 mm vs 35 mm", "Digital Cameras"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p><img class="alignnone" src="/wp/wp-content/uploads/2008/08/lead_no_canon.jpg" alt="" width="593" height="225" /></p>
 <p>Few days back, Canon announced some major upgrades to it's consumer digital camera lineup. Sadly this time, they made choices that make me hate them.</p>

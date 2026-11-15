@@ -4,6 +4,8 @@ date: 2010-12-28T07:57:31
 url: /android/intex-planning-to-launch-indias-cheapest-android-phone-at-rs-5500/
 categories: ["Android", "Mobile Phones"]
 tags: ["android", "android india", "cheap android phone", "intex android"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img class="alignnone size-full wp-image-5397" title="intex_android" src="/wp/wp-content/uploads/2010/12/intex_android.jpg" alt="" width="450" height="253" /></p>
 <p><a href="http://www.intextechnologies.com/" target="_blank">Intex</a> (Yes, the company which used to make PC cabinets, speakers and other computer accessories and is now a full fledged electronics manufacturing company) is all set to launch the cheapest Android handset in India come February.</p>

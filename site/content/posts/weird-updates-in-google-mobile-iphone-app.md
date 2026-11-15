@@ -4,6 +4,8 @@ date: 2009-04-29T18:20:14
 url: /lol/weird-updates-in-google-mobile-iphone-app/
 categories: ["LOL"]
 tags: ["iPhone", "Google", "google iphone voice app", "ninja", "google lol", "google mobile lol"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p>Apparently, the <a href="/google/google-iphone-voice-recognition-app/" target="_blank">Google mobile iPhone app</a> has been updated recently. And it has some really weird updates. Have a look:</p>
 

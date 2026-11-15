@@ -4,6 +4,8 @@ date: 2011-07-16T19:42:28
 url: /iphone/iphone-4-records-guitar-string-motions/
 categories: ["iPhone"]
 tags: ["iphone 4", "iPhone", "iphone 4 camera"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p>Here is a super awesome video recorded by an iPhone 4 from inside an acoustic guitar:</p>
 <p><a href="http://www.youtube.com/watch?v=TKF6nFzpHBU&amp;feature=player_embedded">httpv://www.youtube.com/watch?v=TKF6nFzpHBU&amp;feature=player_embedded</a></p>

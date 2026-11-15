@@ -4,6 +4,8 @@ date: 2011-02-14T13:24:22
 url: /android/androidify-is-undoubtedly-the-cutest-android-app-ever/
 categories: ["Android", "Google"]
 tags: ["Google Android", "Androidify", "Google Androidify Review", "Google Android Avatar", "Create your own android avatar"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p><a href="/wp/wp-content/uploads/2011/02/androidify.jpg"><img class="alignnone size-medium wp-image-7000" title="androidify" src="/wp/wp-content/uploads/2011/02/androidify-300x237.jpg" alt="Google Androidify" width="300" height="237" /></a></p>
 <p><a href="http://androidify.com/" target="_blank">Google's Androidify</a> is undoubtedly the cutest Android app you've ever seen. The app lets you create an Android-like Avatar of your own using a simple drag &amp; drop UI. Ahead is the official description and an introduction video.</p>

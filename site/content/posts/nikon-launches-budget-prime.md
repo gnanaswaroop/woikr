@@ -4,6 +4,8 @@ date: 2009-02-09T16:33:36
 url: /news/nikon-launches-budget-prime/
 categories: ["News", "Photo Gear"]
 tags: ["Nikkor 35mm prime", "Prime lens for Nikon D40", "Prime lens for Nikon D40x", "Prime lens for Nikon D60", "Budget prime lens from Nikon", "Nikon 35mm prime", "Nikkor AF-S 35mm f1.8 prime"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 Good news for all the owners of Nikon D40/D40x/D60 series of cameras! Nikon has launched a 35mm f1.8 prime lens with focus motor built-in. This means it'll auto-focus with your crippled cameras. The lens will be priced $199.95 tentatively.
 

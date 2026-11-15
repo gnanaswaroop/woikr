@@ -4,6 +4,8 @@ date: 2010-12-18T22:50:17
 url: /android/nexus-s-gingerbread-ported-to-samsung-galaxy-s/
 categories: ["Android"]
 tags: ["gingerbread", "Samsung Galaxy S", "nexus s"]
+author: "Chirag"
+authors: ["chirag"]
 aliases: ["/android/nexus-s-gingerbread-ported-to-samsung-galaxy-s"]
 ---
 <p>It had to happen. The phone internals are <a href="http://www.knowyourmobile.com/comparisons/691985/google_nexus_s_vs_samsung_galaxy_s.html" target="_blank">pretty much the same internally</a> and people over at <a href="http://forum.xda-developers.com/index.php" target="_blank">XDA</a> are way smart to not do such things. The <a href="http://twitter.com/dnaltews/status/14849739858116608" target="_blank">sources released</a> by Google were compiled by the French developer <a href="http://twitter.com/supercurio" target="_blank">supercurio</a>. According to <a href="http://forum.xda-developers.com/showthread.php?t=877800" target="_blank">his post</a>, the things that don't work yet are GPS, Voice, Voice, Camera and some hardware buttons. But I'm sure they'll get fixes with time. If you have a Galaxy S, you don't need to worry whether Samsung will upgrade it to Gingerbread ever.</p>

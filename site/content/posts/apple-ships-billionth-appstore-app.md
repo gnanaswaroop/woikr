@@ -4,6 +4,8 @@ date: 2009-04-25T17:05:13
 url: /news/apple-ships-billionth-appstore-app/
 categories: ["News"]
 tags: ["Apple", "iPhone", "appstore", "apple billion billionth app", "apple appstore contest", "Connor Mulcahey"]
+author: "Setu"
+authors: ["setu"]
 ---
 <a href="/wp/wp-content/uploads/2009/04/apple_billion_app_downloads.png"><img class="alignnone size-medium wp-image-2516" title="apple_billion_app_downloads" src="/wp/wp-content/uploads/2009/04/apple_billion_app_downloads-300x88.png" alt="apple_billion_app_downloads" width="300" height="88" /></a>
 

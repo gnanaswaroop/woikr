@@ -4,6 +4,8 @@ date: 2008-11-16T16:01:05
 url: /google/google-iphone-voice-recognition-app/
 categories: ["Google", "News"]
 tags: ["google app iphone", "google voice recognition app", "iphone voice recognition", "iPhone", "Google"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><a href="/wp/wp-content/uploads/2008/11/iphone.jpg"><img class="alignnone size-medium wp-image-1739" title="iphone" src="/wp/wp-content/uploads/2008/11/iphone.jpg" alt="" width="250" height="108" /></a></p>
 <p>Google <span>is about to launch</span> has launched a cool app for the iPhone which has voice recognition built in. Basically, you can just speak into your iPhone and the app will do a smart Google search for whatever you have spoken. And by smart I mean Google smart. Watch this video and you will understand:</p>

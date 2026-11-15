@@ -4,6 +4,8 @@ date: 2011-03-13T11:24:43
 url: /misc/facebook-like-unlike-buttons-available-as-rubber-stamps/
 categories: ["Misc", "LOL"]
 tags: ["facebook", "facebook stamp", "like button", "like button stamp", "facebook in real world"]
+author: "Setu"
+authors: ["setu"]
 ---
 <img title="image" src="/wp/wp-content/uploads/2011/03/image.png" alt="image" width="240" height="208" /> <a href="/wp/wp-content/uploads/2011/03/image1.png"><img title="image" src="/wp/wp-content/uploads/2011/03/image_thumb.png" alt="image" width="240" height="240" /></a>
 

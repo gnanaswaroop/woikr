@@ -4,6 +4,8 @@ date: 2011-01-12T22:56:09
 url: /google/does-google-dropping-h-264-from-chrome-mean-they-are-evil/
 categories: ["Google"]
 tags: ["Google Drops H.264", "Google WebM", "adobe flash", "Video compression standard on the web"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>By now everyone has arguably read that Google is dropping support for H.264 from the Chromium project. Since Chrome is based on the Chromium project, this change will come to Chrome in the next few months as per Google. While I don't claim any authority on this matter, I  want to simplify and explain what this actually means to you, the most important person on the Internet.</p>
 <p><strong>What is H.264?</strong></p>

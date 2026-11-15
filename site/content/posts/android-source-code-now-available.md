@@ -4,6 +4,8 @@ date: 2008-10-22T16:53:55
 url: /android/android-source-code-now-available/
 categories: ["Android", "News"]
 tags: ["android-os", "open handset alliance", "android source code", "android source", "android apps"]
+author: "Setu"
+authors: ["setu"]
 ---
 <a href="/wp/wp-content/uploads/2008/10/android-source-code.png"><img class="alignnone size-medium wp-image-1468" title="android-source-code" src="/wp/wp-content/uploads/2008/10/android-source-code.png" alt="" width="99" height="150" /></a>
 <p>The much hyped source code for the android mobile platform is now available at <a href="http://source.android.com/" target="_blank">http://source.android.com/</a>.</p>

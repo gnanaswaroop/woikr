@@ -4,6 +4,8 @@ date: 2011-08-21T09:06:37
 url: /photography/this-may-be-the-perfect-dslr-accessory-hoodcap/
 categories: ["Photo Gear"]
 tags: ["HoodCap", "Best camera accessory", "Essential Digital SLR accessory", "DSLR lens cap and hood", "DSLR Lens cap problem", "DSLR Lens Hood problem", "Lens Cap and Hood in one"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p><a href="/wp/wp-content/uploads/2011/08/flower_cap.jpg"><img class="alignnone size-medium wp-image-8307" title="flower_cap" src="/wp/wp-content/uploads/2011/08/flower_cap-300x203.jpg" alt="HoodCap combines DSLR lens cap and hood" width="300" height="203" /></a></p>
 <p>I never use a lens cap with my DSLR. The reason? They are a nuisance. No matter how much in habit you are, there will be a time you will miss a good shot because the lens cap was on and it took some precious seconds to hastily remove it and stuff it in your bag. And sometime late, you will waste 15 minutes looking for where you kept it.</p>

@@ -4,6 +4,8 @@ date: 2011-01-18T23:54:45
 url: /howto/how-to-enable-proper-cut-paste-on-mac/
 categories: ["How Tos", "Mac"]
 tags: ["Cut Paste on Mac", "moveAddict", "moveAddict Sale", "mac app store", "Mac App Store Discount", "Move files on Mac", "Merge Folders Mac"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>Sometimes Apple can be just plain ignorant. All these years and they still don't have a proper way to  Cut/Paste files and folders on Mac! You have to select the files, and drag them to the target location using the mouse. It makes moving files suck a pain in the ass.</p>
 <p><a href="/wp/wp-content/uploads/2011/01/moveAddict_logo.jpg"><img class="alignnone size-full wp-image-6353" title="moveAddict_logo" src="/wp/wp-content/uploads/2011/01/moveAddict_logo.jpg" alt="moveAddict logo" width="169" height="154" /></a></p>

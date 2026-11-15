@@ -4,6 +4,8 @@ date: 2012-03-08T13:29:45
 url: /ipad/the-new-ipad-with-retina-display-is-here/
 categories: ["iPad"]
 tags: ["ipad 3", "new iPad", "next gen iPad", "ipad retina"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="ipad-Logo.png" src="/wp/wp-content/uploads/2012/03/ipad-Logo.png" alt="ipad Logo" width="57" height="26" /></p>
 <p>Apple unveiled the <a href="http://www.apple.com/ipad/">new iPad</a> yesterday night (Yes, it is called the new iPad and not iPad 3 or iPad HD). In addition to getting the much rumored retina display, the new iPad also boasts of a quad core A5X processor with groundbreaking graphics capabilities built in, a 5MP iSight camera and 4G LTE support. It is also a tad thicker and heavier than the iPad 2.</p>

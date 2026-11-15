@@ -4,6 +4,8 @@ date: 2011-05-04T12:22:12
 url: /news/airtel-launches-hd-dvr-set-top-box-in-india/
 categories: ["News", "Home Entertainment"]
 tags: ["hd channels india", "hd dth india", "HD India", "hd pvr", "hd pvr india", "HDTV", "hdtv india", "Airtel", "airtel hd"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="NewImage62.jpg" src="/wp/wp-content/uploads/2011/01/NewImage62.jpg" alt="NewImage62.jpg" /></p>
 <p>News is coming in that Airtel has launched their HD DVR set top box in India at a price tag of INR 4890. The recorder has 320 GB of hard disk space which will let you record up to 550 hours of SD content. The recorder features are similar to that of <a href="/home-entertainment/tatasky-hd-review-and-unboxing">TataSky+ HD</a> and is available to be ordered <a href="http://www.airtel.in/wps/wcm/connect/dth/bharti+DTH/Packages+for+you/Browse+packages/">online</a>, call center or retail outlets.</p>

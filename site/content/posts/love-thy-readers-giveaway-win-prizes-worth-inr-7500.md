@@ -4,6 +4,8 @@ date: 2011-12-08T09:21:44
 url: /contests/love-thy-readers-giveaway-win-prizes-worth-inr-7500/
 categories: ["Giveaways"]
 tags: ["ZAPstore", "Giveaway", "contest", "Win Prizes", "Skullcandy Headphones free", "Jabra EasyGo"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <strong>[UPDATE Thu 15-Dec-2011 02:50 PM]</strong>: Winners have been announced. Please visit the <a href="/contests/announcing-the-winners-of-the-zapstore-com-giveaway/">winner announcement page</a>.
 

@@ -4,6 +4,8 @@ date: 2011-03-03T12:16:28
 url: /ipad/the-ipad-2-is-here/
 categories: ["iPad"]
 tags: ["iPad", "iPad 2", "apple ipad", "ipad new generation", "latest ipad", "iPad FaceTime", "ipad with camera"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="NewImage.png" src="/wp/wp-content/uploads/2011/03/NewImage2.png" alt="NewImage" width="306" height="111" /></p>
 <p>Putting an end to all the <a href="/ipad/all-ipad-2-rumors-in-one-place">rumors</a> and <a href="/ipad/what-not-to-expect-from-ipad-2">speculations</a> floating around the world, Apple announced the <a href="http://www.apple.com/ipad/">iPad 2</a> yesterday. As expected, the new iPad is thinner, lighter and much more powerful than the original one. Here is how it looks like:</p>

@@ -4,6 +4,8 @@ date: 2012-04-11T00:07:27
 url: /news/siri-speaking-in-hindi/
 categories: ["News", "iPhone"]
 tags: ["Siri", "Siri hindi", "iPhone India", "siri india"]
+author: "Setu"
+authors: ["setu"]
 aliases: ["/iphone/siri-speaking-in-hindi/", "/iphone/siri-speaking-in-hindi"]
 ---
 <p><img title="siri-logo.png" src="/wp/wp-content/uploads/2012/04/siri-logo.png" alt="siri logo" width="112" height="112" /></p>

@@ -4,6 +4,8 @@ date: 2009-04-13T15:15:56
 url: /news/sun-direct-dth-launches-indias-first-hd-tv-service/
 categories: ["News"]
 tags: ["dth", "HDTV", "HD", "india HD TV", "HD transmission india"]
+author: "Setu"
+authors: ["setu"]
 ---
 <img class="alignnone size-full wp-image-2466" title="sun_direct_hd_logo" src="/wp/wp-content/uploads/2009/04/sun_direct_hd_logo.png" alt="sun_direct_hd_logo" width="190" height="89" />
 <p><a href="http://www.sundirect.in/" target="_blank">Sun Direct DTH</a> service is primarily popular in South India and want to grab a market share in North India. They  boast to be the cheapest in India at INR 999 for a year full of TV subscription.</p>

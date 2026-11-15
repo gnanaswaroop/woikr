@@ -4,6 +4,8 @@ date: 2011-07-20T19:09:13
 url: /apple/new-macbook-airs-arrive/
 categories: ["Apple", "Laptops"]
 tags: ["macbook", "macbook air", "apple macbook", "Apple", "apple air"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="macbook-air-2011.png" src="/wp/wp-content/uploads/2011/07/macbook-air-2011.png" alt="macbook air 2011" width="600" height="342" /></p>
 <p>With the <a href="/apple/mac-os-x-lion-now-available-on-the-mac-app-store/">launch of its OS X Lion</a> operating system, Apple also updated their Macbook Air line of notebook computers. The thinnest and super powerful notebooks are now even faster. Here is a quick run down on the updated specs which matter most:</p>

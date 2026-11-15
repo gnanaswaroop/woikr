@@ -4,6 +4,8 @@ date: 2011-09-05T07:34:52
 url: /google/dear-google-please-fix-this-chrome-issue/
 categories: ["Google"]
 tags: ["google chrome", "Bug in Google Chrome", "Chrome bookmarks search", "Chrome bookmarks search issue", "Quickmarks search issue", "Quickmarks for Google Chrome"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>Ever since Google Chrome came out, I liked it for being minimalist and snappy. But once I switched to Mac, it became essential. No browser comes close to Chrome's performance on the Mac. No matter how much I like the Full Screen feature on Safari, it just isn't enough to make me switch. But this bookmarks related issue has been driving me crazy.</p>
 <p>Searching bookmarks using Chrome's Omnibar does not work. They <a href="http://www.google.com/support/chrome/bin/answer.py?answer=95440">say it does</a> but it doesn't.</p>

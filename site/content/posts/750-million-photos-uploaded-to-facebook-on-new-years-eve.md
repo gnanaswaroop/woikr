@@ -4,6 +4,8 @@ date: 2011-01-05T09:08:33
 url: /news/750-million-photos-uploaded-to-facebook-on-new-years-eve/
 categories: ["News"]
 tags: ["Facebook Photos", "facebook", "Flickr", "Mark Zuckerberg", "Randi Zuckerberg", "How big is Facebook"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p><a rel="attachment wp-att-5921" href="/news/750-million-photos-uploaded-to-facebook-on-new-years-eve/attachment/facebook_580x218-shkl"></a><img title="facebook_580x218.shkl" src="/wp/wp-content/uploads/2011/01/facebook_580x218.shkl_.jpg" alt="Facebook Logo" width="580" height="218" /></p>
 <p><a href="http://en.wikipedia.org/wiki/Randi_Zuckerberg" target="_blank">Randi Zuckerberg</a>, Facebook's marketing Director and <a href="/news/mark-zuckerberg-time-person-of-the-year-2010" target="_blank">Mark Zuckerberg</a>'s sister, <a href="http://twitter.com/randizuckerberg/status/22187407218577408" target="_blank">tweeted</a> that users around the world uploaded a whopping 750 million photos to Facebook over the New Years's Eve weekend! To give you a context, in July more than 100 million photos were uploaded every day, so the weekend was definitely higher than normal but not surprising.</p>

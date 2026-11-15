@@ -4,6 +4,8 @@ date: 2011-03-05T00:47:58
 url: /gaming/mirrors-edge-is-still-alive/
 categories: ["Gaming"]
 tags: ["Mirror's Edge", "Mirror's Edge 2", "Mirror's Edge Sequel", "Mirror's Edge Soundtrack", "Mirror's Edge Still Alive"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <img title="Mirror's_Edge" src="/wp/wp-content/uploads/2011/02/Mirrors_Edge.jpg" alt="Mirror's Edge" width="256" height="321" />
 

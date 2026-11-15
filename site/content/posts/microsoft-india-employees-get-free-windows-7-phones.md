@@ -4,6 +4,8 @@ date: 2011-01-12T13:09:14
 url: /microsoft/microsoft-india-employees-get-free-windows-7-phones/
 categories: ["Microsoft"]
 tags: ["Microsoft Employee Perks", "Benefits of working for Microsoft", "Windows 7 Phone", "HTC Mozart"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>We <a href="http://www.engadget.com/2010/07/21/microsoft-to-employees-everybody-gets-a-windows-phone-7/" target="_blank">heard long time back</a> that all Microsoft employees were supposed to get a free Windows 7 phone. Almost 6 months later, it happened today in Microsoft India's Hyderabad Development center. The source tells us that there were long queues to collect the free HTC Mozart 7 which all employees are getting.</p>
 <p><a href="/wp/wp-content/uploads/2011/01/htc_mozart.jpg"></a></p>

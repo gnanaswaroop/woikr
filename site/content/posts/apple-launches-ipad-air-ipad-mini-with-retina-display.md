@@ -4,6 +4,8 @@ date: 2013-10-26T12:52:37
 url: /ipad/apple-launches-ipad-air-ipad-mini-with-retina-display/
 categories: ["iPad", "News", "Apple"]
 tags: ["ipad air", "ipad mini retina", "apple event october 2013"]
+author: "Setu"
+authors: ["setu"]
 aliases: ["/apple/apple-launches-ipad-air-ipad-mini-with-retina-display/"]
 ---
 <p><img title="ipad-air.png" src="/wp/wp-content/uploads/2013/10/ipad-air.png" alt="ipad air" width="233" height="300" /></p>

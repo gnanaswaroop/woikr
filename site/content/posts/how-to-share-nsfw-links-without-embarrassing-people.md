@@ -4,6 +4,8 @@ date: 2010-12-23T09:40:09
 url: /howto/how-to-share-nsfw-links-without-embarrassing-people/
 categories: ["How Tos"]
 tags: ["share NSFW links", "NSFW warning"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 So there is this <a href="http://en.wikipedia.org/wiki/Not_safe_for_work" target="_blank">NSFW</a> (Not Safe For Work) link that you must share with a friend but you are worried they might be in office and click it. No matter how many times your write NSFW, there is a chance they'll just skip the text and click the link. And believe it or not some people still don't know what NSFW means! So how will you do it? Well, there is a solution. Actually 2.
 

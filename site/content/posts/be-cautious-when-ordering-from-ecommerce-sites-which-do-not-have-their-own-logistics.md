@@ -4,6 +4,8 @@ date: 2012-11-06T00:25:01
 url: /misc/be-cautious-when-ordering-from-ecommerce-sites-which-do-not-have-their-own-logistics/
 categories: ["Misc"]
 tags: ["ecommerce", "ecommerce india", "logistics india", "customer service"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="ecommerce.png" src="/wp/wp-content/uploads/2012/11/ecommerce.png" alt="ecommerce" width="160" height="160" /></p>
 <p>India is currently witnessing an eCommerce revolution where almost every other new startup company is trying to make it big in the eCommerce domain. While this is good and generates healthy competition, there are also companies who are just popping up in order to sell products. What's wrong in that? Nothing. Except that that is not enough to make it big in this huge country. Lets start with a brief history.</p>

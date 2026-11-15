@@ -4,6 +4,8 @@ date: 2011-08-02T07:38:31
 url: /apple/apples-icloud-has-the-cutest-error-screens-ever/
 categories: ["Apple"]
 tags: ["Apple iCloud", "iCloud", "iCloud Screenshots", "iCloud Web Apps", "iCloud Error Pages", "Cutest Error Screens", "Best 404 page"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p><a href="/wp/wp-content/uploads/2011/08/iCloud_login_beta.jpg"><img class="alignnone size-medium wp-image-8244" title="iCloud Login Beta" src="/wp/wp-content/uploads/2011/08/iCloud_login_beta-250x300.jpg" alt="" width="250" height="300" /></a></p>
 <p>As TechCrunch reported few hours back, Apple's iCloud is live on the web! I was able to login using Safari on Lion and it indeed looks gorgeous.</p>

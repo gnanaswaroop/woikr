@@ -4,6 +4,8 @@ date: 2012-06-12T20:54:03
 url: /news/get-ready-for-ios-6/
 categories: ["News", "Apple"]
 tags: ["latest iOS", "wwdc 2012", "iPhone OS", "iOS 6", "iPad OS"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="iOS-6-logo.png" src="/wp/wp-content/uploads/2012/06/iOS-6-logo.png" alt="iOS 6 Logo" width="322" height="116" /></p>
 <p>Apple announced the 6th version of their iOS mobile operating system at the WWDC 2012 keynote yesterday. The update brings a lot of new features to thrash the competition. Let us look at some of the key new &amp; improved features:</p>

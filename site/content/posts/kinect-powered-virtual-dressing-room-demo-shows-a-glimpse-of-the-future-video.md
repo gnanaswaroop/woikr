@@ -4,6 +4,8 @@ date: 2011-05-11T21:58:31
 url: /misc/kinect-powered-virtual-dressing-room-demo-shows-a-glimpse-of-the-future-video/
 categories: ["Misc"]
 tags: ["Virtual Dressing Room", "Augmented Reality Dressing Room", "augmented reality", "Virtual Fitting Room", "Virtual Changing Room", "TopShop Changing room", "Kinect Dressing Room", "Kinect Virtual Reality"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>The incredibly capable Kinect sensor bar is proving to be something that Microsoft would've never imagined. Primarily due to the ease of availability and excellent programming interface, people are using it in all sorts of virtual reality applications.</p>
 <p>The latest example is a Virtual dressing room. TopShop, a British clothes retailer popular across Europe, ran a trial using Kinect sensors. The concept lets people try our clothes without actually going to the dressing room. Here is a video showing some clips from the trial in TopShop's Moscow store:</p>

@@ -4,6 +4,8 @@ date: 2011-01-13T09:31:04
 url: /misc/the-word-of-the-year-is-app-a-year-late/
 categories: ["Misc", "News"]
 tags: ["There is an App for that", "fat-finger", "nom", "WikiLeaks", "Word of the year"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>The <a href="http://www.americandialect.org/">American Dialect Society</a> has chosen "app", short for application as the word of the year. The word "app" received 69 votes to be chosen over "junk", "WikiLeaks", "nom", "trend", "fat-finger" and "-pad".</p>
 <p>Ben Zimmer, chair of the New Words Committee of the American Dialect Society , executive producer of VisualThesaurus.com and the “On Language” columnist for the New York Times Magazine, said the following to support their choice.</p>

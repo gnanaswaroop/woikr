@@ -4,6 +4,8 @@ date: 2011-03-15T19:21:49
 url: /telecom/vodafone-launches-mifi-device-for-sharing-3g-data-over-wifi/
 categories: ["Telecom", "News"]
 tags: ["vodafone", "mifi", "vodafone 3g india", "3g broadband", "share 3g", "portable wifi", "partable hotspot"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="vodafone_logo.gif" src="/wp/wp-content/uploads/2009/05/vodafone_logo.gif" alt="vodafone_logo.gif" /></p>
 <p>Unless you are living in a cave, you must have seen <a href="http://www.youtube.com/watch?v=WeLE6o4nJpA">the ads</a> indicating that Vodafone has finally <a href="http://www.vodafone.in/3gworld/pages/3g_serivces.aspx?cid=del">launched their 3G services in India</a>. Since 3G theoretically allows data speeds up to 21.1 Mbps (yes, that's theoretical, do let us know if you get that speed), there is a possibility of using 3G as your primary broadband connection, provided if you do not download much. 3G USB data sticks only let you use the 3G data on the computer they are plugged into. What if you have more computers in your house? This is where these <a href="http://en.wikipedia.org/wiki/MiFi">MiFi</a> devices come into picture.</p><p>The MiFi concept is not new in India. Tata Photon <a href="/telecom/tata-teleservices-launches-indias-first-mobile-broadband-wi-fi-solution">launched their MiFi type device back in August last year</a>. However, Tata Photon has a maximum speed limit of 3.1 Mbps. Vodafone's 3G MiFi can, theoretically, give you up to 7.2 Mbps. Thats twice of that of Tata Photon.</p>

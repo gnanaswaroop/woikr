@@ -4,6 +4,8 @@ date: 2009-05-08T12:18:43
 url: /misc/sonys-brilliant-product-timeline/
 categories: ["Misc"]
 tags: ["Sony product timeline", "sony history", "sony products", "gizmodo sony product timeline"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 Talk about Sony and different people start thinking about different things. Your parents will think about top notch TVs, your bass freak cousin will think about music systems (remember those Sony <em>decks</em>), your <em>foreign-return-uncle</em> will think about camcorders, your MBA brother will think about Vaio laptops, your little sister will think about mobile phones and I (in the presence state of mind) will think about PSP and PS3.
 

@@ -4,6 +4,8 @@ date: 2012-04-01T19:36:43
 url: /misc/a-day-in-the-internet/
 categories: ["Misc"]
 tags: ["Internet", "facebook", "Facebook Stats", "Social Media Stats"]
+author: "Chirag"
+authors: ["chirag"]
 aliases: ["/uncategorized/a-day-in-the-internet/"]
 ---
 Did you know that in a day Facebook gets over 500 million status updates?! Check this infographic that shows such awesome stats about a day in the Internet. If you are a fan of sheer huge numbers, you'd love this.

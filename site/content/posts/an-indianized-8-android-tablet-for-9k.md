@@ -4,6 +4,8 @@ date: 2010-09-27T22:35:39
 url: /android/an-indianized-8-android-tablet-for-9k/
 categories: ["Android"]
 tags: []
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>Ever heard of <a href="http://en.wikipedia.org/wiki/Binatone" target="_blank">Binatone</a>? I remember it vividly because I basically grew up watching my favorite shows on a Binatone TV. Now over 15 years later of being lost in wilderness, I read the news that they are coming up with an Android tablet! Seems like anyone with money to spare is investing into mobile devices these days. Anyway, the price looks interesting. Let's see if it's worth waiting.</p>
 <p><strong> </strong></p>

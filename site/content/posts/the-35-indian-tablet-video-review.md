@@ -4,6 +4,8 @@ date: 2010-08-16T11:48:30
 url: /android/the-35-indian-tablet-video-review/
 categories: ["Android", "News"]
 tags: ["hr ministry", "indian government", "cheapest tablet", "indian tablet"]
+author: "Setu"
+authors: ["setu"]
 ---
 NDTV has reviewed the $35 <a href="/news/indian-government-builds-inr-1500-personal-computing-device" target="_blank">Indian tablet</a>. The tablet runs on Android OS 1.6 and boasts great features considering its low price:
 

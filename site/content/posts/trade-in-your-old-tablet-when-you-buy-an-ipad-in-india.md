@@ -4,6 +4,8 @@ date: 2013-06-25T21:27:32
 url: /deals/trade-in-your-old-tablet-when-you-buy-an-ipad-in-india/
 categories: ["Deals", "iPad", "News", "Apple"]
 tags: ["iPad India", "Apple india", "ipad exchange"]
+author: "Setu"
+authors: ["setu"]
 aliases: ["/apple/trade-in-your-old-tablet-when-you-buy-an-ipad-in-india/"]
 ---
 <p><img title="ipad-exchange-india.png" src="/wp/wp-content/uploads/2013/06/ipad-exchange-india.png" alt="ipad exchange india" width="474" height="423" /></p>

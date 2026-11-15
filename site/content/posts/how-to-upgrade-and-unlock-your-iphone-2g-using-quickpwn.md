@@ -4,6 +4,8 @@ date: 2009-01-22T16:36:19
 url: /iphone/how-to-upgrade-and-unlock-your-iphone-2g-using-quickpwn/
 categories: ["iPhone"]
 tags: ["iPhone", "iPhone Unlock", "iphone 2G unlock", "iphone 2G upgrade", "iphone 2.2", "upgrade 2G iphone to 2.2", "quickpwn 2.2", "winpwn", "itunes store", "app store", "india iphone 2g unlock", "iPhone India", "iphone 2.2.1", "quickpwn 2.2.5"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p>[Update : 31st January 2008] - The iPhone firmware 2.2.1 has been released with some small fixes for Safari stability etc. <a href="#2.2.1" target="_self">More details here</a>.</p>
 

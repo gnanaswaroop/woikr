@@ -4,6 +4,8 @@ date: 2011-02-16T23:38:23
 url: /howto/hdtv-buying-tips-in-india/
 categories: ["How Tos", "Home Entertainment"]
 tags: ["hd dth india", "HD India", "HDTV", "hdtv india", "world cup hd india", "buying guide for hdtv", "buying tips for hdtv", "LCD TV buying guide", "How to buy LCD TVs in INdia", "LCD TVs India", "LED TV India", "Should I buy LED TV"]
+author: "Setu"
+authors: ["setu"]
 aliases: ["/home-entertainment/hdtv-buying-tips-in-india/"]
 ---
 <p><img title="HDTV_Lead.jpg" src="/images/HDTV_Lead.jpg" alt="HDTV_Lead.jpg" /></p>

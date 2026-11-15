@@ -4,6 +4,8 @@ date: 2011-02-13T00:36:42
 url: /ipad/att-accessory-sale-hints-ipad-2-coming-soon-rumor/
 categories: ["iPad", "Rumors"]
 tags: ["iPad 2", "iPad 2 release", "iPad Accessories on Sale"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <a href="/wp/wp-content/uploads/2010/12/apple_ipad.jpg"><img class="alignnone size-medium wp-image-5461" title="apple_ipad" src="/wp/wp-content/uploads/2010/12/apple_ipad-204x300.jpg" alt="Apple iPad 2" width="204" height="300" /></a>
 <p>BGR has received some tips that AT&amp;T corporate stores will start offering 50% discount on all iPad accessories from February 13. Generally  AT&amp;T never does that unless they want to clear up the stocks for a new model.</p>

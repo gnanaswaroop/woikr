@@ -4,6 +4,8 @@ date: 2010-12-25T11:12:43
 url: /iphone/top-3-iphone-apps-to-gift-this-christmas/
 categories: ["iPhone"]
 tags: ["iphone apps", "Christmas Special", "FruitNinja", "Fruit Ninja", "Cut The Rope", "CutTheRope", "Camera apps", "Camera app", "Camera+", "camera plus"]
+author: "Swaroop"
+authors: ["swaroop"]
 ---
 A Merry Christmas to woikr readers. Hope you’re having a blast. Incase you’re still looking for last minute presents. Here’re our top picks for this Christmas. here’s how you <a href="http://mashable.com/2010/03/22/itunes-app-gifting/" target="_blank">gift an iTunes App</a>.
 

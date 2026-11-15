@@ -4,6 +4,8 @@ date: 2011-10-23T02:01:56
 url: /news/indian-railways-to-take-measures-to-ensure-a-smoother-ticket-booking-process-during-8am-9am/
 categories: ["News"]
 tags: ["irctc", "irctc.co.in", "irctc tatkal", "irctc server load issues"]
+author: "Setu"
+authors: ["setu"]
 aliases: ["/news/indian-railways-to-take-measures-to-ensure-a-smoother-ticket-booking-process-during-8am-9am"]
 ---
 <p><img title="image19.png" src="/wp/wp-content/uploads/2010/04/image19.png" alt="image19.png" /></p>

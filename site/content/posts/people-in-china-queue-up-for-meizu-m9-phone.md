@@ -4,6 +4,8 @@ date: 2011-01-02T21:55:00
 url: /android/people-in-china-queue-up-for-meizu-m9-phone/
 categories: ["Android"]
 tags: ["meizu", "meizu M9", "Android 2.2", "android phone", "china iPhone replica", "iPhone meizu", "meizu android"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>I remember <a href="http://meizu.com/" target="_blank">Meizu</a> from a really old article I read about shadow shifts and replica product factories in China. It was one of those companies that started making iPhone replicas but went on to make MP3 players and phones that were actually popular in China. And now, they are so popular that their latest release Meizu M9, an Android based phone, gathered bigger queues than we've probably ever seen! Apparently people were queued up since 8 pm previous night.In fact, Engadget <a href="http://www.engadget.com/2011/01/01/meizus-m9-launch-amasses-thousands-of-jack-wong-fans-across-chi/" target="_blank">says</a> that Meizu's CEO Jack Yong himself discouraged such hustle on the forum for the sake of people's health, promising "all the flagship stores will have sufficient stock" for all pre-orderers. Just look at the pictures ahead. There is a small video up ahead as well.</p>
 

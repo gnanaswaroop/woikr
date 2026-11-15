@@ -4,6 +4,8 @@ date: 2010-12-22T23:32:01
 url: /android/get-fresh-local-news-taazzago-for-android/
 categories: ["Android", "Reviews"]
 tags: ["Taazza Android", "TaazzaGo", "Taazza", "Local News", "Local Deals"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <a href="http://taazza.com/" target="_blank"><img title="taazza_larger_logo" src="/wp/wp-content/uploads/2010/12/taazza_larger_logo.png" alt="" width="200" height="84" /></a>
 <p>There are so many ways to get the News fix on your Android phone. You can download the <a href="http://www.appbrain.com/app/ndtv-news/com.rp" target="_blank">NDTV app</a>, <a href="http://www.appbrain.com/app/ibnlive-for-android/com.divum.ibn" target="_blank">IBN Live app</a>, one of many unofficial newspaper apps; you can subscribe to the popular News feeds; there is Google News for India and you can always visit the <a href="http://m.timesofindia.com/" target="_blank">various</a> <a href="http://www.dnaindia.com/mobile/index.php" target="_blank">newspaper</a> <a href="http://m.rediff.com/news/headlines" target="_blank">websites</a>. But <a href="http://taazza.com/" target="_blank">Taazza</a> wants to provide you with a better and more localized experience of News for many locations in India. Ahead is a small description of what they do in their words.</p>

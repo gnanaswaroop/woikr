@@ -4,6 +4,8 @@ date: 2009-10-17T01:20:42
 url: /misc/and-now-piracy-on-the-cloud/
 categories: ["Misc"]
 tags: ["Put.io", "Online Storage startup"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <img class="alignnone size-full wp-image-3424" title="putio-logo1" src="/wp/wp-content/uploads/2009/10/putio-logo1.jpg" alt="putio-logo1" width="300" height="301" />
 <p>It had to happen. TechCrunch <a href="http://uk.techcrunch.com/2009/10/15/put-io-is-an-innovative-new-cloud-storage-service/" target="_blank">reports</a> about this new service from Turkey called <a href="http://put.io/" target="_blank">Put.io</a> that practically invites the pirates around the world by making their job much more convenient.</p>

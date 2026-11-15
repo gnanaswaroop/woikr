@@ -4,6 +4,8 @@ date: 2011-01-04T06:46:17
 url: /iphone/iphone-app-giveaway-3-promo-codes-for-bookbuddy/
 categories: ["iPhone", "Giveaways"]
 tags: ["bookbuddy", "book buddy", "iphone book management", "iphone app giveaway"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="NewImage.jpg" src="/wp/wp-content/uploads/2011/01/NewImage12.jpg" alt="NewImage.jpg" width="307" height="115" /></p>
 <p>We are giving away 3 promo codes for <a href="http://itunes.apple.com/us/app/bookbuddy/id395149950#">BookBuddy</a> - a $4.99 book managing app for the iPhone.</p>

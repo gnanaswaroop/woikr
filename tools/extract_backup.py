@@ -13,7 +13,7 @@ sys.path.insert(0, os.path.dirname(__file__))
 from parse_wp_dump import parse_values  # noqa: E402
 
 WANTED = {"wp_posts", "wp_comments", "wp_terms", "wp_term_taxonomy", "wp_term_relationships",
-          "wp_options", "wp_postmeta", "wp_redirection_items", "wp_redirection_404"}
+          "wp_options", "wp_postmeta", "wp_redirection_items", "wp_redirection_404", "wp_users"}
 CREATE_RE = re.compile(r"^CREATE TABLE `([^`]+)`")
 COL_RE = re.compile(r"^\s+`([^`]+)`\s")
 INSERT_RE = re.compile(r"^INSERT INTO `([^`]+)` VALUES ")
@@ -59,6 +59,8 @@ def main():
                 break
             if seen % 100000 == 0:
                 print("lines", seen, flush=True)
+    # Only public author-archive fields: no email, password hash, login or registration data.
+    rows["wp_users"] = [{k: r.get(k) for k in ("ID", "user_nicename", "display_name")} for r in rows["wp_users"]]
     for t in sorted(WANTED):
         with open(os.path.join(outdir, f"{t}.json"), "w", encoding="utf-8") as out:
             json.dump(rows[t], out, ensure_ascii=False)

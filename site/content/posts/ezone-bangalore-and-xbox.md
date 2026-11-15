@@ -4,6 +4,8 @@ date: 2008-11-09T12:07:20
 url: /wtf/ezone-bangalore-and-xbox/
 categories: ["WTF?"]
 tags: ["eZone Koramangala", "eZone Bangalore", "XBox 360 Bangalore", "XBox Diwali offer"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <a href="/wp/wp-content/uploads/2008/11/ezone.png"><img class="size-medium wp-image-1652" title="ezone" src="/wp/wp-content/uploads/2008/11/ezone-300x85.png" alt="" width="300" height="85" /></a>
 

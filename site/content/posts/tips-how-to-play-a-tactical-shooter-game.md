@@ -4,6 +4,8 @@ date: 2008-09-07T12:29:30
 url: /gaming/tips-how-to-play-a-tactical-shooter-game/
 categories: ["Gaming"]
 tags: ["counter strike", "multiplayer gaming", "team strategy", "game strategy", "gaming tips", "gaming how to"]
+author: "Swaroop"
+authors: ["swaroop"]
 ---
 <p><img class="alignnone" src="/images/HowToTacticalGame-Lead.png" alt="" width="593" height="225" /></p>
 <p>Most of the things going to be discussed here are common for any tactical multiplayer shooting game.</p>

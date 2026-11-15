@@ -4,6 +4,8 @@ date: 2009-03-25T14:07:09
 url: /wtf/its-spam-all-over-google-help-forums/
 categories: ["WTF?"]
 tags: ["google help", "google help forums", "google spam", "forums spam", "google talk help forum", "spam on google", "spam on forums", "spam google", "google captcha"]
+author: "Swaroop"
+authors: ["swaroop"]
 ---
 After the <a href="http://www.informationweek.com/news/internet/showArticle.jhtml?articleID=206901462" target="_blank">Google Groups</a>, it is also the <a href="http://www.google.com/support/forum/p/Talk?hl=en" target="_blank">Google Help forums</a> which is getting spammed now.
 

@@ -4,6 +4,8 @@ date: 2011-05-11T17:55:02
 url: /lol/joy-of-tech-takes-one-on-the-microsoft-skype-deal-lol/
 categories: ["LOL"]
 tags: ["Microsoft", "skype", "microsoft sucks", "microsoft skype"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p>Here is what Joy of Tech has to say on the recently announced Microsoft &amp; Skype deal. All we can say is ROFL:</p>
 <p>

@@ -4,6 +4,8 @@ date: 2010-12-28T22:22:36
 url: /iphone/iphone4-case-with-slider-qwerty-keyboard/
 categories: ["iPhone"]
 tags: ["iPhone Keyboard", "iPhone Physical Keyboard", "iPhone Keyboard Case", "iphone case", "Keyboard Buddy", "iPhone Blackberry Keyboard"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>Just for $70, <a href="http://www.boxwave.com/products/keyboardbuddycase/apple-iphone-4-keyboard-buddy-case_3968.htm" target="_blank">Keyboard Buddy</a> from Boxwave fixes the biggest problem Blackberry users had and still have with the iPhone. It adds a physical keyboard! The case basically contains a sliding Bluetooth keyboard that can pair with the iPhone 4 and act as the perfect onscreen keyboard replacement.</p>
 <p><a href="/wp/wp-content/uploads/2010/12/iphone_keyboard_1.jpg"><img class="alignnone size-medium wp-image-5442" title="iphone_keyboard_1" src="/wp/wp-content/uploads/2010/12/iphone_keyboard_1-300x300.jpg" alt="" width="300" height="300" /></a><a href="/wp/wp-content/uploads/2010/12/iphone_keyboard_2.jpg"><img class="alignnone size-medium wp-image-5443" title="iphone_keyboard_2" src="/wp/wp-content/uploads/2010/12/iphone_keyboard_2-300x300.jpg" alt="" width="300" height="300" /></a></p>

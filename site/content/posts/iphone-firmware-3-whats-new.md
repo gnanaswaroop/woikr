@@ -4,6 +4,8 @@ date: 2009-03-13T14:57:48
 url: /iphone/iphone-firmware-3-whats-new/
 categories: ["iPhone"]
 tags: ["iphone 3.0", "iphone firmware", "iphone wishlist", "iphone 3.0 wishlist", "iphone push notification", "iphone bluetooth", "iphone copy paste", "iphone flash", "iphone mms", "iphone firmware 3.0", "iphone firmware 3", "iphone 3.0 features", "iphone firmware wishlist", "iphone video recording"]
+author: "Swaroop"
+authors: ["swaroop"]
 ---
 <p>The news about <a href="http://www.engadget.com/2009/03/12/iphone-os-3-0-is-coming-march-17th/" target="_blank">Apple inviting journalists to reveal features on the upcoming iPhone firmware 3.0</a> is all over the web.</p>
 <p>As every one knows earlier <a href="http://www.apple.com/pr/library/2008/03/06iphone.html" target="_blank">iPhone 2.0</a> firmware brought lots of good stuff like the AppStore and MS Exchange support. So we're expecting Apple to bring out something good this time too.</p>

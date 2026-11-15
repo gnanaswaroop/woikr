@@ -4,6 +4,8 @@ date: 2008-10-12T03:39:29
 url: /reviews/review-acer-5920-series-laptops/
 categories: ["Reviews", "Laptops"]
 tags: ["Acer 5920", "Acer 5920 Windows XP", "Acer Aspire", "Acer Windows XP", "Acer Aspire 5920", "Acer Gemstone"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p><img class="alignnone" src="/wp/wp-content/uploads/2008/10/acer593.jpg" alt="" width="593" height="225" /></p>
 <p>Most people these days prefer to choose the Compaq/Dell counterparts over the Acer laptops (Despite Acer's insane attempts at publicity by using Hrithik Roshan). But is that always a good decision or should you give Acer a second look? We at woikr review the popular Acer Aspire series of laptops and find out.</p>

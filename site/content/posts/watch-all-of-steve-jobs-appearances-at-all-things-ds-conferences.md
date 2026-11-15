@@ -4,6 +4,8 @@ date: 2012-06-02T10:32:36
 url: /misc/watch-all-of-steve-jobs-appearances-at-all-things-ds-conferences/
 categories: ["Misc", "Apple"]
 tags: ["steve jobs", "steve jobs public appearance"]
+author: "Setu"
+authors: ["setu"]
 aliases: ["/apple/watch-all-of-steve-jobs-appearances-at-all-things-ds-conferences/"]
 ---
 <p><img title="steve-jobs-all-things-d.png" src="/wp/wp-content/uploads/2012/06/steve-jobs-all-things-d.png" alt="steve jobs all things d" width="170" height="170" /></p>

@@ -4,6 +4,8 @@ date: 2010-09-24T14:48:12
 url: /mac/kickstart-your-mac-dashboard/
 categories: ["Mac"]
 tags: ["mac dashboard speedup", "fast mac dashboard"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>I've never been much of a Dashboard user. I don't hate it enough to disable it but I mostly forget about it and all the widgets. There is a big reason why I (and many others) do that. It's painfully slow. The first load takes forever and that happens after every reboot or when your Mac wakes up from sleep. But wait, there is an app for that! More appropriately, for <em>fixing</em> that.</p>
 <p><a href="/wp/wp-content/uploads/2010/09/dashboard_240910.jpg"><img class="alignnone size-medium wp-image-4466" title="dashboard_240910.jpg" src="/wp/wp-content/uploads/2010/09/dashboard_240910-300x187.jpg" alt="Snow Leopard Dashboard" width="300" height="187" /></a></p>

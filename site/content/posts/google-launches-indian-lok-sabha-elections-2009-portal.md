@@ -4,6 +4,8 @@ date: 2009-04-09T14:24:21
 url: /news/google-launches-indian-lok-sabha-elections-2009-portal/
 categories: ["News"]
 tags: ["Google", "india elections", "google india", "google election portal", "google election news", "election constituency", "election information india", "india 2009 general elections"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img class="alignnone size-full wp-image-2441" title="google_elections_portal_featured" src="/wp/wp-content/uploads/2009/04/google_elections_portal_featured.png" alt="google_elections_portal_featured" width="255" height="88" /></p>
 <p><a href="http://www.google.co.in" target="_blank">Google India</a> has launched a portal for <a href="http://en.wikipedia.org/wiki/Indian_general_election,_2009" target="_blank">15th Indian general elections</a> to be held in the upcoming weeks. The elections, considered to be the largest democratic event in human history, will see more than 700 million voters from across India participate over a period of 4 weeks.</p>

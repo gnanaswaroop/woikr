@@ -4,6 +4,8 @@ date: 2008-10-10T06:15:55
 url: /howto/teamviewer-free-desktop-sharing-and-remote-control/
 categories: ["How Tos"]
 tags: ["teamviewer", "team viewer", "remote desktop", "remote desktop vs. team viewer", "vnc vs. team viewer", "free remote desktop", "free desktop sharing", "free remote control"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><a href="http://www.teamviewer.com/" target="_blank"><img class="alignnone" src="/wp/wp-content/uploads/2008/10/teamviewer_lead.png" alt="" width="593" height="225" /></a></p>
 <p><a href="http://www.teamviewer.com/" target="_blank">Team Viewer</a> is a free download available for Windows and Mac which allows seamless desktop sharing and remote control. The interface is very intuitive. You can connect to another computer anywhere in the world without even knowing its IP address! It also works perfectly behind firewalls.</p>

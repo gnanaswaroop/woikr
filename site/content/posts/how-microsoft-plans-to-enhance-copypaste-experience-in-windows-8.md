@@ -4,6 +4,8 @@ date: 2011-08-27T18:18:26
 url: /microsoft/how-microsoft-plans-to-enhance-copypaste-experience-in-windows-8/
 categories: ["Microsoft"]
 tags: ["Windows 8", "Windows 8 new features", "Windows 8 improvements", "Windows 8 Explorer", "Windows 8 copy/paste enhancements"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>This may not be the most important news and may never be really advertised but this is something that impressed me quite a lot about Windows 8. This time around Microsoft is actually improving the most basic things that affect your day to day computer usage.</p>
 <p>Every geeky Windows user I know uses something like <a href="http://www.codesector.com/teracopy.php">TeraCopy</a> or <a href="http://ipmsg.org/tools/fastcopy.html.en">FastCopy</a> to manage big file copy operations in Windows. These plug-ins provide you more control and a better UI and are especially helpful in copying large file in between devices. The good news is that Microsoft themselves is building some of this functionality into the OS so it is available to everyone.</p>

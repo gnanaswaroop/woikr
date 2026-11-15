@@ -4,6 +4,8 @@ date: 2013-01-19T16:43:38
 url: /android/book-your-next-lpg-cylinder-using-these-official-android-apps/
 categories: ["Android"]
 tags: ["LPG cylinder apps", "bharatgas", "indane", "HP Gas", "android apps"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="bharatgas-logo.png" src="/wp/wp-content/uploads/2013/01/bharatgas-logo.png" alt="bharatgas" width="187" height="63" /> <img title="indane-logo.png" src="/wp/wp-content/uploads/2013/01/indane-logo.png" alt="indane logo" width="128" height="63" /><img title="NewImage.png" src="/wp/wp-content/uploads/2013/01/NewImage.png" alt="NewImage" width="63" height="63" /></p>
 <p>The next time you want to book your LPG cylinder, use the official Android apps from the respective companies. Granted that it is super easy to book cylinders through phone or SMS, but what's the point of having a smartphone when you can't book your next LPG cylinder using it. Right?</p>

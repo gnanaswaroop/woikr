@@ -4,6 +4,8 @@ date: 2012-01-10T23:14:37
 url: /news/its-time-for-headphones-to-be-smart-now/
 categories: ["News", "Home Entertainment"]
 tags: ["Headphones", "noise cancelling headphones", "smart headphones", "parrot"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="Zik_ParrotByStarck_10.jpg" src="/wp/wp-content/uploads/2012/01/Zik_ParrotByStarck_10.jpg" alt="Zik Parrot" width="222" height="300" /></p>
 <p>Everything is getting smart these days. So, why not your good old headphones? <a href="http://www.parrot.com/usa/">Parrot</a> (a company which makes awesome bluetooth gadgets &amp; the <a href="http://ardrone.parrot.com/parrot-ar-drone/usa/">famous parrot AR drone</a>) has introduced a pair of over the ear headphones which are smart. The headphones, named <a href="http://www.parrot.com/zik/usa">Zik</a>,  have bluetooth, accelerometer &amp; NFC chip on board which can be used to:</p>

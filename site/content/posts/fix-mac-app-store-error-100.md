@@ -4,6 +4,8 @@ date: 2011-01-06T22:39:21
 url: /howto/fix-mac-app-store-error-100/
 categories: ["How Tos", "Mac"]
 tags: ["mac app store", "Mac App Store Error", "Mac App Store Problem", "Mac App Store Error 100"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>I came home all excited to update and see the Mac App Store, installed the update, enter my creds and was all excited to see the shiny new App Store. In fact I was praising Apple for such clean, perfect implementation. So I went ahead and clicked on the Twitter (previously Tweetie for Mac) download link. To my surprise (and anger) an error popped up saying "We could not complete your App Store request. An unknown error occured (100)". Of course it pissed me off when multiple tries resulted in the same error. But finally I found a solution! It'll help you're facing the same issue.</p>
 <p><img title="mac_app_store_error_100" src="/wp/wp-content/uploads/2011/01/mac_app_store_erroe_100.png" alt="Mac App Store Error 100" width="405" height="137" /></p>

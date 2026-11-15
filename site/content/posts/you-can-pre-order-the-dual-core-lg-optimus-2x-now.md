@@ -4,6 +4,8 @@ date: 2011-01-11T22:11:47
 url: /android/you-can-pre-order-the-dual-core-lg-optimus-2x-now/
 categories: ["Android", "Mobile Phones"]
 tags: ["LG Optimus 2", "LG Optimus 2x price", "LG Optimus 2x pre-order", "nVidia", "World's First Dual Core Phone"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <div>
 

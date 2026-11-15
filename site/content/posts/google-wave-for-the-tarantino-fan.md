@@ -4,6 +4,8 @@ date: 2009-10-16T20:44:35
 url: /google/google-wave-for-the-tarantino-fan/
 categories: ["Google", "LOL"]
 tags: ["Tarantino Google Wave", "Pulp Fiction Google Wave", "Google Wave Cinema"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 Have you ever been asked what Google Wave is? It's hard to explain. <a href="http://www.youtube.com/watch?v=v_UyVmITiYQ" target="_blank">Really, really hard</a>.
 

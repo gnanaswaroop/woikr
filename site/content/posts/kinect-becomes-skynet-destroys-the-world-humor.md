@@ -4,6 +4,8 @@ date: 2011-03-16T14:29:34
 url: /lol/kinect-becomes-skynet-destroys-the-world-humor/
 categories: ["LOL", "Microsoft"]
 tags: ["open kinect", "kinect self-awareness", "xbox kinect", "xbox 360 accessories", "doomsday theory", "how kinect destroyed the world", "kinect doomsday", "kinect skynet"]
+author: "Swaroop"
+authors: ["swaroop"]
 ---
 <a href="http://en.wikipedia.org/wiki/Isaac_Asimov" target="_blank">Isaac Asimov</a> developed the <a href="http://en.wikipedia.org/wiki/Three_Laws_of_Robotics" target="_blank">3 Laws of Robotics</a> for nothing. This video is a proof of what could happen when an unsuspecting software programmer develops a self-aware computer program that’s connected to the internet (has wealth of information) eventually moves on to destroying the world.
 

@@ -4,6 +4,8 @@ date: 2012-01-07T00:24:59
 url: /internet/irctc-launches-mobile-ticketing-website-to-book-rail-tickets-on-your-phone-plans-to-launch-mobile-apps-soon/
 categories: ["Internet", "News"]
 tags: ["irctc", "irctc.co.in", "irctc mobile site", "mobile tickets railways india"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="image_thumb22.png" src="/wp/wp-content/uploads/2010/07/image_thumb22.png" alt="image_thumb22.png" /></p>
 <p>It looks like <a href="http://irctc.co.in">IRCTC</a> is all set to revolutionize online railway ticket booking all over again in India. This time, they have launched a mobile optimized site which users can access on their smartphones to book railway tickets on the go.</p>

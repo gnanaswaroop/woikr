@@ -4,6 +4,8 @@ date: 2010-12-28T08:47:21
 url: /misc/disney-wants-your-cakes-to-be-interactive-geeky-cakes/
 categories: ["Misc"]
 tags: ["SciFi Cakes", "Geeky Cakes", "Projector Cakes", "Disney Cake"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <a href="/wp/wp-content/uploads/2010/12/mario_cake.jpg"><img class="alignnone size-medium wp-image-5402" title="mario_cake" src="/wp/wp-content/uploads/2010/12/mario_cake-282x300.jpg" alt="Mario Cake" width="282" height="300" /></a>
 <p>I read geeky cakes and I see Mario on a cake yelling and asking me to get lost (Ok, I made that up). But really, I hear geeky cakes and I see cakes with the popular geeky characters or logos on them. Maybe a Mario cake, maybe a Darth Vader cake or maybe an  iPhone cake. But never did I think that a cake could actually go SciFi! Disney filed a patent application in the US titled "Projector systems and methods for producing digitally augmented interaefctive cakes and other food products" that clearly hints something like that.</p>

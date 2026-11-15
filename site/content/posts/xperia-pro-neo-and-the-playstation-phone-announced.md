@@ -4,6 +4,8 @@ date: 2011-02-14T23:37:54
 url: /android/xperia-pro-neo-and-the-playstation-phone-announced/
 categories: ["Android", "Mobile Phones"]
 tags: ["sony phones", "Android phones", "android first look", "gingerbread phones", "android 2.3", "Mobile World Congress", "MWC 2011", "Sony ericsson", "Play Station Phone", "Playstation Phone", "Xperia Play", "XPeria Pro", "XPeria Series", "XPeria Android", "XPeria Neo", "Differences between XPeria Neo and XPeria Pro", "Neo Vs Pro", "XPeria Neo Vs XPeria Pro", "compare XPeria Neo with XPeria Pro"]
+author: "Swaroop"
+authors: ["swaroop"]
 ---
 If you're wondering why Sony's advertising those year old XPeria 10 in India, Here's why.<br>
 As usual whenever a new product is announced in the US, older products are dumped to <span>India</span>(3rd world countries).  This time it's Sony which announced the latest in the XPeria series – <a href="/gaming/sony-xperia-play-the-playstation-phone-leaked-and-previewed-in-china">XPeria Play</a>, XPeria Pro and XPeria Neo at the <a href="http://www.mobileworldcongress.com/event/event_overview.htm">Mobile World Congress 2011</a>.

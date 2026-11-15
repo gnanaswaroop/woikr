@@ -4,6 +4,8 @@ date: 2011-01-12T22:48:03
 url: /android/video-shows-leaked-nexus-s-running-android-2-4-possibly-fake/
 categories: ["Android", "Rumors"]
 tags: ["android", "Android 2.4", "Ice Cream Sandwich", "Leaked Android 2.4", "nexus s", "Nexus S Android 2.4"]
+author: "Chirag"
+authors: ["chirag"]
 aliases: ["/rumors/video-shows-leaked-nexus-s-running-android-2-4-possibly-fake/"]
 ---
 <p>The german website <a href="http://bestboyz.de/android-os-2-4-gingerbread-auf-google-nexus-s-%E2%80%93-neue-version-kommt/" target="_blank">BestBoyz.de</a> found a Nexus S at CES which they claim was running Android 2.4 (<a href="/android/next-android-release-will-be-called-ice-cream-sandwich" target="_blank">possibly Ice Cream Sandwich</a>). They actually have a video to prove it. The approximate Google Translation conveyed that in whatever time they had with the device they couldn't find any major differences between Android 2.3 and 2.4. You can see the video ahead.</p>

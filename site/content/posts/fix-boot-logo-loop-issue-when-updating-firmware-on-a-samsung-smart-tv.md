@@ -4,6 +4,8 @@ date: 2012-03-14T10:00:43
 url: /howto/fix-boot-logo-loop-issue-when-updating-firmware-on-a-samsung-smart-tv/
 categories: ["How Tos", "Home Entertainment"]
 tags: ["samsung smart TV", "samsung TV", "samsung boot logo repeat issue"]
+author: "Setu"
+authors: ["setu"]
 aliases: ["/home-entertainment/fix-boot-logo-loop-issue-when-updating-firmware-on-a-samsung-smart-tv/"]
 ---
 <p><img title="samsung smart tv logo.png" src="/wp/wp-content/uploads/2012/03/samsung-smart-tv-logo.png" alt="samsung smart tv logo" width="499" height="92" /></p>

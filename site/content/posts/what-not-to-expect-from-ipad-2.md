@@ -4,6 +4,8 @@ date: 2011-03-01T23:49:55
 url: /ipad/what-not-to-expect-from-ipad-2/
 categories: ["iPad"]
 tags: ["iPad 2", "iPad Rumors", "what not to expect from iPad", "iPad won't do these", "iPad won't feature"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p><a href="/wp/wp-content/uploads/2010/12/apple_ipad.jpg"></a><a href="/wp/wp-content/uploads/2010/12/apple_ipad.jpg"><img title="apple_ipad" src="/wp/wp-content/uploads/2010/12/apple_ipad-204x300.jpg" alt="" /> </a></p>
 Tomorrow Apple will announce the iPad 2. Everyone is busy predicting how it will improve upon the first generation model and how Apple will try to match the army of Android tablets that all feature cutting edge hardware. We also did our bit and compiled a <a title="All iPad 2 Rumors in One Place" href="/ipad/all-ipad-2-rumors-in-one-place">rumor list</a> sometime back.

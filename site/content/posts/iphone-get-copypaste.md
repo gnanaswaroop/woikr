@@ -4,6 +4,8 @@ date: 2009-03-17T23:44:03
 url: /news/iphone-get-copypaste/
 categories: ["News", "iPhone"]
 tags: []
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>In the ongoing iPhone OS 3.0 event Apple just demo-ed iPhone's new Copy Paste abilities. It looks pretty advanced to me. And  yes, they referred to Oceanic flight 815 as well :)</p>
 <p>Details about this and more, in our iPhone OS 3.0 roundup post tomorrow!</p>

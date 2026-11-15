@@ -4,6 +4,8 @@ date: 2011-01-08T09:52:17
 url: /apple/verizon-iphone-likely-to-be-announced-on-jan-11th/
 categories: ["Apple", "iPhone"]
 tags: ["Verizon AT&T", "iPhone AT&T", "iPhone unlimited data plans", "apple cdma", "iPhone CDMA", "Verizon iPhone", "iPhone 4 CDMA", "iPhone CDMA announced", "iPhone Verizon event", "Verizon event", "Verizon announcement", "Jan 11th 2011", "Verizon event invite", "Verizon invitation", "Verizon Apple Event", "Apple Events"]
+author: "Swaroop"
+authors: ["swaroop"]
 ---
 <p>Well, this is a good news for Verizon Apple fans who've waited years for a CDMA iPhone.  It's here and it's going to be announced on the 11th of January 2011.</p>
 <p><a href="/wp/wp-content/uploads/2011/01/Verizon-iPhone.jpg"><img class="alignnone size-full wp-image-6046" title="Verizon iPhone" src="/wp/wp-content/uploads/2011/01/Verizon-iPhone.jpg" alt="" width="500" height="317" /></a></p>

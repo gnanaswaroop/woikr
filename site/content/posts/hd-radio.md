@@ -4,6 +4,8 @@ date: 2009-04-13T16:48:42
 url: /first-look/hd-radio/
 categories: ["First Look"]
 tags: ["HD radio", "high quality radio", "satellite radio", "cd quality radio"]
+author: "Setu"
+authors: ["setu"]
 ---
 <img class="alignnone size-full wp-image-2475" title="hd_radio_logo" src="/wp/wp-content/uploads/2009/04/hd_radio_logo.png" alt="hd_radio_logo" width="187" height="90" />
 <p>HD movies, HD TV, HD audio, and now we have HD radio.</p>

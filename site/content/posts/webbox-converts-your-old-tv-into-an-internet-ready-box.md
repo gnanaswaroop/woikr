@@ -4,6 +4,8 @@ date: 2011-02-19T00:16:30
 url: /android/webbox-converts-your-old-tv-into-an-internet-ready-box/
 categories: ["Android"]
 tags: ["internet on tv", "cheap internet", "android devices", "Android 2.1", "Opera Mini", "cheap internet on tv", "how to use internet on tv", "WebBox", "vodafone webbox", "vodacom webbox", "internet games on tv", "fast internet for developing countries"]
+author: "Swaroop"
+authors: ["swaroop"]
 ---
 In developing countries like South Africa, *ahem* India – mobile phones have seen an explosive growth. Vodafone’s Pan-African subsidiary – Vodacom has released a new keyboard like gadget called <a href="http://www.vodacom.co.za/vodacom/services/Other+Services/Vodafone+WebBox?ciFormat=default&amp;ht=t&amp;selected=6_a6&amp;vgnextrefresh=1" target="_blank">WebBox</a> which runs Android 2.1 OS that can be connected to your TV to surf the internet at 2.5G speed (EDGE) through your mobile networks.
 

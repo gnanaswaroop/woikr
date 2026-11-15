@@ -4,6 +4,8 @@ date: 2009-08-20T09:30:38
 url: /gaming/introducing-the-ps3-slim/
 categories: ["Gaming", "News"]
 tags: ["ps3 slim", "sony", "Gaming", "new ps3", "cheap ps3", "ps3 stand"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p>In a much anticipated move, Sony unveiled the PS3 Slim at <a href="http://en.wikipedia.org/wiki/Gamescom" target="_blank">Gamescom</a> this year. The new PS3, priced at $300, will be available in the first week of September. Compared to the original PS3, the new one is smaller and weighs less. It also sports a 120GB HDD, and consumes 34 percent less power.</p>
 

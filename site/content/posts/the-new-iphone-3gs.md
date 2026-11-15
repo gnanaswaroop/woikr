@@ -4,6 +4,8 @@ date: 2009-06-09T01:08:59
 url: /news/the-new-iphone-3gs/
 categories: ["News", "iPhone"]
 tags: ["iPhone", "Apple", "iphone 3G", "iphone 3gs", "new iphone", "next gen iphone", "iphone video"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><a href="/wp/wp-content/uploads/2009/06/iphone_3gs_logo.png"><img class="alignnone size-full wp-image-3001" title="iphone_3gs_logo" src="/wp/wp-content/uploads/2009/06/iphone_3gs_logo.png" alt="iphone_3gs_logo" width="311" height="111" /></a></p>
 <p>Apple just announced the much hyped next gen iPhone 3GS. The “S” stands for speed as they are touting it as the fastest iPhone ever.</p>

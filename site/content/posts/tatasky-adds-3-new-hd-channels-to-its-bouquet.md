@@ -4,6 +4,8 @@ date: 2011-04-15T14:53:56
 url: /home-entertainment/tatasky-adds-3-new-hd-channels-to-its-bouquet/
 categories: ["Home Entertainment"]
 tags: ["tatasky", "tatasky HD", "tatasky hd channels", "HD India"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="NewImage.png" src="/wp/wp-content/uploads/2011/02/NewImage.png" alt="NewImage.png" /> <img title="NewImage1.png" src="/wp/wp-content/uploads/2011/02/NewImage1.png" alt="NewImage1.png" /></p>
 <p>TataSky has added 3 new HD channels to its HD gold pack. The new channels are Star Movies HD, Star World HD and Star Gold HD. <a href="/home-entertainment/dish-tv-launches-30-new-hd-channels-in-india">Unlike Dish TV</a>, these are real HD channels &amp; not upscaled ones. They have 1080i, 16:9 video &amp; Dolby Digital sound. Moreever, their programming is also different from their SD counterparts.</p>

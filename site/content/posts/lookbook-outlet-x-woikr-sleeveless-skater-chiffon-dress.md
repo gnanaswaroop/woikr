@@ -4,6 +4,8 @@ date: 2011-01-02T16:50:31
 url: /news/lookbook-outlet-x-woikr-sleeveless-skater-chiffon-dress/
 categories: ["News"]
 tags: []
+author: "Ranjeet"
+authors: ["ranjeet"]
 ---
 LookBook Outlet x woikr Sleeveless Skater Chiffon Dress - Round Neckline / Belted Tie Waist / Apricot Black 
 

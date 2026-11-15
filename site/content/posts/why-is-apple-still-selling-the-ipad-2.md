@@ -4,6 +4,8 @@ date: 2013-10-26T13:23:01
 url: /ipad/why-is-apple-still-selling-the-ipad-2/
 categories: ["iPad", "Apple"]
 tags: ["iPad 2", "why iPad 2"]
+author: "Setu"
+authors: ["setu"]
 aliases: ["/apple/why-is-apple-still-selling-the-ipad-2/", "/apple/why-is-apple-still-selling-the-ipad-2"]
 ---
 <p><img title="iPad-2.png" src="/wp/wp-content/uploads/2013/10/iPad-2.png" alt="iPad 2" width="116" height="96" /></p>

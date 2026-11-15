@@ -4,6 +4,8 @@ date: 2010-01-28T11:57:50
 url: /apple/the-apple-tablet-ipad-is-here/
 categories: ["Apple"]
 tags: ["apple ipad", "iPad", "apple tablet", "tablet", "ipad 3G", "ipad Wifi", "ipad hardware", "ipad software", "ipad rants", "iphone ipad", "ipad prices", "ipad price", "ipad release", "apple product", "latest from apple", "ipad sdk", "ipad flaws", "ipad camera", "microsim", "ipad pictures"]
+author: "Swaroop"
+authors: ["swaroop"]
 ---
 Time to shave and cleanse myself, I said to myself . The Apple Tablet is finally here – which is also the most awaited product from Apple in the recent times.
 <table cellspacing="0" cellpadding="2" width="555"><br>

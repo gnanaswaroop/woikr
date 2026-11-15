@@ -4,6 +4,8 @@ date: 2012-05-29T18:33:51
 url: /news/letsbuy-com-shuts-down-operations-following-acquisition-by-flipkart/
 categories: ["News"]
 tags: ["ecommerce india", "flipkart", "letsbuy"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="letsbuy-logo.png" src="/wp/wp-content/uploads/2012/02/letsbuy-logo.png" alt="letsbuy" width="213" height="89" /> <img title="flipkart-logo.png" src="/wp/wp-content/uploads/2012/05/flipkart-logo.png" alt="flipkart logo" width="163" height="55" /></p>
 <p><a href="/news/flipkart-acquires-letsbuy/">Following acquisition by Flipkart.com in February</a>, online retailer letsbuy.com has shut down its operations in India. Users landing on the home page are being shown <a href="http://www.letsbuy.com/">a message</a> stating that letsbuy has merged its operations with flipkart - the largest player in the category. All the links in the header now point to corresponding categories on flipkart. Here is the full message:</p>

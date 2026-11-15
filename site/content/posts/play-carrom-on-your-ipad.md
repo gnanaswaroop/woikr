@@ -4,6 +4,8 @@ date: 2011-06-08T22:52:06
 url: /gaming/play-carrom-on-your-ipad/
 categories: ["Gaming", "iPad"]
 tags: ["carrom", "ipad games", "iPad India"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="carrom-mp.png" src="/wp/wp-content/uploads/2011/06/carrom-mp.png" alt="carrom-mp" width="175" height="175" /></p>
 <p>Remember <a href="http://en.wikipedia.org/wiki/Carrom">Carrom</a>? The game you probably used to play when you were a kid? Well, you might have forgotten about the game, but <a href="http://www.geodesic.com/">Geodesic Limited</a> has not. They have made a totally awesome iPad game that is super fun to play. The game features pretty nice physics and graphics and is multiplayer enabled (local, not game center).</p>

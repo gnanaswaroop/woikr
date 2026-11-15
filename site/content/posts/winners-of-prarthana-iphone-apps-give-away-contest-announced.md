@@ -4,6 +4,8 @@ date: 2009-05-03T10:53:25
 url: /contests/winners-of-prarthana-iphone-apps-give-away-contest-announced/
 categories: ["Giveaways"]
 tags: ["iPhone", "aarti on iphone", "appstore", "godess durga iphone", "hindu god iphone", "india iphone", "indian deity iphone", "indian god iphone", "iphone pooja", "iphone prayers", "lord vishnu iphone", "prarthana apps review", "puja on iphone", "robosoft", "prarthana contest winners", "iphone apps"]
+author: "Setu"
+authors: ["setu"]
 ---
 <img class="alignnone size-full wp-image-2581" title="shri_durga" src="/wp/wp-content/uploads/2009/05/shri_durga.png" alt="shri_durga" width="88" height="89" /> <img class="alignnone size-full wp-image-2582" title="shri_vishnu" src="/wp/wp-content/uploads/2009/05/shri_vishnu.png" alt="shri_vishnu" width="85" height="89" />
 

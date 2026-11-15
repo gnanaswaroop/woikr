@@ -4,6 +4,8 @@ date: 2009-03-20T10:36:55
 url: /google/gmail-labs-undo-send/
 categories: ["Google", "News"]
 tags: ["gmail", "gmail labs", "undo sent email", "undo send gmail"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><a href="/wp/wp-content/uploads/2008/11/gmail_logo.png"><img class="alignnone size-full wp-image-1701" title="gmail_logo" src="/wp/wp-content/uploads/2008/11/gmail_logo.png" alt="gmail_logo" width="147" height="68" /></a></p>
 <p>A new feature has been added to <a href="http://gmailblog.blogspot.com/2008/06/introducing-gmail-labs.html" target="_blank">Gmail labs</a>. This one lets you undo send. It basically means that if you pressed the send button too soon, you can save the day by doing an undo.</p>

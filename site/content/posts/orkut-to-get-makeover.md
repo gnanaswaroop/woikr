@@ -4,6 +4,8 @@ date: 2009-10-30T02:54:28
 url: /google/orkut-to-get-makeover/
 categories: ["Google"]
 tags: ["orkut sucks", "facebook vs orkut", "new orkut interface", "new orkut experience"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <img src="/wp/wp-content/uploads/2009/10/orkut_logo.gif" alt="" />
 <p>Remember the time when orkut was a big rage and actually exciting to use? It had launched just around the time Gmail  launched (If I remember correctly) and was riding on the <span>Google-is-great</span> hype. And it was fun. Maybe it seemed to be fun because it was the first and only social network that my friends and I had used. But we did enjoy it, a lot.</p>

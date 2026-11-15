@@ -4,6 +4,8 @@ date: 2011-02-12T23:00:10
 url: /first-look/what-is-aircel-wifi/
 categories: ["First Look", "Telecom"]
 tags: ["Hotspot vs 3G", "Aircel", "Wireless Hotspot India", "Wifi Hotspots in India", "wifi hotspot", "Aircel WiFi"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p><img title="Aircel_WiFi.jpg" src="/wp/wp-content/uploads/2011/02/Aircel_WiFi.jpg" alt="Aircel WiFi" width="500" height="268" /></p>
 <p>Every time I see the new <a href="http://www.aircel.com/">Aircel</a> WiFi ad (see ahead), I'm so lost in <a href="http://en.wikipedia.org/wiki/What_a_Wonderful_World">the song</a> that I ignore whatever they are saying. But this time I decided to actually find out what is it and is it any good?</p>

@@ -4,6 +4,8 @@ date: 2010-06-10T18:32:57
 url: /ipad/ipad-3g-working-with-bsnl-3g-in-india/
 categories: ["iPad"]
 tags: ["iPad", "Apple", "3G", "bsnl", "iPad India", "Ipad 3G India"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p>Behold and rejoice people! The 3G model of Apple iPad works perfectly fine over BSNL's 3G network in India. So all of you who were waiting for some confirmation for this can go ahead and buy it.</p>
 <a href="/wp/wp-content/uploads/2010/06/p_1024_768_1819CCA1-8616-4D5F-A9EC-FBDF43C5F19F.jpeg"><img class="alignnone size-full" src="/wp/wp-content/uploads/2010/06/p_1024_768_1819CCA1-8616-4D5F-A9EC-FBDF43C5F19F.jpeg" alt="" /></a>

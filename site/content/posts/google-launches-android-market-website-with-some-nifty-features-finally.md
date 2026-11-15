@@ -4,6 +4,8 @@ date: 2011-02-03T23:20:39
 url: /android/google-launches-android-market-website-with-some-nifty-features-finally/
 categories: ["Android"]
 tags: ["Android Market", "Android Market website", "Android Market new features", "Android Market issues", "Remote install apps", "Android remote installaton"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>Today, Google finally fixed one of the biggest issues I've had with the Android Market. They added a website with proper search and login capabilities. Till now, if you had to give the link of an app or look for it, you'd have to just look for it in a third party system like AppBrain. But that's no longer needed. You can just goto the <a href="http://market.android.com/" target="_blank">Android Market website</a> and look up the app. In Google's words:</p>
 

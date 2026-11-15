@@ -4,6 +4,8 @@ date: 2012-04-10T16:51:02
 url: /telecom/airtel-launched-its-4g-network-in-kolkata-offers-super-absurd-plans/
 categories: ["Telecom", "News"]
 tags: ["airtel 4G", "4G india", "4G LTE india"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="airtel 4G LTE.png" src="/wp/wp-content/uploads/2012/04/airtel-4G-LTE.png" alt="airtel 4G LTE" width="240" height="30" /></p>
 <p>As <a href="/telecom/bharti-airtel-to-launch-4g-lte-network-in-india-this-month/">rumored last month</a>, Airtel has launched its 4G LTE network in Kolkata today. The high speed 4G LTE network should theoretically offer download speed up to 100Mbps and upload speed of 40Mbps. And as expected (given its history), Airtel is offering super absurd plans for using the service. here are the plans currently available:</p>

@@ -4,6 +4,8 @@ date: 2008-10-22T16:08:09
 url: /news/iphone-sales-surpasses-rims-sales/
 categories: ["News"]
 tags: ["iPhone", "iphone sales", "iphone vs. rim", "apple q4 2008 results"]
+author: "Setu"
+authors: ["setu"]
 ---
 <a href="/wp/wp-content/uploads/2008/10/appleeatingrim.jpg"><img class="alignnone size-medium wp-image-1454" title="appleeatingrim" src="/wp/wp-content/uploads/2008/10/appleeatingrim-300x125.jpg" alt="" width="300" height="125" /></a>
 <p>iPhone is getting popular all over the world. This can be proved by the tremendous iPhone sales all over the world which has recently surpassed RIM's sales.</p>

@@ -4,6 +4,8 @@ date: 2012-02-18T11:55:42
 url: /apple/os-x-mountain-lion-is-coming-this-summer/
 categories: ["Apple", "Mac"]
 tags: ["OS X", "mountain lion", "Mac OS X"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="OsXMountainLionLogo.png" src="/wp/wp-content/uploads/2012/02/OsXMountainLionLogo.png" alt="OS X Mountain Lion Logo" width="101" height="116" /></p>
 <p>It looks like Apple can never run out of surprises for us. When the whole world is busy speculating on rumors around iPad 3, Apple announced that the next version of their OS X, Mountain Lion is coming this Summer. If Lion was 1st base between iOS &amp; OS X, Mountain Lion is pretty close to the 3rd base with things like iMessages, Reminders, Notes, Notification Center, Airplay Mirroring, Sharing Sheets &amp; Game Center baked right into it.</p>

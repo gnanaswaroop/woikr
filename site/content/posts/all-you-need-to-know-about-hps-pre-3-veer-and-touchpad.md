@@ -4,6 +4,8 @@ date: 2011-02-17T09:45:46
 url: /first-look/all-you-need-to-know-about-hps-pre-3-veer-and-touchpad/
 categories: ["First Look"]
 tags: ["HP", "WebOS", "Palm. webOS", "pre", "Pre3", "Veer", "TouchPad", "palm pre", "Palm Pre3", "Palm Veer", "Palm Tablet", "HP TouchPad", "HP Veer", "HP Pre3"]
+author: "Abdul Rahaman"
+authors: ["arahaman"]
 ---
 <p>HP officially announced a pair of webOS 2.1 smartphones and a tablet. The Pre 3 is the successor of Pre 2, the Veer is a tiny touch smartphone and the TouchPad is well, a tablet. If you are interested in any of these devices or just plain curious, read ahead for a first look.</p>
 <br>

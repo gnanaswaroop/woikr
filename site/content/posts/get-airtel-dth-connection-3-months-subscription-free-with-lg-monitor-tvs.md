@@ -4,6 +4,8 @@ date: 2009-11-22T12:34:24
 url: /deals/get-airtel-dth-connection-3-months-subscription-free-with-lg-monitor-tvs/
 categories: ["Deals"]
 tags: ["Airtel", "lg", "lg monitor tv", "sth offer", "free dth connection", "lg lcd india"]
+author: "Setu"
+authors: ["setu"]
 ---
 <img title="image" src="/wp/wp-content/uploads/2009/11/image7.png" alt="image" width="240" height="230" />
 <p>If you are planning to buy a new LCD monitor, this might be the right time. LG &amp; Airtel are offering a new <a href="http://airtel.in/digitaltv" target="_blank">Airtel DTH</a> connection &amp; 3 months subscription free with every new LG Monitor TV purchase. The offer is valid on 19, 22, and 23 inches monitor TVs with models <a href="http://www.in.lge.com/Product/Products-Details.aspx?cat=171&amp;pid=7641&amp;subcat=LCD&amp;parent=IT%20Products" target="_blank">M197WA</a>, <a href="http://www.in.lge.com/Product/Products-Details.aspx?cat=171&amp;pid=8062&amp;subcat=LCD&amp;parent=IT%20Products" target="_blank">M227WA</a> &amp; <a href="http://www.in.lge.com/Product/Products-Details.aspx?cat=171&amp;pid=8255&amp;subcat=LCD&amp;parent=IT%20Products" target="_blank">M237WA</a> respectively.</p>

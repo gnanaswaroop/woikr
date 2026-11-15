@@ -4,6 +4,8 @@ date: 2011-02-23T09:57:25
 url: /android/google-nexus-one-finally-getting-gingerbread/
 categories: ["Android", "Mobile Phones"]
 tags: ["Android Gingerbread", "google nexus one", "Nexus One Gingerbread", "Nexus One OTA Update", "android", "nexus one"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <a href="/wp/wp-content/uploads/2010/12/nexus-one-gingerbread.jpg"><img class="alignnone size-medium wp-image-5070" title="nexus-one-gingerbread" src="/wp/wp-content/uploads/2010/12/nexus-one-gingerbread-300x288.jpg" alt="Nexus One Gingerbread" width="300" height="288" /></a>
 <p>We heard 4 months back that it's coming in a <a href="/android/nexus-one-to-get-gingerbread-soon" target="_blank">few days</a>. Then we heard again 2 months back that it's coming in a <a href="/android/nexus-one-to-get-gingerbread-soon-2" target="_blank">few weeks</a>. And then today Google has released a statement on their official Twitter account that the Gingerbread update is finally rolling out for Nexus One users as well. All you Nexus One users who've been worried whether buying an official Google phone was worth it, should be finally happy.</p>

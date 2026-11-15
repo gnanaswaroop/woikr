@@ -4,6 +4,8 @@ date: 2014-02-04T14:56:48
 url: /internet/facebook-completes-10-years-today/
 categories: ["Internet"]
 tags: ["facebook", "facebook anniversary"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="facebook-logo.png" src="/wp/wp-content/uploads/2011/08/facebook-logo.png" alt="facebook-logo" width="366" height="137" /></p>
 <p>Our beloved facebook is celebrating its 10th Anniversary today. The ubiquitous social network was launched 10 years ago from a Harvard dorm room.</p>

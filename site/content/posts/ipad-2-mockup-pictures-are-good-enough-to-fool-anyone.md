@@ -4,6 +4,8 @@ date: 2011-01-07T10:30:39
 url: /ipad/ipad-2-mockup-pictures-are-good-enough-to-fool-anyone/
 categories: ["iPad"]
 tags: ["iPad 2 Pictures"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 Here are some mockup pictures of the coming-sometime-in-the-future iPad 2. They are so good that I thought it's the real thing :)
 

@@ -4,6 +4,8 @@ date: 2011-10-25T12:45:14
 url: /misc/ipod-designer-creates-a-beautiful-learning-energy-saving-thermostat/
 categories: ["Misc"]
 tags: ["nest", "nest thermostat"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="nest-thermostat.jpg" src="/wp/wp-content/uploads/2011/10/nest-thermostat.jpg" alt="Nest thermostat" width="247" height="240" /></p>
 <p><a href="http://en.wikipedia.org/wiki/Tony_Fadell">Tony Fadell</a> - the guy who designed the first iPod, through his company - <a href="http://www.nest.com/">nest labs</a>, has come up with a beautiful looking thermostat that learns user behavior and can help you save energy. Fadell calls it the thermostat for the iPhone generation. Here is the official video:</p>

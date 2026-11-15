@@ -4,6 +4,8 @@ date: 2011-04-20T12:52:09
 url: /news/tatasky-installs-buggy-software-on-all-tatasky-hd-boxes/
 categories: ["News", "Home Entertainment"]
 tags: ["tata sky HD", "tatasky", "tatasky HD", "tatasky hd channels", "tatasky plus", "tatasky HD PVR"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="NewImage.png" src="/wp/wp-content/uploads/2011/02/NewImage.png" alt="NewImage.png" /><img title="NewImage1.png" src="/wp/wp-content/uploads/2011/02/NewImage1.png" alt="NewImage1.png" /></p>
 <p>It looks like TataSky pushed a software update yesterday for all its TataSky HD customers which updated their set top box software to a version which contains a major bug. Once this update is applied, the HD channels won't have Dolby Digital sound over HDMI. Instead, they will switch to the traditional stereo sound system.</p>

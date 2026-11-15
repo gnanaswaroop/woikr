@@ -4,6 +4,8 @@ date: 2011-09-30T19:55:51
 url: /first-look/dreamstarts-helps-you-find-startup-jobs-in-india/
 categories: ["First Look"]
 tags: ["Startup Jobs in India", "Startup Jobs in Bangalore", "DreamStarts", "Startups in India", "Android jobs in India", "iOS app developers in India", "python jobs", "ruby on rails jobs in india"]
+author: "Ranjeet"
+authors: ["ranjeet"]
 ---
 <p><a href="http://www.dreamstarts.in" target="_blank"><img src="/wp/wp-content/uploads/2011/09/dreamstartsin1-300x114.jpg" alt="" width="278" height="100" /></a></p>
 <p>Have you ever wondered how people become CTOs and Chief Architects at 25? Did you know there are multiple companies developing exciting Android/iOS games in India? Would you like to work in modern technologies and programming languages like Node.js, Ruby on Rails, Python/Django, Scala, Clojure and MongoDB? Do you wish to be part of a  company that grows from $10 to $1 Billion right in from of your eyes?</p>

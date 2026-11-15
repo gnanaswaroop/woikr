@@ -4,6 +4,8 @@ date: 2011-06-21T14:58:34
 url: /telecom/airtel-sets-1mbps-as-the-new-broadband-minimum-increases-fup-quota/
 categories: ["Telecom"]
 tags: ["airtel 1 mbps", "Airtel", "airtel broadband", "airtel broadband tariffs"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="NewImage.jpg" src="/wp/wp-content/uploads/2011/01/NewImage62.jpg" alt="NewImage.jpg" width="105" height="38" /></p>
 <p>Airtel has set a new minimum definition to broadband plans in India. Despite TRAI defining broadband as a minimum of 256Kbps, Airtel has set 1Mbps as the new minimum for its broadband plans across India, with 2Mbps being the minimum in 10 of its top cities namely Delhi, Noida, Gurgaon, Faridabad, Ghaziabad, Bangalore, Chennai, Hyderabad, Mumbai and Pune. In addition, Airtel has also increased the FUP quota on many of its unlimited plans. This will give a lot of consolation to the power users who have been pissed off with Airtel's low FUP quotas on its unlimited plans.</p>

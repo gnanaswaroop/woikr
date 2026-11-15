@@ -4,6 +4,8 @@ date: 2011-07-23T01:02:26
 url: /home-entertainment/tatasky-updates-its-iphone-app-to-a-social-programming-guide-with-a-universal-remote-control/
 categories: ["Home Entertainment"]
 tags: ["tatasky", "tatasky HD", "tatasky iphone app", "iphone remote", "iphone universal remote"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="tatasky-iphone-app.jpg" src="/wp/wp-content/uploads/2011/07/tatasky-iphone-app.jpg" alt="Tatasky iphone app" width="178" height="174" /></p>
 <p>We told you about the TataSky's iPhone app which lets you to record programs on your TataSky+ DVR on the go. TataSky today updated the app to transform it to a social TV program guide and a universal remote control using an optional accessory. We have been able to test only the guide part without the accessory for now. We have placed the order for the accessory and will write a detailed review once it is delivered to us. For now, here is the list of features of the new app followed by a first look:</p>

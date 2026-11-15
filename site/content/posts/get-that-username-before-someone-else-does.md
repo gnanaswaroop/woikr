@@ -4,6 +4,8 @@ date: 2008-10-27T19:04:24
 url: /news/get-that-username-before-someone-else-does/
 categories: ["News"]
 tags: ["Usernamecheck"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <a href="http://www.usernamecheck.com/">UserNameCheck</a> is a new Web 2.0 service that allows you to find out where all is your username already taken.
 

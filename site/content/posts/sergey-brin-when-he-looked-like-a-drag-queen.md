@@ -4,6 +4,8 @@ date: 2010-12-30T15:18:41
 url: /lol/sergey-brin-when-he-looked-like-a-drag-queen/
 categories: ["LOL"]
 tags: ["Sergey Brin", "Sergey Brin of Google", "Sergey Brin Drag Queen"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 Sergey Brin had a life before he was Google's Sergey Brin. We won't say it was the best for him. But your opinion may vary.
 

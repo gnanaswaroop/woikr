@@ -4,6 +4,8 @@ date: 2010-12-15T18:03:04
 url: /misc/washing-machine-with-negligible-water/
 categories: ["Misc", "Science"]
 tags: ["waterless washing machine", "eco friendly washing system", "xeros cleaning process", "nylon polymer cleaning"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>Polymer Scientists at Leeds University in UK working in collaboration with <a href="http://www.xerosltd.com/" target="_blank">Xeros Ltd</a> have designed a new cleaning process that can literally tumble the whole washing industry. The process, called Xeros Cleaning, utilizes nylon polymers inherent polarity to attract dirt stains from the fabric. Xeros website gives the following description for the process.</p>
 

@@ -4,6 +4,8 @@ date: 2008-11-09T11:03:50
 url: /android/best-bug-ever/
 categories: ["Android", "LOL"]
 tags: ["Google Android", "android-os", "Google G1", "Android bug", "Google bug", "funny bug", "best bug ever"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 Turns out Google did a bit too much while designing Android. From what we hear Android behaves as a linux shell 24x7. So if you type any linux command it gets executed as sudo.
 

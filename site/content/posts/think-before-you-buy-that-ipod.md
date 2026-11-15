@@ -4,6 +4,8 @@ date: 2008-10-27T17:42:28
 url: /first-look/think-before-you-buy-that-ipod/
 categories: ["First Look", "News"]
 tags: ["Cowon O2", "Cowon S9", "Cowon Media players", "iPod alternatives"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <a href="http://www.cowonglobal.com/" target="_blank">Cowon</a>, a very well known name in the PMP business, has launched it's latest media player - the Cowon O2.
 

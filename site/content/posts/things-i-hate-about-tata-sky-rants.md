@@ -4,6 +4,8 @@ date: 2011-06-15T22:48:58
 url: /home-entertainment/things-i-hate-about-tata-sky-rants/
 categories: ["Home Entertainment"]
 tags: ["Hate tata sky", "tata sky rants", "tata sky"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <a href="/wp/wp-content/uploads/2011/05/tatasky-logo.png"><img class="alignnone size-full wp-image-7915" title="tatasky-logo.png" src="/wp/wp-content/uploads/2011/05/tatasky-logo.png" alt="" width="160" height="80" /></a>
 

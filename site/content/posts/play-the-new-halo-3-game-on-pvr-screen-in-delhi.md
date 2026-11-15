@@ -4,6 +4,8 @@ date: 2009-09-19T00:00:29
 url: /news/play-the-new-halo-3-game-on-pvr-screen-in-delhi/
 categories: ["News"]
 tags: ["halo 3", "pvr", "large screen gaming", "Xbox 360"]
+author: "Setu"
+authors: ["setu"]
 ---
 <a href="/wp/wp-content/uploads/2009/09/image2.png"><img title="image" src="/wp/wp-content/uploads/2009/09/image_thumb2.png" alt="image" width="346" height="484" /></a>
 

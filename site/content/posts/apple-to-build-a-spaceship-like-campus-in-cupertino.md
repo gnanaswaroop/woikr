@@ -4,6 +4,8 @@ date: 2011-06-09T23:19:33
 url: /apple/apple-to-build-a-spaceship-like-campus-in-cupertino/
 categories: ["Apple"]
 tags: ["Apple", "apple cupertino"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="apple-logo.png" src="/wp/wp-content/uploads/2011/06/apple-logo.png" alt="apple logo" width="43" height="50" /></p>
 <p>When it comes to Apple, there is nothing less than extraordinary that they will settle for. This new proposed campus (which totally looks like a mothership docked on earth) is going to be the new head quarters of Apple in Cupertino. Steve Jobs presented the proposal to the Cupertino city council on 7th June 2011 and it got approved on the 8th! And the council members looked pretty excited too!</p>

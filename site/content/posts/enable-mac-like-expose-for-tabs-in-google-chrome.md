@@ -4,6 +4,8 @@ date: 2011-03-05T10:49:39
 url: /howto/enable-mac-like-expose-for-tabs-in-google-chrome/
 categories: ["How Tos", "Mac"]
 tags: ["Chrome Expose Tabs", "Chrome Tabs Switching like Mac", "Google Chrome hacks", "google chrome"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <a href="/wp/wp-content/uploads/2011/03/Chrome_Tab_Expose.jpg"><img class="alignnone size-medium wp-image-7342" title="Chrome_Tab_Expose" src="/wp/wp-content/uploads/2011/03/Chrome_Tab_Expose-300x160.jpg" alt="Chrome Expose Tabs" width="300" height="160" /></a>
 <p>Ever since I switched to Mac, I find it natural to use Expose for most of the Window management. It's just faster and more convenient than Alt-Tab/Cmd-Tab when you have more than 3-4 windows open. Sadly, most browsers still primarily rely on the old way for tab-switching.</p>

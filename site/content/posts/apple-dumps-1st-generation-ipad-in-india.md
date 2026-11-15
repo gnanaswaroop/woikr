@@ -4,6 +4,8 @@ date: 2011-01-28T20:54:18
 url: /ipad/apple-dumps-1st-generation-ipad-in-india/
 categories: ["iPad"]
 tags: ["iPad India", "iPad", "Ipad 3G India", "ipad 3G", "ipad bsnl"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="image_thumb41.png" src="/wp/wp-content/uploads/2010/11/image_thumb41.png" alt="image_thumb41.png" /><img title="NewImage.jpg" src="/wp/wp-content/uploads/2011/01/NewImage66.jpg" alt="NewImage.jpg" width="225" height="225" /></p>
 <p>Apple has proven yet again that it considers India as one of its dumping grounds for its old generation products. This time, they are dumping the infamous iPad in India (though at pretty reasonable prices).</p><p>Here is how the <a href="http://www.apple.co.in/store/mainproducts/ipad/ipad.html">official pricing for iPad</a> looks like in India:</p>

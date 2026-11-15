@@ -4,6 +4,8 @@ date: 2011-03-08T00:07:47
 url: /android/samsungs-galaxy-pro-android-phone-looks-like-a-winner/
 categories: ["Android", "Mobile Phones"]
 tags: ["Android 2.2", "Android Froyo", "Samsung Qwerty phone", "Qwerty Android", "Budget qwerty android", "Samsung Galaxy Pro"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p><a href="/wp/wp-content/uploads/2011/03/GALAXY-Pro.jpg"><img class="alignnone size-medium wp-image-7415" title="GALAXY-Pro" src="/wp/wp-content/uploads/2011/03/GALAXY-Pro-292x300.jpg" alt="Samsung Galaxy Pro" width="292" height="300" /></a></p>
 <p>Samsung today announced the Galaxy Pro, the latest (and the most interesting) phone in their lineup of Android phones. The Galaxy Pro is a candybar phone with full QWERTY keyboard. The specs make me look like it will be joining the low budget Android lineup. The phone features an 800 MHz processor, 2.8 inch touch display a 3 Megapixel camera, WiFi and runs Android 2.2 Froyo.</p>

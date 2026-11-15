@@ -4,6 +4,8 @@ date: 2012-08-30T21:15:53
 url: /news/tatasky-planning-to-launch-usb-recording-on-its-hd-set-top-boxes/
 categories: ["News", "Home Entertainment"]
 tags: ["tatasky", "tatasky HD", "tatasky hd recorder", "tatasky usb recording"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="tatasky-hd-logo.png" src="/wp/wp-content/uploads/2012/02/tatasky-hd-logo.png" alt="tatasky hd logo" width="284" height="177" /></p>
 <p>It looks like the much wanted recording feature in the HD set top boxes may soon make its way to TataSky's platform. In the following tweet to a customer, TataSky confirmed that this feature will soon be launched for its HD set top boxes:</p>

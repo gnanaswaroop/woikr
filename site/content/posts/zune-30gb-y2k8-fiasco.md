@@ -4,6 +4,8 @@ date: 2009-01-03T15:10:26
 url: /lol/zune-30gb-y2k8-fiasco/
 categories: ["LOL", "WTF?", "News"]
 tags: ["zune", "zune sucks", "zune bug", "y2k8", "zune bsod", "zune blue screen", "microsoft sucks"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p>It is being reported that zunes all around the world are sick. The issue? Dec 31st of a leap year. Apparently, if you own a zune, you aren't allowed go to the last day of a leap year or else it will die. To use it, you will have to use a time machine to go back to an earlier date in 2008, else, you will get this on your zune's screen:</p>
 

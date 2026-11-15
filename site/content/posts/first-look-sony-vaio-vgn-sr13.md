@@ -4,6 +4,8 @@ date: 2008-08-23T13:21:50
 url: /first-look/first-look-sony-vaio-vgn-sr13/
 categories: ["First Look", "Laptops"]
 tags: ["sony vaio", "SR13GN", "vaio SR13", "SR13GB", "SR13GS", "SR13GP", "SR13G", "sony vaio SR series", "vaio vgn", "SR13GN/B/S/P"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img class="alignnone" src="/images/vaio_sr_lead.PNG" alt="" width="593" height="225" /></p>
 <p>Sony India recently launched the Vaio VGN SR 13 laptop in India. Sony is marketing it as "Excellence in mobility. Perfection  in Performance" laptops. Here is a first look:</p>

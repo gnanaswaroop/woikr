@@ -4,6 +4,8 @@ date: 2010-12-29T21:50:00
 url: /misc/the-bermuda-triangle-of-productivity/
 categories: ["Misc"]
 tags: ["Productivity", "Social Networks Productibity", "Social Networks Are Time Killers"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 Absolutely true.
 

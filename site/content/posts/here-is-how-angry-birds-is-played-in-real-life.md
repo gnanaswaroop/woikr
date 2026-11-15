@@ -4,6 +4,8 @@ date: 2011-02-09T00:12:40
 url: /gaming/here-is-how-angry-birds-is-played-in-real-life/
 categories: ["Gaming"]
 tags: ["angry birds", "Angry Birds Real Life", "Funny Videos", "iphone game"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>FunnyOrDie members <em>Almost Twins</em>, <em>Jack Packard</em> and <em>Nick Packard</em> have created this simulation sorts of the mega popular game Angry Birds in their backyard. The special effects wizardry is pretty neatly done but the game looks boring. I guess some things aren't made for the real world.</p>
 <p><br>

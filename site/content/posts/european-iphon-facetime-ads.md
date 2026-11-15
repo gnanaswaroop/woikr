@@ -4,6 +4,8 @@ date: 2010-09-28T11:51:33
 url: /apple/european-iphon-facetime-ads/
 categories: ["Apple", "Mobile Phones", "iPhone"]
 tags: ["iPhone Facetime ads", "iphone 4 european ads"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 Apple is out with 4 new iPhone Facetime commercials. This time for Europe. The purpose is the same. They fricking emotionally blackmail you into buying an iPhone 4!
 

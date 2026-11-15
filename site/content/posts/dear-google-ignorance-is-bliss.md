@@ -4,6 +4,8 @@ date: 2012-05-29T19:51:28
 url: /google/dear-google-ignorance-is-bliss/
 categories: ["Google", "WTF?"]
 tags: ["Google", "Google Plus", "creepy google", "google privacy"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="google-plus-logo.png" src="/wp/wp-content/uploads/2012/05/google-plus-logo.png" alt="google plus logo" width="119" height="37" /></p>
 <p>Dear Google+, please stop creeping me out. I know you come from the minds of probably the best computer engineers in the world. But that doesn't mean that everyone else will appreciate how creepy a computer algorithm can become when it has the power and information to figure out any types of connections among people. I have two examples to give you:</p>

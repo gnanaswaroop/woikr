@@ -4,6 +4,8 @@ date: 2012-07-24T12:37:26
 url: /photography/canon-announces-eos-m-as-a-response-to-the-sony-nex-series/
 categories: ["Photo Gear"]
 tags: ["canon", "canon mirrorless camera", "mirrorless camera", "sony nex cameras"]
+author: "Setu"
+authors: ["setu"]
 aliases: ["/photography/canon-announces-eos-m-as-a-response-to-the-sony-nex-series"]
 ---
 <p><img title="canon-eos-m.png" src="/wp/wp-content/uploads/2012/07/canon-eos-m.png" alt="canon eos m" width="600" height="449" /></p>

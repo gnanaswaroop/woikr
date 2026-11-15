@@ -4,6 +4,8 @@ date: 2011-08-28T01:54:50
 url: /news/facebook-updates-it-photo-viewer-again/
 categories: ["News"]
 tags: ["facebook", "Facebook Photos", "facebook photo viewer", "facebook lightbox"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="facebook-logo.png" src="/wp/wp-content/uploads/2011/08/facebook-logo.png" alt="facebook-logo" width="366" height="137" /></p>
 <p>Facebook is revamping its photo viewer (also called lightbox) again. Like the last update, this one will let you see much wider photos which are 960 pixel in width as opposed to 720 pixels you can currently see. The photos should also load twice as fast which is good news. Also, the black background of the photo viewer will be replaced with an opaque white one. Apparently, this will put more emphasis on the photo compared to the black one.</p>

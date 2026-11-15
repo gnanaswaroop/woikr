@@ -4,6 +4,8 @@ date: 2014-07-03T07:47:52
 url: /internet/irctc-improves-site-performance/
 categories: ["Internet"]
 tags: ["irctc", "irctc fast"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="" src="/wp/wp-content/uploads/2010/07/image_thumb22.png" alt="" width="" height="" /></p>
 <p><a href="http://www.nextbigwhat.com/irctc-next-generation-online-ticketing-297/?utm_source=feedly&amp;utm_reader=feedly&amp;utm_medium=rss&amp;utm_campaign=irctc-next-generation-online-ticketing">NextBigWhat is reporting</a> that IRCTC seem to have improved its site’s performance making it usable during peak ticketing hours. They seem to have added servers and/or optimized the site’s software performance in order to give a smoother ticketing experience to users during peak hours.</p>

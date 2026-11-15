@@ -4,6 +4,8 @@ date: 2011-03-24T12:56:31
 url: /gaming/super-mario-bros-with-modern-sound-effects-video/
 categories: ["Gaming"]
 tags: ["Mario", "Super Mario Bros", "Super Mario modern sound effects", "Super mario soundtrack", "Mario soundtrack composer"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 Yuck, this is crap.
 

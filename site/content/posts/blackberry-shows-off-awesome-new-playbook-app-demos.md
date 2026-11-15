@@ -4,6 +4,8 @@ date: 2011-02-18T10:47:14
 url: /misc/blackberry-shows-off-awesome-new-playbook-app-demos/
 categories: ["Misc"]
 tags: ["Aura PlayBook", "PlayBook demos", "BlackBerry PlayBook apps", "WebWorks demo", "BlackBerry Webworks", "blackberry", "Blackberry Playbook"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>There is something about the BlackBerry PlayBook that intrigues me. I don't care for any of the Android tablets or HP's WebOS TouchPad but I definitely want to see the PlayBook when it comes out. I may never choose it over an iPad because of the 7" form factor but more choice is always better.</p>
 <p>We've already seen the <a href="/first-look/blackberry-playbook-browser-demo-video-is-oh-so-nic" target="_blank">excellent browser demos</a>, but at MWC BlackBerry showed off 2 WebWorks <em>proof-of-concept</em> apps for the BlackBerry that were created by "The Astonishing Tribe", a company BlackBerry recently acquired. The apps are pretty simple but the excellent UI and smooth, slick graphics make them feel so much better than any corresponding Android app.</p>

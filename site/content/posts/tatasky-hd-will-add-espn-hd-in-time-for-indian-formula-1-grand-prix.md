@@ -4,6 +4,8 @@ date: 2011-10-25T12:12:44
 url: /news/tatasky-hd-will-add-espn-hd-in-time-for-indian-formula-1-grand-prix/
 categories: ["News", "Home Entertainment"]
 tags: ["tatasky", "tatasky HD", "tatasky hd channels", "espn hd india", "HD India", "formula 1 hd transmission india"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="tatasky-logo.png" src="/wp/wp-content/uploads/2011/05/tatasky-logo.png" alt="tatasky logo" width="160" height="80" /><img title="espn-hd-logo.png" src="/wp/wp-content/uploads/2011/10/espn-hd-logo.png" alt="espn hd logo" width="105" height="79" /></p>
 <p>With India's first <a href="http://en.wikipedia.org/wiki/Indian_Grand_Prix">Formula 1 grand prix</a> starting from 30-October-2011, subscribers of TataSky HD have been wondering if they would be able to watch the mega event in HD as TataSky does not carry ESPN HD - the official broadcaster of the HD feed of the event in India. Well, we have good news! TataSky's <a href="http://twitter.com/#!/TataSky">official twitter account</a> has confirmed to us in a <a href="http://twitter.com/#!/TataSky/status/128717036800057344">tweet</a> that they will, indeed be adding the ESPN HD channel on their platform on 30-October-2011:</p>

@@ -4,6 +4,8 @@ date: 2009-05-10T18:45:39
 url: /reviews/review-worddigest-english-dictionary-thesaurus-spell-checker-iphone-apps/
 categories: ["Reviews"]
 tags: ["iphone apps dictionary", "iphone Dictionary", "iphone Thesaurus", "iphone Spell Checker", "worddigest", "dictionary for iPhone", "iphone apps"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img class="alignnone size-full wp-image-2783" title="worddigest_logo" src="/wp/wp-content/uploads/2009/05/worddigest_logo.png" alt="worddigest_logo" width="112" height="112" /></p>
 <p>We all have used a dictionary some time or the other. Be it the old school paperback <a href="http://en.wikipedia.org/wiki/Oxford_English_Dictionary" target="_blank">Oxford dictionary</a>, or one of the new age <a href="http://dictionary.reference.com/" target="_blank">online ones</a>. A dictionary is a handy tool, not only for students, but for anyone who like to read. Online dictionaries have an advantage of being updated all the time. Most of them now offer an iPhone site, which makes it easy to access them from your iPhone's Safari browser. However, you need to have a data plan for that and be within coverage area. Plus, they are slow. This gives stand alone dictionary apps an edge over online versions.</p>

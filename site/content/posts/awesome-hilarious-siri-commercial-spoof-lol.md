@@ -4,6 +4,8 @@ date: 2011-11-21T01:32:24
 url: /lol/awesome-hilarious-siri-commercial-spoof-lol/
 categories: ["LOL", "iPhone"]
 tags: ["Siri", "iphone 4s", "siri humor"]
+author: "Setu"
+authors: ["setu"]
 aliases: ["/iphone/awesome-hilarious-siri-commercial-spoof-lol/", "/iphone/awesome-hilarious-siri-commercial-spoof-lol"]
 ---
 <p>The Siri jokes just keep coming. Check out this super hilarious one (NSFW):</p>

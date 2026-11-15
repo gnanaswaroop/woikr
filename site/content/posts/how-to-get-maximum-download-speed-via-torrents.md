@@ -4,6 +4,8 @@ date: 2009-05-23T10:33:59
 url: /howto/how-to-get-maximum-download-speed-via-torrents/
 categories: ["How Tos"]
 tags: ["utorrent", "torrents", "torrent", "maximum download speed", "max download speeds", "good download speed", "port forwarding", "router port forwarding", "broadband"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><a href="/wp/wp-content/uploads/2009/05/image.png"><img title="image" src="/wp/wp-content/uploads/2009/05/image-thumb.png" alt="image" width="184" height="48" /></a></p>
 <p>Most of us know that we can find almost anything on torrents these days. I remember not so long ago, <a href="http://en.wikipedia.org/wiki/Kazaa" target="_blank">KaZaa</a> revolutionized the way we downloaded and shared stuff. That place has now been taken by much faster and comparatively safer <a href="/tag/torrents">torrents</a> (or <a href="http://en.wikipedia.org/wiki/BitTorrent_(protocol)" target="_blank">bittorrents</a>).</p>

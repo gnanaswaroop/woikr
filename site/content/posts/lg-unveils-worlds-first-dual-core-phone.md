@@ -4,6 +4,8 @@ date: 2010-12-16T10:02:15
 url: /android/lg-unveils-worlds-first-dual-core-phone/
 categories: ["Android"]
 tags: ["Optimus 2x", "Dual Core phone", "Dual core android phone", "LG Optimus 2X"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>While people are still struggling on slow single core processors, LG has announced the world's first Dual Core phone. The appropriately named Optimus 2X is the most powerful phone we've seen yet and it runs on <a href="http://www.nvidia.com/object/tegra-2.html" target="_blank">nVidia's Tegra 2</a>. It features an 8 MP camera that can also record 1080p videos. The other specs like a 4" display, HDMI out and 8 GB memory are average for high-end phones these days.</p>
 <p>The phone will run Android 2.2 (Froyo) but is officially scheduled to be upgraded to Android 2.3 (Gingerbread).</p>

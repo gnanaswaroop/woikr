@@ -4,6 +4,8 @@ date: 2011-02-15T17:41:44
 url: /android/htc-joins-the-tablet-race-with-a-7-inch-android-device/
 categories: ["Android"]
 tags: ["Android Tablets", "HTC Tablet", "Android 2.4 Tablets", "Android 2.4", "Android Gingerbread", "Gingerbread Tablets", "HTC Flyer"]
+author: "Swaroop"
+authors: ["swaroop"]
 ---
 I’ve always liked HTC Corporation for it's realization that Asian markets have equal and better potential for smart phones and devices. It has released Android phones at the same time here along with the US Release (sometimes even before).
 

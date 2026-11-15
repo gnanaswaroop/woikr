@@ -4,6 +4,8 @@ date: 2013-06-02T13:51:51
 url: /news/flipkart-shutting-down-its-flyte-digital-music-store/
 categories: ["News"]
 tags: ["flipkart mp3 store", "digital music india"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="flyte-mp3-logo.png" alt="flyte mp3 logo" src="/wp/wp-content/uploads/2012/04/flyte-mp3-logo.png" width="79" height="80" /></p>
 <p>After a little over a year, flipkart is shutting down its flyte digital music store in India. We first <a href="/news/flipkarts-digital-media-store-might-be-called-flyte/">reported about flipkart's launch of flyte digital music</a> store in February 2012 and since then, flyte grew up to a catalogue of 15 million songs making it the largest store for digital music in India. According to flipkart, the reason for closing down flyte digital music service is the prevalent music piracy in India and lack of easy micro payments.</p>

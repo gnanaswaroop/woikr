@@ -4,6 +4,8 @@ date: 2011-01-28T09:48:17
 url: /lol/an-iphone-can-intrigue-anyone-including-dogs-lol/
 categories: ["LOL"]
 tags: ["iPhone and Dog", "Dog surprised by iPhone", "iPhone intrigues dogs"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 I'm sure I haven't seen anyone this intrigued by an iPhone. Ever.
 

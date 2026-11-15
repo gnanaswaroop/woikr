@@ -4,6 +4,8 @@ date: 2011-05-12T10:09:38
 url: /google/samsung-acer-announce-google-chromebooks/
 categories: ["Google", "News"]
 tags: ["samsung", "acer", "chromebook", "chrome OS", "chrome notebook", "google netbook"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="chrome-logo.jpg" src="/wp/wp-content/uploads/2011/05/chrome-logo.jpg" alt="Chrome logo" width="136" height="48" /></p>
 <p><a href="http://www.samsung.com/us/computer">Samsung</a> &amp; Acer, in partnership with Google have <a href="http://www.google.com/chromebook">announced Chromebooks</a> - the netbooks featuring Google's Chrome OS. The OS is nothing but a lightweight chrome browser which boots up instantly (within 8 seconds). The netbooks are required to be always connected to the web as there is nothing else other than web surfing that you can do on them. Chrome apps will run, but then again, they are all web based. You have a choice of WiFi only and WiFi + 3G model.</p>

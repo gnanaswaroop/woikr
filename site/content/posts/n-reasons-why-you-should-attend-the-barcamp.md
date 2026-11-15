@@ -4,6 +4,8 @@ date: 2008-10-08T22:48:03
 url: /misc/n-reasons-why-you-should-attend-the-barcamp/
 categories: ["Misc"]
 tags: ["barcamp", "tech conferences", "reasons to attend", "startups", "tech meetups"]
+author: "Swaroop"
+authors: ["swaroop"]
 ---
 <p><img class="alignnone" src="/images/Barcamp_lead.png" alt="" width="593" height="225" /></p>
 <p>Here's our take of 'n' reasons you should visit and participate in the <a href="http://en.wikipedia.org/wiki/BarCamp" target="_blank">BarCamp</a>, or other tech conferences in your nearest city.</p>

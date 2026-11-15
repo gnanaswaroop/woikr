@@ -4,6 +4,8 @@ date: 2009-02-04T17:50:32
 url: /wtf/reliance-broadband-woes/
 categories: ["WTF?"]
 tags: ["reliance", "reliance broadband", "reliance sucks", "reliance grievance", "pathetic reliance", "reliance broadband review"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p></p>
 <p>After using the pathetic services of Reliance Broadband for about 15 days, I shifted to BSNL broadband last month. Since I am kind of an internet addict (who isn't?), I requested for disconnection of the service only after the BSNL guy came and activated BSNL broadband at my home. Here is a list of issues I faced with Reliance in the period of 15 days when I used their services. Some of the issues are thankfully closed. Others, are still bugging me.</p>

@@ -4,6 +4,8 @@ date: 2008-11-12T15:29:55
 url: /google/voice-and-video-chat-from-within-gmail/
 categories: ["Google", "News"]
 tags: ["gmail", "gmail voice chat", "gmail video chat", "voice and video chat", "voice & video chat in gmail", "gmail video", "gmail voice", "gmail webcam", "gmail mic", "gmail chat features", "gmail chat new features"]
+author: "Setu"
+authors: ["setu"]
 ---
 <a href="/wp/wp-content/uploads/2008/11/gmail_logo.png"><img class="alignnone size-full wp-image-1701" title="gmail_logo" src="/wp/wp-content/uploads/2008/11/gmail_logo.png" alt="" width="147" height="68" /></a>
 <p>The much anticipated Gmail feature you have been waiting for is here. Gmail now supports voice and video chat from within the browser. This feature is available now to all the users worldwide. Using this feature, you can voice and video chat for free in the Gmail's chat window.</p>

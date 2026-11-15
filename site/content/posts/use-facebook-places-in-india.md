@@ -4,6 +4,8 @@ date: 2010-10-16T09:55:34
 url: /misc/use-facebook-places-in-india/
 categories: ["Misc"]
 tags: ["facebook", "facebook places", "facebook places india", "use facebook places", "places india", "checkin", "hotspotshield", "hotspot vpn", "facebook vpn", "facebook places vpn", "facebook us vpn", "facebook iPhone", "facebook places iPhone"]
+author: "Swaroop"
+authors: ["swaroop"]
 ---
 <p>If you hate Facebook for not launching "<a href="http://facebook.com/places" target="_blank">Places</a>" in India and other countries (except US, UK, Japan),  then join the club.</p>
 <p>Although this article primarily explains its usage on iPhone(s), the same approach should work when Facebook releases Places for other mobile platforms such as Android, Blackberry - Your VPN Configuration would change.</p>

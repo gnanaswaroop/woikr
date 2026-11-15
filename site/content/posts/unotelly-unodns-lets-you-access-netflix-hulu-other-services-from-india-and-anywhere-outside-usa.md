@@ -4,6 +4,8 @@ date: 2012-06-09T17:09:15
 url: /howto/unotelly-unodns-lets-you-access-netflix-hulu-other-services-from-india-and-anywhere-outside-usa/
 categories: ["How Tos", "Home Entertainment"]
 tags: ["netflix india", "hulu in india", "netflix outside usa", "hulu outside USA", "unoDNS india", "US TV shows in India"]
+author: "Setu"
+authors: ["setu"]
 aliases: ["/home-entertainment/unotelly-unodns-lets-you-access-netflix-hulu-other-services-from-india-and-anywhere-outside-usa/", "/home-entertainment/unotelly-unodns-lets-you-access-netflix-hulu-other-services-from-india-and-anywhere-outside-usa"]
 ---
 <p><img title="unotelly-logo.png" src="/wp/wp-content/uploads/2012/06/unotelly-logo.png" alt="unotelly logo" width="179" height="59" /></p>

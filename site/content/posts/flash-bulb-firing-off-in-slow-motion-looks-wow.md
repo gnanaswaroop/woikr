@@ -4,6 +4,8 @@ date: 2011-01-14T13:39:27
 url: /photography/flash-bulb-firing-off-in-slow-motion-looks-wow/
 categories: ["Photo Gear"]
 tags: ["Phantom Camera", "Flash Bulb", "Flashbulb", "Flashbulb firing video", "Flashbulb slow motion"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>I've somehow always been intrigued by clips of <a href="http://en.wikipedia.org/wiki/Flash_photography#Flashbulbs" target="_blank">Flash bulbs</a> in movies. Remember how James Stewart used them in <a href="http://www.imdb.com/title/tt0047396/" target="_blank">Rear Window</a>? Or how they showed people stepping over used Flash bulbs lying down on floor in <a href="http://www.imdb.com/title/tt0338751/" target="_blank">The Aviator</a>?</p>
 <p>This video beats them all. It shows a Flash Bulb firing, shot at 1052 Frames per second using a <a href="http://www.visionresearch.com/Products/High-Speed-Cameras/Comparison/" target="_blank">Phantom Camera</a>. In slow motion. Wow. Just wow.</p>

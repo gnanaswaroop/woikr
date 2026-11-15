@@ -4,6 +4,8 @@ date: 2009-05-09T11:53:02
 url: /news/facebook-in-indian-languages-is-pointless/
 categories: ["News"]
 tags: ["facebook and orkut", "facebook in hindi", "Facebook india", "facebook indian languages", "social networking in india"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 It seems Facebook is desperately trying to attract more Indian visitors.  First, they tried to <a href="http://www.labnol.org/internet/invite-orkut-friends-on-facebook/8477/" target="_blank">pull in the Orkut crowd</a> and now they want non-English speaking  people as well.
 

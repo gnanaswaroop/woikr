@@ -4,6 +4,8 @@ date: 2011-01-06T06:23:44
 url: /ipad/attach-your-ipad-to-a-mic-stand-with-iklip/
 categories: ["iPad"]
 tags: ["iklip", "ipad music", "ipad mic stand"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="NewImage.jpg" src="/wp/wp-content/uploads/2011/01/NewImage43.jpg" alt="NewImage.jpg" width="600" height="300" /></p>
 <p>If you are a musician and use iPad to help you with your compositions (we know <a href="http://blog.mtviggy.com/2010/04/20/a-r-rahman-masters-ipad-announces-tour/">A R Rahman</a> does), chances are that your lyrics or music score are on your iPad.</p>

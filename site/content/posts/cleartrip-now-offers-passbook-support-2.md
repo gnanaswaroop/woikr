@@ -4,6 +4,8 @@ date: 2013-01-19T16:16:46
 url: /news/cleartrip-now-offers-passbook-support-2/
 categories: ["News"]
 tags: ["cleartrip", "passbook in india", "ios6 passbook india"]
+author: "Setu"
+authors: ["setu"]
 aliases: ["/uncategorized/cleartrip-now-offers-passbook-support-4/"]
 ---
 <p><img title="cleartrip-logo.png" alt="cleartrip logo" src="/wp/wp-content/uploads/2013/01/cleartrip-logo.png" width="175" height="43" /></p>

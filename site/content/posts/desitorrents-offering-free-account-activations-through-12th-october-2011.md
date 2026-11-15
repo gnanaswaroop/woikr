@@ -4,6 +4,8 @@ date: 2011-10-09T02:10:23
 url: /deals/desitorrents-offering-free-account-activations-through-12th-october-2011/
 categories: ["Deals", "News"]
 tags: ["desitorrents accounts"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="desitorrents-logo.png" src="/wp/wp-content/uploads/2011/10/desitorrents-logo.png" alt="desitorrents logo" width="184" height="29" /></p>
 <p>India's popular torrent host <a href="http://desitorrents.com/forums">desitorrents.com</a> is offering <a href="http://www.desitorrents.com/forums/news-announcements/365167-open-registration-oct-6th-oct-12-limited-time.html">free account registrations and activations</a> through 12th October 2011. Usually, they charge for activating your account, however, they are running a promotion from 6th Oct 2011 to 12th Oct 2011 where anyone can get their accounts registered &amp; activated for free.</p>

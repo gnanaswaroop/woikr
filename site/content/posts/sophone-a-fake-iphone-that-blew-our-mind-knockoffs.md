@@ -4,6 +4,8 @@ date: 2010-12-31T20:55:14
 url: /iphone/sophone-a-fake-iphone-that-blew-our-mind-knockoffs/
 categories: ["iPhone"]
 tags: ["iPhone Knockoff", "iPhone fake", "iPhone Lookalike", "Chinese iPhone", "iphone 4", "Best Chinese iPhone"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>You must have seen tens of iPhone lookalikes in that come from China and have infested your friendly neighborhood mobile phone stores. All of them have one thing in common, they SUCK. So when I saw an article titled "<a title="2010’s Best iPhone 4 Knockoff: The SoPhone" rel="bookmark" href="http://micgadget.com/10605/2010s-best-iphone-4-knockoff-the-sophone/" target="_blank">2010’s Best iPhone 4 Knockoff: The SoPhone</a>" I was least interested. But what I saw in the next 5 minutes, blew my mind. Don't believe me? See the videos ahead. The first one shows an iPhone 4 compared to a SoPhone and the second is a review of the SoPhone.</p>
 <p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="580" height="460" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/4Vo8Og2_by8?fs=1&amp;hl=en_US&amp;rel=0&amp;color1=0x3a3a3a&amp;color2=0x999999" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="580" height="460" src="http://www.youtube.com/v/4Vo8Og2_by8?fs=1&amp;hl=en_US&amp;rel=0&amp;color1=0x3a3a3a&amp;color2=0x999999" allowscriptaccess="always" allowfullscreen="true"></embed></object>

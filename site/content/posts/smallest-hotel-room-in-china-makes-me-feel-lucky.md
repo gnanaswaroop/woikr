@@ -4,6 +4,8 @@ date: 2011-01-11T22:51:00
 url: /misc/smallest-hotel-room-in-china-makes-me-feel-lucky/
 categories: ["Misc", "WTF?"]
 tags: ["Smallest Hotel Room China", "Shanghai Capsule Hotel", "Capsule Hotel Prices", "Smallest Hotel Room Prices"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>Long time back I saw some meme over the Internet that talked about capsule rooms in Japan. Apparently that was true. The concept has now spread to China and Shanghai has got their first Capsule Hotel.</p>
 <p><a href="/wp/wp-content/uploads/2011/01/china_capsule_1.jpg"></a><img title="china_capsule_1" src="/wp/wp-content/uploads/2011/01/china_capsule_1.jpg" alt="Chinese Capsule Hotel Room" width="500" height="324" /></p>

@@ -4,6 +4,8 @@ date: 2011-02-03T23:53:18
 url: /mac/boom-take-your-macs-volume-to-the-next-level/
 categories: ["Mac"]
 tags: ["boom", "global delight", "GlobalDelight", "volume boost", "mac volume", "mac volume boost", "boom for mac"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="NewImage.jpg" src="/wp/wp-content/uploads/2011/02/NewImage3.jpg" alt="NewImage.jpg" width="128" height="128" /></p>
 <p>Have you ever wanted to watch a movie on your Mac sitting or lying down far from its screen but couldn't because you can't hear it from a distance? Have you ever come across a youtube video with volume so low that you can only listen to the sound if you sit inside your Mac's speakers? Then <a href="http://www.globaldelight.com/boom/index.html">Boom</a> is for you.</p>

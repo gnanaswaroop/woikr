@@ -4,6 +4,8 @@ date: 2011-01-04T13:56:29
 url: /gaming/mirrors-edge-for-iphone-and-ipad-is-free-for-today/
 categories: ["Gaming", "Deals", "iPad", "iPhone"]
 tags: []
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p><a href="http://en.wikipedia.org/wiki/Mirror's_Edge" target="_blank">Mirror's Edge</a> was one of my favorite games on Xbox 360. I haven't played the iPhone or iPad versions yet but they are well rated and I'm sure they are interesting. While normally priced at $9.99 and $4.99 for iPad and iPhone respectively, they are free just for today. Go ahead and grab them while they are free in the iTunes store!</p>
 <p><a href="/wp/wp-content/uploads/2011/01/mirrors_edge_iphone_ipad.jpg"><img title="mirrors_edge_iphone_ipad" src="/wp/wp-content/uploads/2011/01/mirrors_edge_iphone_ipad-300x125.jpg" alt="Mirror's Edge Free on iPhone and iPad" width="300" height="125" /></a></p>

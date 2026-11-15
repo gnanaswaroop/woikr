@@ -4,6 +4,8 @@ date: 2008-11-16T15:30:18
 url: /rumors/apple-getting-into-search/
 categories: ["Rumors"]
 tags: ["apple rumor", "apple search", "apple vs. google", "apple search engine", "eric schmidt apple", "iphone vs. android"]
+author: "Setu"
+authors: ["setu"]
 ---
 <a href="/wp/wp-content/uploads/2008/11/apple_logo.png"><img class="alignnone size-full wp-image-1730" title="apple_logo" src="/wp/wp-content/uploads/2008/11/apple_logo.png" alt="" width="200" height="122" /></a>
 <p>Popular tech blog <a href="http://www.Techcrunch.com" target="_blank">Techcrunch</a> suspects that Apple might be getting into the search business. Apparently, Safari's 6 - 7% market share and the users of personal productivity tools through Mobile Me provide a lot of search traffic for Google via Apple's servers and they might be thinking of milking it themselves.</p>

@@ -4,6 +4,8 @@ date: 2010-12-31T20:29:49
 url: /ipad/transfer-photos-from-your-camera-to-ipad-gadget/
 categories: ["iPad"]
 tags: ["iPad Camera Connector", "Transfer photos from Camera to iPad", "Transfer Photos from Phone to iPad", "Transfer Photos to iPad via USB", "iPad SD Card", "iPad MicroSD Card"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>People have asked me multiple times whether they can transfer pictures from their cameras to their iPad. And every time I have to tell them that it's a long process involving your computer or you need to buy Apple's Camera connection kit that includes 2 different connectors for transferring from the camera's USB cable or SD Card. While that seems to either satisfy or put people off (depending on the general Apple image in their mind), I personally never liked the Apple Camera Connection kit so much. I know it's not that big a trouble but why would I want to carry 2 connectors all the time. Apparently there is a solution. And it's pretty good!</p>
 <p><img class="alignnone size-full wp-image-5587" title="camera_iPad_2" src="/wp/wp-content/uploads/2010/12/camera_iPad_2.jpg" alt="" width="340" height="303" /> <img class="alignnone size-full wp-image-5586" title="camera_iPad_1" src="/wp/wp-content/uploads/2010/12/camera_iPad_1.jpg" alt="" width="225" height="301" /></p>

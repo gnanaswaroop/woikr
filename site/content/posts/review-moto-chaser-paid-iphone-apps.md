@@ -4,6 +4,8 @@ date: 2008-09-19T20:18:56
 url: /gaming/review-moto-chaser-paid-iphone-apps/
 categories: ["Gaming", "Apple", "iPhone", "Reviews"]
 tags: ["moto chaser", "moto chaser iphone", "moto chaser review", "iphone racing game", "iphone bike racing", "moto racer app store", "moto racer iphone", "iphone game", "paid iPhone app"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img class="alignnone" src="/wp/wp-content/uploads/2008/09/moto_chaser_lead.png" alt="" width="593" height="225" /></p>
 <p>Moto Chaser [<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284881537&amp;mt=8" target="_blank">iTunes Store URL</a>] is a bike racing game for iPhone and iPod Touch available on the App store for $5.99. The game is getting good reviews by the users lately. The developers reduced the price of the game from $9.99 to $5.99 recently. Is it really worth the price? Lets find out.</p>

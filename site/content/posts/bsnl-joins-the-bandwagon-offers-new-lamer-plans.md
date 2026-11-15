@@ -4,6 +4,8 @@ date: 2010-03-24T12:23:47
 url: /telecom/bsnl-joins-the-bandwagon-offers-new-lamer-plans/
 categories: ["Telecom", "News"]
 tags: ["bsnl broadband", "bsnl", "broadband india", "high speed internet in India"]
+author: "Setu"
+authors: ["setu"]
 ---
 <img src="/wp/wp-content/uploads/2010/03/bsnllogo1_thumb.jpg" alt="" />
 <p>State owned <a href="http://www.google.com/url?sa=t&amp;source=web&amp;ct=res&amp;cd=3&amp;ved=0CB0QFjAC&amp;url=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBharat_Sanchar_Nigam_Limited&amp;ei=FLKpS7ukI5PUtgORyoHhBQ&amp;usg=AFQjCNFYcAPaZ0biPfgxcekVmIw6m51ntg&amp;sig2=mA24PRuVhXD1r72cAwhK0g" target="_blank">Bharat Sanchar Nigam Limited</a> (BSNL) does not want to stay behind in the lame tactics of ISPs in India. They have come up with plans going up to 2 Mbps, but with terribly absurd <a href="http://www.broadbandchoices.co.uk/fair-usage-broadband.html" target="_blank">FUP</a>.</p>

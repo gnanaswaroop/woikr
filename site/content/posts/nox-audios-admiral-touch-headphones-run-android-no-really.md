@@ -4,6 +4,8 @@ date: 2011-01-09T23:22:47
 url: /android/nox-audios-admiral-touch-headphones-run-android-no-really/
 categories: ["Android"]
 tags: ["Android Headphones", "Google Android", "Headphones", "Audiophile gear"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>I know Android's popularity is growing exponentially. I expected a plethora of Android tablets and smartphones to be launched this CES. But I never expected Android will become a use <em>every-frickin-where</em> OS so soon! Android on Headphones, seriously? Also, why is their a screen on the headphones? I must say though, the stainless steel Admiral Touch from Nox Audio are arguably the coolest headphones I've ever seen.</p>
 <p><img title="nox_audio_admiral_touch" src="/wp/wp-content/uploads/2011/01/nox_audio_admiral_touch-300x199.jpg" alt="Nox Audio Android Headphones" width="300" height="199" /></p>

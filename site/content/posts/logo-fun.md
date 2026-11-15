@@ -4,6 +4,8 @@ date: 2011-04-24T13:17:07
 url: /lol/logo-fun/
 categories: ["LOL"]
 tags: ["youtibe logo", "facebook logo", "nintendo logo"]
+author: "Setu"
+authors: ["setu"]
 aliases: ["/lol/logo-fun"]
 ---
 <p>Here is something I found in the humor section of my feeds. Pretty funny, yet true:</p>

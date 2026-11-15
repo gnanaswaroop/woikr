@@ -4,6 +4,8 @@ date: 2010-03-10T20:08:12
 url: /telecom/double-your-airtel-broadband-speed-with-100-rupees-top-up/
 categories: ["Telecom", "News"]
 tags: ["Airtel", "airtel broadband", "airtel broadband tariffs", "airtel high speed plans", "airtel broadband top up scheme", "airtel broadband double speed offer"]
+author: "Setu"
+authors: ["setu"]
 ---
 <a href="/wp/wp-content/uploads/2010/03/image5.png"><img title="image" src="/wp/wp-content/uploads/2010/03/image_thumb5.png" alt="image" width="244" height="184" /></a>
 

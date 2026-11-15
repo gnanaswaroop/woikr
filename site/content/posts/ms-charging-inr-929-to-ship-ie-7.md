@@ -4,6 +4,8 @@ date: 2008-10-21T16:27:21
 url: /lol/ms-charging-inr-929-to-ship-ie-7/
 categories: ["LOL"]
 tags: ["IE 7 shipping"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 Looks like the slowdown is affecting Microsoft as well and they are inventing insane ways (just like <a href="/wtf/yahoo-charging-insane-amount-for-domain-renewals/" target="_blank">Yahoo</a>) to earn money.
 

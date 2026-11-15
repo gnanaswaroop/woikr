@@ -4,6 +4,8 @@ date: 2010-12-30T12:24:25
 url: /misc/beer-throwing-cannon-with-an-iphone-remote/
 categories: ["Misc"]
 tags: ["iPhone accessories", "iPhone beer cannon", "beer cannon", "iphone application"]
+author: "Swaroop"
+authors: ["swaroop"]
 ---
 One lazy day, you feel thirsty and can't get up from the couch as you just had double cheese burst pizza, you lie in your couch feeling disgusted that you’re a loner who doesn’t have any one else to toss a beer for you in times of need.
 

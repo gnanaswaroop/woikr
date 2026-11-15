@@ -4,6 +4,8 @@ date: 2012-02-06T21:33:11
 url: /telecom/how-airtel-is-alienating-its-premium-customers/
 categories: ["Telecom", "WTF?"]
 tags: ["airtel sucks", "Airtel"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="failtel.png" src="/wp/wp-content/uploads/2012/02/failtel.png" alt="failtel" width="73" height="73" /></p>
 <p>I am not sure if there is any official terminology, but in my opinion, a premium customer to a telecom company is one who is ready to try their new (and expensive) services, pays bills well within due date, subscribes to ebills &amp; pays bill online (as it saves logistic costs for the company). There may be more criterion, but these are the basic ones in my opinion. By this logic, most software professionals (including me) will be premium customers to the telecom sectors.</p>

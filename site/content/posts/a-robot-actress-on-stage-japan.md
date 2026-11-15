@@ -4,6 +4,8 @@ date: 2010-11-14T10:09:39
 url: /news/a-robot-actress-on-stage-japan/
 categories: ["News"]
 tags: []
+author: "Chirag"
+authors: ["chirag"]
 ---
 Well,  I didn't imagine this day will come so soon. A Japanese robot named Geminoid F has been cast in a stage play.  And she (it?) is perfect casting because she plays an android!
 

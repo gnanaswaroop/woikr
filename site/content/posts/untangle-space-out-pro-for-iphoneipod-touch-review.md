@@ -4,6 +4,8 @@ date: 2011-01-19T22:56:11
 url: /gaming/untangle-space-out-pro-for-iphoneipod-touch-review/
 categories: ["Gaming", "iPhone", "Reviews"]
 tags: ["iPhone", "ipod touch", "iPhone games", "iPod Games", "Puzzle Games for iPhone", "iPhone Game Reviews", "iPod Touch Puzzle Games", "Untangle Space Out", "Untangle Space Out Pro", "Apostek"]
+author: "Chirag"
+authors: ["chirag"]
 aliases: ["/iphone/untangle-space-out-pro-for-iphoneipod-touch-review/"]
 ---
 <p><a href="http://itunes.apple.com/us/app/untangle-space-out-pro/id393068616?mt=8" target="_blank">Untangle Space Out Pro</a> belongs to the most popular genre of games on iPhone - the puzzle genre. While this genre is full of dated styles like Jigsaw Puzzles, once in a while you see some really interesting games like Angry Birds and Cut the Rope that get you hooked and can challenge the brain. Although not an instant classic, Untangle Space Out is fun, challenging and one of the better puzzle games around.</p>

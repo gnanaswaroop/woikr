@@ -4,6 +4,8 @@ date: 2012-10-27T19:39:06
 url: /howto/fix-icloud-duplicate-notes-issues-in-mountain-lion/
 categories: ["How Tos", "Apple", "Mac"]
 tags: ["mountain lion", "Mountain Lion Notes issue", "Duplicate iCloud Notes", "Duplicate Notes Mountain Lion"]
+author: "Chirag"
+authors: ["chirag"]
 aliases: ["/apple/fix-icloud-duplicate-notes-issues-in-mountain-lion/"]
 ---
 <strong>UPDATE: Please be very sure to backup the notes file before you do this and be sure this is only used on Mountain Lion.</strong>

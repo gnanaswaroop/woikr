@@ -4,6 +4,8 @@ date: 2011-01-04T10:04:53
 url: /iphone/save-phone-extensions-in-contacts-iphone-tips/
 categories: ["iPhone"]
 tags: ["iphone tips", "iPhone", "iphone contacts", "phone extension", "extension number", "iphone contact extension"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="NewImage.jpg" src="/wp/wp-content/uploads/2011/01/NewImage14.jpg" alt="NewImage.jpg" width="250" height="228" /></p>
 <p>Do you have to call a lot of phone numbers where you have to dial an extension? Do you have many friends with desk extensions? Then this tip is for you. There is a way you can save a contact's extension in your iPhone and it will dial it for you when you call that contact. Here is how:</p><ul>

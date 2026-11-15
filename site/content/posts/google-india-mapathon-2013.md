@@ -4,6 +4,8 @@ date: 2013-02-16T11:57:38
 url: /google/google-india-mapathon-2013/
 categories: ["Google"]
 tags: ["google india", "google maps india", "google map maker", "google map maker india"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="google-maps-ios-logo.png" alt="google maps for iOS" src="/wp/wp-content/uploads/2012/12/google-maps-ios-logo.png" width="183" height="183" /></p>
 <p>We all know that mapping the world is not easy. Google has done a great job in developed countries but collaborating with the authorities. However, for developing countries like India, where establishments and points of interests change as frequently as every 6 months, it is difficult to just rely on the government authorities to provide accurate up to date data.</p>

@@ -4,6 +4,8 @@ date: 2010-08-06T17:42:44
 url: /google/good-bye-google-wave/
 categories: ["Google", "News"]
 tags: ["google wave", "wave", "good bye", "google wave failure", "google wave success", "who uses wave", "wave uses", "google wave users", "Google", "wave good bye", "wave usage", "wave is awesome", "google wave fail"]
+author: "Swaroop"
+authors: ["swaroop"]
 ---
 <a href="/wp/wp-content/uploads/2010/08/wave_logo_product.png"><img title="wave_logo_product" src="/wp/wp-content/uploads/2010/08/wave_logo_product_thumb.png" alt="wave_logo_product" width="136" height="39" /></a>
 

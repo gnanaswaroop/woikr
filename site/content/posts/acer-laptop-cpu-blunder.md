@@ -4,6 +4,8 @@ date: 2008-10-20T15:53:27
 url: /wtf/acer-laptop-cpu-blunder/
 categories: ["WTF?"]
 tags: ["Acer 5920 wrong CPU", "Acer 5920 blunder", "Acer 5920 wrong configuration"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 A few weeks back a friend of mine purchased an <a href="/reviews/review-acer-5920-series-laptops/">Acer 5920</a> notebook with <a href="http://processorfinder.intel.com/details.aspx?sSpec=SLA4D" target="_blank">Intel T5750</a> chipset. When the OS was setup and everything, I did what I always do when I see new computers - fire up dxdiag to see the configuration.
 

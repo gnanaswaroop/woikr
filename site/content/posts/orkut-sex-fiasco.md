@@ -4,6 +4,8 @@ date: 2009-03-04T12:18:58
 url: /lol/orkut-sex-fiasco/
 categories: ["LOL"]
 tags: []
+author: "Swaroop"
+authors: ["swaroop"]
 ---
 Orkut apparently thinks my friends are women.<br>
 So all my male friends out there are still get comments and is being reported as "received comments on <span>her photo</span>".

@@ -4,6 +4,8 @@ date: 2015-08-01T05:14:22
 url: /news/intel-and-micron-announce-storage-1000-times-faster-than-current-flash-storage/
 categories: ["News"]
 tags: []
+author: "Setu"
+authors: ["setu"]
 ---
 <a href="/wp/wp-content/uploads/2015/08/intel-logo.jpg"><img class="alignnone size-full wp-image-9698" src="/wp/wp-content/uploads/2015/08/intel-logo.jpg" alt="intel-logo" width="273" height="185" /></a>
 <p>Intel and Micron have announced a new 3D XPoint memory technology that is 1000 times faster than the current NAND bases flash storage options. A breakthrough in computer storage, this  is the first new type of non volatile computer memory created in 25 years.</p>

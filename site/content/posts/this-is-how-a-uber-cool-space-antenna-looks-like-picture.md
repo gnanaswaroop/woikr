@@ -4,6 +4,8 @@ date: 2011-01-02T13:04:36
 url: /misc/this-is-how-a-uber-cool-space-antenna-looks-like-picture/
 categories: ["Misc"]
 tags: ["Space Antenna", "SciFi But Real", "Atacama Pathfinder Experiment"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <a href="/wp/wp-content/uploads/2011/01/antenna-night.jpg"><img title="antenna-night" src="/wp/wp-content/uploads/2011/01/antenna-night-300x168.jpg" alt="" width="300" height="168" /></a>
 <p>This may look like a still from a SciFi but it's as real as it gets. From what I could understand from the below description, it's some kind of space antenna used for understanding the universe the better.</p>

@@ -4,6 +4,8 @@ date: 2008-09-03T01:21:35
 url: /first-look/first-look-google-chrome/
 categories: ["First Look", "Google"]
 tags: ["Google Browser review", "Google Chrome review", "Google Chrome first look", "google chrome"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>After reading the <a href="http://googleblog.blogspot.com/2008/09/fresh-take-on-browser.html" target="_blank">morning news</a>, I have been anxiously waiting for Google Chrome. And finally, the not-so-long <a href="http://googleblog.blogspot.com/2008/09/google-chrome-now-live.html" target="_blank">wait</a> is over. You can download Google Chrome here: <a href="http://www.google.com/chrome/" target="_blank">http://www.google.com/chrome/</a></p>
 <p><a href="http://gears.google.com/chrome/"></a>Sadly, there seems to be some issues with Google Chrome's download page in Firefox and Chrome itself! In case you are unable to download, try downloading in IE.</p>

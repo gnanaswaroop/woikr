@@ -4,6 +4,8 @@ date: 2011-07-31T09:54:41
 url: /mac/accessing-the-hidden-dock-from-full-screen-apps-os-x-lion/
 categories: ["Mac"]
 tags: ["OS X Lion", "Mac OS X", "Mac OS Lion", "Mac OS Lion Dock problem", "Dock not appearing in Full screen apps", "Full Screen apps Dock issue", "Lion Full Screen apps"]
+author: "Chirag"
+authors: ["chirag"]
 aliases: ["/mac/accessing-the-hidden-dock-from-full-screen-apps-os-x-lion"]
 ---
 <p>I keep the Dock on my Macbook hidden towards the left side of my screen. It shows up whenever I take my mouse in the right (left?) place. It's an almost essential trick to save screen space if you have one of the smaller laptops. But when I switched to Lion last week I realized that this approach didn't work so well with Full Screen apps. The Dock doesn't show up automatically when you take your cursor in the right spot. In practice, this meant that every time I wanted to bring up the Dock, I had to goto a normal Desktop or Mission Control. No doubt this irked me.</p>

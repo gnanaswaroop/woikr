@@ -4,6 +4,8 @@ date: 2012-09-06T23:49:56
 url: /first-look/firstlook-lumia-920-820-windows-phones-nokia-hopes-for-a-comeback/
 categories: ["First Look", "Mobile Phones"]
 tags: ["Windows Phone 8", "Windows Phone", "Nokia Lumia", "Nokia Comeback", "Nokia Lumia 920", "Nokia Lumia 820. Windows Phones", "Microsoft Mobile"]
+author: "Swaroop"
+authors: ["swaroop"]
 ---
 <p>This month’s all about technology launches.. Windows Phone 8, Windows 8, Nokia’s Lumia Phones, Samsung ATIV WP8 Phones, iPhone 5, Amazon Kindle Fire 2, Apple iPhone 5, Apple iPad Mini (still rumored), iOS6.</p>
 <p>Nokia announced it’s much awaited flagship Windows Phone 8 phones – the Lumia 920 and 820. Just like the Apple iPhone 4S, Nokia wishes to sell it's new Camera capabilities (PureView) in these new phones.</p>

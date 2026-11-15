@@ -4,6 +4,8 @@ date: 2011-01-03T22:03:41
 url: /android/samsung-sells-10-million-galaxy-s-phones-half-still-on-2-1/
 categories: ["Android"]
 tags: ["Google Android Fragmentation", "Google Android", "Samsung Galaxy S", "Galaxy S 10 million", "Galaxy S Froyo", "Galaxy S US froyo"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p><a href="/wp/wp-content/uploads/2011/01/Samsung-i9000-galaxy-s.jpg"><img class="alignnone size-medium wp-image-5816" title="Samsung-i9000-galaxy-s" src="/wp/wp-content/uploads/2011/01/Samsung-i9000-galaxy-s-300x217.jpg" alt="" width="300" height="217" /></a></p>
 <p>With <a href="http://en.wikipedia.org/wiki/Samsung_Galaxy_S#Hardware" target="_blank">specs</a> good enough to compete the best in the market, <a href="http://en.wikipedia.org/wiki/Samsung_Galaxy_S#Variants" target="_blank">variants</a> that looked like totally different phone models, Samsung's Galaxy S was deemed to succeed. And it did. As of now it's official that they have sold 10 million of these devices.</p>

@@ -4,6 +4,8 @@ date: 2011-08-25T22:17:39
 url: /gaming/portal-no-escape-live-action-short-film/
 categories: ["Gaming"]
 tags: ["Portal movie", "Half Life Portal", "Portal Live action video"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 Brilliant. Take your sweet time but watch this at length.
 

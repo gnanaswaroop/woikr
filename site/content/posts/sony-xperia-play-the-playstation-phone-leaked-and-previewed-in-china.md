@@ -4,6 +4,8 @@ date: 2011-01-07T23:28:50
 url: /gaming/sony-xperia-play-the-playstation-phone-leaked-and-previewed-in-china/
 categories: ["Gaming"]
 tags: ["Xperia Play", "Sony Playstation Phone", "PS Phone", "PSP Phone", "playstation portable", "Sony Android", "Playstation Android"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>The last Sony Product I bought was a PlayStation Portable Slim. It's not like I hate Sony but I haven't found any interesting products from them for so long! The two lines that interest me most are phones and gaming consoles. When it comes to Sony phones, the Xperia line looks good on paper but everyone who has used them knows they are just average Android phones. More importantly Sony is one of those companies that believes in forgetting their phones. That was proved by them deciding not to upgrade their Xperia flagship X10 to Froyo. Coming to gaming consoles, Kinect pretty much made sure that I wasn't gonna buy a PS3 anytime in the future. I'll stick to my Xbox for at least the next couple of years.</p>
 <p><img title="android" src="/wp/wp-content/uploads/2011/01/android.jpg" alt="Android Playstation" width="320" height="320" /></p>

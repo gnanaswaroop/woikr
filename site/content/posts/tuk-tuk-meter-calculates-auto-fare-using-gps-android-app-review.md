@@ -4,6 +4,8 @@ date: 2011-01-30T18:23:16
 url: /android/tuk-tuk-meter-calculates-auto-fare-using-gps-android-app-review/
 categories: ["Android", "Reviews"]
 tags: ["Tuk Tuk Meter", "Tuk Tuk for Android", "Auto fare Android Phones", "Calculate Auto fare on Phone", "Auto Fare app", "Distance Calculation app", "Calculate Distance using GPS"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <a href="/wp/wp-content/uploads/2011/01/tuktuk1.png"><img class="alignnone size-medium wp-image-6633" title="tuktuk1" src="/wp/wp-content/uploads/2011/01/tuktuk1-180x300.png" alt="Tuk Tuk Meter" width="180" height="300" /></a>
 <p>Tuk Tuk meter has a simple aim. It wants to prevent people from being conned by auto-rickshaws around the country. How? They provide mobile apps for Blackberry, Android, Symbian and Java based phones that allow you to calculate the correct fare. In their words:</p>

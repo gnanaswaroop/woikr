@@ -4,6 +4,8 @@ date: 2013-10-09T13:12:57
 url: /news/get-ready-for-smart-electricity-meters-in-india/
 categories: ["News"]
 tags: ["electricity meters", "smart meters", "electricity meters india"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="smart-electric-meters.png" src="/wp/wp-content/uploads/2013/10/smart-electric-meters.png" alt="smart electric meters" width="240" height="160" /></p>
 <p>Government has launched smart electricity meters in Delhi which will enable the consumers to monitor electricity usage in real time for different devices and save on their energy bills. The meters, in addition to being super accurate in reporting electricity usage, will be capable of informing consumers about electricity rates at different times of the day. Government is preparing to launch peak and non peak tariffs which will help consumers in lowering their electricity bills and help the power companies in distributing the power generation efficiently throughout the day.</p>

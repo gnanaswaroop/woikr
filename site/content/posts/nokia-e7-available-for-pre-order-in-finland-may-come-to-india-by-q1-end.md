@@ -4,6 +4,8 @@ date: 2011-01-19T23:32:57
 url: /rumors/nokia-e7-available-for-pre-order-in-finland-may-come-to-india-by-q1-end/
 categories: ["Rumors", "Mobile Phones"]
 tags: ["Nokia E7 Launch Date", "Nokia E7 India release", "Nokia E7 price", "Nokia E7 India price", "Nokia E7 Finland available", "Nokia Communicator"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <a href="/wp/wp-content/uploads/2011/01/nokia_e7_communicator.jpg"><img class="alignnone size-medium wp-image-6416" title="nokia_e7_communicator" src="/wp/wp-content/uploads/2011/01/nokia_e7_communicator-300x258.jpg" alt="Nokia E7 Communicator" width="300" height="258" /></a>
 <p>Nokia may be down but it's definitely not out (I'm out of clichéd lines btw). Their new Nokia E7 communicator looks better than any of those bulky communicator devices I am used to and packs enough to bring Nokia back in the game.</p>

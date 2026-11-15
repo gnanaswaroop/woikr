@@ -4,6 +4,8 @@ date: 2011-10-08T08:05:15
 url: /news/aaramshop-offers-your-groceries-online-from-your-local-kirana-store/
 categories: ["News"]
 tags: ["aaramshop", "ecommerce india", "online groceries india"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="aaramshop-logo.png" src="/wp/wp-content/uploads/2011/10/aaramshop-logo.png" alt="aaramshop" width="110" height="150" /></p>
 <p>India is witnessing e-commerce revolution. And in order to succeed, startups are trying out all kinds of unique and innovative business ideas. One such startup called <a href="http://www.aaramshop.com/">Aaramshop</a> has tied up with your local kirana stores in your neighborhood and let you purchase your groceries online. They then send your order to the store which delivers it to you.</p>

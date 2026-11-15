@@ -4,6 +4,8 @@ date: 2011-01-06T09:50:25
 url: /android/motorola-atrix-4g-a-laptop-and-phone-hybrid-seriously/
 categories: ["Android"]
 tags: ["Motorola Atrix", "Phone and Laptop Hybrid", "CES", "nVidia Tegra", "QHD Display", "Pocket or Dock it", "Motorola Atrix 4G"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>We've seen literally 100s of tablets and phone announcements in last 2 days. Most of them are just different companies matching up to the already announced Tegra 2 phones and Android Tablets and some falling behind. But Motorola seems to have something interesting in their line-up. The Motorola Atrix 4G apparently is a hybrid between your phone and your laptop. We thought that this is what the Tablets were for but Motorola defines it a bit differently.</p>
 <p><img title="atrix4g" src="/wp/wp-content/uploads/2011/01/atrix4g.jpg" alt="Motorola Atrix 4G" width="600" height="224" /></p>

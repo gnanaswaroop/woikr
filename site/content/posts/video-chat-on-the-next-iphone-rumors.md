@@ -4,6 +4,8 @@ date: 2010-04-11T17:09:08
 url: /rumors/video-chat-on-the-next-iphone-rumors/
 categories: ["Rumors", "iPhone"]
 tags: ["iphone video chat", "iphone ichat", "iphone video conference", "mobile video chat", "iPhone", "next gen iphone", "iphone new version"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p><a href="/wp/wp-content/uploads/2010/04/iPhone_video_chat.jpg"><img class="alignnone size-medium wp-image-3848" title="iPhone_video_chat" src="/wp/wp-content/uploads/2010/04/iPhone_video_chat-300x199.jpg" alt="" width="300" height="199" /></a></p>
 <p>While digging through the iPhone OS 4.0 files, <a href="http://www.9to5mac.com/14377/Video-Chat-coming-in-future-iPhonesiPads" target="_blank">9to5Mac</a> came across multiple strings and files that hint the inclusion of video chat on the next iPhone model. The content found indicates the presence of iChat like sound files and one-to-one as well as multiple client video conferencing features.</p>

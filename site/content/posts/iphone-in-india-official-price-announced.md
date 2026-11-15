@@ -4,6 +4,8 @@ date: 2008-08-20T08:32:04
 url: /apple/iphone-in-india-official-price-announced/
 categories: ["Apple", "iPhone"]
 tags: ["iPhone", "Airtel iPhone", "India 3G", "iPhone price", "Vodafone iPhone", "iPhone India", "iPhone India Price"]
+author: "Swaroop"
+authors: ["swaroop"]
 ---
 <p>Vodafone sent out emails to all its pre-registered users for pricing information on iPhone 3G here in India.</p>
 <p>After all its going to be 31,000 INR for 8GB version and 36,100 INR for the 16 GB Version. (that's a 713$ and 823$)</p>

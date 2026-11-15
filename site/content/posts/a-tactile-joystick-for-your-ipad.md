@@ -4,6 +4,8 @@ date: 2011-01-05T08:21:34
 url: /gaming/a-tactile-joystick-for-your-ipad/
 categories: ["Gaming", "iPad"]
 tags: ["fling", "iPad", "ipad joystick", "fling joystick", "ipad gaming", "tactile gaming on ipad"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="NewImage.jpg" src="/wp/wp-content/uploads/2011/01/NewImage25.jpg" alt="NewImage.jpg" width="180" height="148" /></p>
 <p>All these touchscreen devices have one thing in common - the lack of <a href="http://www.google.com/search?q=define%3Atactile">tactile</a> gaming. And the iPad is no exception. So a company called <a href="http://tenonedesign.com/">Ten One Design</a> which makes some cool accessories for (mostly) apple products have come up with this uber cool looking joystick for iPad - <a href="http://tenonedesign.com/fling.php">Fling</a>.</p>

@@ -4,6 +4,8 @@ date: 2013-09-07T20:06:39
 url: /news/meru-cabs-ios-and-android-apps-now-available/
 categories: ["News"]
 tags: ["radio cabs india", "cab app india", "taxi app"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="meru-app-icon.png" src="/wp/wp-content/uploads/2013/09/meru-app-icon.png" alt="meru-app-icon" width="175" height="175" /></p>
 <p>Radio cab service provider Meru has launched its iOS and Android apps to enable users to book their cabs anytime and anywhere. The apps offer features like live map view, ICE alert and push notifications to give users more control on their cab bookings.</p>

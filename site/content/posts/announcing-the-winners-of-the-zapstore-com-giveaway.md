@@ -4,6 +4,8 @@ date: 2011-12-15T14:42:09
 url: /contests/announcing-the-winners-of-the-zapstore-com-giveaway/
 categories: ["Giveaways"]
 tags: ["ZAPstore", "Giveaways"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="Untitled.jpg" src="/wp/wp-content/uploads/2011/12/Untitled.jpg" alt="Untitled.jpg" /></p>
 <p>Here are the winners of the <a href="http://www.ZapStore.com">ZapStore.com</a> sponsored giveaway:</p>

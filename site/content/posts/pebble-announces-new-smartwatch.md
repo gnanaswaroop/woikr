@@ -4,6 +4,8 @@ date: 2015-02-25T02:02:52
 url: /news/pebble-announces-new-smartwatch/
 categories: ["News"]
 tags: []
+author: "Setu"
+authors: ["setu"]
 ---
 &nbsp;
 

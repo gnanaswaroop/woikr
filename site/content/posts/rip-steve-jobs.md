@@ -4,6 +4,8 @@ date: 2011-10-06T06:21:53
 url: /news/rip-steve-jobs/
 categories: ["News", "Apple"]
 tags: ["steve jobs", "Apple", "icon", "steve jobs dies", "steve jobs death"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="RIP-Steve-Jobs.jpg" src="/wp/wp-content/uploads/2011/10/RIP-Steve-Jobs.jpg" alt="RIP Steve Jobs" width="600" height="422" /></p>
 <p>It is a sad day. <a href="http://en.wikipedia.org/wiki/Steve_Jobs">Steve Jobs</a>, the iCon of the technology industry and the creator of some of the most innovative products &amp; companies has passed away. The news of Steve Jobs death was broken on the <a href="http://www.apple.com">Apple's homepage</a> and a <a href="http://www.apple.com/pr/library/2011/10/05Statement-by-Apples-Board-of-Directors.html">statement by Apple's Board of Directors</a>.</p>

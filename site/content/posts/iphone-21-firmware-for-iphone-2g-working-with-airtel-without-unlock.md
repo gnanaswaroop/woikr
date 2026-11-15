@@ -4,6 +4,8 @@ date: 2008-09-27T00:54:42
 url: /apple/iphone-21-firmware-for-iphone-2g-working-with-airtel-without-unlock/
 categories: ["Apple", "iPhone"]
 tags: ["iPhone Unlock", "iphone airtel", "iphone 2G airtel", "iPhone India", "iphone 2.1", "iphone 2.1 airtel", "iphone 2.1 unlock", "old iphone upgrade"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img class="alignnone" src="/wp/wp-content/uploads/2008/09/iphone-2_1_airtel_lead.jpg" alt="" width="593" height="225" /></p>
 <p><strong>[UPDATE]: This was happening as Apple did not upgrade the baseband in 2.1, 2.2 or 2.2.1. So, if you update from an unlocked 2.0 to these versions, your iPhone will remain unlocked.</strong> <strong>If you are upgrading from previous versions (1.1.x), please follow <a href="/iphone/how-to-upgrade-and-unlock-your-iphone-2g-using-quickpwn" target="_blank">woikr's guide to upgrade and unlock using QuickPwn</a></strong>.</p>

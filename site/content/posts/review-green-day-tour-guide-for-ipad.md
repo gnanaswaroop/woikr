@@ -4,6 +4,8 @@ date: 2011-01-07T09:10:22
 url: /ipad/review-green-day-tour-guide-for-ipad/
 categories: ["iPad", "Reviews"]
 tags: ["green day", "green day tour", "green day ipad", "ipad concert"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="NewImage.jpg" src="/wp/wp-content/uploads/2011/01/NewImage48.jpg" alt="NewImage.jpg" width="128" height="128" /></p>
 <p><a href="http://itunes.apple.com/app/green-day-tour-guide-for-ipad/id412491616?mt=8#">Green Day Tour Guide for iPad</a> is an amazing app for <a href="http://en.wikipedia.org/wiki/Green_Day">Green Day</a> Fans. Specifically designed for the iPad, it is the go to guide for all the info you will need for Green Day tours.</p>

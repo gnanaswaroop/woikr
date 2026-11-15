@@ -4,6 +4,8 @@ date: 2014-03-12T22:06:27
 url: /apple/review-nomad-chargekey-for-lightning-devices/
 categories: ["Apple", "iPhone", "Reviews"]
 tags: ["nomad", "chargekey", "portable iphone charger"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="nomad logo.png" alt="nomad logo" src="/wp/wp-content/uploads/2014/03/nomad-logo.png" width="167" height="49" /></p>
 <p>All of us have faced a situation where we ran out of battery on our iPhone and looked around for a charger and never found one. At such a time we wonder if there can be a charger that we can always have. There are the two things that we mostly never forget - our wallet and our keys. <a href="http://www.hellonomad.com">Nomad</a> has come up with these innovative USB chargers which can fit in your wallet (the <a href="http://www.hellonomad.com/products/chargecard-iphone5">chargecard</a>) and in your keychain (the <a href="http://www.hellonomad.com/products/chargekey-iphone5">chargekey</a>). Nomad sent us a chargekey to review. Read on to find out how we found it.</p>

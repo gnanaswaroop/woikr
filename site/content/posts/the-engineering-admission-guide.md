@@ -4,6 +4,8 @@ date: 2011-05-15T14:52:24
 url: /howto/the-engineering-admission-guide/
 categories: ["How Tos"]
 tags: ["Engineering in India", "How to choose an Engineering college", "IT vs CSE", "Computer Science vs Information Technology", "Electronics vs Computers", "IT vs ECE", "Engineering admissions in India"]
+author: "nimesh"
+authors: ["nimesh"]
 ---
 <p><a href="/wp/wp-content/uploads/2011/05/IIT-Roorkee_400x257.jpg"><img title="IIT Roorkee_400x257" src="/wp/wp-content/uploads/2011/05/IIT-Roorkee_400x257.jpg" alt="IIT Roorkee" width="400" height="257" /></a></p>
 <p>Ever since I graduated, every year I receive queries regarding engineering admissions. This blog post is a sincere effort to highlight some of the key points to be considered during admissions. The suggestions are based on my personal experiences and observations.</p>

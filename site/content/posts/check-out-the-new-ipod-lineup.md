@@ -4,6 +4,8 @@ date: 2012-09-14T23:58:28
 url: /news/check-out-the-new-ipod-lineup/
 categories: ["News", "Apple"]
 tags: ["new ipods", "ipod 2012", "ipod touch 4 inches", "ipod touch loop"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="ipod-touch-2012.png" src="/wp/wp-content/uploads/2012/09/ipod-touch-2012.png" alt="ipod touch" width="600" height="325" /></p>
 <p>In addition to launching the <a href="/apple/the-iphone-5-is-here/">iPhone 5</a>, Apple also announced its new lineup of iPods. They have done major hardware upgrades to iPod touch and iPod nano. Lets look at both of them.</p>

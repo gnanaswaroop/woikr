@@ -4,6 +4,8 @@ date: 2012-09-14T22:17:12
 url: /news/the-iphone-5-is-here/
 categories: ["News", "Apple", "iPhone"]
 tags: ["iphone 5 india", "iPhone 5", "latest iphone", "4 inch iphone"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="iphone-5.png" src="/wp/wp-content/uploads/2012/09/iphone-5.png" alt="iPhone 5" width="600" height="195" /></p>
 <p>Apple launched the much awaited <a href="http://www.apple.com/iphone/">iPhone 5</a> yesterday at a media event in San Francisco. The new model has a 4 inches retina display and a redesigned body as the key upgrades which are visually apparent. The other key features are:</p>

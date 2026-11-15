@@ -4,6 +4,8 @@ date: 2009-02-26T14:13:30
 url: /news/gmail-attach-multiple-files-in-one-go-monitor-upload-progress/
 categories: ["News"]
 tags: ["gmail", "gmail attachments", "gmail multi select", "gmail progress bar attachment", "gmail new feature"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><a href="/wp/wp-content/uploads/2008/11/gmail_logo.png"><img class="alignnone size-full wp-image-1701" title="gmail_logo" src="/wp/wp-content/uploads/2008/11/gmail_logo.png" alt="gmail_logo" width="147" height="68" /></a></p>
 <p>This is something I have been cribbing about all the time in web based email systems. Whenever I have to attach multiple files to an email, I have to select each of them individually. Not from today.</p>

@@ -4,6 +4,8 @@ date: 2011-02-16T09:23:50
 url: /android/htc-names-their-facebook-phones-chacha-and-salsa/
 categories: ["Android", "Mobile Phones"]
 tags: ["HTC Salsa", "HTC Chacha", "HTC Facebook Phones", "Facebook Phones", "First Facebook Phones", "HTC Facebook Dedicated button", "One-touch facebook access", "Android Gingerbread", "android", "android 2.3"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>Remember the <a href="/rumors/facebook-phones-by-htc-with-dedicated-f-buttons-rumor" target="_self">leaked HTC Facebook phones</a> we were talking about the day before? HTC has finally announced them with ridiculous names - ChaCha and Salsa. The phones feature a dedicated Facebook button for one-touch access to the key Facebook features. HTC Sense on these phones has also been customized to integrate Facebook in every possible way.</p>
 <p><a href="/wp/wp-content/uploads/2011/02/facebook_phones.jpg"><img class="alignnone size-medium wp-image-7054" title="facebook_phones" src="/wp/wp-content/uploads/2011/02/facebook_phones-300x153.jpg" alt="HTC Facebook Phones" width="300" height="153" /></a></p>

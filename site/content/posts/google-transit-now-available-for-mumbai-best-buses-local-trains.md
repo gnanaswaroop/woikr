@@ -4,6 +4,8 @@ date: 2011-03-31T19:10:05
 url: /google/google-transit-now-available-for-mumbai-best-buses-local-trains/
 categories: ["Google", "News"]
 tags: ["google transit", "mumbai best routes", "mumbai local trains map", "mumbai transit"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="NewImage.png" src="/wp/wp-content/uploads/2011/03/NewImage38.png" alt="NewImage" width="187" height="143" /></p>
 <p>Google Maps already provides <a href="/google/delhi-metro-routes-now-available-on-google-maps">Metro routes in Delhi</a> &amp; transit information for their users in Bangalore &amp; Pune. The same transit information is now available to Mumbai users with Google maps offering information about <a href="http://en.wikipedia.org/wiki/BEST_Bus">BEST</a> buses &amp; the infamous Mumbai <a href="http://en.wikipedia.org/wiki/Mumbai_local_train">local train system</a>.</p>

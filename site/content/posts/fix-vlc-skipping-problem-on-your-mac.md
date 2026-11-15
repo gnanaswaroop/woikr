@@ -4,6 +4,8 @@ date: 2009-10-02T05:37:46
 url: /mac/fix-vlc-skipping-problem-on-your-mac/
 categories: ["Mac"]
 tags: ["switch to a mac", "window to mac", "VideoLan Client on Mac", "VLC on Mac", "VLC skipping problem"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>I love VLC. The simple reason: it comes in a package. No clumsy codec downloads or crappy, hard to update codec packs. So when I thought of switching to Mac (will talk about that during the coming weeks), I was happy to see that VLC was there.</p>
 <p>But VLC on Mac comes packed with a huge problem. All your movies, TV Shows skip randomly and the whole  experience is not perfect at all. It feels like playing from a badly scratched DVD. The surprising thing is that the same videos work flawlessly in QuickTime + Perian, which by the way is way better than any windows-based codec pack.</p>

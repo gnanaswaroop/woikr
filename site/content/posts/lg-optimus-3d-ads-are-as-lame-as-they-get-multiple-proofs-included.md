@@ -4,6 +4,8 @@ date: 2011-02-16T18:29:33
 url: /wtf/lg-optimus-3d-ads-are-as-lame-as-they-get-multiple-proofs-included/
 categories: ["WTF?"]
 tags: ["LG Optimus 3D", "Optimus 3D ads", "Stupid Ads", "Lame advertisements", "LG advertisement", "LG Mobile ads", "LG Yoga Ad", "Android Mobile Phones", "3D Mobile Phones", "Yoga Optimus 3D"]
+author: "Chirag"
+authors: ["chirag"]
 aliases: ["/wtf/lg-optimus-3d-ads-are-as-lame-as-they-get-multiple-proofs-included"]
 ---
 <p>LG's new Android mobile phone - Optimus 3D maybe awesome but it's advertisements are as lame as they get. The ads try to show the viewers how a 3D mobile phone can <em>boost </em>their day to day life.</p>

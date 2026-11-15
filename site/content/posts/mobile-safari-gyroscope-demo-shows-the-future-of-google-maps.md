@@ -4,6 +4,8 @@ date: 2010-12-22T15:08:07
 url: /iphone/mobile-safari-gyroscope-demo-shows-the-future-of-google-maps/
 categories: ["iPhone"]
 tags: ["google maps", "360 Panorama", "Occipital", "Gyroscope Mobile Safari", "Gyroscope demo", "iPhone Gyroscope"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <div>
 <p>While making their new iPhone app <a href="http://itunes.apple.com/us/app/360-panorama/id377342622?mt=8" target="_blank">360 Panarama</a>, Occipital discovered that Mobile Safari can actually utilize the Gyroscope for navigation in some webpages. They created a demo that can be seen on your iPhone 4 or iPod Touch 4G as long as they have been updated to iOS 4.2. Just visit the website <a href="http://occip.it/pt3dmqna" target="_blank">occip.it/pt3dmqna</a> from Mobile Safari to see the demo. You can move the device up and down and see the panoramic scene move as if you were actually moving your eyes up and down.</p>

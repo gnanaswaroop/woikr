@@ -4,6 +4,8 @@ date: 2011-06-21T15:12:14
 url: /google/google-indias-street-view-project-under-police-scanner/
 categories: ["Google"]
 tags: ["Google", "google india", "street view", "street view india"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><span><span><img title="Google_Street_View_Cars_Tricycle_Captiva_thumb.jpg" src="/wp/wp-content/uploads/2011/05/Google_Street_View_Cars_Tricycle_Captiva_thumb.jpg" alt="Google_Street_View_Cars_Tricycle_Captiva_thumb.jpg" /><br /></span></span></p>
 <p><span><span>It looks like the Bangalore Police has some objection to </span><span><a href="/google/google-street-view-soon-in-india-first-in-bangalore/">Google's Street View project in India</a></span><span>. Just a few days after starting the ambitious project to enable street view imagery in India, Google had to suspend the project as the Bangalore police has some objections. The project has not been shut down, but will remain suspended until Google and the authorities kiss and make up.</span></span></p>

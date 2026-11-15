@@ -4,6 +4,8 @@ date: 2009-03-25T20:19:43
 url: /gaming/another-reason-to-be-a-game-developer/
 categories: ["Gaming"]
 tags: ["Xbox 360", "Xbox 360 developer kit", "Xbox 360 Metallic Blue", "Xbox 360 Matte Black"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 After finishing a game when you sit back enjoying the credits, don't you fancy seeing your name scroll through there? If the answer is yes, here is a nightmare for you.
 

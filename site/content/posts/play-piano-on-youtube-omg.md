@@ -4,6 +4,8 @@ date: 2010-01-08T14:33:02
 url: /misc/play-piano-on-youtube-omg/
 categories: ["Misc"]
 tags: ["youtube", "piano", "omg creative"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 This is arguably the most creative thing you'll see (do?) today.
 

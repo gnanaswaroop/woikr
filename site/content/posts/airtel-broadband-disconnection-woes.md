@@ -4,6 +4,8 @@ date: 2010-10-15T17:22:09
 url: /telecom/airtel-broadband-disconnection-woes/
 categories: ["Telecom", "WTF?"]
 tags: ["Airtel Broadband issues", "Airtel broadband disconnection problem"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>Everyone knows that it's a major trouble to disconnect a service from any provider in the Indian telecom industry. They will plead, offer discounts and try everything till you get pissed, leave it as is and stop paying the bills. And then they sue you for not paying the bills.</p>
 <p>Since I was aware of the issues, I planned to disconnect my Airtel Broadband connection well in advance. I called them up and to my surprise they were really friendly. They offered to transfer the connection to any city or any individual in the same city. I said no and they explained the procedure to me - Give a disconnection request, go and submit the instruments to the nearest customer care office, pay the dues and your job is done. I did the same. They told me the present dues are already paid, my connection will be disconnected in 24 hours and they will send the remaining bill at the end of the month after which they will return any security deposit that was made. I came back happily appreciating Airtel! But of course I was mistaken.</p>

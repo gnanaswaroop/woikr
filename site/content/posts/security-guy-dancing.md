@@ -4,6 +4,8 @@ date: 2008-10-19T22:33:47
 url: /lol/security-guy-dancing/
 categories: ["LOL"]
 tags: ["qik", "qik iphone", "iphone video", "security guy dancing", "dancing at a wedding"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p><a href="/author/setu/">Setu</a> from woikr recently went to a friend's engagement party in Lucknow. Apparently, the guard at the banquet hall forgot his duties and started dancing at the tunes of the DJ :-)</p>
 

@@ -4,6 +4,8 @@ date: 2011-01-06T06:33:32
 url: /news/ihome-reveals-details-of-their-upcoming-airplay-compatible-speaker-system/
 categories: ["News", "Home Entertainment"]
 tags: ["ihome", "airplay", "airplay speakers"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="NewImage.jpg" src="/wp/wp-content/uploads/2011/01/NewImage46.jpg" alt="NewImage.jpg" width="359" height="200" /></p>
 <p><a href="http://ihomeaudiointl.com/">iHome</a> is coming up with an <a href="http://ihomeaudiointl.com/discover/airplay/">AirPlay compatible speaker system</a> with a rechargeable battery. You can beam audio from any iOS device or mac to this speaker system wirelessly using Apple's <a href="http://www.apple.com/itunes/airplay/">AirPlay technology</a> (previously called AirTunes).</p>

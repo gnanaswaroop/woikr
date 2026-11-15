@@ -4,6 +4,8 @@ date: 2011-06-27T19:41:09
 url: /photography/this-camera-captures-it-all/
 categories: ["Photo Gear"]
 tags: ["Light Field Camera", "Lytro 3D camera", "Lytro Camera", "Advantages of Lytro", "Lytro demo video", "Lytro picture sample."]
+author: "Swaroop"
+authors: ["swaroop"]
 ---
 Ah, well, it doesn't exactly capture every thing, but it definitely changes the way we take pictures. Ever cursed yourself after taking a picture that you didn’t focus it well? Here’s a camera which lets you focus a scene after taking a picture.
 

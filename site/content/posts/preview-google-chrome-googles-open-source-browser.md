@@ -4,6 +4,8 @@ date: 2008-09-02T16:14:30
 url: /google/preview-google-chrome-googles-open-source-browser/
 categories: ["Google"]
 tags: ["google chrome", "Chrome", "google browser"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p>Putting an end to the rumors floating all over the blogosphere for the last few months, Google announced their plan to release an open source browser named Google Chrome. And it is coming today. Yes, Tuesday, the 2nd of September 2008!</p>
 <p>According to the <a href="http://googleblog.blogspot.com/2008/09/fresh-take-on-browser.html" target="_blank">Official Google Blog page</a>, Chrome will add value for users and, at the same time, help drive innovation on the web.</p>

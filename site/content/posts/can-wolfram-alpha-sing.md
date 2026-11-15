@@ -4,6 +4,8 @@ date: 2009-06-01T01:39:05
 url: /lol/can-wolfram-alpha-sing/
 categories: ["LOL"]
 tags: ["Wolfram Alpha", "Easter Eggs"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 It got confused <a href="http://www37.wolframalpha.com/input/?i=Can+you+sing%3F" target="_blank">when I asked</a>.
 

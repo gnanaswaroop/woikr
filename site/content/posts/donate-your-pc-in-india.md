@@ -4,6 +4,8 @@ date: 2008-11-05T12:44:48
 url: /news/donate-your-pc-in-india/
 categories: ["News"]
 tags: ["dypc", "dypc india", "donate your pc in india", "donate computers india", "donate computers", "donate pc india", "receive donated computers india", "computer donation", "computer donation india", "pc donation india"]
+author: "Setu"
+authors: ["setu"]
 ---
 <a href="/wp/wp-content/uploads/2008/11/dypc.jpg"><img class="alignnone size-full wp-image-1634" title="dypc" src="/wp/wp-content/uploads/2008/11/dypc.jpg" alt="" width="500" height="178" /></a>
 <p>Have an old PC lying around the house eating dust? Is it too close to your heart that you do not want to sell it to the junk guy? How about donating it?</p>

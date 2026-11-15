@@ -4,6 +4,8 @@ date: 2010-08-27T17:47:55
 url: /google/youtubes-new-movies-section-with-mostly-crappy-movies/
 categories: ["Google", "News"]
 tags: ["youtube bollywood movies", "youtube grindhouse movies", "youtube hindi movies"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>YouTube has launched a new <a href="http://youtube.com/movies" target="_blank">Movies category</a> where they offer free full length feature films. Currently they offer 400 titles, but plan to add more as indicated by the deals they have been striking up with various movie studios.</p>
 <a href="/wp/wp-content/uploads/2010/08/youtube_crappy_movies.jpg"><img class="alignnone" title="youtube_crappy_movies.jpg" src="/wp/wp-content/uploads/2010/08/youtube_crappy_movies-300x237.jpg" alt="" width="300" height="237" /></a>

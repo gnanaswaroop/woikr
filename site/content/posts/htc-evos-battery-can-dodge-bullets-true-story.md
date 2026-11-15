@@ -4,6 +4,8 @@ date: 2011-01-10T09:25:30
 url: /news/htc-evos-battery-can-dodge-bullets-true-story/
 categories: ["News", "Mobile Phones"]
 tags: ["HTC Evo 4G", "HTC Evo Battery", "Cellphone Dodge Bullets", "Strong Battery"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p><img title="htc_evo_battery" src="/wp/wp-content/uploads/2011/01/htc_evo_battery.jpg" alt="HTC Evo Battery Dodges Bullet" width="600" height="315" /></p>
 <p>When the HTC Evo came out everyone loved the huge screen fast 4G data but the battery life was the thing that prevented people from buying it. In fact Michael Arrington went on to say that <a href="http://techcrunch.com/2010/06/09/dont-buy-the-android-evo-it-is-a-seriously-flawed-device/" target="_blank"><em>it is a seriously flawed device</em></a> since he had to keep charging the phone almost all the time. But the battery holds an interesting trick up it's sleeve. It can dodge bullets!</p>

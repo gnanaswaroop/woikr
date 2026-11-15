@@ -4,6 +4,8 @@ date: 2013-06-02T10:42:57
 url: /deals/get-an-apple-tv-free-when-you-purchase-an-iphone-5-on-infibeam-com/
 categories: ["Deals", "Apple", "iPhone", "Home Entertainment"]
 tags: ["apple tv india offer", "iphone 5 discount india", "iphone 5 offers india", "apple tv"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="iphone-5-apple-tv-india-offer-infibeam.png" alt="Apple TV free with iPhone 5" src="/wp/wp-content/uploads/2013/06/iphone-5-apple-tv-india-offer-infibeam.png" width="320" height="320" /></p>
 <p><a href="http://www.infibeam.com/mobiles/apple-iphone-5-16gb-combo/P-mobi-35095118671-cat-z.html?track=nl241&amp;utm_source=WeeklyNewsletter&amp;utm_medium=Email&amp;utm_campaign=Applevfree">Infibeam.com</a> is offering a free Apple TV with the purchase of an iPhone 5 16 GB. This is one of the best deals on Apple hardware we have seen in India. The price of iPhone 5 on Infibeam.com is INR 45,500. The offer is strangely only applicable on the 16 GB iPhone 5 variant.</p>

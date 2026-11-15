@@ -4,6 +4,8 @@ date: 2011-10-22T10:58:37
 url: /tablets/samsung-ties-up-with-bigflix-to-offer-streaming-on-demand-movies-on-its-galaxy-products/
 categories: ["Tablets", "News", "Mobile Phones"]
 tags: ["samsung my movies", "my movies", "samsung movies", "bigflix android", "bigflix samsung"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="samsung-apps.png" src="/wp/wp-content/uploads/2011/10/samsung-apps.png" alt="samsung apps" width="160" height="44" /></p>
 <p><img title="samsung-my-movies.png" src="/wp/wp-content/uploads/2011/10/samsung-my-movies.png" alt="samsung my movies" width="155" height="155" /></p>

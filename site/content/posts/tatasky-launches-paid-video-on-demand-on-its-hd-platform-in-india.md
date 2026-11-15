@@ -4,6 +4,8 @@ date: 2012-02-28T18:30:09
 url: /news/tatasky-launches-paid-video-on-demand-on-its-hd-platform-in-india/
 categories: ["News", "Home Entertainment"]
 tags: ["tatasky", "tatasky HD", "tatasky VoD", "video on demand india", "tatasky video on demand"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="tatasky-hd-logo.png" src="/wp/wp-content/uploads/2012/02/tatasky-hd-logo.png" alt="tatasky hd logo" width="284" height="177" /></p>
 <p>As <a href="/home-entertainment/tatasky-to-offer-netflix-like-ip-based-vod-service-to-its-hd-subscribers/">reported by us last year</a>, TataSky has launched a Netflix like streaming service in India which offers paid Video on Demand delivered to your TV over broadband for the first time in India. TataSky has been testing the service by offering free Video on Demand to all its HD+ users for the past few weeks. With a recent software update to its HD+ set top box, TataSky has introduced paid premium content available through this service.</p>

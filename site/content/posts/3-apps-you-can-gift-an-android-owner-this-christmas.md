@@ -4,6 +4,8 @@ date: 2010-12-25T11:10:04
 url: /android/3-apps-you-can-gift-an-android-owner-this-christmas/
 categories: ["Android"]
 tags: ["Android Games", "Android Fun Apps", "Android Christmas Gifts"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>First of all, Merry Christmas to you!</p>
 <p>Being the geek I am, I'm completely happy getting software/apps/games as gifts on all the festivals and events. If you know someone like me, who also has an Android phone, this is your chance to surprise them. I am putting up a list of 3 most fun apps that you can gift today. You can gift any 1 of them, all 3 of them, or just use them as an icing on the gift you are already giving the person :)</p>

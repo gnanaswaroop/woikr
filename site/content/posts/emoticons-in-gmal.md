@@ -4,6 +4,8 @@ date: 2008-10-24T20:14:03
 url: /news/emoticons-in-gmal/
 categories: ["News"]
 tags: ["gmail", "gmail emoticons", "emoticons in gmail"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p>Gmail is getting better day by day. Starting today, Gmail supports emoticons. To use this feature, one must compose an email with Rich Text Formatting enabled. Here is what it looks like in a Gmail compose screen:</p>
 

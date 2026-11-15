@@ -4,6 +4,8 @@ date: 2011-01-05T05:44:55
 url: /misc/nadal-federer-play-tennis-on-water/
 categories: ["Misc"]
 tags: ["rafael nadal", "roger federed", "tennis on water", "qatar sports", "qatar atp", "qatar 2022"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="NewImage.jpg" src="/wp/wp-content/uploads/2011/01/NewImage15.jpg" alt="NewImage.jpg" width="192" height="263" /></p>
 <p>The upcoming tennis <a href="http://en.wikipedia.org/wiki/Atp_tour">ATP</a> tournament is happening in <a href="http://en.wikipedia.org/wiki/Doha">Doha</a>. And to promote this, Qatar had the world's two best tennis players play tennis on water. Well, its actually all volley, but nevertheless, super cool:</p><p><br>

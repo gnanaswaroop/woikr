@@ -4,6 +4,8 @@ date: 2011-03-27T21:37:01
 url: /misc/geeky-tennis-shoes/
 categories: ["Misc"]
 tags: ["geek stuff", "tennis geek", "geeky shoes", "geek shoes"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><a href="http://www.forevergeek.com/2011/03/worlds-10-geekiest-tennis-shoes/">Forever Geek</a> has put together this awesome list of the world's 10 geekiest tennis shoes. We wanted to share them with our readers.</p>
 <p><strong><a href="http://en.wikipedia.org/wiki/Tron:_Legacy">Tron</a></strong>:</p>

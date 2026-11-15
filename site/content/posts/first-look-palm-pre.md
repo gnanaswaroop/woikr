@@ -4,6 +4,8 @@ date: 2009-01-12T15:27:44
 url: /first-look/first-look-palm-pre/
 categories: ["First Look", "News"]
 tags: ["palm", "palm pre", "palm touch screen", "palm touchscreen", "web OS", "palm phone", "palm 3G wifi", "palm vs. iphone", "palm vs. android", "wireless charger"]
+author: "Setu"
+authors: ["setu"]
 ---
 <a href="/wp/wp-content/uploads/2009/01/palm_pre_top.jpg"><img class="alignnone size-medium wp-image-2010" title="palm_pre_top" src="/wp/wp-content/uploads/2009/01/palm_pre_top-300x205.jpg" alt="palm_pre_top" width="300" height="205" /></a>
 <p>Palm announced their latest offering during CES 2009 - the Pal Pre smartphone with a completely new OS which they call the Web OS.  Owing to this announcement, Palm's stock shot up 34.85%.</p>

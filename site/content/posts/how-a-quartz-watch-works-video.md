@@ -4,6 +4,8 @@ date: 2010-12-16T22:54:07
 url: /science/how-a-quartz-watch-works-video/
 categories: ["Science"]
 tags: ["reverse piezoelectric effect", "how a quartz watch works", "how does watch work"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>Ever wondered how a simple Quartz watch works? It requires extremely accurate engineering to create a tiny tuning fork that creates vibrations that are measured to show time. And how does the Tuning fork vibrate? Reverse Piezo-electric effect - generating pressure using electricity. Curious? This is arguably the coolest video you'll see all day.</p>
 

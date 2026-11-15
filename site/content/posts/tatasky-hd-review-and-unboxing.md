@@ -4,6 +4,8 @@ date: 2011-02-12T22:32:39
 url: /home-entertainment/tatasky-hd-review-and-unboxing/
 categories: ["Home Entertainment"]
 tags: ["tatasky", "tatasky HD", "tata sky HD", "tatasky HD PVR", "tatasky plus", "tatasky unboxing", "tatasky+ hd review"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="NewImage.png" src="/wp/wp-content/uploads/2011/02/NewImage.png" alt="NewImage" width="161" height="47" /><img title="NewImage.png" src="/wp/wp-content/uploads/2011/02/NewImage1.png" alt="NewImage" width="41" height="26" /></p>
 <p>We told you that <a href="/home-entertainment/tatasky-hd-launched-in-india-at-a-price-of-inr-3990">TataSky launched India's most advance and cheapest HD PVR</a> last week at a very competitive price of INR 3999. I was one of those users of TataSky+ SD who were waiting for this launch to upgrade to HD. And I did. I got the new set top box today. There were only 4 of these boxes available in Noida and as per the installation guy, I am the proud owner of the first one in Noida :). Here is how it looks in my setup:</p>

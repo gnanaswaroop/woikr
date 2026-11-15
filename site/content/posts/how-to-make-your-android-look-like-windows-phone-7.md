@@ -4,6 +4,8 @@ date: 2011-03-22T23:07:18
 url: /android/how-to-make-your-android-look-like-windows-phone-7/
 categories: ["Android", "Mobile Phones", "Microsoft"]
 tags: ["Windows Phone 7 on Android", "Windows Phone Interface on Android", "Android Windows Phone UI", "Android Tiled Launcher", "Windows Launcher Android"]
+author: "Chirag"
+authors: ["chirag"]
 aliases: ["/mobile-phones/how-to-make-your-android-look-like-windows-phone-7/"]
 ---
 <p>When they say Android is the most customizable amongst popular Mobile Operating Systems, they aren't lying. This should serve as a perfect proof.</p>

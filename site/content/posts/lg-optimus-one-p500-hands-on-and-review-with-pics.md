@@ -4,6 +4,8 @@ date: 2010-12-26T23:12:06
 url: /android/lg-optimus-one-p500-hands-on-and-review-with-pics/
 categories: ["Android", "Reviews"]
 tags: ["LG Optimus", "LG Phones", "LG India", "LG Optimus one", "P500", "Optimus series", "Android phones", "Android phone reviews", "LG Android", "Android Froyo", "Froyo 2.2", "Froyo", "android apps", "Android 2.2", "LG Optimus 1", "Optimus 1", "LG Optimus One cases", "Optimus One cases", "Android rooting", "LG Optimus One root", "Root LG p500", "LG P500", "Root LG Optimus", "Android google apps", "LG Optimus One pictures", "LG Optimus one review", "LG Optimus One purchase", "How to buy", "Android gingerbread update", "LG Optimus One Gingerbread", "2.3 Android phones", "android 2.3", "Optimus One 2.3", "LG Optimus 2.3 India", "Android 2.3 LG P500", "LGP500 2.3", "How to upgrade LG Optimus One", "LG India Android 2.3"]
+author: "Swaroop"
+authors: ["swaroop"]
 aliases: ["/reviews/lg-optimus-one-p500-hands-on-and-review-with-pics/"]
 ---
 <div>

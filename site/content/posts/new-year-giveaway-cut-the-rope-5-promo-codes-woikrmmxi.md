@@ -4,6 +4,8 @@ date: 2011-01-01T08:58:19
 url: /contests/new-year-giveaway-cut-the-rope-5-promo-codes-woikrmmxi/
 categories: ["Giveaways"]
 tags: ["new year givaway woikr", "MMXI", "Cut The Rope", "free iphone apps"]
+author: "Setu"
+authors: ["setu"]
 ---
 <img title="image" src="/wp/wp-content/uploads/2011/01/image.png" alt="image" width="225" height="225" />
 

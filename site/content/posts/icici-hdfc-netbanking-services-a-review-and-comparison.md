@@ -4,6 +4,8 @@ date: 2008-08-21T22:26:21
 url: /reviews/icici-hdfc-netbanking-services-a-review-and-comparison/
 categories: ["Reviews"]
 tags: ["ICICI Netbanking Vs HDFC Netbanking", "ICICI Netbanking review", "HDFC Netbanking review", "ICICI Bank", "HDFC Bank", "Netbanking review", "Netbanking comparison", "online banking india"]
+author: "Anshuman Johri"
+authors: ["anshuman"]
 ---
 <p>I don't get surprised anymore when my office colleagues tell me that they don’t know where their salary account bank branch is located in their city.  It’s because banks today provide decent online banking services allowing you to forget the need-to-plan-a-visit-to-my-bank.</p>
 <p>So how good are these services and how far are we from a truly branch-less banking experience in India? <span><strong>Woikr</strong></span> reviews and compares for you two of the most frequently used internet banking services available by Indian banks: <a href="http://www.icicibank.com/" target="_blank">ICICI Netbanking</a> and <a href="http://www.hdfcbank.com" target="_blank">HDFC Netbanking</a>.</p>

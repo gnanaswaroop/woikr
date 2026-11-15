@@ -4,6 +4,8 @@ date: 2012-04-12T10:18:10
 url: /iphone/wonderful-day-for-iphone-stay-motivated-every-single-day-review/
 categories: ["iPhone", "Reviews"]
 tags: ["goal tracking app", "daily goal tracking", "resolution tracking apps", "resolution apps", "productivity apps for iphone", "goal tracking on iphone", "daily goals iphone app", "don't break the chain iphone app", "don't break the chain app"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p><a href="/wp/wp-content/uploads/2012/04/WonderfulDay_icon.png"><img class="alignnone size-medium wp-image-9081" title="WonderfulDay_icon" src="/wp/wp-content/uploads/2012/04/WonderfulDay_icon-300x300.png" alt="WonderfulDay_icon" width="300" height="300" /></a></p>
 <p>We've all downloaded our share of to-do/productivity apps. We've all made New Year resolutions. But most of us use them for sometime and slowly they get phased out of our busy (read lazy) life.</p>

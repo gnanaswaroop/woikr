@@ -4,6 +4,8 @@ date: 2009-04-09T14:38:18
 url: /news/color-filters-in-google-image-search/
 categories: ["News"]
 tags: ["Google", "google image search", "image search by color", "google color filters"]
+author: "Setu"
+authors: ["setu"]
 ---
 <img class="alignnone size-full wp-image-2445" title="google_image_search_logo" src="/wp/wp-content/uploads/2009/04/google_image_search_logo.png" alt="google_image_search_logo" width="279" height="110" />
 <p>Google has added color filters to their image search results. This means you can now select a color to further narrow your image search.</p>

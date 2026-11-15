@@ -4,6 +4,8 @@ date: 2015-09-13T00:38:21
 url: /ipad/meet-the-new-ipad-pro/
 categories: ["iPad", "Apple"]
 tags: ["ipad pro"]
+author: "Setu"
+authors: ["setu"]
 aliases: ["/apple/meet-the-new-ipad-pro/"]
 ---
 <p><img title="NewImage.png" src="/wp/wp-content/uploads/2015/09/NewImage1.png" alt="NewImage" width="598" height="394" /></p>

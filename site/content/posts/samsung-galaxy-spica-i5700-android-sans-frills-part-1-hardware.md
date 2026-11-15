@@ -4,6 +4,8 @@ date: 2010-07-18T02:36:43
 url: /android/samsung-galaxy-spica-i5700-android-sans-frills-part-1-hardware/
 categories: ["Android", "Mobile Phones", "Reviews"]
 tags: ["Samsung Spica", "Samsung Galaxy", "Samsung Galaxy i5700", "Android 2.1", "samsung 2243"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>No matter what I <a href="/apple/i-hate-my-iphone" target="_blank">said before</a> I've always been a hardcore iPhone fan. But I just couldn't invest a laptop worth of money in a warranty-less iPhone 4 sourced from abroad. So I decided to shift camps, temporarily.</p>
 <p>The biggest problem in my opinions with Android devices is the that there are too many to choose from. It's surprisingly difficult to find a no-frills, budget Android phone (If you're ready to increase your budget Nexus One is the best option in my opinion). After lots of reviews and spec comparison I decided to buy a Samsung Galaxy Spica. Now that I've spent some time with the phone, I'll jot down a list of points that may affect your decision to buy this phone. The first part of the review deals with the hardware.<br>

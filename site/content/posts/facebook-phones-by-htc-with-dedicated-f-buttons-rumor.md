@@ -4,6 +4,8 @@ date: 2011-02-15T00:17:34
 url: /android/facebook-phones-by-htc-with-dedicated-f-buttons-rumor/
 categories: ["Android", "Rumors", "Mobile Phones"]
 tags: ["Facebook Phonoe", "HTC Android Facebook", "HTC Facebook Phones", "HTC Facebook Dedicated button", "HTC Facebook Android Phone", "facebook android"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>Okay, so Facebook phones are real. Unless of course these images are fake. The phones are being made by HTC and have dedicated F buttons which probably launch the Facebook app.</p>
 <p><a href="/wp/wp-content/uploads/2011/02/facebookphone1.jpg"><img class="alignnone size-medium wp-image-7025" title="facebookphone1" src="/wp/wp-content/uploads/2011/02/facebookphone1-188x300.jpg" alt="HTC Facebook Phone" width="188" height="300" /></a> <a href="/wp/wp-content/uploads/2011/02/facebookphone2.jpg"><img title="facebookphone2" src="/wp/wp-content/uploads/2011/02/facebookphone2-189x300.jpg" alt="HTC Facebook Phone" width="189" height="300" /></a><br>

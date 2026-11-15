@@ -4,6 +4,8 @@ date: 2010-12-31T14:10:12
 url: /iphone/the-iphone-heart-monitor/
 categories: ["iPhone"]
 tags: ["iphone heart monitor", "iphone heart app", "iphone health", "iphone ecg"]
+author: "Setu"
+authors: ["setu"]
 ---
 Check out this amazing piece of technology - A wireless iPhone based heart monitor which can do an ECG!
 

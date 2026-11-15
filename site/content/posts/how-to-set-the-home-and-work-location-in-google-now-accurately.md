@@ -4,6 +4,8 @@ date: 2014-07-22T00:54:54
 url: /howto/how-to-set-the-home-and-work-location-in-google-now-accurately/
 categories: ["How Tos", "iPad", "Android", "Google", "iPhone"]
 tags: ["Google Now", "google maps", "Set Location", "Home Location", "Work Location", "Location Accuracy"]
+author: "Swaroop"
+authors: ["swaroop"]
 ---
 Google Maps allows us to select a Home and Work location for quick use to determine Directions and for use in Google Now too .
 

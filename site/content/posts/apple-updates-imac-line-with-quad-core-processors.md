@@ -4,6 +4,8 @@ date: 2011-05-04T10:33:11
 url: /news/apple-updates-imac-line-with-quad-core-processors/
 categories: ["News", "Apple"]
 tags: ["imac", "Mac", "apple imac", "new imac"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="iMac-2011.jpg" src="/wp/wp-content/uploads/2011/05/iMac-2011.jpg" alt="IMac 2011" width="360" height="346" /></p>
 <p>Apple has updated its <a href="http://www.apple.com/imac/">iMac</a> line of desktop computers with quad core processors. The updated line boasts of Intel's quad core i5 processors ranging from 2.5GHz to 3.1GHz clock speed. In addition to featuring the new <a href="http://en.wikipedia.org/wiki/Thunderbolt_(interface)">Thunderbolt</a> port &amp; AMD graphics for fast data transfer and superior graphics, they also have an inbuilt FaceTime HD camera for FaceTime calls.</p>

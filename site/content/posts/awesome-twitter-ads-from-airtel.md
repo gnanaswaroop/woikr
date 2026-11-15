@@ -4,6 +4,8 @@ date: 2009-10-24T11:33:02
 url: /misc/awesome-twitter-ads-from-airtel/
 categories: ["Misc"]
 tags: ["Airtel", "twitter", "twitter sms india", "airtel ads", "twitter ads", "twitter mobile india"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p>We all know that <a href="http://www.airtel.in" target="_blank">Airtel</a> makes <a href="http://www.youtube.com/results?search_type=search_playlists&search_query=airtel+ads" target="_blank">great advertisements in India</a>. All of their ads are beautifully crafted, to the point, and deliver the message just right, leaving you mesmerized.</p>
 <p>They recently launched an ad campaign for the <a href="http://www.airtel.in/twitter-all/faq.html" target="_blank">SMS service for twitter</a> in India. And as expected, the ads are fully awesome. See for yourself:</p>

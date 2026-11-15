@@ -4,6 +4,8 @@ date: 2010-01-16T12:03:09
 url: /wtf/how-newspapers-change-subtle-details-wtf/
 categories: ["WTF?"]
 tags: ["Solar Eclipse", "Times of India Bangalore"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 Today morning while going through my <a href="http://www.boston.com/bigpicture/" target="_blank">Boston.com Big Picture feed,</a> I came across this amazing picture of the solar eclipse.
 

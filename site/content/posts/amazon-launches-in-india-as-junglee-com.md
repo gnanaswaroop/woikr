@@ -4,6 +4,8 @@ date: 2012-02-02T20:54:50
 url: /news/amazon-launches-in-india-as-junglee-com/
 categories: ["News"]
 tags: ["junglee", "amazon india", "amazon", "junglee.com", "amazon junglee"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="junglee-com-logo.png" src="/wp/wp-content/uploads/2012/02/junglee-com-logo.png" alt="junglee.com logo" width="150" height="57" /></p>
 <p>After much speculation, Amazon has launched in India as <a href="http://www.junglee.com/">junglee.com</a> - a shopping service for Indian customers. Contrary to what people had been hoping for, Amazon is not directly selling products in India. Instead, they are maintaining a catalog of about 1.2 crore products being sold online in India by multiple e-retailers and lets users search for them, read the reviews and then buy them from whichever site they choose to. In addition to product reviews, junglee.com will also have seller reviews so that users can take an informed decision. Interestingly, amazon.com is also listed as a seller. However,it might not be worth using it to purchase anything other than Kindle.</p>

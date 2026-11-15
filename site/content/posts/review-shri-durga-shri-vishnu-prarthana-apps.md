@@ -4,6 +4,8 @@ date: 2009-04-26T19:27:18
 url: /reviews/review-shri-durga-shri-vishnu-prarthana-apps/
 categories: ["Reviews"]
 tags: ["iPhone", "appstore", "hindu god iphone", "indian deity iphone", "iphone pooja", "iphone prayers", "aarti on iphone", "godess durga iphone", "india iphone", "indian god iphone", "lord vishnu iphone", "puja on iphone", "robosoft", "prarthana apps review"]
+author: "Setu"
+authors: ["setu"]
 ---
 <img class="alignnone size-full wp-image-2419" title="available_on_app_store" src="/wp/wp-content/uploads/2009/04/available_on_app_store.png" alt="available_on_app_store" width="135" height="44" />
 <p>A few days ago <a href="http://www.robosoftin.com/" target="_blank">Robosoft</a> released <a href="/news/indian-deity-on-the-iphone/" target="_blank">Shri Durga &amp; Shri Vishnu <em>prarthana </em>apps</a> for the iPhone and iPod touch. The apps look pretty neat in the screenshots &amp; the video. But are they worth the price? Read on to find out.</p>

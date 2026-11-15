@@ -4,6 +4,8 @@ date: 2011-06-06T22:08:50
 url: /telecom/airtel-partners-with-bigflix-to-launch-on-demand-video-streaming-service/
 categories: ["Telecom", "News", "Home Entertainment"]
 tags: ["Airtel", "airtel broadband", "bigflix", "netflix type service in india", "movie streaming india"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="NewImage.jpg" src="/wp/wp-content/uploads/2011/01/NewImage62.jpg" alt="NewImage.jpg" width="105" height="38" /> <img title="bigflix-logo.png" src="/wp/wp-content/uploads/2011/06/bigflix-logo.png" alt="bigflix logo" width="99" height="33" /></p>
 <p>Airtel has tied up with <a href="http://www.bigflix.com">BigFlix</a> to launch <a href="http://www.airtelmovies.com/">on demand video streaming service in India</a>. BigFlix is a <a href="http://en.wikipedia.org/wiki/Netflix">Netflix</a> type service in India offering a library of DVD quality movies &amp; TV shows which you can stream to your computer, laptop or tablet device (no iPad support though as the site requires Flash). Previously, their streaming service was only available outside of India and only offered the DVD rental service in India. Sadly, they do not offer streaming to devices like Apple TV and have no HD content.</p>

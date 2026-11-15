@@ -4,6 +4,8 @@ date: 2011-09-01T18:19:39
 url: /google/apparently-there-are-some-things-you-cant-google/
 categories: ["Google"]
 tags: ["google banned queries", "google denial of service", "google range search", "weird google results"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>Here something weird. Try <a href="http://www.google.com/search?q=9999999..99999999999999999999999" target="_blank">Googling</a> "9999999..99999999999999999999999". It tries to load for sometime and then redirects to this strange error page.</p>
 <p><img title="google_error" src="/wp/wp-content/uploads/2011/09/google_error.png" alt="" width="439" height="207" /></p>

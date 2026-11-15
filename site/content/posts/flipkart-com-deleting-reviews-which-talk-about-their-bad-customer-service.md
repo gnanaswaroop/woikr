@@ -4,6 +4,8 @@ date: 2011-10-29T05:20:27
 url: /misc/flipkart-com-deleting-reviews-which-talk-about-their-bad-customer-service/
 categories: ["Misc"]
 tags: ["Flipkart bad customer service", "Flipkart.com review", "Flipkart.com customer service"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="flipkart_india" src="/wp/wp-content/uploads/2011/10/flipkart_india1.png" alt="" width="270" height="100" /></p>
 <p>India’s fastest growing ecommerce company flipkart.com is deleting customer reviews which talk about their bad customer service. Next time you are reading any product reviews before deciding to buy any products on flipkart.com, keep in mind that you are probably not being shown the complete picture. Read on for the full story.</p>

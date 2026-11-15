@@ -4,6 +4,8 @@ date: 2010-12-18T22:21:34
 url: /gaming/la-noireamazingly-realistic-facial-animations/
 categories: ["Gaming"]
 tags: ["la noire", "facial expressions in games", "lip syncing in games", "rockstar games", "team bondi"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>We've all seen the graphics in Video Games evolve in front of our eyes. We've seen <a href="http://en.wikipedia.org/wiki/Super_Mario_Bros." target="_blank">Mario</a> get a <a href="http://en.wikipedia.org/wiki/Super_Mario_64" target="_blank">third dimension</a>; <a href="http://en.wikipedia.org/wiki/Resident_Evil_(video_game)" target="_blank">Resident Evil</a> <a href="http://en.wikipedia.org/wiki/Resident_Evil_5" target="_blank">lose the blocky textures</a> and <a href="http://en.wikipedia.org/wiki/Grand_Theft_Auto_(video_game)" target="_blank">Grand Theft Auto</a> get a <a href="http://en.wikipedia.org/wiki/Grand_Theft_Auto_IV" target="_blank">whole new perspective</a> but never did anyone concentrate on the facial expressions. The eyes and nose and lips became visible, then they started moving but that was it. Even in the artistically designed and <em>much-acclaimed-for it's-graphics</em> had <a href="http://www.youtube.com/watch?v=JuitbK5kO90" target="_blank">trouble getting the expressions right</a>. But that's about to change, all thanks to the guys at <a href="http://www.teambondi.com/" target="_blank">Team Bondi</a> and <a href="http://www.rockstargames.com/" target="_blank">Rockstar</a>.</p>
 Have a look at the trailer for L.A. Noire below. It pretty much blew me away.

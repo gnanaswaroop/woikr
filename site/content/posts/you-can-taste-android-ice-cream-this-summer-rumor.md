@@ -4,6 +4,8 @@ date: 2011-01-11T08:48:04
 url: /android/you-can-taste-android-ice-cream-this-summer-rumor/
 categories: ["Android", "Rumors"]
 tags: ["Android 2.4", "Android Ice Cream"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p><a href="/wp/wp-content/uploads/2011/01/android_icecream.jpg"></a><img title="android_icecream" src="/wp/wp-content/uploads/2011/01/android_icecream-242x300.jpg" alt="Android 2.4 Ice Cream " width="242" height="300" /></p>
 <p>Sometime back people were talking about Android 2.4 running on Sony Xperia Arc and how it was a just an incremental update to Gingerbread and not like Android 3.0 Honeycomb that was actually a major redesign primarily for tablets though. Then Sony said it was just some <a href="http://www.phonearena.com/news/Gingerbread-2.4-numbering-on-some-Sony-Ericsson-Xperia-Arc-units-a-configuration-error_id15853" target="_blank">software misconfiguration</a> and people shouldn't get excited already.</p>

@@ -4,6 +4,8 @@ date: 2010-09-02T15:36:47
 url: /news/meet-the-new-ipods/
 categories: ["News", "Apple"]
 tags: ["iPod", "ipod 2010", "new ipods", "apple september 2010 event", "ipod shuffle", "ipod nano", "iPod touch jainbreak", "ipod facetime"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="image" src="/wp/wp-content/uploads/2010/09/image.png" alt="image" width="240" height="144" /></p>
 <p>Apple unveiled upgrades to their iPod lines at the press event yesterday. This is the biggest refresh to their iPod line yet. You can watch the press event online <a href="http://www.apple.com/apple-events/september-2010/" target="_blank">here</a>.</p>

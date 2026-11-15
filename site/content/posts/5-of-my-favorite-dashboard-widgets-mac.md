@@ -4,6 +4,8 @@ date: 2010-09-26T12:04:51
 url: /mac/5-of-my-favorite-dashboard-widgets-mac/
 categories: ["Mac"]
 tags: ["currency converter widget", "stickies widget", "Lyrics widget", "screen capture widget", "image resize widget", "best dashboard widgets"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>Now that your <a href="/mac/kickstart-your-mac-dashboard">Dashboard kicks ass</a>, you need to fill it up with widgets. Widgets that will change your life forever (or at least keep you happy for an hour).</p>
 <p>Here are 5 of my favorite, most used widgets:</p>

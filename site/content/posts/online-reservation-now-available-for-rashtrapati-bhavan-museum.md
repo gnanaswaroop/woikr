@@ -4,6 +4,8 @@ date: 2014-11-13T23:30:26
 url: /news/online-reservation-now-available-for-rashtrapati-bhavan-museum/
 categories: ["News"]
 tags: []
+author: "Setu"
+authors: ["setu"]
 aliases: ["/news/online-reservation-now-available-for-rashtrapati-bhavan-museum"]
 ---
 <img src="https://presidentofindia.gov.in/rbvisit/images/header-bg.png" alt="" />

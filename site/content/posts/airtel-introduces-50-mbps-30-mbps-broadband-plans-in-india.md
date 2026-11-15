@@ -4,6 +4,8 @@ date: 2010-03-29T09:26:34
 url: /telecom/airtel-introduces-50-mbps-30-mbps-broadband-plans-in-india/
 categories: ["Telecom", "News"]
 tags: ["Airtel", "airtel broadband", "airtel broadband tariffs", "airtel high speed plans", "airtel 30 Mbps 50 Mbps broadband plans", "high speed broadband in India", "fastest broadband in India"]
+author: "Setu"
+authors: ["setu"]
 ---
 <img src="/wp/wp-content/uploads/2010/03/image_thumb5.png" alt="" />
 <p>Looks like Bharti Airtel is on a spree. The company announced today that it is introducing 30 Mbps &amp; 50 Mbps broadband plans in India. This translates to 3.75 MBPS and 6.25 MBPS speeds respectively. Wow. It looks like we are finally catching up to the rest of the world in terms of broadband speed.</p>

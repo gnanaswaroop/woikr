@@ -4,6 +4,8 @@ date: 2010-08-12T13:09:56
 url: /android/android-gesture-search-now-more-awesom/
 categories: ["Android"]
 tags: ["Google Android", "Google Gesture Search", "Double Flip gesture"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>The day I bought my Android phone, I downloaded the <a href="http://gesturesearch.googlelabs.com/index.html" target="_self">Google Gesture Search app</a> and had a lot of fun playing around with it. It was an awesome idea. Just draw characters and numbers on your screen and search from your Contacts, Browser bookmarks, Apps and Music. It seemed to work well too. But that was for the first few hours. After that I moved to the standard Contacts app and Search app for everything. There was no major issue but it just didn't feel convenient enough and ready for full time usage. And since I have limited space on my Anroid device, I trashed it.</p>
 <p>Yesterday, Google launched an update to the app with following 3 changes:</p>

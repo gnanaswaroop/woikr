@@ -4,6 +4,8 @@ date: 2009-03-27T11:36:34
 url: /news/wwdc-2009-dates-announced-apple-stores-start-selling-contract-free-iphone-3g/
 categories: ["News"]
 tags: ["iPhone", "wwdc 2009", "iphone 2009", "iphone next version", "iphone 4G", "contract free iphone", "apple store"]
+author: "Setu"
+authors: ["setu"]
 ---
 <a href="/wp/wp-content/uploads/2009/03/wwdc.png"><img class="alignnone size-full wp-image-2365" title="wwdc" src="/wp/wp-content/uploads/2009/03/wwdc.png" alt="wwdc" width="244" height="158" /></a>
 <p>Apple has announced the dates for the <a href="http://en.wikipedia.org/wiki/Worldwide_Developers_Conference" target="_blank">World Wide Developer Conference</a> (WWDC) 2009. Its gonna happen on June 8-12 in San Francisco. Tickets are selling now for $1,295, which includes a $300 early bird discount when purchased before April 24.</p>

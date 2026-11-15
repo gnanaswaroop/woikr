@@ -4,6 +4,8 @@ date: 2011-02-08T09:22:44
 url: /google/googles-interactive-submarine-doodle-honors-jules-verne/
 categories: ["Google"]
 tags: ["Google Doodle", "Jules Verne", "Father of Science Fiction", "Google Submarine Doodle", "Google Underwater Doodle", "Google Sea Doodle", "Google Interactive Doodle", "Google Jules Verne Doodle", "Jules Verne's 183rd birthday"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>Did you see the <a href="http://www.google.com" target="_blank">Google Doodle</a> today? It's pretty awesome isn't it? In fact, it's one of the most creative and smart doodles they have put up in some time.</p>
 <p><a href="/wp/wp-content/uploads/2011/02/jules_verne_doodle.jpg"><img class="alignnone size-medium wp-image-6794" title="jules_verne_doodle" src="/wp/wp-content/uploads/2011/02/jules_verne_doodle-300x93.jpg" alt="Jules Verne Google Doodle" width="300" height="93" /></a></p>

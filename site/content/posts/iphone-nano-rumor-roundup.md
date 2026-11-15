@@ -4,6 +4,8 @@ date: 2008-12-26T11:17:54
 url: /rumors/iphone-nano-rumor-roundup/
 categories: ["Rumors"]
 tags: ["iPhone", "iphone nano", "iphone nano case", "iphone case", "iphone cover", "iphone protective cover"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p>It all started when an iPhone case manufacturer XSKN posted <a href="http://xskn.com/default.aspx?m=Products&amp;sid=294&amp;cid=1" target="_blank">details of a new case for iPhone Nano</a> on their website. They also posted the following picture which further led to spreading of rumor on all the tech sites:</p>
 

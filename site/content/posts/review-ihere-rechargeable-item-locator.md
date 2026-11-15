@@ -4,6 +4,8 @@ date: 2016-04-11T23:08:38
 url: /reviews/review-ihere-rechargeable-item-locator/
 categories: ["Reviews"]
 tags: ["key locator", "phone finder", "ihere", "nonda"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="ihere item locator.png" src="/wp/wp-content/uploads/2016/04/ihere-item-locator.png" alt="ihere item locator" width="300" height="300" /></p>
 <p>Do you lose your keys, phone or other items frequently? We know its difficult to find an item when its lost in your own house. <a href="http://www.nonda.co/products/ihere-rechargeable-bluetooth-key-finder-remote-control-camera-shutter">Nonda’s iHere</a> is a nifty little device which you can attach to any item that you tend to lose frequently. Then, when you lose it next, simply open up the iHere app on your smartphone and tap the find button. iHere will start making a noise directing you to its (and eventually the item you are looking for)’s location.</p>

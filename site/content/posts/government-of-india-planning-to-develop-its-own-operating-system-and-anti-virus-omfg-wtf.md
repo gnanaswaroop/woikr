@@ -4,6 +4,8 @@ date: 2010-05-11T18:02:46
 url: /wtf/government-of-india-planning-to-develop-its-own-operating-system-and-anti-virus-omfg-wtf/
 categories: ["WTF?", "News"]
 tags: ["government of india", "government operating system", "government anti virus", "indian government OS"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><a href="/wp/wp-content/uploads/2010/05/windowslogo1.jpg"><img title="windows-logo1" src="/wp/wp-content/uploads/2010/05/windowslogo1_thumb.jpg" alt="windows-logo1" width="240" height="239" /></a></p>
 <p>Apparently, Government of India is pissed off with all the cyber attacks on its servers and has decided to build its own Operating System and Anti Virus software. The government formed a high-level taskforce in February to devise a plan for building indigenous software, said a senior intelligence official who is a member of the said task force.</p>

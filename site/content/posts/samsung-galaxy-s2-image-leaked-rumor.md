@@ -4,6 +4,8 @@ date: 2011-01-11T21:40:59
 url: /android/samsung-galaxy-s2-image-leaked-rumor/
 categories: ["Android", "Rumors", "Mobile Phones"]
 tags: ["Samsung Galaxy S2", "Samsung Galaxy Successor"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p><img title="Galaxy-S2" src="/wp/wp-content/uploads/2011/01/Galaxy-S2.jpg" alt="Samsung Galaxy S2 Leaked Picture" width="400" height="400" /></p>
 <p>Just <a href="/rumors/successor-to-samsung-galaxy-s-coming-soon" target="_blank">yesterday</a> a successor to the <a href="/android/samsung-sells-10-million-galaxy-s-phones-half-still-on-2-1" target="_blank"><em>very</em> popular</a> Galaxy S was announced and we were suspecting that it is the reason for the shortage of Galaxy S in Indian market. Today another Korean website ETNews has leaked a picture and some details of the device. It boasts a dual-core processor, 4.3? Super AMOLED Plus display, Android 2.3 (Gingerbread), and an NFC chip for the future proof mobile payments. The specs pretty much tally with what we heard before except the larger screen and the NFC chip.</p>

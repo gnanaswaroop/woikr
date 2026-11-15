@@ -4,6 +4,8 @@ date: 2011-06-10T11:49:47
 url: /iphone/ios-5-iphone-3gs-vs-iphone-4/
 categories: ["iPhone"]
 tags: ["iOS 5", "iphone 3gs", "iphone 4", "iOS 5 performance"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="iOS-5-logo.png" src="/wp/wp-content/uploads/2011/06/iOS-5-logo.png" alt="iOS-5-logo" width="60" height="60" /></p>
 <p>Wondering how your iPhone 3GS will perform with iOS 5 compared to iPhone 4? You should totally check out this video:</p>

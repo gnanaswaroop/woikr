@@ -4,6 +4,8 @@ date: 2011-01-03T22:57:38
 url: /photography/lexar-introduces-128-gb-sd-card-deleting-becomes-history/
 categories: ["Photo Gear"]
 tags: ["Lexar 128 GB", "128 GB Memory Card", "Lexar Professional 133x SDXC Card"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p><a href="/wp/wp-content/uploads/2011/01/SDXC_128GB_133x.jpg"><img title="SDXC_128GB_133x" src="/wp/wp-content/uploads/2011/01/SDXC_128GB_133x-225x300.jpg" alt="" width="225" height="300" /></a></p>
 <p>Lexar has introduced 128 GB SD 133x SDXC Cards. The card is fast, fast enough for HD 1080p video. And of course, it's stores more than hard drives in most netbooks these days. On a rough calculation you can store almost 60,000 10 Megapixel High Quality JPEG images on a card. If you only shoot still images, it'll take a long long time before you fill up this card. It'll set you back by $400, but that's the price you need to pay for convenience. Official Press release ahead.<a href="/wp/wp-content/uploads/2011/01/SDXC_128GB_133x.jpg"></a></p>

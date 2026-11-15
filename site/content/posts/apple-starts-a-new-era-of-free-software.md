@@ -4,6 +4,8 @@ date: 2013-11-28T06:27:57
 url: /apple/apple-starts-a-new-era-of-free-software/
 categories: ["Apple"]
 tags: ["apple software", "apple app price", "free software apple"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="apple-logo.png" src="/wp/wp-content/uploads/2011/06/apple-logo.png" alt="apple logo" width="43" height="50" /></p>
 <p>In addition to launching the new iPad Air and iPad Mini with retina display a few weeks back, Apple also launched their latest desktop operating system - OS X Mavericks. What was interesting to note is the fact that Apple is distributing the software for free to all the users who have compatible hardware and required pre-requisite software (you can even update from Snow Leopard).</p>

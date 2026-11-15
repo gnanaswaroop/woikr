@@ -4,6 +4,8 @@ date: 2011-12-31T20:48:06
 url: /mac/make-your-macbook-hibernate-instead-of-sleep-lionsnow-leopard/
 categories: ["Mac"]
 tags: ["Snow Leopard Hibernate mode", "Lion Hibernate mode", "Mac OS X hibernate mode", "Macbook Pro Hibernate"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <a href="/wp/wp-content/uploads/2011/12/macbook_pro_sleep_light.jpg"><img title="macbook_pro_sleep_light" src="/wp/wp-content/uploads/2011/12/macbook_pro_sleep_light-300x200.jpg" alt="" width="300" height="200" /></a>
 <p>By default, MacBooks are configured to sleep when you close the lids. This means it shuts down everything but provides little bit of power to the RAM so that the state is maintained as is. Once you open the lid, everything is restored as is. In case you leave your laptop for long and the battery runs out fully, the Macbook automagically stores all the state to the hard disk so that nothing gets lost. Even if you connect it to power after a week everything just works, including open windows, typed text and running processes.</p>

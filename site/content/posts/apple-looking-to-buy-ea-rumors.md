@@ -4,6 +4,8 @@ date: 2009-05-05T17:17:45
 url: /rumors/apple-looking-to-buy-ea-rumors/
 categories: ["Rumors"]
 tags: ["Apple", "Electronic Arts", "Kotaku"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <a href="/wp/wp-content/uploads/2009/05/appleea.jpg"><img title="appleea" src="/wp/wp-content/uploads/2009/05/appleea-thumb.jpg" alt="appleea" width="240" height="256" /></a>
 

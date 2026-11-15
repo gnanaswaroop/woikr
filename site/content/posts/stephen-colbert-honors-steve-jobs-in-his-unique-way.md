@@ -4,6 +4,8 @@ date: 2011-10-08T08:47:08
 url: /apple/stephen-colbert-honors-steve-jobs-in-his-unique-way/
 categories: ["Apple"]
 tags: ["steve jobs", "steve jobs death", "colbert report"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p>Stephen Colbert, the host of the famous show "Colbert Report" honors Steve Jobs in his unique way with a touch of humor. We thought it is worth sharing. Do watch it in full for an awesome ending:</p>
 <table cellspacing="0" cellpadding="0" width="512" height="340"><br>

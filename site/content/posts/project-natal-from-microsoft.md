@@ -4,6 +4,8 @@ date: 2009-06-07T15:42:39
 url: /gaming/project-natal-from-microsoft/
 categories: ["Gaming", "News"]
 tags: ["project natal", "milo", "Xbox 360", "e3", "Microsoft"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img src="/wp/wp-content/uploads/2008/12/xbox360logo-300x195.jpg" alt="" width="150" height="98" /></p>
 <p>Microsoft has wowed everyone by showcasing what might be the next milestone in the gaming &amp; entertainment industry. <a href="http://www.xbox.com/projectnatal" target="_blank">Project Natal</a> is a new way of gaming where your whole body is the controller. You do not need anything to control the characters in the game.</p>

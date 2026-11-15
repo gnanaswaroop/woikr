@@ -4,6 +4,8 @@ date: 2009-10-11T02:43:07
 url: /google/google-suggests-that-obama-is/
 categories: ["Google", "LOL"]
 tags: ["google suggest", "google search", "obama is", "google mishap", "obama is a", "barack obama", "president of the united states", "google president", "search results", "search mishap", "funny suggestions", "google funny suggestions"]
+author: "Swaroop"
+authors: ["swaroop"]
 ---
 <p>Here's another <a href="http://www.winandmac.com/humor/what-are-the-programmers-tiny-gods/" target="_blank">one</a> of <a href="http://mashable.com/2009/08/11/funniest-google-suggest-results/" target="_blank">those</a> weird and funny Google suggestions that appear in the Google search.</p>
 

@@ -4,6 +4,8 @@ date: 2011-10-26T07:34:51
 url: /news/indian-cable-operators-planning-to-launch-hd-channels/
 categories: ["News", "Home Entertainment"]
 tags: ["HD India", "hd channels india", "hd cable", "digital cable india", "digital tv"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="hd.png" src="/wp/wp-content/uploads/2011/10/hd.png" alt="high definition" width="227" height="127" /></p>
 <p>As a result of the regulation requiring all the <a href="http://en.wikipedia.org/wiki/Multiple_system_operator">Multiple System Operators (MSOs)</a> or otherwise called as "large" cable operators to go digital by 2014, major players from metropolitan cities like Hathaway and DEN are planning to launch HD channels on their platform. As per the new regulation, the cable systems in the metro cities are to go digital by March 2012 and rest of India by the end of 2014.</p>

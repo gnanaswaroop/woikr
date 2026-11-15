@@ -4,6 +4,8 @@ date: 2011-03-06T18:09:04
 url: /android/lg-launches-limited-edition-optimus-one-with-a-lame-engraving/
 categories: ["Android", "Mobile Phones"]
 tags: ["limited edition", "cricket world cup", "worldcup 2011", "limited edition mobiles", "LG Optimus One Limited edition", "LG Optimus Limited edition", "Android mobiles", "android devices", "LG Optimus One cricket", "Optimus One", "LG Optimus"]
+author: "Swaroop"
+authors: ["swaroop"]
 ---
 In India (read cricket crazy nation), this new "Limited Edition" LG Optimus One with a Cricket World Cup 2011 engraved on the back will sell like hotcakes. The hardware on the phone wasn't changed. It still misses the beloved Camera Flash and a D-Pad (more in our <a href="/reviews/lg-optimus-one-p500-hands-on-and-review-with-pics" target="_blank">detailed review</a>).
 

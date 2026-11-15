@@ -4,6 +4,8 @@ date: 2008-08-20T01:24:35
 url: /apple/how-to-upgrade-and-unlock-your-iphone-2g/
 categories: ["Apple", "iPhone"]
 tags: ["iPhone", "iphone upgrade", "upgrade iphone 1.1.4 to 2.0", "iphone 2G", "upgrade unlock 2.0", "firmware 2.0", "iPhone OS 2.0", "unlock iphone", "unlock 2.0", "upgrade iPhone to 2.0 unlocked", "iphone 2.0", "iphone 2g unlock 2.0", "old iphone upgrade", "ultimate iphone upgrade guide", "Error 1601", "Error 1604", "firmware 2.0.2", "winpwn 2.5", "winpwn 2.4", "firmware 2.0.1", "2.0.2 unlock", "2.0.2 2G", "iphone 2.0.2"]
+author: "Setu"
+authors: ["setu"]
 aliases: ["/how-to-upgrade-and-unlock-your-iphone-2g/"]
 ---
 <img class="alignnone" src="/images/iphone-unlock_lead.JPG" alt="" width="593" height="225" />

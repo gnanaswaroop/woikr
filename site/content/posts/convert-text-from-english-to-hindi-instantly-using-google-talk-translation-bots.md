@@ -4,6 +4,8 @@ date: 2008-08-15T12:17:27
 url: /google/convert-text-from-english-to-hindi-instantly-using-google-talk-translation-bots/
 categories: ["Google"]
 tags: ["en2hi", "english to hindi translation", "english to hindi", "google talk bots", "google bots translate", "chat in hindi", "google translate"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p>Everyone knows about the 20% project concept at Google. Employees devote 20% of their time in whatever project they might like. <a href="http://en.wikipedia.org/wiki/Google#Innovation_time_off" target="_blank">Many Google services</a> we use on a daily basis are results of these 20% projects.</p>
 <p>Back in December 2007, Google launched another one of it 20% projects - <a href="http://googletalk.blogspot.com/2007/12/merry-christmas-god-jul-and.html" target="_blank">Google talk translation bots</a>. You can add these bots to your Google talk friends list just like you add any other person. Now, whenever you send them some text in one language, they will immediately reply to you with the translation of that text in another language.</p>

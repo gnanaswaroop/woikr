@@ -4,6 +4,8 @@ date: 2012-12-02T13:18:35
 url: /news/flipkart-launches-ebooks-in-india/
 categories: ["News"]
 tags: ["flipkart", "ebooks", "ebooks india", "digital store india"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="flipkart-logo.png" src="/wp/wp-content/uploads/2012/05/flipkart-logo.png" alt="flipkart logo" width="163" height="55" /> <img title="flipkart-flyte-digital-store.png" src="/wp/wp-content/uploads/2012/02/flipkart-flyte-digital-store.png" alt="flipkart flyte digital store" width="135" height="25" /></p>
 <p>Flipkart.com, one of India's biggest online retailer has launched an <a href="http://www.flipkart.com/ebooks">eBook store</a> under its flyte digital store strategy. Though a bit late than planned, the eBook store from flipkart offers around 64,000 eBooks at the time of launch.</p>

@@ -4,6 +4,8 @@ date: 2011-03-15T21:01:07
 url: /news/microsoft-finally-officially-killing-zune/
 categories: ["News", "Microsoft"]
 tags: ["Microsoft", "zune", "zune hd", "zune is dead", "m$", "zune dead"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="NewImage.png" src="/wp/wp-content/uploads/2011/03/NewImage19.png" alt="NewImage" width="458" height="304" /></p>
 <p>Ever heard of <a href="http://en.wikipedia.org/wiki/Zune">Zune</a>? Its Microsoft's MP3 player. No, not Microsoft's iPod, MP3 player. And one that sucks big time. To prove how much it sucks, might I quote that it was awarded one of the <a href="http://www.pcworld.com/article/137988/the_ugliest_products_in_tech_history.html">ugliest product in tech history by PC world</a> in addition to only having around 1% of market share (compared to 77% of Apple's iPod).</p>

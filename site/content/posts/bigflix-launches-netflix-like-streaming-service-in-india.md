@@ -4,6 +4,8 @@ date: 2012-01-07T01:35:43
 url: /news/bigflix-launches-netflix-like-streaming-service-in-india/
 categories: ["News", "Home Entertainment"]
 tags: ["netflix type service in india", "netflix india", "bigflix", "bigflix plus", "streaming service india"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="bigflix-logo.png" src="/wp/wp-content/uploads/2012/01/bigflix-logo.png" alt="bigflix-logo" width="188" height="203" /></p>
 <p>BigFlix has launched a NetFlix like online streaming service in India. The new service, called <a href="http://www.bigflix.com/bigflixplus">BigFlix Plus</a> is available at a (very reasonable) monthly subscription price of ? 249 and offers unlimited streaming of all the available content. Currently, BigFlix's library contains around 500 movies.</p>

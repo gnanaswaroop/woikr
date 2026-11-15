@@ -4,6 +4,8 @@ date: 2014-02-05T19:07:17
 url: /news/satya-nadella-is-microsofts-3rd-ceo/
 categories: ["News", "Microsoft"]
 tags: ["microsoft ceo"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="microsoft-logo.png" src="/wp/wp-content/uploads/2014/02/microsoft-logo.png" alt="microsoft logo" width="162" height="58" /></p>
 <p>Putting an end to the speculations, Microsoft has announced that Satya Nadella will be the 3rd CEO of the company succeeding Steve Ballmer.</p>

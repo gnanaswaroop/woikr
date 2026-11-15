@@ -4,6 +4,8 @@ date: 2012-06-02T11:08:12
 url: /telecom/national-telecom-policy-2012-get-government-nod/
 categories: ["Telecom", "News"]
 tags: ["india telecom", "NTP 2012", "india telecom policy", "MNP", "mnp india", "roaming india"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="natinal-telecom-policy-india-2012.png" src="/wp/wp-content/uploads/2012/06/natinal-telecom-policy-india-2012.png" alt="national telecom policy india 2012" width="320" height="273" /></p>
 <p>The National Telecom Policy 2012 for reforming the Indian telecom space has been approved by the union cabinet. The policy aims to:</p>

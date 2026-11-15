@@ -4,6 +4,8 @@ date: 2011-02-10T23:45:37
 url: /iphone/fraunhofer-scientists-crack-iphone-passwords-in-6-minutes/
 categories: ["iPhone"]
 tags: ["iphone 4", "Fraunhofer", "Jailbreak", "Password Safety", "iPhone Passwords", "iPhone Jailbreak", "iPhone 4 exploit"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>A group of scientists in Fraunhofer Institute SIT in Darmstad, Germany discovered while doing some experiments on the iPhone 4 that the passwords stored in the iPhone aren't so safe after all. It took them barely six minutes to extract the passwords from a iPhone with a locked screen.</p>
 <p>As part of the hacking procedure, the scientists first Jailbreak-ed the phone to gain access to the file system. This was the step that got them through the biggest hurdle i.e. the locked screen. Once they got access, they entered the file system ran a few scripts and gained access to the unencrypted passwords stored on the particular iPhone corresponding to various services. Up ahead is a brief video explaining the procedure.</p>

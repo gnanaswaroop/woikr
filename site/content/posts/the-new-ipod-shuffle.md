@@ -4,6 +4,8 @@ date: 2009-03-13T20:58:49
 url: /news/the-new-ipod-shuffle/
 categories: ["News"]
 tags: ["Apple", "ipod shuffle", "iPod", "new ipod", "new shuffle", "ipod talk", "ipod voice", "aluminum ipod", "4GB shuffle", "talking ipod", "voiceover"]
+author: "Setu"
+authors: ["setu"]
 ---
 <a href="/wp/wp-content/uploads/2009/03/new_ipod_shuffle.png"><img class="alignnone size-medium wp-image-2225" title="new_ipod_shuffle" src="/wp/wp-content/uploads/2009/03/new_ipod_shuffle-225x300.png" alt="new_ipod_shuffle" width="225" height="300" /></a>
 <p>Apple launched the new <a href="http://www.apple.com/ipodshuffle/" target="_blank">iPod Shuffle</a> this week. It has been completely revamped. Made out of aluminum, it is much smaller in size, boasts of double the storage at 4 GB and the controls have been moved to the right earbud cord.  And it talks.</p>

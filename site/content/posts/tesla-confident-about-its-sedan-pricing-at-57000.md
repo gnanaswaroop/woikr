@@ -4,6 +4,8 @@ date: 2011-01-03T01:32:48
 url: /misc/tesla-confident-about-its-sedan-pricing-at-57000/
 categories: ["Misc"]
 tags: ["tesla", "electric sedan", "cheap electric car"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><a class="image-link" href="/wp/wp-content/uploads/2011/01/image-full.png"><img class="linked-to-original" src="/wp/wp-content/uploads/2011/01/image-thumb2.png" alt="" width="377" height="271" /></a><br /><a href="http://www.teslamotors.com/" target="_blank">Tesla Motors</a>, the company which makes the super sexy all electrical Roadster, has assured that its plans to launch a <a href="http://www.teslamotors.com/models" target="_blank">sedan model</a> in 2012 at the challenging price of $57000 is on track.</p>
 <p>Tesla says that this is due to the small Li-Ion batteries (the ones that power out laptops) that they plan to use. Being smaller in size, they will also be swappable. Also, they are pretty cheap to manufacture at $200 per kWH. Other eletrics like the Nissan Leaf and Chevy Volt use bigger batteries, which are expensive to manufacture at $750 per kWH.</p>

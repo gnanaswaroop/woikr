@@ -4,6 +4,8 @@ date: 2010-01-19T11:59:57
 url: /iphone/the-1000-iphone-app/
 categories: ["iPhone"]
 tags: ["BarMax", "iphone apps", "Most expensive iPhone app", "$1000 iPhone app", "iRa Pro"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 We finally have a proper iPhone app that costs more than a frickin MacBook! Yes, we remember the <a href="http://gizmodo.com/5033621/99999-iphone-app-i-am-rich-probably-only-applies-to-developer" target="_blank">"I am Rich" app</a> but let's face it, it was only meant for show-off and lasted only a few days before Apple pulled it out.
 

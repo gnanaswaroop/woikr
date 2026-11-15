@@ -4,6 +4,8 @@ date: 2011-01-08T20:12:01
 url: /contests/cut-the-rope-new-year-giveaway-winners-announcement/
 categories: ["Giveaways"]
 tags: ["Cut The Rope", "Cut the Rope giveaway", "iphone app giveaway", "iPhone App Contest", "Free Game Contest"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <img title="cut_the_rope" src="/wp/wp-content/uploads/2011/01/cut_the_rope.png" alt="Cut The Rope" width="225" height="225" />
 <p>The contest is over, the lucky people who'll get to feed Om Nom and make him happy have been selected. The names are..</p>

@@ -4,6 +4,8 @@ date: 2009-01-07T19:12:33
 url: /reviews/review-remindme-paid-iphone-apps/
 categories: ["Reviews"]
 tags: ["Apple iPhone apps", "RemindMe", "RemindMe for iPhone", "Paid iPhone apps", "RemindMe review", "iPhone ToDo app", "iPhone Reminder app"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p><a href="/wp/wp-content/uploads/2009/01/remindme_header.png"><img class="alignnone size-medium wp-image-1978" title="remindme_header" src="/wp/wp-content/uploads/2009/01/remindme_header-300x215.png" alt="remindme_header" width="300" height="215" /></a></p>
 <p>It seems like Apple doesn't like people to stay organized. Why else did they not put any To-Do app on the iPhone!</p>

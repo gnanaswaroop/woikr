@@ -4,6 +4,8 @@ date: 2009-02-22T22:32:55
 url: /gaming/gta-iv-the-lost-and-damned-tv-glitch/
 categories: ["Gaming", "LOL"]
 tags: ["gta iv", "tlod", "tv glitch", "the lost and damned", "grand theft auto iv", "gta 4"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><a href="/wp/wp-content/uploads/2009/02/gta4lost.jpg"><img class="alignnone size-medium wp-image-2163" title="gta4lost" src="/wp/wp-content/uploads/2009/02/gta4lost-300x257.jpg" alt="gta4lost" width="300" height="257" /></a></p>
 <p>There seems to be a glitch in the proximity sensing algorithm in the latest episode of GTA IV. <a href="http://www.rockstargames.com/thelostanddamned/" target="_blank">The Lost and Damned</a> was released on the Xbox Live marketplace on 17th Feb 2009 just as promised by Rockstar. The DLC is doing good all over the world and has received pretty good reviews from almost all the gaming sites.</p>

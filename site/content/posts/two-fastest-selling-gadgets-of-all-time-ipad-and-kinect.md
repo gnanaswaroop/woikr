@@ -4,6 +4,8 @@ date: 2010-12-17T23:33:32
 url: /apple/two-fastest-selling-gadgets-of-all-time-ipad-and-kinect/
 categories: ["Apple", "Microsoft"]
 tags: ["iPad vs Kinect", "iPad sales", "Kinect sales"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>The two fastest selling gadgets of this year are not only the 2 best gadgets of the year, they are the fastest selling gadgets of al time! They might appeal to different category of audience but they are certainly the best gadgets to own this year.</p>
 <p><a href="http://thenextweb.com/" target="_blank">TheNextWeb</a> compiled a cool infographic to compare their sales and the respective earnings. Some interesting facts we deduced out of the infographic:</p>

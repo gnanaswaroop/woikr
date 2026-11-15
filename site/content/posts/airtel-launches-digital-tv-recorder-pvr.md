@@ -4,6 +4,8 @@ date: 2010-04-07T16:49:23
 url: /news/airtel-launches-digital-tv-recorder-pvr/
 categories: ["News", "Home Entertainment"]
 tags: ["Airtel", "airtel digital TV", "airtel set top box", "airtel TV", "airtel PVR", "airtel digital TV recorder"]
+author: "Setu"
+authors: ["setu"]
 ---
 <a href="/wp/wp-content/uploads/2010/04/image.png"><img title="image" src="/wp/wp-content/uploads/2010/04/image_thumb.png" alt="image" width="240" height="231" /></a>
 <p>Finally, Airtel has launched its personal video recorder (PVR) in the market under the name “digital TV recorder”. It has all the features <a href="/home-entertainment/tata-sky-next-gen-dth-services-in-india" target="_blank">TataSky+</a> has including some extra cherries such as:</p>

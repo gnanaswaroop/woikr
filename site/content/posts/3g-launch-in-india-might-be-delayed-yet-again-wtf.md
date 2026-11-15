@@ -4,6 +4,8 @@ date: 2010-12-22T07:58:07
 url: /telecom/3g-launch-in-india-might-be-delayed-yet-again-wtf/
 categories: ["Telecom", "WTF?", "News"]
 tags: ["3G", "3g india", "3g service in India", "3g in india"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img class="alignnone size-full wp-image-5093" title="3gindia" src="/wp/wp-content/uploads/2010/12/3gindia.jpg" alt="" width="517" height="195" /></p>
 <p>Just when Indians were <a href="/telecom/airtel-gearing-up-to-launch-3g-services-in-india-iphone-4-and-ipad-in-handset-list" target="_blank">looking forward</a> to finally be able to justify the 3G enabled handsets they have been buying since the last 5 years, Indian government has poked their nose again at the 11th hour restricting the launch of 3G service by cellular operators in the name of "security". Yeah, the same "security" thing that almost banned blackberry's services a few months back.</p>

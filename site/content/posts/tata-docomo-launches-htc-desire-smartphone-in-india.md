@@ -4,6 +4,8 @@ date: 2010-08-18T12:01:07
 url: /android/tata-docomo-launches-htc-desire-smartphone-in-india/
 categories: ["Android", "News", "Mobile Phones"]
 tags: ["tata docomo", "htc desire india", "htc desire price india", "htc", "android-os"]
+author: "Setu"
+authors: ["setu"]
 ---
 <a href="/wp/wp-content/uploads/2010/08/image37.png"><img title="image" src="/wp/wp-content/uploads/2010/08/image_thumb13.png" alt="image" width="244" height="94" /></a> <a href="/wp/wp-content/uploads/2010/08/image38.png"><img title="image" src="/wp/wp-content/uploads/2010/08/image_thumb14.png" alt="image" width="175" height="105" /></a>
 

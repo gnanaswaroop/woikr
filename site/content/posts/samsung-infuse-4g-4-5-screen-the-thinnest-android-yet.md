@@ -4,6 +4,8 @@ date: 2011-01-06T09:06:36
 url: /android/samsung-infuse-4g-4-5-screen-the-thinnest-android-yet/
 categories: ["Android"]
 tags: ["Samsung Infuse 4G", "Samsung Android Phone", "4.5\" Android Phone", "Thinnest Android Phone", "CES"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>It's CES time and we expect a gazillion gadgets to be launched. We have decided to cover only the ones that we find interesting. Here is one that fits the boat - Samsung Infuse 4G.</p>
 <p><a href="/wp/wp-content/uploads/2011/01/samsunginfuseside.jpg"><img title="samsunginfuseside" src="/wp/wp-content/uploads/2011/01/samsunginfuseside-300x295.jpg" alt="Samsung Infuse 4G" width="300" height="295" /></a></p>

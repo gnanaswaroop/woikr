@@ -4,6 +4,8 @@ date: 2013-03-12T22:06:15
 url: /misc/use-apnacourier-com-to-get-your-couriers-picked-up-from-your-home/
 categories: ["Misc", "Internet"]
 tags: ["apnacourier.com", "courier pick up india", "courier online india"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="apnacourier-logo.png" alt="apnacourier logo" src="/wp/wp-content/uploads/2013/03/apnacourier-logo.png" width="230" height="70" /></p>
 <p><a href="http://apnacourier.com">Apnacourier.com</a> is a new service which makes sending couriers super easy. All you need to do is log in to the website &amp; book your courier. They will then request their courier partners to arrange for a pick up fro your door and deliver it to wherever it is supposed to go. Apnacourier has partnered with various courier agencies in India for this arrangement.</p>

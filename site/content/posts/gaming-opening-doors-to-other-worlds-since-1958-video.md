@@ -4,6 +4,8 @@ date: 2011-03-25T15:13:50
 url: /gaming/gaming-opening-doors-to-other-worlds-since-1958-video/
 categories: ["Gaming"]
 tags: ["History of Gaming"]
+author: "Chirag"
+authors: ["chirag"]
 aliases: ["/gaming/gaming-opening-doors-to-other-worlds-since-1958-video"]
 ---
 <p>While this isn't the best or most complete compilation of the History of Gaming, it's worth a watch (and more) for it's unique presentation style. The gamer sits in his chair while technology keeps getting better resulting in better TVs and consoles and, well, games.</p>

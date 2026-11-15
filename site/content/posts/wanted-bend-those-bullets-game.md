@@ -4,6 +4,8 @@ date: 2009-02-04T16:32:22
 url: /gaming/wanted-bend-those-bullets-game/
 categories: ["Gaming", "News"]
 tags: ["Wanted: weapons of fate", "wanted game", "wanted angelina jolie", "wanted gameplay", "wanted cover stabbing", "wanted cover system", "wanted bend bullets"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>Remember Wanted? That Angelina Jolie movie from last year where assassin's could bend bullets and what not!</p>
 <p><a href="http://www.grin.se/" target="_blank">GRIN</a>, the guys behind the <a href="http://www.ghostrecon.com/" target="_blank">GRAW</a> series and the superb NES remake  <a href="http://en.wikipedia.org/wiki/Bionic_Commando_Rearmed" target="_blank">Bionic Commando: Rearmed</a>, have developed a game that acts as a sequel to the movie. It's called <a href="http://en.wikipedia.org/wiki/Wanted:_Weapons_of_Fate" target="_blank"><em>Wanted: Weapons of Fate</em></a>.</p>

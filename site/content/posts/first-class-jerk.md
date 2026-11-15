@@ -4,6 +4,8 @@ date: 2008-10-27T17:36:06
 url: /lol/first-class-jerk/
 categories: ["LOL"]
 tags: ["entourage iphone", "Ari Gold iphone", "Ari Gold LOL", "Ari Gold iphone goof", "entourage iPhone goof", "first class jerk iphone", "entourage iphone lol"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p>Looks like Mrs Ari Gold from <a href="http://www.hbo.com/entourage/" target="_blank">Entourage</a> made a laughing stock of herself in the latest episode aptly titled "First Class Jerk". In the following picture you can see Mrs Gold talking on her iPhone 2G holding it upside down. LOL:</p>
 

@@ -4,6 +4,8 @@ date: 2009-04-08T19:49:52
 url: /rumors/iphone-next-gen-rumor-roundup/
 categories: ["Rumors"]
 tags: ["next gen iphone", "iphone 3", "iphone 3.0", "new iphone", "new iphone features"]
+author: "Setu"
+authors: ["setu"]
 ---
 Here are the current rumors floating around the web around the next gen iPhone:
 <ol>

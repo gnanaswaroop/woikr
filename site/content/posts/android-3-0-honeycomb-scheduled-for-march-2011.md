@@ -4,6 +4,8 @@ date: 2010-12-24T22:53:33
 url: /android/android-3-0-honeycomb-scheduled-for-march-2011/
 categories: ["Android", "Rumors"]
 tags: ["android 3.0", "Android Honeycomb", "Honeycomb Tablets"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>The next major Android release of Google's Android Operating System is scheduled for March 2011 if rumors are to be believed. In a report <a href="http://www.digitimes.com/news/a20101222PD216.html" target="_blank">Digitimes</a> said the following.</p>
 

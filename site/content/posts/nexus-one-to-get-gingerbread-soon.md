@@ -4,6 +4,8 @@ date: 2010-11-08T16:26:02
 url: /android/nexus-one-to-get-gingerbread-soon/
 categories: ["Android"]
 tags: ["Android Gingerbread", "Gingerbread release", "Gingerbread Nexus One"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>The next major Android release called Gingerbread (v2.3) will apparently be released in the next few days. It was <a href="http://twitter.com/kron0x/status/1308328261066752" target="_blank">mentioned</a> by <a href="http://twitter.com/kron0x/" target="_blank">@kron0x</a> who, as per his <a href="http://ie.linkedin.com/in/kronox" target="_blank">LinkedIn profile</a>, has a Leadership and Usability position in Android Open Handset Alliance. Which simply means that we trust him on this.</p>
 <p>It was apparent that Gingerbread is coming soon after we saw this Gingerbread installation video but I did not expect it to be released on Nexus One so soon!</p>

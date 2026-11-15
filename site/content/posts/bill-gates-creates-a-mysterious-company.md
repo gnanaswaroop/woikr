@@ -4,6 +4,8 @@ date: 2008-10-27T17:25:44
 url: /news/bill-gates-creates-a-mysterious-company/
 categories: ["News"]
 tags: ["return of bill gates", "bill gates", "bgc3", "bill gates new company", "c3", "bill gates c3"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p>Bill Gates is back. Apparently, he has created a new company called the <a href="http://www.bgc3.com/" target="_blank">BG c3</a>. The BG in the name probably stands for Bill Gates. What's mysterious is the c3 part. The logo is pretty creative though:</p>
 <p><a href="/wp/wp-content/uploads/2008/10/c3-logo.jpg"><img class="alignnone size-medium wp-image-1565" title="c3-logo" src="/wp/wp-content/uploads/2008/10/c3-logo-300x242.jpg" alt="" width="300" height="242" /></a></p>

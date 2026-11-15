@@ -4,6 +4,8 @@ date: 2011-01-12T19:07:19
 url: /gaming/zynga-targets-1-billion-indians-explores-new-payment-options/
 categories: ["Gaming", "News"]
 tags: ["Zynga India", "Zynga Bangalore", "FarmVille", "CityVille", "Mafia Wars", "Zynga Payment Cards", "Zynga payment options"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <img title="zynga" src="/wp/wp-content/uploads/2011/01/zynga.jpg" alt="Zynga India" width="400" height="233" />
 <p>If you don't know about Zynga, they are the creators of popular social network games like FarmVille, Mafia Wars and <a href="/gaming/cityville-beats-farmville-as-the-worlds-most-played-game" target="_blank">CityVille</a>. They have over 320 million registered users and have been <a href="http://venturebeat.com/2010/11/16/google-investor-john-doerr-zynga-is-our-best-company-ever/" target="_blank">valued at over $5 billion</a>, leaving behind Electronic Arts. Zynga's games have always been popular on social networks like Facebook and MySpace but since some time they have had native iPhone and iPad apps. The games are free to play but virtual merchandise can be bought for real money from within the game.</p>

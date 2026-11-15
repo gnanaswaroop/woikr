@@ -4,6 +4,8 @@ date: 2011-07-25T02:40:52
 url: /home-entertainment/tatasky-is-maxed-out-on-its-capacity-to-beam-hd-channels/
 categories: ["Home Entertainment"]
 tags: ["tatasky hd channels", "tatasky HD", "tatasky hd transponders", "tatasky", "tatasky hd capacity"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="tatasky-logo.png" src="/wp/wp-content/uploads/2011/05/tatasky-logo.png" alt="tatasky logo" width="160" height="80" /><img title="NewImage.png" src="/wp/wp-content/uploads/2011/02/NewImage1.png" alt="NewImage" width="41" height="26" /></p>
 <p>It looks like TataSky's HD subscribers are in for a big dissapointment in the near future. As TataSky launched in the initial stages of the DTH revolution in india, it uses old compression technology (<a href="http://en.wikipedia.org/wiki/MPEG-2">MPEG2</a>) as opposed to new compression technology (<a href="http://en.wikipedia.org/wiki/MPEG4">MPEG4</a>) used by its competitors like Airtel and Reliance which entered the market pretty late. Since the MPEG2 compression is not as efficient as MPEG4, channels occupy much more space on TataSky's platform as compared to those which use MPEG4. Therefore, TataSky has a limitation on the number of channels it can beam on its platform. This number is much lesser than its competitors.</p>

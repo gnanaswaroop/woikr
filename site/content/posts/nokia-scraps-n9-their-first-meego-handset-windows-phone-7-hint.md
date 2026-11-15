@@ -4,6 +4,8 @@ date: 2011-02-10T00:52:40
 url: /rumors/nokia-scraps-n9-their-first-meego-handset-windows-phone-7-hint/
 categories: ["Rumors", "Mobile Phones"]
 tags: ["Nokia Kills N9", "Nokia Windows Phone 7 rumor", "Nokia N9", "Nokia N9 scrapped", "Nokia MeeGo", "MeeGo N9"]
+author: "Abdul Rahaman"
+authors: ["arahaman"]
 ---
 <p><a href="/wp/wp-content/uploads/2011/02/nokia_n9.jpg"><img title="nokia_n9" src="/wp/wp-content/uploads/2011/02/nokia_n9-300x199.jpg" alt="Nokia N9 Scrapped" width="300" height="199" /></a></p>
 <p>Nokia's first MeeGo device has long been rumored to be the leaked full-QWERTY N9. Now, according to Reuters and a couple of close sources, the Finnish giant has ended the development of N9. We were expecting Nokia to announce their first MeeGo device, the N9 at Mobile World Congress 2011, next week. Now,  it looks like the device will not see the light of day.</p>

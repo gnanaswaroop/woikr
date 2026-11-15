@@ -4,6 +4,8 @@ date: 2011-02-16T08:58:58
 url: /android/the-next-android-release-will-combine-gingerbread-and-honeycomb/
 categories: ["Android"]
 tags: ["Next Android Version", "Ice Cream Sandwich", "gingerbread", "honeycomb", "Android Versions"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>Google's CEO Eric Schmidt has mentioned in his Keynote that the next Android release "I" will combine Gingerbread and Honeycomb. Now it could mean two things. One, that the next release will just have features from both Gingerbread and Honeycomb and two, that the next release will merge the tablet and smartphone OS line into one. The second of course, is contrary to the popular belief that Google will continue run two parallel versions for Android smartphones and tablets. In my opinion, it's the latter and that's possibly the reason that Google is naming it <a href="/android/next-android-release-will-be-called-ice-cream-sandwich" target="_blank">Ice Cream <em>Sandwich</em></a> instead of Ice Cream.</p>
 <p><a href="/wp/wp-content/uploads/2011/01/icecream_sandwich.jpg"><img title="Ice Cream Sandwich" src="/wp/wp-content/uploads/2011/01/icecream_sandwich-198x300.jpg" alt="Ice Cream Sandwich" width="198" height="300" /></a></p>

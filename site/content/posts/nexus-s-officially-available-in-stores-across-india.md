@@ -4,6 +4,8 @@ date: 2011-04-27T19:41:50
 url: /android/nexus-s-officially-available-in-stores-across-india/
 categories: ["Android", "Google", "News"]
 tags: ["nexus", "nexus s", "Nexus S India", "nexus india"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="image1.png" src="/wp/wp-content/uploads/2010/12/image1.png" alt="image1.png" /></p>
 <p>After being available for <a href="/mobile-phones/google-nexus-s-now-available-for-pre-order-in-india-for-27999">pre order</a> for some time on flipkart, Google's flagship branded <a href="http://www.google.com/nexus/#">Nexus S</a> mobile phone is now available in stores across India at a price tag of INR 29,590. In case you are the kind who does not believe in buying stuff online (even though its cheap), you can head over to your nearest brick and mortar mobile store to get your hands on this baby.</p>

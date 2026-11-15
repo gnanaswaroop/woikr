@@ -4,6 +4,8 @@ date: 2009-10-06T10:57:03
 url: /lol/another-reason-to-stop-using-hotmail/
 categories: ["LOL", "News"]
 tags: ["Hotmail password leak", "Hotmail sucks", "Reason to quit Hotmail"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <div><img class="alignnone size-full wp-image-3285" title="coldmail" src="/wp/wp-content/uploads/2009/10/coldmail.PNG" alt="coldmail" width="152" height="56" /></div>
 <div>I don't know anyone who has used Hotmail in years. But if you are still amongst the few who use it, here is Reason #461 not to do so.</div>

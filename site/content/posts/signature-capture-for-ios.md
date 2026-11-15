@@ -4,6 +4,8 @@ date: 2011-01-05T09:26:50
 url: /ipad/signature-capture-for-ios/
 categories: ["iPad", "iPhone"]
 tags: ["autograph on iPhone", "signature capture", "iPhone", "ipod touch", "autograph capture", "ipad signature", "ipad autograph", "sign on ipad"]
+author: "Setu"
+authors: ["setu"]
 ---
 <p><img title="NewImage.jpg" src="/wp/wp-content/uploads/2011/01/NewImage37.jpg" alt="NewImage.jpg" width="205" height="86" /></p>
 <p>While browsing through the website of <a href="http://tenonedesign.com">Ten One Design</a> - makers of <a href="/gaming/a-tactile-joystick-for-your-ipad">fling tactile joystick for iPad</a>, I came across this neat piece of iOS app - <a href="http://itunes.apple.com/us/app/autograph/id339423436?mt=8#">Autograph</a>.</p>

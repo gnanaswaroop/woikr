@@ -4,6 +4,8 @@ date: 2010-12-25T09:51:38
 url: /apple/apples-new-patent-application-shows-antenna-in-the-logo/
 categories: ["Apple"]
 tags: ["Apple Antenna", "iPhone 4 Antenna", "Apple Antenna Patent", "iPad Antenna", "Antenna Apple Logo"]
+author: "Chirag"
+authors: ["chirag"]
 ---
 <p>After the <a href="http://en.wikipedia.org/wiki/IPhone_4#Antenna" target="_blank">major problems with iPhone 4</a> that led to a lot of backlash, Apple has apparently redesigning the Antenna in it's devices again. They filed a patent in 2009 that was <a href="http://www.patentlyapple.com/patently-apple/2010/12/apple-invents-new-kind-of-logo-antenna-for-portables.html" target="_blank">recently discovered</a> and shows their intentions to hide the antenna behind the Apple logo.</p>
 <p><a href="/wp/wp-content/uploads/2010/12/patent_apple_antenna.jpg"><img title="patent_apple_antenna" src="/wp/wp-content/uploads/2010/12/patent_apple_antenna-300x129.jpg" alt="" width="300" height="129" /></a></p>
