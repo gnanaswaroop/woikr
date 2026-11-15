@@ -1,5 +1,6 @@
 baseURL = "https://woikr.com/"
 title = "woikr"
+
 disableKinds = ["sitemap"]
 enableRobotsTXT = true
 
@@ -15,6 +16,7 @@ enableRobotsTXT = true
 
 [params]
   description = "Gadgets, reviews, tricks and more. An archive of woikr.com."
+  tagline = "Gadgets, Reviews, Tricks and More"
   logo = "/images/woikr-logo.png"
 
 [[menus.main]]
