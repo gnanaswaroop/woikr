@@ -1,0 +1,8 @@
+---
+title: "Google’s new look"
+date: 2010-05-06T11:55:42
+url: /google/googles-new-look/
+categories: ["Google", "News"]
+tags: ["Google", "google search", "google new look"]
+---
+<p><img title="image" alt="image" src="/wp/wp-content/uploads/2010/05/image14.png" width="240" height="96" /> </p>  <p>The search giant Google has a new look for its search results page. The new look updates the visual looks and feel throughout and offers search tools in an all new left nav (click to enlarge):</p>  <p><a href="/wp/wp-content/uploads/2010/05/image15.png"><img title="image" alt="image" src="/wp/wp-content/uploads/2010/05/image_thumb6.png" width="218" height="244" /></a> </p>  <div></div>  <p>There are a couple of new features which are explained in the short video below:</p>  <p><object width="560" height="340"><param name="movie" value="http://www.youtube.com/v/C-rnxNFRAQA&amp;hl=en_US&amp;fs=1&amp;"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/C-rnxNFRAQA&amp;hl=en_US&amp;fs=1&amp;" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object></p>  <p>The new version is rolling out globally across 37 languages. Google is also launching the mobile version concurrently for English interfaces in the United States.</p>  <p>[via <a href="http://googleblog.blogspot.com/2010/05/spring-metamorphosis-googles-new-look.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+blogspot%2FMKuf+%28Official+Google+Blog%29" target="_blank">Official Google Blog</a>]</p>

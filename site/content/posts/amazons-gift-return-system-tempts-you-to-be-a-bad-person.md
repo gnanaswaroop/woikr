@@ -1,0 +1,13 @@
+---
+title: "Amazon’s Gift Return System Tempts You To Be A Bad Person"
+date: 2010-12-29T22:39:59
+url: /misc/amazons-gift-return-system-tempts-you-to-be-a-bad-person/
+categories: ["Misc"]
+tags: ["amazon", "amazon gifts", "holiday gifts", "return policy", "amazon gifts return", "gift amaon", "return gifts"]
+---
+<p>Amazon has <a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PALL&amp;p=1&amp;u=/netahtml/PTO/srchnum.htm&amp;r=1&amp;f=G&amp;l=50&amp;s1=7831439.PN.&amp;OS=PN/7831439&amp;RS=PN/7831439" target="_blank">patented</a> a gift return system for their website that really makes it easy for you to be a bad person and return the gift your loving aunt (with no taste in clothes) bought for you. Basically, the system notifies the receiver that they have received a gift and allows them to return the gift in lieu of something else more attractive.</p>
+<p>Amazon says, "As in other gift-giving situations, it sometimes occurs that gifts purchased online do not meet the needs or tastes of the gift recipient. In such situations, the recipient may wish to convert the gift to something else, for example, by exchanging the gift for another item or by obtaining a redemption coupon, gift card, or other gift certificate to be redeemed later."</p>
+<p><img class="alignnone size-medium wp-image-5482" title="amazon" src="/wp/wp-content/uploads/2010/12/amazon-300x257.jpg" alt="" width="300" height="257" /><a href="/wp/wp-content/uploads/2010/12/amazon_patent_image.jpg"><img class="alignnone size-medium wp-image-5481" title="amazon_patent_image" src="/wp/wp-content/uploads/2010/12/amazon_patent_image-235x300.jpg" alt="" width="235" height="300" /></a></p>
+<p>If you go into the details, the system is actually really well designed. It allows for settings rules using which the sender can make sure that the receiver doesn't exchange their gifts for something that they wouldn't want to gift. For e.g. your mom can decide not to gift you any video games so that the book she sent you cannot be replaced for a video game. In fact the rules can be even more detailed allowing gift categories and sub categories to be selected. Also, in case you got some clothes from an old uncle who doesn't know you've gained some weight, the system allows you to change the size to fit you before the gift is delivered.</p>
+<p>I hope they also have a limit to how strict the rules can be. You shouldn't need to crib about the choices when you are being a bad person by exchanging the gift anyway.</p>
+<p>[via <a href="http://news.cnet.com/8301-13506_3-20026694-17.html" target="_blank">CNET</a>]</p>

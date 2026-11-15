@@ -1,0 +1,11 @@
+---
+title: "TataSky HD will add ESPN HD in time for Indian Formula 1 Grand Prix"
+date: 2011-10-25T12:12:44
+url: /news/tatasky-hd-will-add-espn-hd-in-time-for-indian-formula-1-grand-prix/
+categories: ["News", "Home Entertainment"]
+tags: ["tatasky", "tatasky HD", "tatasky hd channels", "espn hd india", "HD India", "formula 1 hd transmission india"]
+---
+<p><img title="tatasky-logo.png" src="/wp/wp-content/uploads/2011/05/tatasky-logo.png" alt="tatasky logo" width="160" height="80" /><img title="espn-hd-logo.png" src="/wp/wp-content/uploads/2011/10/espn-hd-logo.png" alt="espn hd logo" width="105" height="79" /></p>
+<p>With India's first <a href="http://en.wikipedia.org/wiki/Indian_Grand_Prix">Formula 1 grand prix</a> starting from 30-October-2011, subscribers of TataSky HD have been wondering if they would be able to watch the mega event in HD as TataSky does not carry ESPN HD - the official broadcaster of the HD feed of the event in India. Well, we have good news! TataSky's <a href="http://twitter.com/#!/TataSky">official twitter account</a> has confirmed to us in a <a href="http://twitter.com/#!/TataSky/status/128717036800057344">tweet</a> that they will, indeed be adding the ESPN HD channel on their platform on 30-October-2011:</p>
+<p><img title="TataSky-ESPN-HD-Tweet.jpg" src="/wp/wp-content/uploads/2011/10/TataSky-ESPN-HD-Tweet.jpg" alt="TataSky ESPN HD Tweet" width="600" height="255" /></p>
+<p>They also announced the news in <a href="http://twitter.com/#!/TataSky/status/128716358467846144">another tweet</a> to all their followers. Awesome news for all the TataSky HD subscribers in India. No word on pricing yet, but we hope they include this as part of the HD Gold pack. Also, we are not sure if this means that they have increased their <a href="/home-entertainment/tatasky-is-maxed-out-on-its-capacity-to-beam-hd-channels/">transponder capacity</a> or not. We tried to <a href="http://twitter.com/#!/TataSky/status/124434811350827009">ask them</a>, but, apparently, they did not directly answer the question. They just said that ESPN HD is in addition to the existing 7 HD channels. Most likely, this means that they have somehow procured more transponder space, unless they are <a href="http://twitter.com/#!/TataSky/status/128467613532692482">dropping some SD channels</a> to accommodate ESPN HD. Nonetheless, awesome news!</p>

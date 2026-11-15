@@ -1,0 +1,67 @@
+---
+title: "Preview: Google Chrome - Google's Open Source Browser"
+date: 2008-09-02T16:14:30
+url: /google/preview-google-chrome-googles-open-source-browser/
+categories: ["Google"]
+tags: ["google chrome", "Chrome", "google browser"]
+---
+<p>Putting an end to the rumors floating all over the blogosphere for the last few months, Google announced their plan to release an open source browser named Google Chrome. And it is coming today. Yes, Tuesday, the 2nd of September 2008!</p>
+<p>According to the <a href="http://googleblog.blogspot.com/2008/09/fresh-take-on-browser.html" target="_blank">Official Google Blog page</a>, Chrome will add value for users and, at the same time, help drive innovation on the web.</p>
+<p>To help everyone understand the concept behind Chrome, Google teamed up with the legendary <a href="http://www.scottmccloud.com" target="_blank">Scott McCloud</a> to develop a cool comic. You can see it here: <a href="http://www.google.com/googlebooks/chrome" target="_blank">http://www.google.com/googlebooks/chrome</a></p>
+
+<h3>Some highlights</h3>
+<p>1. Chrome will include a JavaScript Virtual Machine called V8, which is built from scratch by a team in Denmark, and is open source.
+2. The tabs will be placed above the address bar and not below.
+3. The address bar has auto completion feature and is called "omnibox".
+4. The default homepage will be thumbnails of 9 recent/popular pages plus some personalized stuff on the right.
+5. There is a privacy mode - finally.
+6. Web based apps which do not need the address and tool bar can be launched in special tabs which do not have these.
+7. It will constantly keep on downloading list of harmful sites to prevent your computer.
+8. The active downloads will show at the bottom.</p>
+
+<h3>Some images</h3>
+<a href="http://gears.google.com/chrome/"><img class="size-medium wp-image-789 alignnone" title="google-chrome-logo" src="/wp/wp-content/uploads/2008/09/google-chrome-logo.jpg" alt="Google Chrome Logo" width="150" height="55" /></a>
+
+Google Chrome Service Logo
+
+<img class="alignnone size-full wp-image-790" title="google-chrome-screenshot" src="/wp/wp-content/uploads/2008/09/google-chrome-screenshot.jpg" alt="" width="440" height="359" />
+
+Google Chrome Screenshots
+
+<img class="alignnone size-full wp-image-783" title="chrome-default-homepage" src="/wp/wp-content/uploads/2008/09/chrome-default-homepage.jpg" alt="" width="320" height="240" />
+
+Chrome Default Homepage with up to 9 thumbnails
+
+<img class="alignnone size-full wp-image-791" title="omnibox-auto-completion" src="/wp/wp-content/uploads/2008/09/omnibox-auto-completion.jpg" alt="" width="320" height="240" />
+
+Chrome Omnibox Auto Complete
+
+<img class="alignnone size-full wp-image-788" title="chrome-task-manager" src="/wp/wp-content/uploads/2008/09/chrome-task-manager.jpg" alt="" width="320" height="240" />
+
+Chrome Task Manager
+
+<img class="alignnone size-full wp-image-787" title="chrome-settings" src="/wp/wp-content/uploads/2008/09/chrome-settings.jpg" alt="" width="320" height="240" />
+
+Chrome Settings Menu
+
+<img class="alignnone size-full wp-image-782" title="chrome-bookmark-star" src="/wp/wp-content/uploads/2008/09/chrome-bookmark-star.jpg" alt="" width="320" height="240" />
+
+Chrome Bookmarking (Starring) Mechanism
+
+<img class="alignnone size-full wp-image-786" title="chrome-incognito-mode-private-browsing" src="/wp/wp-content/uploads/2008/09/chrome-incognito-mode-private-browsing.jpg" alt="" width="320" height="240" />
+
+Chrome Private Browsing Mode - Incognito
+
+<img class="alignnone size-full wp-image-785" title="chrome-downloads" src="/wp/wp-content/uploads/2008/09/chrome-downloads.jpg" alt="" width="320" height="240" />
+
+Chrome - Active Downloads
+
+Stay tuned for an extensive coverage on Chrome!
+
+<strong>UPDATE 1:</strong>
+
+Google Chrome is out. Download <a href="http://www.google.com/chrome/" target="_blank">here</a>!
+
+<strong>UPDATE 2:</strong>
+
+Here's our <a href="/google/first-look-google-chrome/" target="_self">review</a>!

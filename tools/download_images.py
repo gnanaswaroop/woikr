@@ -23,7 +23,7 @@ def local_path(url):
     rel = urllib.parse.unquote(m.group(1).split("?")[0].split("#")[0])
     if not rel.startswith("wp/wp-content/uploads/"):
         return None
-    return rel[len("wp/"):]  # wp-content/uploads/...
+    return rel  # wp/wp-content/uploads/... keeps the exact path the pages reference
 
 
 def fetch(url):
@@ -60,9 +60,9 @@ def download(url):
 
 
 def main():
-    urls = json.load(open(os.path.join(ROOT, "raw", "img_urls.json"), encoding="utf-8"))
+    urls = ["http://woikr.com" + p for p in json.load(open(os.path.join(ROOT, "raw", "backup_media.json"), encoding="utf-8"))]
     results = []
-    with ThreadPoolExecutor(max_workers=4) as ex:
+    with ThreadPoolExecutor(max_workers=3) as ex:
         for res in ex.map(download, urls):
             results.append(res)
     json.dump(results, open(os.path.join(ROOT, "raw", "image_results.json"), "w", encoding="utf-8"), indent=1)

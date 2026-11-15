@@ -1,0 +1,13 @@
+---
+title: "People In China Queue Up For Meizu M9 [Take That Apple]"
+date: 2011-01-02T21:55:00
+url: /android/people-in-china-queue-up-for-meizu-m9-phone/
+categories: ["Android"]
+tags: ["meizu", "meizu M9", "Android 2.2", "android phone", "china iPhone replica", "iPhone meizu", "meizu android"]
+---
+<p>I remember <a href="http://meizu.com/" target="_blank">Meizu</a> from a really old article I read about shadow shifts and replica product factories in China. It was one of those companies that started making iPhone replicas but went on to make MP3 players and phones that were actually popular in China. And now, they are so popular that their latest release Meizu M9, an Android based phone, gathered bigger queues than we've probably ever seen! Apparently people were queued up since 8 pm previous night.In fact, Engadget <a href="http://www.engadget.com/2011/01/01/meizus-m9-launch-amasses-thousands-of-jack-wong-fans-across-chi/" target="_blank">says</a> that Meizu's CEO Jack Yong himself discouraged such hustle on the forum for the sake of people's health, promising "all the flagship stores will have sufficient stock" for all pre-orderers. Just look at the pictures ahead. There is a small video up ahead as well.</p>
+
+
+<object id="viddler" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="437" height="266" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowScriptAccess" value="always" /><param name="allowFullScreen" value="true" /><param name="flashvars" value="fake=1" /><param name="src" value="http://www.viddler.com/simple/c5fcb013/" /><param name="name" value="viddler" /><param name="allowfullscreen" value="true" /><embed id="viddler" type="application/x-shockwave-flash" width="437" height="266" src="http://www.viddler.com/simple/c5fcb013/" name="viddler" flashvars="fake=1" allowfullscreen="true" allowscriptaccess="always"></embed></object>
+<p>FYI, Meizu M9 is a Android 2.2 (Froyo) based phone that features a 1 Ghz  Samsung Hummingbird processor, the awesome Retina-display-like <a href="http://www.engadget.com/2010/10/07/sharp-is03-asv-display-vs-iphone-4-ips-display-fight/" target="_blank">Sharp's ASV display</a> with the same 960x640 resolution and the regular high-end cellphone stuff. The price is very competitive at $379 for 8GB and $409 for 16GB versions respectively. Compared to the similar specced Android phones in India, this is easily $150 lesser. I wonder if Meizu will ever launch this in India.</p>
+<p>[via <a href="http://www.engadget.com/2011/01/01/meizus-m9-launch-amasses-thousands-of-jack-wong-fans-across-chi/" target="_blank">Engadget</a>]</p>

@@ -1,0 +1,8 @@
+---
+title: "Google updates Chrome, makes it faster"
+date: 2009-05-22T11:35:27
+url: /news/google-updates-chrome-makes-it-faster/
+categories: ["News"]
+tags: ["Google", "Chrome", "chrome 2", "faster chrome"]
+---
+<p><a href="/wp/wp-content/uploads/2009/05/logo-google-chrome.jpg"><img title="logo_google_chrome" height="55" alt="logo_google_chrome" src="/wp/wp-content/uploads/2009/05/logo-google-chrome-thumb.jpg" width="150" /></a> </p>  <p><a href="/tag/google">Google</a> <a href="/tag/chrome">Chrome</a> has been updated to a new version. Google calls it Chrome 2. In addition to the following nifty updates, the Chrome 2 is supposedly 30% faster:</p>  <ul>   <li>     <div><b>Improved New Tab Page</b>: You now have the option to hide thumbnails from the new tabs page.</div>   </li>    <li>     <div><b>Full Screen Mode</b>: Press F11 to browse in full screen.</div>   </li>    <li>     <div><b>Form Autofill</b>: Saves commonly entered form data and autofills.</div>   </li>    <li>     <div><b>Increased Stability</b>: More than 300 bugs that caused crashes have been fixed.</div>   </li>    <li>     <div><b>Increased Speed</b>: a 30% hike in speed for extensive javascript based pages.</div>   </li> </ul>  <p><a href="/wp/wp-content/uploads/2009/05/v8.png"><img title="V8" height="230" alt="V8" src="/wp/wp-content/uploads/2009/05/v8-thumb.png" width="400" /></a> </p>  <p>Chrome will be updated automatically for existing users. New users can go to <a href="http://www.google.com/chrome" target="_blank">google.com/chrome</a> to download the latest version.</p>  <p>[via <a href="http://googleblog.blogspot.com/2009/05/put-pedal-to-metal-with-faster-google.html" target="_blank">Official Google Blog</a>]</p>
