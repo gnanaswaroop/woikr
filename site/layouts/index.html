@@ -2,7 +2,7 @@
 <section class="intro">
   <p>{{ site.Params.description }}</p>
 </section>
-<section class="cards">
+<section class="cards" id="cards">
   {{ $posts := where site.RegularPages "Section" "posts" }}
   {{ range (.Paginate ($posts.ByDate.Reverse)).Pages }}
   {{ $p := . }}
@@ -21,5 +21,10 @@
   </article>
   {{ end }}
 </section>
-{{ template "_internal/pagination.html" . }}
+<div id="cards-sentinel" aria-hidden="true"></div>
+<p id="cards-status" class="cards-status" role="status" aria-live="polite"></p>
+<nav id="pager" class="pager" aria-label="Pages">
+  {{ template "_internal/pagination.html" . }}
+</nav>
+<script src="{{ "js/infinite.js" | relURL }}" defer></script>
 {{ end }}
