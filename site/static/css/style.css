@@ -61,3 +61,7 @@ ol { padding-left:0; }
   .cards { grid-template-columns:1fr; }
   .card-title { font-size:1.05rem; }
 }
+
+/* Author archive: personal site line under the name */
+.author-bio { color:var(--muted); margin:0 0 16px; font-size:.95rem; }
+.author-bio p { margin:0; }

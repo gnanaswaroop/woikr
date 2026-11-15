@@ -1,0 +1,10 @@
+# Personal sites shown on each author's archive page (keyed by author slug).
+swaroop:
+  url: https://swaroop.in
+  label: swaroop.in
+chirag:
+  url: https://chiraggupta.com/about/
+  label: chiraggupta.com
+setu:
+  url: https://www.setugargphotography.com/
+  label: setugargphotography.com

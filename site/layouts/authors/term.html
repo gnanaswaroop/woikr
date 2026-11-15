@@ -1,0 +1,16 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+{{ with index hugo.Data.authors .Data.Term }}
+<section class="author-bio">
+  <p>Personal site: <a href="{{ .url }}" rel="me noopener">{{ .label }}</a></p>
+</section>
+{{ end }}
+<section class="post-list">
+  {{ range .Pages }}
+  <article class="teaser">
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    <p class="meta">{{ .Date.Format "January 2, 2006" }}</p>
+  </article>
+  {{ end }}
+</section>
+{{ end }}
