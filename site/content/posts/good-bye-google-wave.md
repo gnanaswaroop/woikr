@@ -22,10 +22,10 @@ Many a times, at woikr we collaborated over website development tasks and mainta
 <strong>So what might have went wrong?</strong>
 <ul>
 <li>People are just scared to change - they don't want to adopt newer collaboration techniques. No one used this as a primary mode of communication like email.</li>
-<li>Unstable wave platform as the technology wasn’t perfected yet.
-Every one likes Google products even in Beta as they’re stable than most “released products” from the likes of Yahoo and M$, but this was different.
+<li>Unstable wave platform as the technology wasn’t perfected yet.<br>
+Every one likes Google products even in Beta as they’re stable than most “released products” from the likes of Yahoo and M$, but this was different.<br>
 The Google wave dev team was continuously fixing issues and this demanded a lot of “Client processing power” too. Thanks to immense amount of JavaScript usage.</li>
-<li>Related to #1, users just didn’t get it.
+<li>Related to #1, users just didn’t get it.<br>
 User’s don’t get twitter either, but that’s one place to rant and some how helped twitter get off pretty well.</li>
 <li>Official Gadgets – Should have been much more to start with, although users wrote their own Robots and Gadgets which weren’t explor-able easily.</li>
 </ul>

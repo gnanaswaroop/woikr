@@ -5,6 +5,6 @@ url: /iphone/t-mobile-ad-makes-fun-of-iphone-on-att-verizon/
 categories: ["iPhone"]
 tags: ["T-Mobile 4G Ad", "T-Mobile vs Verizon", "Verizon iPhone", "T-Mobile vs AT&T"]
 ---
-T-Mobile already has an advertisement ready which is making fun of iPhone on both AT&amp;T and Verizon since it runs on a slow network compared to T-Mobile's 4G. That was quick!
-
+T-Mobile already has an advertisement ready which is making fun of iPhone on both AT&amp;T and Verizon since it runs on a slow network compared to T-Mobile's 4G. That was quick!
+
 <a href="http://www.youtube.com/watch?v=6pb9-LbxFeU">httpv://www.youtube.com/watch?v=6pb9-LbxFeU</a>

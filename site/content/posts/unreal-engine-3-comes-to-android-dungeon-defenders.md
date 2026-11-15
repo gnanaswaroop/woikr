@@ -8,7 +8,7 @@ tags: ["Android Gaming", "Dungeon Defenders First Wave"]
 <p><a href="http://trendyent.com/" target="_blank">Trendy Entertainment</a> has launched the first game based on <a href="http://en.wikipedia.org/wiki/Unreal_Engine_3" target="_blank">Unreal Engine 3</a> on Android. <a href="http://dungeondefenders.com/tag/dungeon-defenders-first-wave" target="_blank">Dungeon Defenders: First Wave</a> is without doubt the best display of graphics available on Android as of now. The gameplay sounds interesting too. It's basically an Action RPG with some elements of Tower Defense and Real Time Strategy. Check the trailer ahead. If you like it, and your phone passes the requirements given ahead, you can buy it for $2.99 from the Android Market.</p>
 <p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="580" height="351" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/BeyQ-PC_cwc?fs=1&amp;hl=en_US&amp;rel=0&amp;color1=0x3a3a3a&amp;color2=0x999999" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="580" height="351" src="http://www.youtube.com/v/BeyQ-PC_cwc?fs=1&amp;hl=en_US&amp;rel=0&amp;color1=0x3a3a3a&amp;color2=0x999999" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
-<p>
+<p><br>
 <strong>Basic Requirements</strong>:</p>
 
 <ul>

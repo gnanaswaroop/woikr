@@ -8,7 +8,7 @@ tags: ["macbook", "macbook pro", "wwdc 2009", "new macbooks"]
 <a href="/wp/wp-content/uploads/2009/06/image5.png"><img title="image" src="/wp/wp-content/uploads/2009/06/image-thumb4.png" alt="image" width="500" height="156" /></a>
 <p>Apple unveiled the new Macbooks at WWDC making them faster and cheaper. With addition of things like better screen and SD card slot, this is probably the best macbook update after unibody. Here is a quick look at the config:</p>
 
-<table cellspacing="1" cellpadding="4" width="100%" bgcolor="#cccccc">
+<table cellspacing="1" cellpadding="4" width="100%" bgcolor="#cccccc"><br>
 <tbody>
 <tr bgcolor="#ffffff">
 <td valign="top"></td>
@@ -55,7 +55,7 @@ tags: ["macbook", "macbook pro", "wwdc 2009", "new macbooks"]
 <td valign="top">$1,199.00</td>
 <td valign="top">$1,699.00</td>
 <td valign="top">$2,499.00</td>
-</tr>
+</tr><br>
 </tbody></table>
 <p>As you can see, the good old 13 inch Macbook has been upgraded to the Macbook Pro. The most talked about upgrades are the SD card slot and the awesome battery life.</p>
 <p>The new batteries deliver a much longer backup, but are now built into the unibody. According to Apple, the battery will last for 5 years or 1000 recharges. This shouldn’t affect us as we anyways have to get the battery replaced from the Apple store.</p>

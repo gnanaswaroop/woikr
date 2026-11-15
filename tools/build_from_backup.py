@@ -32,7 +32,25 @@ def load(t):
     return json.load(open(os.path.join(BK, f"{t}.json"), encoding="utf-8"))
 
 
+BLOCK_START = re.compile(r"^\s*</?(p|div|h[1-6]|ul|ol|li|blockquote|table|tr|td|th|pre|hr|img|iframe|figure|section|article|dl|dt|dd)\b", re.I)
+BLOCK_END = re.compile(r"</(p|div|h[1-6]|ul|ol|li|blockquote|table|pre|figure)>\s*$", re.I)
+
+
+def autop_lite(h):
+    """WordPress wpautop-style: a single newline between inline text becomes a <br>."""
+    h = h.replace("\r\n", "\n").replace("\r", "\n")
+    lines = h.split("\n")
+    out = []
+    for i, line in enumerate(lines):
+        nxt = lines[i + 1] if i + 1 < len(lines) else ""
+        keep = (not line.strip() or BLOCK_END.search(line)
+                or not nxt.strip() or BLOCK_START.match(nxt))
+        out.append(line if keep else line + "<br>")
+    return "\n".join(out)
+
+
 def clean_body(h):
+    h = autop_lite(h)
     h = SHORTCODE_WRAP.sub(lambda m: m.group(1), h)
     h = SHORTCODE_TAG.sub("", h)
     h = SCRIPT.sub("", h)

@@ -13,7 +13,7 @@ tags: ["Google Android", "Google Gesture Search", "Double Flip gesture"]
 <li>Improved usability for better accessibility support.</li>
 <li>Improved the performance of background tasks such as indexing.</li>
 </ul>
-<p>
+<p><br>
 
 </p>
 <p>The last 2 are subjective but it was the Double Flip that excited me to download and try again. The Double Flip gesture is really smart. Look at the demo video from Google below and you'll see how cool and efficient it is. With a little trial and error you can set it up to work just as per your preferences. Also, it works equally well whether you hold the phone in your left or right hand. The remaining 2 updates also seem to help. As of now, all my gestures have been working perfectly, much better than before. And there is no noticeable lag as such. The background process takes 1.5-3 MB of memory in most situations so you don't need to worry about that. Just make sure you add it to the ignore list of your favorite Task Killer app. You can also filter the search results as per your requirements. I use it only for Contacts as it works best for me.</p>

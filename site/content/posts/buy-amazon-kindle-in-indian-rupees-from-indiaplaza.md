@@ -14,11 +14,11 @@ tags: ["kindle", "kindle india", "amazon kindle india", "buy kindle india"]
 <li><a href="http://www.indiaplaza.in/kindle-6-inch-wifi-3g-white-electronics-ele2103201112syw004-10.htm">Kindle 6 inch WiFi + 3G (white)</a> - I<strong>NR 11850</strong></li>
 </ul><p>All the above models come with a US power adapter (which accepts 100V - 240V, which means you can directly use it in India. You will probably just need a US to India plug converter) &amp; a USB 2.0 cable (for connecting the kindle to the charger &amp; also transferring files from your computer to the kindle).</p>
 <p>Here is a quick list of features:</p>
-<table cellspacing="0" cellpadding="0" width="100%">
+<table cellspacing="0" cellpadding="0" width="100%"><br>
 <tbody>
 <tr>
 <td>
-<table cellspacing="1" cellpadding="0" width="100%">
+<table cellspacing="1" cellpadding="0" width="100%"><br>
 <tbody>
 <tr>
 <td class="pddesc"><strong>Display</strong></td>
@@ -71,11 +71,11 @@ tags: ["kindle", "kindle india", "amazon kindle india", "buy kindle india"]
 <tr>
 <td class="pddesc"><strong>Included Accessories</strong></td>
 <td class="pddesc">U.S. power adapter (supports 110V-240V), USB 2.0 cable, rechargeable battery.</td>
-</tr>
+</tr><br>
 </tbody>
 </table>
 </td>
-</tr>
+</tr><br>
 </tbody>
 </table>
 <p>Although most operators in India have started their 3G services, it is not clear whether they are supporting 3G for international carriers' subscribers roaming here in India. The <a href="http://client0.cellmaps.com/viewer.html?cov=1">Kindle 3G coverage page</a> still shows 2G coverage in india.</p>

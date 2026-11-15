@@ -8,10 +8,10 @@ aliases: ["/news/uber-launches-low-cost-uber-x-in-india"]
 ---
 <p><img title="uber-logo.png" src="/wp/wp-content/uploads/2014/07/uber-logo.png" alt="uber logo" width="300" height="91" /></p>
 <p>Premium on call cab service Uber has launched its (relatively) cheaper service Uber X in 3 cities in India. The service is available in New Delhi, Bangalore &amp; Hyderabad and offers a cheaper alternative with the same benefits that the Uber black service offers. The only noticeable difference is the type of car that you will ride in. While Uber black offers a premium fleet of cars, Uber X uses economy to premium economy cars. Here is the rate for Uber X in India:</p>
-<table class="table table-striped table-bordered">
+<table class="table table-striped table-bordered"><br>
 <thead>
-<tr><th colspan="6"> </th><th colspan="2">uberX</th></tr>
-</thead>
+<tr><th colspan="6"> </th><th colspan="2">uberX</th></tr><br>
+</thead><br>
 <tbody>
 <tr>
 <td colspan="6"><span>Base Fare</span><br />start with this fare</td>
@@ -28,11 +28,11 @@ aliases: ["/news/uber-launches-low-cost-uber-x-in-india"]
 <tr>
 <td colspan="6"><span>Minimum Fare</span></td>
 <td colspan="2">INR 150</td>
-</tr>
+</tr><br>
 </tbody>
 </table>
 <p>And here are some sample fares:</p>
-<table width="593">
+<table width="593"><br>
 <tbody>
 <tr>
 <td width="213"><span>Safdarjung Enclave to Khan Market</span></td>
@@ -45,7 +45,7 @@ aliases: ["/news/uber-launches-low-cost-uber-x-in-india"]
 <tr>
 <td width="213"><span>Airport Terminal 3 to New Friends Colony</span></td>
 <td width="213">INR<span> </span>531 – 612</td>
-</tr>
+</tr><br>
 </tbody>
 </table>
 <p><em>*Actual fares may vary due to traffic, weather, and other factors.</em></p>

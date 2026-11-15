@@ -5,10 +5,10 @@ url: /gaming/first-person-super-mario-bros-will-satisfy-you-fragaholics-video/
 categories: ["Gaming"]
 tags: ["FPS Gamers", "Fragaholics", "Super Mario Bros", "Super Mario Bros FPS", "Mario First-person shooter"]
 ---
-Super Mario Bros...Check.
-FPS...Check!
-Capture the Flag...CHECK!
-
-Also, arguably the brightest colors you've seen in an FPS ever.
-
+Super Mario Bros...Check.<br>
+FPS...Check!<br>
+Capture the Flag...CHECK!
+
+Also, arguably the brightest colors you've seen in an FPS ever.
+
 httpv://www.youtube.com/watch?v=KBb9wFP7uZM

@@ -6,7 +6,7 @@ categories: ["Apple"]
 tags: ["steve jobs", "steve jobs death", "colbert report"]
 ---
 <p>Stephen Colbert, the host of the famous show "Colbert Report" honors Steve Jobs in his unique way with a touch of humor. We thought it is worth sharing. Do watch it in full for an awesome ending:</p>
-<table cellspacing="0" cellpadding="0" width="512" height="340">
+<table cellspacing="0" cellpadding="0" width="512" height="340"><br>
 <tbody>
 <tr valign="middle">
 <td><a href="http://www.colbertnation.com" target="_blank">The Colbert Report</a></td>
@@ -23,16 +23,16 @@ tags: ["steve jobs", "steve jobs death", "colbert report"]
 </tr>
 <tr valign="middle">
 <td colspan="2">
-<table cellspacing="0" cellpadding="0" width="100%" height="100%">
+<table cellspacing="0" cellpadding="0" width="100%" height="100%"><br>
 <tbody>
 <tr valign="middle">
 <td><a href="http://www.colbertnation.com/full-episodes/" target="_blank">Colbert Report Full Episodes</a></td>
 <td><a href="http://www.indecisionforever.com/" target="_blank">Political Humor &amp; Satire Blog</a></td>
 <td><a href="http://www.colbertnation.com/video" target="_blank">Video Archive</a></td>
-</tr>
+</tr><br>
 </tbody>
 </table>
 </td>
-</tr>
+</tr><br>
 </tbody>
 </table>

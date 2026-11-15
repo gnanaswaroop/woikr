@@ -11,7 +11,7 @@ aliases: ["/apple/trade-in-your-old-tablet-when-you-buy-an-ipad-in-india/"]
 <p>Under the exchange program, customer will get a minimum of INR 4000 when they bring their old tablets. Additional value is given to old iPads over other tablets.</p>
 <p>Here is what you can expect from your old tablet:</p>
 <div>
-<table>
+<table><br>
 <tbody>
 <tr>
 <td><span><strong>Tablet</strong></span></td>
@@ -40,7 +40,7 @@ aliases: ["/apple/trade-in-your-old-tablet-when-you-buy-an-ipad-in-india/"]
 <tr>
 <td><span>iPad 3 3G</span></td>
 <td><span>INR 11500</span></td>
-</tr>
+</tr><br>
 </tbody>
 </table>
 </div>

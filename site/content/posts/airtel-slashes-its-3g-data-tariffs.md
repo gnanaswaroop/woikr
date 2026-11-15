@@ -7,18 +7,18 @@ tags: ["airtel 3G india", "3g india", "3G tariff india"]
 ---
 <p><img title="NewImage.jpg" src="/wp/wp-content/uploads/2011/01/NewImage62.jpg" alt="NewImage.jpg" width="105" height="38" /></p>
 <p>In an unprecedented move, Airtel has slashed it 3G data tariffs across India. The new plans look much more economical than the predecessors and Airtel is also offering its Smartbytes solution on its 3G network now. Smartbytes solution allows users to buy additional data quota if they run out of the free quota in a bill period. The new 3G plans are as follows:</p>
-<table width="100%" cellspacing="0" cellpadding="0">
+<table width="100%" cellspacing="0" cellpadding="0"><br>
 <tbody>
 <tr>
 <td width="45%">
-<table width="100%" cellspacing="0" cellpadding="0">
+<table width="100%" cellspacing="0" cellpadding="0"><br>
 <tbody>
 <tr>
 <td><strong>Prepaid</strong></td>
 </tr>
 <tr>
 <td>
-<table width="100%" cellspacing="0" cellpadding="0">
+<table width="100%" cellspacing="0" cellpadding="0"><br>
 <tbody>
 <tr>
 <td nowrap="nowrap" width="97"><strong>MRP (Rs)</strong></td>
@@ -49,24 +49,24 @@ tags: ["airtel 3G india", "3g india", "3G tariff india"]
 <td valign="top" nowrap="nowrap" width="97">1500</td>
 <td valign="top" nowrap="nowrap" width="72">10 GB</td>
 <td valign="top" nowrap="nowrap" width="101">30 Days</td>
-</tr>
+</tr><br>
 </tbody>
 </table>
 </td>
-</tr>
+</tr><br>
 </tbody>
 </table>
 </td>
 <td> </td>
 <td valign="top" width="45%">
-<table width="100%" cellspacing="0" cellpadding="0">
+<table width="100%" cellspacing="0" cellpadding="0"><br>
 <tbody>
 <tr>
 <td><strong>Postpaid</strong></td>
 </tr>
 <tr>
 <td>
-<table width="100%" cellspacing="0" cellpadding="0">
+<table width="100%" cellspacing="0" cellpadding="0"><br>
 <tbody>
 <tr>
 <td bgcolor="#ffffff" width="84"><strong>MRP (Rs)</strong></td>
@@ -92,23 +92,23 @@ tags: ["airtel 3G india", "3g india", "3G tariff india"]
 <td valign="top" bgcolor="#ffffff" width="84">1500</td>
 <td valign="top" bgcolor="#ffffff" width="96">10 GB</td>
 <td valign="top" bgcolor="#ffffff" width="96">30 Days</td>
-</tr>
+</tr><br>
 </tbody>
 </table>
 </td>
-</tr>
+</tr><br>
 </tbody>
 </table>
 </td>
-</tr>
+</tr><br>
 </tbody>
 </table>
 <p>Smartbytes plans are available to postpaid customers in the following denominations:</p>
-<table width="100%" cellspacing="0" cellpadding="0">
+<table width="100%" cellspacing="0" cellpadding="0"><br>
 <tbody>
 <tr>
 <td>
-<table cellspacing="0" cellpadding="0">
+<table cellspacing="0" cellpadding="0"><br>
 <tbody>
 <tr>
 <td valign="center" bgcolor="#999999" width="122"><strong>MRP (Rs)</strong></td>
@@ -125,11 +125,11 @@ tags: ["airtel 3G india", "3g india", "3G tariff india"]
 <tr>
 <td valign="center" width="122">300</td>
 <td valign="center" width="160">1024</td>
-</tr>
+</tr><br>
 </tbody>
 </table>
 </td>
-</tr>
+</tr><br>
 </tbody>
 </table>
 <p>A very good move by Airtel. The competition should follow suit.</p>

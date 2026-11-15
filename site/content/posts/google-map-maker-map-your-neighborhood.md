@@ -5,42 +5,42 @@ url: /google/google-map-maker-map-your-neighborhood/
 categories: ["Google"]
 tags: ["google map maker", "mapmaker", "map maker tips", "map maker how to", "map maker guide"]
 ---
-<p><a href="http://www.google.com/mapmaker" target="_blank"><img class="alignnone" src="/wp/wp-content/uploads/2008/09/mapmaker_lead.png" alt="" width="593" height="225" /></a></p>
-<p><a href="http://www.google.com/mapmaker" target="_blank">Google Map Maker</a> is a free online tool to mark places you are familiar with on Google Maps. The places you mark are moderated by someone else and once approved, they are published (on Google Map Maker, not on Google Maps). Google launched Map Maker in India a few days back. This will really help Google maps generate more usage in India. They are not so widely used here because there is nothing much available on them right now.</p>
-<p>This is pretty similar to <a href="http://www.wikimapia.org/" target="_blank">wikimapia</a>, however, with all the moderation stuff, it is expected that we will not have the buttload of <a href="http://www.wikimapia.org/6293718/nani-ka-ghar-DEVANSH-jss-academy-of-technical-education-noida" target="_blank">crap</a> that we find on wikimapia.</p>
-
-<h3>Creation</h3>
-<p>The layout is very similar to Google Maps with a few powerful tools floating over the map area. You can draw almost all kinds of map objects using these tools. Once you click on one of the 3 buttons, you are asked to select a category under which you want to create the new place. Let's create a restaurant - pizza hut.</p>
-
-<a href="/wp/wp-content/uploads/2008/09/tools.png"><img class="alignnone size-medium wp-image-992" title="Google Map Maker Tools" src="/wp/wp-content/uploads/2008/09/tools.png" alt="" width="191" height="70" /></a>
-<p><a href="http://sites.google.com/site/mapmakeruserhelp/user-guide/basics/maps_find_tool.png?attredirects=0"><img src="http://sites.google.com/site/mapmakeruserhelp/_/rsrc/1218073470863/user-guide/basics/maps_find_tool.png" alt="" /></a> Use the Find tool to locate existing features that others have added to the map. Use this tool before you add a feature.
-<a href="http://sites.google.com/site/mapmakeruserhelp/user-guide/basics/maps_browse.png?attredirects=0"><img src="http://sites.google.com/site/mapmakeruserhelp/_/rsrc/1218073470849/user-guide/basics/maps_browse.png" alt="" /></a> Use the Browse tool to view all features of a particular type that others have added to the map. Use this tool before you add a feature.
-<img src="http://www.google.com/help/hc/images/maps_Bmu.png" alt="Placemark tool" width="31" height="31" /> Use the Placemark tool to mark a location such as a business or school.
-<img src="http://www.google.com/help/hc/images/maps_Blu.png" alt="Line tool" width="31" height="31" /> Use the Line tool to mark roads, rivers, etc.
-<img src="http://www.google.com/help/hc/images/maps_Bpu.png" alt="Polygon tool" width="31" height="31" /> Use the Polygon tool to mark regions, such as a park or neighborhood. You can enter similar information as with the Placemark tool, but the Polygon tool enables you to mark an entire area.
-<p><a href="/wp/wp-content/uploads/2008/09/tools.png"></a>The overview tab on the add restaurant box lets you specify the restaurant name and address along with language details.</p>
-
-<a href="/wp/wp-content/uploads/2008/09/add-restaurant.png"><img class="alignnone size-medium wp-image-999" title="add-restaurant" src="/wp/wp-content/uploads/2008/09/add-restaurant-300x279.png" alt="" width="300" height="279" /></a>
-<p>In the attributes tab, you can specify the contact info, timings payment info and further categorize the restaurant in different categories. This will help bring up the restaurant in a neighborhood search.</p>
-
-<a href="/wp/wp-content/uploads/2008/09/add-restaurant2.png"><img class="alignnone size-medium wp-image-998" title="add-restaurant2" src="/wp/wp-content/uploads/2008/09/add-restaurant2-300x278.png" alt="" width="300" height="278" /></a>
-<p>In the description tab, you can add more details about the restaurant which might help people know if they got the right result. Also, you can add notes for the moderator if you want.</p>
-
-<a href="/wp/wp-content/uploads/2008/09/add-restaurant3.png"><img class="alignnone size-medium wp-image-997" title="add-restaurant3" src="/wp/wp-content/uploads/2008/09/add-restaurant3-300x280.png" alt="" width="300" height="280" /></a>
-<p>Click on save and you are done. Your new place is created and will probably be published in a few hours after moderation.</p>
-
-<h3>Moderation</h3>
-<p>That was creation. Once you are through with creating a few acres, you can jump up and start moderating. You can directly start moderating places. Click on "Moderate" in the left pane. Here you will find places waiting for moderation.</p>
-<p>The moderation screen lets you specify remarks in addition to content feedback and the actual moderation action.</p>
-
-<a href="/wp/wp-content/uploads/2008/09/moderate.png"><img class="alignnone size-medium wp-image-996" title="moderate" src="/wp/wp-content/uploads/2008/09/moderate-300x269.png" alt="" width="300" height="269" /></a>
-<h3>Neighborhoods</h3>
-<p>Although you can moderate places added by others which appear in your left pane, it is a good idea to create neighborhoods. Neighborhoods are a way to tell the Map Maker that you know this area pretty well and can moderate any new place created there. Your neighborhoods are not shown to anyone.</p>
-<p><a href="/wp/wp-content/uploads/2008/09/add-neighborhood.png"><img class="alignnone size-medium wp-image-1012" title="add-neighborhood" src="/wp/wp-content/uploads/2008/09/add-neighborhood-300x263.png" alt="" width="300" height="263" /></a></p>
-<p>You need to specify the reason why you know the area so well. Also, there is a weird text box where they ask you what the area means to you. Don't know why, but they say that they might show this info to your friends (?). Fill it up with whatever you seem fit.</p>
-
-<a href="/wp/wp-content/uploads/2008/09/add-neighborhood2.png"><img class="alignnone size-medium wp-image-994" title="add-neighborhood2" src="/wp/wp-content/uploads/2008/09/add-neighborhood2-300x267.png" alt="" width="300" height="267" /></a>
-<p>Finally, you can choose the frequency of the emails you will be getting in case anyone creates/edits any place in your neighborhood. Since you claim to be an expert of that area, they will come to you (and probably others who marked it as their neighborhood) for moderation.</p>
-
-<a href="/wp/wp-content/uploads/2008/09/add-neighborhood3.png"><img class="alignnone size-medium wp-image-993" title="add-neighborhood3" src="/wp/wp-content/uploads/2008/09/add-neighborhood3-300x271.png" alt="" width="300" height="271" /></a>
+<p><a href="http://www.google.com/mapmaker" target="_blank"><img class="alignnone" src="/wp/wp-content/uploads/2008/09/mapmaker_lead.png" alt="" width="593" height="225" /></a></p>
+<p><a href="http://www.google.com/mapmaker" target="_blank">Google Map Maker</a> is a free online tool to mark places you are familiar with on Google Maps. The places you mark are moderated by someone else and once approved, they are published (on Google Map Maker, not on Google Maps). Google launched Map Maker in India a few days back. This will really help Google maps generate more usage in India. They are not so widely used here because there is nothing much available on them right now.</p>
+<p>This is pretty similar to <a href="http://www.wikimapia.org/" target="_blank">wikimapia</a>, however, with all the moderation stuff, it is expected that we will not have the buttload of <a href="http://www.wikimapia.org/6293718/nani-ka-ghar-DEVANSH-jss-academy-of-technical-education-noida" target="_blank">crap</a> that we find on wikimapia.</p>
+
+<h3>Creation</h3>
+<p>The layout is very similar to Google Maps with a few powerful tools floating over the map area. You can draw almost all kinds of map objects using these tools. Once you click on one of the 3 buttons, you are asked to select a category under which you want to create the new place. Let's create a restaurant - pizza hut.</p>
+
+<a href="/wp/wp-content/uploads/2008/09/tools.png"><img class="alignnone size-medium wp-image-992" title="Google Map Maker Tools" src="/wp/wp-content/uploads/2008/09/tools.png" alt="" width="191" height="70" /></a>
+<p><a href="http://sites.google.com/site/mapmakeruserhelp/user-guide/basics/maps_find_tool.png?attredirects=0"><img src="http://sites.google.com/site/mapmakeruserhelp/_/rsrc/1218073470863/user-guide/basics/maps_find_tool.png" alt="" /></a> Use the Find tool to locate existing features that others have added to the map. Use this tool before you add a feature.<br>
+<a href="http://sites.google.com/site/mapmakeruserhelp/user-guide/basics/maps_browse.png?attredirects=0"><img src="http://sites.google.com/site/mapmakeruserhelp/_/rsrc/1218073470849/user-guide/basics/maps_browse.png" alt="" /></a> Use the Browse tool to view all features of a particular type that others have added to the map. Use this tool before you add a feature.
+<img src="http://www.google.com/help/hc/images/maps_Bmu.png" alt="Placemark tool" width="31" height="31" /> Use the Placemark tool to mark a location such as a business or school.
+<img src="http://www.google.com/help/hc/images/maps_Blu.png" alt="Line tool" width="31" height="31" /> Use the Line tool to mark roads, rivers, etc.
+<img src="http://www.google.com/help/hc/images/maps_Bpu.png" alt="Polygon tool" width="31" height="31" /> Use the Polygon tool to mark regions, such as a park or neighborhood. You can enter similar information as with the Placemark tool, but the Polygon tool enables you to mark an entire area.
+<p><a href="/wp/wp-content/uploads/2008/09/tools.png"></a>The overview tab on the add restaurant box lets you specify the restaurant name and address along with language details.</p>
+
+<a href="/wp/wp-content/uploads/2008/09/add-restaurant.png"><img class="alignnone size-medium wp-image-999" title="add-restaurant" src="/wp/wp-content/uploads/2008/09/add-restaurant-300x279.png" alt="" width="300" height="279" /></a>
+<p>In the attributes tab, you can specify the contact info, timings payment info and further categorize the restaurant in different categories. This will help bring up the restaurant in a neighborhood search.</p>
+
+<a href="/wp/wp-content/uploads/2008/09/add-restaurant2.png"><img class="alignnone size-medium wp-image-998" title="add-restaurant2" src="/wp/wp-content/uploads/2008/09/add-restaurant2-300x278.png" alt="" width="300" height="278" /></a>
+<p>In the description tab, you can add more details about the restaurant which might help people know if they got the right result. Also, you can add notes for the moderator if you want.</p>
+
+<a href="/wp/wp-content/uploads/2008/09/add-restaurant3.png"><img class="alignnone size-medium wp-image-997" title="add-restaurant3" src="/wp/wp-content/uploads/2008/09/add-restaurant3-300x280.png" alt="" width="300" height="280" /></a>
+<p>Click on save and you are done. Your new place is created and will probably be published in a few hours after moderation.</p>
+
+<h3>Moderation</h3>
+<p>That was creation. Once you are through with creating a few acres, you can jump up and start moderating. You can directly start moderating places. Click on "Moderate" in the left pane. Here you will find places waiting for moderation.</p>
+<p>The moderation screen lets you specify remarks in addition to content feedback and the actual moderation action.</p>
+
+<a href="/wp/wp-content/uploads/2008/09/moderate.png"><img class="alignnone size-medium wp-image-996" title="moderate" src="/wp/wp-content/uploads/2008/09/moderate-300x269.png" alt="" width="300" height="269" /></a>
+<h3>Neighborhoods</h3>
+<p>Although you can moderate places added by others which appear in your left pane, it is a good idea to create neighborhoods. Neighborhoods are a way to tell the Map Maker that you know this area pretty well and can moderate any new place created there. Your neighborhoods are not shown to anyone.</p>
+<p><a href="/wp/wp-content/uploads/2008/09/add-neighborhood.png"><img class="alignnone size-medium wp-image-1012" title="add-neighborhood" src="/wp/wp-content/uploads/2008/09/add-neighborhood-300x263.png" alt="" width="300" height="263" /></a></p>
+<p>You need to specify the reason why you know the area so well. Also, there is a weird text box where they ask you what the area means to you. Don't know why, but they say that they might show this info to your friends (?). Fill it up with whatever you seem fit.</p>
+
+<a href="/wp/wp-content/uploads/2008/09/add-neighborhood2.png"><img class="alignnone size-medium wp-image-994" title="add-neighborhood2" src="/wp/wp-content/uploads/2008/09/add-neighborhood2-300x267.png" alt="" width="300" height="267" /></a>
+<p>Finally, you can choose the frequency of the emails you will be getting in case anyone creates/edits any place in your neighborhood. Since you claim to be an expert of that area, they will come to you (and probably others who marked it as their neighborhood) for moderation.</p>
+
+<a href="/wp/wp-content/uploads/2008/09/add-neighborhood3.png"><img class="alignnone size-medium wp-image-993" title="add-neighborhood3" src="/wp/wp-content/uploads/2008/09/add-neighborhood3-300x271.png" alt="" width="300" height="271" /></a>
 <p>All in all, its a great time pass and you are indirectly doing community service as well. I find it very addictive. I just love the concept of my marked places becoming visible to everyone within a short span of time. It would be great if Google starts publishing these places on Google maps as well. Till then, happy map making !</p>

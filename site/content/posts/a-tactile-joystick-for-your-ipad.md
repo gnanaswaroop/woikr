@@ -13,11 +13,11 @@ tags: ["fling", "iPad", "ipad joystick", "fling joystick", "ipad gaming", "tacti
 <p>Fling will (ideally) work with all games that have an onscreen joystick. However, the three games that have been certified by the Ten One Design are <a href="http://itunes.apple.com/us/app/meteor-blitz/id328194605?mt=8">Meteor Blitz</a>, <a href="http://itunes.apple.com/us/app/across-age/id351652012?mt=8">Across Age</a>, <a href="http://itunes.apple.com/us/app/super-mega-worm/id388541990?mt=8">Super Megaworm</a>. You can also use two flings on both sides of your iPad. They are available in packs of pair at a discounted price.</p>
 <p>Also, to top things off, it comes with a micro fiber carrying case which can double up as a cleaning cloth for your iPad's screen. Neat.</p>
 <p>Here is a small video of it in action:</p>
-<p>
-<object width="560" height="340">
-<param name="movie" value="http://www.youtube.com/v/1zNbYpscv-8?fs=1&amp;hl=en_US" />
-<param name="allowFullScreen" value="true" />
-<param name="allowscriptaccess" value="always" /><embed type="application/x-shockwave-flash" width="560" height="340" src="http://www.youtube.com/v/1zNbYpscv-8?fs=1&amp;hl=en_US" allowscriptaccess="always" allowfullscreen="true"></embed>
+<p><br>
+<object width="560" height="340"><br>
+<param name="movie" value="http://www.youtube.com/v/1zNbYpscv-8?fs=1&amp;hl=en_US" /><br>
+<param name="allowFullScreen" value="true" /><br>
+<param name="allowscriptaccess" value="always" /><embed type="application/x-shockwave-flash" width="560" height="340" src="http://www.youtube.com/v/1zNbYpscv-8?fs=1&amp;hl=en_US" allowscriptaccess="always" allowfullscreen="true"></embed><br>
 </object>
 </p>
 <p>And here are some more images:</p>

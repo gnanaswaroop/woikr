@@ -10,5 +10,5 @@ tags: ["england wales court twitter", "twitter"]
 <p>Recording audio or video during a court hearing is illegal in the UK unlike US where live television broadcast of court hearings are shown</p>
 <p>[via <a href="http://thenextweb.com/uk/2010/12/20/tweeting-from-court-now-allowed-in-england-and-wales/" target="_blank">TheNextWeb</a>]</p>
 
-<div><span>
+<div><span><br>
 </span></div>

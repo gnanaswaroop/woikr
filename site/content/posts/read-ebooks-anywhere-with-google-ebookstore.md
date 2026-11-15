@@ -12,11 +12,11 @@ tags: ["Google", "google ebooks", "ebooks", "online books"]
 <p>Here is how a typical book looks in the web based reader:</p>
 <p><img title="NewImage.jpg" src="/wp/wp-content/uploads/2011/01/NewImage2.jpg" alt="NewImage.jpg" width="500" height="248" /></p>
 <p>And here is a short video demonstrating the service:</p>
-<p>
-<object width="560" height="340">
-<param name="movie" value="http://www.youtube.com/v/ZKEaypYJbb4?fs=1&amp;hl=en_US" />
-<param name="allowFullScreen" value="true" />
-<param name="allowscriptaccess" value="always" /><embed type="application/x-shockwave-flash" width="560" height="340" src="http://www.youtube.com/v/ZKEaypYJbb4?fs=1&amp;hl=en_US" allowscriptaccess="always" allowfullscreen="true"></embed>
+<p><br>
+<object width="560" height="340"><br>
+<param name="movie" value="http://www.youtube.com/v/ZKEaypYJbb4?fs=1&amp;hl=en_US" /><br>
+<param name="allowFullScreen" value="true" /><br>
+<param name="allowscriptaccess" value="always" /><embed type="application/x-shockwave-flash" width="560" height="340" src="http://www.youtube.com/v/ZKEaypYJbb4?fs=1&amp;hl=en_US" allowscriptaccess="always" allowfullscreen="true"></embed><br>
 </object>
 </p>
 <p>[via <a href="http://googlesystem.blogspot.com/2010/12/google-ebooks.html">Google Operating System</a>]</p>

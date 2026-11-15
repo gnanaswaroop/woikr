@@ -37,7 +37,7 @@ tags: ["latest iOS", "wwdc 2012", "iPhone OS", "iOS 6", "iPad OS"]
 <h3><a href="http://www.apple.com/ios/ios6/#accessibility">Accessibility</a>:</h3>
 <p>iOS 6 will have improved features for people with disabilities. These include guided access, disabling hardware buttons (which can be very handy with kids), restricting touch input to certain areas of the screen, VoiceOver integration with maps, AssistiveTouch and Zoom. </p>
 <p>iOS 6 will ship this fall and will be compatible with iPhone 3GS and above and iPad 2 and above. Here is a handy chart illustrating which features will not be available on old(er) devices:</p>
-<table width="100%">
+<table width="100%"><br>
 <tbody>
 <tr>
 <td> </td>
@@ -176,7 +176,7 @@ tags: ["latest iOS", "wwdc 2012", "iPhone OS", "iOS 6", "iPad OS"]
 <td>
 <p>Yes</p>
 </td>
-</tr>
+</tr><br>
 </tbody>
 </table>
 <p>[Chart via <a href="http://www.labnol.org/software/ios-6-with-siri/21398/">Digital Inspiration</a>]</p>

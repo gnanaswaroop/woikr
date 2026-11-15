@@ -15,7 +15,7 @@ On the other hand it also lacks some features, a few to say are, to be able to
 <ol>
 <li>Run the app even when the screen's locked.</li>
 <li>Switch off the screen when the headphones are being used.</li>
-<li>Continue call when there is an iPhone alert (like SMS, Cal Alert etc) instead of going on hold/disconnecting.
+<li>Continue call when there is an iPhone alert (like SMS, Cal Alert etc) instead of going on hold/disconnecting.<br>
 and a few more which we'll try (*rant*) and cover as a separate post.</li>
 </ol>
 

@@ -14,13 +14,13 @@ tags: ["MicroUSB charger", "MicroUSB standard", "Mobile Phone Standard Charger",
 
 <blockquote>Incompatibility of chargers for mobile phones is a major inconvenience for users and leads to unnecessary waste of resources.
 
-Following a request from the European Commission, major producers* of mobile phones have agreed in a Memorandum of Understanding, which was submitted to the Commission, to harmonize chargers for data-enabled mobile phones sold in the EU.
+Following a request from the European Commission, major producers* of mobile phones have agreed in a Memorandum of Understanding, which was submitted to the Commission, to harmonize chargers for data-enabled mobile phones sold in the EU.<br>
 The industry commits to provide chargers compatibility on the basis of the Micro-USB connector.
 
-The implementation of the agreement involves the development or the modification of European Standards, which shall ensure compatibility and safe functioning of the new Common EPS's (External Power Supplies) with the different mobile terminals.
+The implementation of the agreement involves the development or the modification of European Standards, which shall ensure compatibility and safe functioning of the new Common EPS's (External Power Supplies) with the different mobile terminals.<br>
 To this aim, the Commission addressed Standardisation Mandate M/455 to the European Standards Organizations, who have accepted it and have identified relevant working items in order to respond to it.
 
-The first generation of new inter-chargeable mobile phones should reach the EU market from 2010 onwards.
+The first generation of new inter-chargeable mobile phones should reach the EU market from 2010 onwards.<br>
 The MoU foresees a future update in order to take into account innovation in technology and its possible uses.
 <p>*The following 14 companies have signed the MoU: Apple, Emblaze Mobile, Huawei Technologies, LGE, Motorola, NEC, Nokia, Qualcomm, Research in Motion (RIM), Samsung, SonyEricsson, TCT Mobile (ALCATEL mobile phones), Texas Instruments and Atmel.</p>
 </blockquote>

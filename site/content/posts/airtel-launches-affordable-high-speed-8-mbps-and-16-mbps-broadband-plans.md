@@ -7,7 +7,7 @@ tags: ["airtel broadband", "airtel india", "broadband", "broadband connection wi
 ---
 <p><img title="" src="/wp/wp-content/uploads/2011/01/NewImage62.jpg" alt="" width="" height="" /></p>
 <p>After <a href="/telecom/airtel-slashes-its-3g-data-tariffs/">reducing 3G tariffs</a>, Airtel has launched new affordable high speed 8Mbps and 16Mbps plans in areas where such plans are available (owing to some network infrastructure requirement, these plans are not available in all localities in all cities - call airtel's customer care to find out if they are available in your area). The new plans are as follows:</p>
-<table width="100%" cellspacing="0" cellpadding="0">
+<table width="100%" cellspacing="0" cellpadding="0"><br>
 <tbody>
 <tr>
 <td><strong>Plan Type</strong></td>
@@ -48,11 +48,11 @@ tags: ["airtel broadband", "airtel india", "broadband", "broadband connection wi
 <td valign="top" nowrap="nowrap" width="97">FLBPL990472</td>
 <td valign="top" nowrap="nowrap" width="72">FLBL990473</td>
 <td valign="top" nowrap="nowrap" width="101">FLBL990465</td>
-</tr>
+</tr><br>
 </tbody>
 </table>
 <p> </p>
-<table width="100%" cellspacing="0" cellpadding="0">
+<table width="100%" cellspacing="0" cellpadding="0"><br>
 <tbody>
 <tr>
 <td><strong>Plan Type</strong></td>
@@ -93,7 +93,7 @@ tags: ["airtel broadband", "airtel india", "broadband", "broadband connection wi
 <td valign="top" nowrap="nowrap" width="97">FLBPL990480</td>
 <td valign="top" nowrap="nowrap" width="72">FLBL990481</td>
 <td valign="top" nowrap="nowrap" width="101">FLBL990482</td>
-</tr>
+</tr><br>
 </tbody>
 </table>
 <p>Pretty neat pricing in my opinion. This will certainly give a stiff competition to BSNL and many other private players. These new plans are not yet available on Airtel's website. So please check with one of their sales representatives.</p>
