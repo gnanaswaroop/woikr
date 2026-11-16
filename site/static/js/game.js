@@ -9,6 +9,7 @@
   var dpr = window.devicePixelRatio || 1;
   canvas.width = W * dpr; canvas.height = H * dpr;
   ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+  ctx.imageSmoothingEnabled = false;
 
   var ink = '#1d1d1f', bg = '#fbfaf7', accent = '#8a4b1f';
   function readColors() {
@@ -22,11 +23,63 @@
     window.matchMedia('(prefers-color-scheme: dark)').addEventListener?.('change', readColors);
   }
 
+  // Pixel-art runner. Each string is a row; each character is one "pixel".
+  // . = empty, h = hair, s = skin, e = eye, b = shirt, p = trousers, k = shoes
+  var PIXEL = 3;
+  var PALETTE = { h: '#3b2a1e', s: '#e8b48c', e: '#1d1d1f', b: null, p: '#33415c', k: '#1d1d1f' };
+  var POSE_STAND = [
+    '...hhhh...',
+    '..hhhhhh..',
+    '..hssssh..',
+    '..sesses..',
+    '...ssss...',
+    '..bbbbbb..',
+    '.sbbbbbbs.',
+    '.sbbbbbbs.',
+    '..bbbbbb..',
+    '...pppp...',
+    '...pp.pp..',
+    '...pp.pp..',
+    '..kkk.kkk.'
+  ];
+  var POSE_RUN_B = [
+    '...hhhh...',
+    '..hhhhhh..',
+    '..hssssh..',
+    '..sesses..',
+    '...ssss...',
+    '..bbbbbb..',
+    '.sbbbbbbs.',
+    '.sbbbbbbs.',
+    '..bbbbbb..',
+    '...pppp...',
+    '...pp..pp.',
+    '..pp...pp.',
+    '.kkk...kk.'
+  ];
+  var POSE_JUMP = [
+    '...hhhh...',
+    '..hhhhhh..',
+    '..hssssh..',
+    '..sesses..',
+    '...ssss...',
+    '.sbbbbbbs.',
+    '..bbbbbb..',
+    '..bbbbbb..',
+    '...bbbb...',
+    '...pppp...',
+    '...pppp...',
+    '...pppp...',
+    '...k..k...'
+  ];
+  var SPRITE_W = 10 * PIXEL, SPRITE_H = 13 * PIXEL;
+
   var player, obstacles, speed, score, best = 0, running = false, over = false, frame = 0, nextObstacle = 0;
+  var visible = false; // true while the game is on screen
   try { best = parseInt(localStorage.getItem('woikr-runner-best'), 10) || 0; } catch (e) {}
 
   function reset() {
-    player = { y: GROUND, vy: 0, h: 28, w: 22 };
+    player = { y: GROUND, vy: 0, h: SPRITE_H, w: SPRITE_W - 6 };
     obstacles = [];
     speed = 5; score = 0; frame = 0; nextObstacle = 60;
     over = false; running = true;
@@ -70,8 +123,19 @@
       best = score;
       try { localStorage.setItem('woikr-runner-best', String(best)); } catch (e) {}
     }
-    hint.textContent = 'Game over. Tap or press Space to play again.';
+    hint.textContent = 'Game over. Press Space or tap to play again.';
     draw();
+  }
+
+  function drawSprite(rows, x, y) {
+    for (var r = 0; r < rows.length; r++) {
+      for (var c = 0; c < rows[r].length; c++) {
+        var ch = rows[r].charAt(c);
+        if (ch === '.') continue;
+        ctx.fillStyle = ch === 'b' ? accent : PALETTE[ch];
+        ctx.fillRect(x + c * PIXEL, y + r * PIXEL, PIXEL, PIXEL);
+      }
+    }
   }
 
   function draw() {
@@ -80,9 +144,12 @@
     ctx.strokeStyle = ink; ctx.globalAlpha = 0.35; ctx.lineWidth = 1;
     ctx.beginPath(); ctx.moveTo(0, GROUND + 1); ctx.lineTo(W, GROUND + 1); ctx.stroke();
     ctx.globalAlpha = 1;
-    // player: a little box with a head
-    ctx.fillStyle = accent;
-    ctx.fillRect(60, player.y - player.h, player.w, player.h);
+
+    // runner: jump pose in the air, otherwise alternate legs while running
+    var pose = POSE_JUMP;
+    if (player.y >= GROUND) pose = (Math.floor(frame / 6) % 2 === 0) ? POSE_STAND : POSE_RUN_B;
+    drawSprite(pose, 60, player.y - SPRITE_H);
+
     ctx.fillStyle = ink;
     obstacles.forEach(function (o) {
       ctx.fillRect(o.x, GROUND + 1 - o.h, o.w, o.h);
@@ -95,20 +162,27 @@
     if (running) { draw(); requestAnimationFrame(loop); }
   }
 
-  function onKey(e) {
+  // Space/Up jump whenever the game is on screen, so restart works without clicking first.
+  document.addEventListener('keydown', function (e) {
+    if (!visible) return;
     if (e.code === 'Space' || e.code === 'ArrowUp') {
       e.preventDefault();
-      jump();
+      if (!e.repeat) jump();
     }
-  }
-  canvas.addEventListener('pointerdown', function (e) { e.preventDefault(); jump(); });
-  document.addEventListener('keydown', function (e) {
-    if (document.activeElement && document.activeElement.closest &&
-        document.activeElement.closest('.game')) onKey(e);
   });
+  canvas.addEventListener('pointerdown', function (e) { e.preventDefault(); jump(); });
+
+  if ('IntersectionObserver' in window) {
+    new IntersectionObserver(function (entries) {
+      visible = entries[0].isIntersecting;
+    }).observe(canvas);
+  } else {
+    visible = true;
+  }
 
   // Initial screen
-  player = { y: GROUND, vy: 0, h: 28, w: 22 };
+  reset();
+  running = false; over = false;
   obstacles = []; score = 0;
   scoreEl.textContent = 'Best ' + best;
   draw();
