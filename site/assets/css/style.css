@@ -9,6 +9,8 @@ img { max-width:100%; height:auto; }
 .site-header { border-bottom:1px solid var(--line); padding:14px 0; }
 .site-header .wrap { display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:12px; }
 .logo img { display:block; height:auto; width:214px; }
+.brand { display:flex; flex-direction:column; gap:4px; }
+.tagline { margin:0; font-size:.95rem; color:#d9d3c9; letter-spacing:.02em; }
 nav { display:flex; gap:8px; }
 nav a { padding:6px 12px; border-radius:6px; text-decoration:none; font-weight:600; }
 main.wrap { padding-top:24px; padding-bottom:48px; }
@@ -30,6 +32,13 @@ ol { padding-left:0; }
 .site-header nav a { color:#f3efe8; }
 .site-header nav a:hover { color:#e8a36b; background:rgba(255,255,255,.08); }
 .site-header nav a[aria-current="page"] { background:rgba(255,255,255,.22); }
+
+/* Mini game (404 page and feedback page) */
+.game { margin:24px 0; border:1px solid var(--line); border-radius:10px; padding:12px; max-width:100%; }
+.game-bar { display:flex; justify-content:flex-end; font-size:.9rem; color:var(--muted); margin-bottom:6px; }
+#game-canvas { display:block; width:100%; height:auto; aspect-ratio:600/180; touch-action:none; cursor:pointer; outline:none; border-radius:6px; }
+#game-canvas:focus-visible { box-shadow:0 0 0 2px var(--accent); }
+.game .note { margin:8px 0 0; }
 
 /* Home page cards */
 .intro { color:var(--muted); margin:0 0 24px; }

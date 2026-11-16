@@ -1,0 +1,118 @@
+// Tiny endless-runner game. Tap, click or press Space/Up to jump.
+(function () {
+  var canvas = document.getElementById('game-canvas');
+  if (!canvas) return;
+  var ctx = canvas.getContext('2d');
+  var hint = document.getElementById('game-hint');
+  var scoreEl = document.getElementById('game-score');
+  var W = 600, H = 180, GROUND = 150;
+  var dpr = window.devicePixelRatio || 1;
+  canvas.width = W * dpr; canvas.height = H * dpr;
+  ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+
+  var ink = '#1d1d1f', bg = '#fbfaf7', accent = '#8a4b1f';
+  function readColors() {
+    var s = getComputedStyle(document.documentElement);
+    ink = s.getPropertyValue('--ink').trim() || ink;
+    bg = s.getPropertyValue('--bg').trim() || bg;
+    accent = s.getPropertyValue('--accent').trim() || accent;
+  }
+  readColors();
+  if (window.matchMedia) {
+    window.matchMedia('(prefers-color-scheme: dark)').addEventListener?.('change', readColors);
+  }
+
+  var player, obstacles, speed, score, best = 0, running = false, over = false, frame = 0, nextObstacle = 0;
+  try { best = parseInt(localStorage.getItem('woikr-runner-best'), 10) || 0; } catch (e) {}
+
+  function reset() {
+    player = { y: GROUND, vy: 0, h: 28, w: 22 };
+    obstacles = [];
+    speed = 5; score = 0; frame = 0; nextObstacle = 60;
+    over = false; running = true;
+    hint.textContent = '';
+  }
+
+  function jump() {
+    if (!running) { reset(); loop(); return; }
+    if (over) { reset(); loop(); return; }
+    if (player.y >= GROUND) player.vy = -12;
+  }
+
+  function step() {
+    frame++;
+    player.vy += 0.7;
+    player.y += player.vy;
+    if (player.y > GROUND) { player.y = GROUND; player.vy = 0; }
+    if (frame >= nextObstacle) {
+      var h = 18 + Math.random() * 22;
+      obstacles.push({ x: W + 10, w: 14 + Math.random() * 10, h: h });
+      nextObstacle = frame + 50 + Math.random() * 60;
+    }
+    var px = 60; // player's fixed x position
+    for (var i = obstacles.length - 1; i >= 0; i--) {
+      var o = obstacles[i];
+      o.x -= speed;
+      if (o.x + o.w < 0) { obstacles.splice(i, 1); continue; }
+      // player's feet are at player.y; obstacle top is GROUND + 1 - o.h
+      var overlapX = px + player.w > o.x + 3 && px < o.x + o.w - 3;
+      var overlapY = player.y > GROUND + 1 - o.h + 3;
+      if (overlapX && overlapY) { gameOver(); return; }
+    }
+    if (frame % 6 === 0) score++;
+    if (frame % 300 === 0) speed = Math.min(speed + 0.5, 12);
+    scoreEl.textContent = 'Score ' + score + '  ·  Best ' + Math.max(best, score);
+  }
+
+  function gameOver() {
+    running = false; over = true;
+    if (score > best) {
+      best = score;
+      try { localStorage.setItem('woikr-runner-best', String(best)); } catch (e) {}
+    }
+    hint.textContent = 'Game over. Tap or press Space to play again.';
+    draw();
+  }
+
+  function draw() {
+    ctx.fillStyle = bg;
+    ctx.fillRect(0, 0, W, H);
+    ctx.strokeStyle = ink; ctx.globalAlpha = 0.35; ctx.lineWidth = 1;
+    ctx.beginPath(); ctx.moveTo(0, GROUND + 1); ctx.lineTo(W, GROUND + 1); ctx.stroke();
+    ctx.globalAlpha = 1;
+    // player: a little box with a head
+    ctx.fillStyle = accent;
+    ctx.fillRect(60, player.y - player.h, player.w, player.h);
+    ctx.fillStyle = ink;
+    obstacles.forEach(function (o) {
+      ctx.fillRect(o.x, GROUND + 1 - o.h, o.w, o.h);
+    });
+  }
+
+  function loop() {
+    if (!running) { draw(); return; }
+    step();
+    if (running) { draw(); requestAnimationFrame(loop); }
+  }
+
+  function onKey(e) {
+    if (e.code === 'Space' || e.code === 'ArrowUp') {
+      e.preventDefault();
+      jump();
+    }
+  }
+  canvas.addEventListener('pointerdown', function (e) { e.preventDefault(); jump(); });
+  document.addEventListener('keydown', function (e) {
+    if (document.activeElement && document.activeElement.closest &&
+        document.activeElement.closest('.game')) onKey(e);
+  });
+
+  // Initial screen
+  player = { y: GROUND, vy: 0, h: 28, w: 22 };
+  obstacles = []; score = 0;
+  scoreEl.textContent = 'Best ' + best;
+  draw();
+  canvas.setAttribute('tabindex', '0');
+  canvas.setAttribute('role', 'img');
+  canvas.setAttribute('aria-label', 'Endless runner game. Press space or tap to jump.');
+})();

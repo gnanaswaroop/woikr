@@ -19,7 +19,7 @@ enableRobotsTXT = true
   author = "authors"
 
 [params]
-  description = "Gadgets, reviews, tricks and more. An archive of woikr.com."
+  description = "Gadgets, reviews, tricks and more. Welcome to woikr.com."
   tagline = "Gadgets, Reviews, Tricks and More"
   logo = "/images/woikr-logo.png"
 

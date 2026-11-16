@@ -11,7 +11,10 @@
 <body>
   <header class="site-header">
     <div class="wrap">
-      <a class="logo" href="{{ "/" | relURL }}"><img src="{{ site.Params.logo | relURL }}" alt="woikr" width="214" height="57"></a>
+      <div class="brand">
+        <a class="logo" href="{{ "/" | relURL }}"><img src="{{ site.Params.logo | relURL }}" alt="woikr" width="214" height="57"></a>
+        <p class="tagline">{{ site.Params.tagline }}</p>
+      </div>
       <nav>
         {{ range site.Menus.main }}<a href="{{ .URL | relURL }}"{{ if $.IsMenuCurrent "main" . }} aria-current="page"{{ end }}>{{ .Name }}</a>{{ end }}
       </nav>

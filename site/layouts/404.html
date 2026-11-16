@@ -1,0 +1,8 @@
+{{ define "main" }}
+<article class="page not-found">
+  <h1>Page not found</h1>
+  <p>That page doesn't exist, but you can still play a quick game while you're here.</p>
+  {{ partial "game.html" . }}
+  <p><a href="{{ "/" | relURL }}">Back to the home page</a></p>
+</article>
+{{ end }}
