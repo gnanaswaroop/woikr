@@ -26,7 +26,11 @@
   <footer class="site-footer">
     <div class="wrap">
       <p>&copy; {{ now.Year }} woikr. Content on this site is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/" rel="license">Creative Commons Attribution 4.0 International License</a> (CC BY 4.0). You may share and adapt it, including commercially, provided you give appropriate credit: name woikr, link to woikr.com and to the license, and indicate if changes were made.</p>
+      {{- with site.Params.gaMeasurementId }}
+      <p class="analytics-settings"><a href="#" id="analytics-settings">Analytics settings</a></p>
+      {{- end }}
     </div>
   </footer>
+  {{ partial "analytics.html" . }}
 </body>
 </html>
