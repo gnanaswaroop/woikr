@@ -35,6 +35,10 @@ jobs:
           python tools/optimize_images.py
       - name: Build
         working-directory: site
+        # GA4 ID comes from the repo variable GA_MEASUREMENT_ID (Settings > Secrets and variables > Actions > Variables).
+        # Unset/empty = analytics disabled.
+        env:
+          HUGO_PARAMS_GAMEASUREMENTID: ${{ vars.GA_MEASUREMENT_ID }}
         run: hugo --minify --destination ../_site
       - name: Performance budget check
         run: python tools/check_budgets.py _site

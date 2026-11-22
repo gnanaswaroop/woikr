@@ -22,6 +22,8 @@ enableRobotsTXT = true
   description = "Gadgets, reviews, tricks and more. Welcome to woikr.com."
   tagline = "Gadgets, Reviews, Tricks and More"
   logo = "/images/woikr-logo.png"
+  # Google Analytics 4 measurement ID (e.g. "G-XXXXXXXXXX"). Leave empty to disable analytics entirely.
+  gaMeasurementId = ""
 
 [[menus.main]]
   name = "Home"
