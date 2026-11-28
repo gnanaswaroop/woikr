@@ -1,7 +1,4 @@
 {{ define "main" }}
-<section class="intro">
-  <p>{{ site.Params.description }}</p>
-</section>
 <section class="cards" id="cards">
   {{ $posts := where site.RegularPages "Section" "posts" }}
   {{ range (.Paginate ($posts.ByDate.Reverse)).Pages }}
